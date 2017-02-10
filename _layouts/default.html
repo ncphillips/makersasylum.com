@@ -20,9 +20,13 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-    <div class="wrap">
-      {% include header.html %}
-      {{ content }}
+    {% include header.html %}
+    <div class="wrap container" role="document">
+      <div class="content row">
+        <main class="main" role="main">
+          {{ content }}
+        </main>
+      </div>
     </div>
     {% include footer.html %}
     <script src="/assets/js/all.js"></script>
