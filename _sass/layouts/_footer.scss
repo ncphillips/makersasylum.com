@@ -1,0 +1,21 @@
+footer .container {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  border-top: 1px solid #231f20;
+}
+footer section {
+  width: 25%;
+  float: right;
+}
+@media (max-width: 768px) {
+  footer section {
+    width: auto;
+    float: right;
+  }
+}
+footer section.widget_wpcom_social_media_icons_widget ul {
+  float: right;
+}
+.widget_wpcom_social_media_icons_widget .genericon {
+  font-size: 28px;
+}

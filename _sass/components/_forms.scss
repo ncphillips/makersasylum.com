@@ -1,0 +1,37 @@
+.newsletter {
+  background-color: #fcbf15;
+  padding: 1rem 0;
+}
+.newsletter .message {
+  padding-left: 15px;
+}
+.newsletter h3 {
+  display: inline-block;
+  font-size: 1.8rem;
+  padding: 3.95px 0;
+  font-weight: 700;
+  margin: 0;
+  font-family: $base-font-stack;
+}
+.newsletter form {
+  float: right;
+}
+.newsletter h3,
+.newsletter form .form-group * {
+  font-size: 1.8rem;
+  margin: 2px 0;
+}
+.newsletter form * {
+  margin-right: 2px;
+}
+.newsletter form input {
+  border-style: none;
+}
+.newsletter form button[type="submit"] {
+  font-size: 1.8rem;
+  padding: 3px 10px;
+  border-color: $brand-primary;
+}
+.newsletter form button[type="submit"]:hover {
+  background-color: white;
+}

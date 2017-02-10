@@ -1,6 +1,6 @@
 ---
 title: Maker's Asylum
-timezone: UTC
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -21,3 +21,14 @@ defaults:
   values:
     layout: page
 permalink: pretty
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+exclude:
+- gulpfile.js
+- Gemfile
+- Gemfile.lock
+- package.json
+- README*
+- node_modules
+- ".gitignore"
