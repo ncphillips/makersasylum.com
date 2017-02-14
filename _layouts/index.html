@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="featured-content row">
+<div class="featured-content">
   {% for post in page.featured %}
   <a href="{{ post.link }}" rel="bookmark">
     <article style="background-image: url('{{ post.image }}')">
@@ -18,26 +18,28 @@ layout: default
       <h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
     </div>
 </div>
-<div class="newsletter row">
+<div class="newsletter">
+    <div class="row">
+      <div class="col-sm-3">
+        <h3>Join our Mailing List</h3>
+      </div>
+      <div class="col-sm-9">
+        <form method="post" class="form-inline" id="subscribe">
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" name="email" id="email" value="">
+          </div>
+          <div class="form-group">
+            <input type="radio" name="space" value="608d805f56" id="mumbai" checked="checked">
+            <label for="mumbai">Mumbai Space</label>
+          </div>
+          <div class="form-group">
+            <input type="radio" name="space" value="c50ebe6820" id="delhi">
+            <label for="delhi">Delhi Space</label>
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div>
+    </div>
     <div class="message"></div>
-    <div class="col-sm-3">
-      <h3>Join our Mailing List</h3>
-    </div>
-    <div class="col-sm-9">
-      <form method="post" class="form-inline" id="subscribe">
-        <div class="form-group">
-          <label for="email">Email Address</label>
-          <input type="email" name="email" id="email" value="">
-        </div>
-        <div class="form-group">
-          <input type="radio" name="space" value="608d805f56" id="mumbai" checked="checked">
-          <label for="mumbai">Mumbai Space</label>
-        </div>
-        <div class="form-group">
-          <input type="radio" name="space" value="c50ebe6820" id="delhi">
-          <label for="delhi">Delhi Space</label>
-        </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-      </form>
-    </div>
 </div>
