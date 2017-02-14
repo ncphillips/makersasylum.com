@@ -7,9 +7,7 @@ benefits slider:
     You decide how your workspace looks and feels.
 
     We’ll provide you with the tools & community to help you make it happen!
-  image:
-    alternative text: 
-    image: 
+  image: 
 layout: membership
 ---
 
