@@ -22,3 +22,6 @@ defaults:
     layout: page
 permalink: pretty
 logo: "/uploads/logo.svg"
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
