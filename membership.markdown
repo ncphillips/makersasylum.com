@@ -51,6 +51,16 @@ tools access:
     extra time price: INR 100/hr
     image: 
     powered by: Imaginarium
+  - name: ELECTRONICS LAB
+    free hours: Unlimited Access
+    extra time price: 
+    image: 
+    powered by: 
+  - name: WOODWORKING LAB
+    free hours: Unlimited Access
+    extra time price: 
+    image: 
+    powered by: Bosch & Dremel
 layout: membership
 ---
 
