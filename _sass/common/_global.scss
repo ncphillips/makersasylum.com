@@ -17,3 +17,13 @@ body * {
 h1, h2, h3, h4, h5, nav * {
   font-family: $heading-font-stack;
 }
+
+// Helper Classes
+.background-yellow {
+  background-color: $brand-primary;
+}
+
+.section {
+  padding-top: 6.4rem;
+  padding-bottom: 6.4rem;
+}

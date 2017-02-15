@@ -1,14 +1,9 @@
 // Pages
-.page .main h1,
-.blog .main h1,
-.single .main h1,
-.contact .main h2 {
+.page-header h2 {
   border-bottom: 1px solid $brand-primary;
   padding-bottom: 5px;
 }
-.home .main h1,
-.page .main .page-header,
-.blog .main .page-header {
+.page-header {
   border-bottom: none;
 }
 .page-header {
