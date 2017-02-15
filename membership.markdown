@@ -25,7 +25,7 @@ membership types:
   price: '13,800'
   instamojo: 
   image: 
-  is available: 
+  is available: true
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
@@ -34,7 +34,7 @@ membership types:
   price: '40,250'
   instamojo: 
   image: 
-  is available: 
+  is available: true
 layout: membership
 ---
 
