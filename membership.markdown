@@ -36,6 +36,7 @@ membership types:
   image: 
   is available: true
 tools access:
+  title: Member Access to Tools
   description: |-
     Tool Training: while membership gives you access to the space – safety is our primary concern – all members MUST be trained and tested on all power tools, machines and certain electronic equipment by a makerspace instructor before you can use them.
 
