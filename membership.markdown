@@ -17,6 +17,7 @@ membership types:
   price: '5,000'
   instamojo: 
   image: 
+  is available: true
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
@@ -24,6 +25,16 @@ membership types:
   price: '13,800'
   instamojo: 
   image: 
+  is available: 
+- name: PRIVATE
+  description: Ideal for large teams working on hardware, software, social innovation
+    or architecture.
+  benefits: 24-hr access, high-speed wifi, tea/coffee, AC room, privacy & storage
+    + regular benefits.
+  price: '40,250'
+  instamojo: 
+  image: 
+  is available: 
 layout: membership
 ---
 
