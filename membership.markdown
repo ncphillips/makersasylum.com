@@ -45,22 +45,22 @@ tools access:
   - name: LASER CUTTER
     free hours: 2 hours/week
     extra time price: INR 15/min
-    image: 
+    image: "/uploads/icon-02.png"
     powered by: 
   - name: 3D PRINTER
     free hours: 6 hours/month
     extra time price: INR 100/hr
-    image: 
+    image: "/uploads/icon-05.png"
     powered by: Imaginarium
   - name: ELECTRONICS LAB
     free hours: Unlimited Access
     extra time price: 
-    image: 
+    image: "/uploads/icon-04.png"
     powered by: 
   - name: WOODWORKING LAB
     free hours: Unlimited Access
     extra time price: 
-    image: 
+    image: "/uploads/icon-03.png"
     powered by: Bosch & Dremel
 layout: membership
 ---
