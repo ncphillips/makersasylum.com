@@ -56,16 +56,18 @@ layout: default
 
 <hr>
 
-<div class="section">
+<div class="section" id="membership-tools">
   <h3>{{ page['tools access'].title }}</h3>
   <div class="row">
     {% for tool in page['tools access'].tools %}
-    <div class="col-md-3">
-      <img src="{{ tool.image }}" alt="{{ tool.name }}">
+    <div class="col-md-3 text-center">
+      <div class="tool-image center-block">
+        <img src="{{ tool.image }}" class="img-responsive" alt="{{ tool.name }}">
+      </div>
       <h4>{{ tool.name }}</h4>
       <p>{{ tool['free hours'] }}</p>
       <p>{{ tool['extra time price'] }}</p>
-      <p>Powered By</p>
+      <p><small>Powered By</small></p>
       <strong>{{ tool['powered by'] }}</strong>
     </div>
     {% endfor %}
