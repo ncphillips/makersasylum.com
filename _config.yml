@@ -25,3 +25,5 @@ logo: "/uploads/logo.svg"
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
+sass:
+  sass_dir: styles/

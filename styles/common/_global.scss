@@ -24,6 +24,15 @@ h1, h2, h3, h4, h5, nav * {
 }
 
 .section {
-  padding-top: 6.4rem;
-  padding-bottom: 6.4rem;
+  padding-top: 3.2rem;
+  padding-bottom: 3.2rem;
+}
+
+hr.dark {
+  border-width: 1px;
+  border-color: black;
+}
+
+hr.dashed {
+  border-style: dashed;
 }

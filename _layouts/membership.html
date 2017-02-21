@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="page-header">
-  <h2>Membership</h2>
+  <h2 class="page-header">Membership</h2>
 </div>
 
 <div id="carousel-membership" class="carousel slide" data-ride="carousel">
@@ -13,8 +13,8 @@ layout: default
     <div class="item {% if forloop.first == true %}active{% endif %}">
       <img src="{{ benefit.image }}" alt="{{ benefit.heading }}">
       <div class="carousel-caption">
-        <h3>{{ benefit.heading }}</h3>
-        <p>{{ benefit['caption text'] }}</p>
+        <h3 class="h1">{{ benefit.heading }}</h3>
+        <p class="h4">{{ benefit['caption text'] }}</p>
       </div>
     </div>
     {% endfor %}
@@ -40,24 +40,24 @@ layout: default
     <div class="col-md-6">
       <h3>{{ type.name }}</h3>
       <p>{{ type.description }}</p>
-      <hr>
+      <hr class="dark dashed">
       <p>{{ type.benefits }}</p>
     </div>
-    <div class="col-md-3 background-yellow">
+    <div class="col-md-3 background-yellow text-center">
       {% if type['is available'] == false %}
       <p>CURRENTLY NOT AVAILABLE</p>
       {% endif %}
-      <p>INR {{ type.price }}</p>
+      <p class="h3">INR {{ type.price }}</p>
     </div>
   </div>
   {% endfor %}
   <p>If you’re new or have any questions, we recommend you drop by the space. Call us at <a href="tel:+919004686828">+919004686828</a> to know more!</p>
 </div>
 
-<hr>
+<hr class="dark">
 
 <div class="section" id="membership-tools">
-  <h3>{{ page['tools access'].title }}</h3>
+  <h3 class="page-header">{{ page['tools access'].title }}</h3>
   <div class="row">
     {% for tool in page['tools access'].tools %}
     <div class="col-md-3 text-center">
@@ -67,10 +67,16 @@ layout: default
       <h4>{{ tool.name }}</h4>
       <p>{{ tool['free hours'] }}</p>
       <p>{{ tool['extra time price'] }}</p>
+      {% if tool['powered by'] %}
       <p><small>Powered By</small></p>
       <strong>{{ tool['powered by'] }}</strong>
+      {% endif %}
     </div>
     {% endfor %}
   </div>
-  <p>{{ page['tools access'].description }}</p>
+  <div class="row">
+    <div class="col-xs-12">
+      <p>{{ page['tools access'].description | markdownify }}</p>
+    </div>
+  </div>
 </div>

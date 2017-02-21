@@ -312,6 +312,23 @@
 
 // Membership Page
 
+#carousel-membership {
+  .item {
+    max-height: 400px;
+  }
+  .item::before {
+    content:"";
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+}
+
+
 #membership-tools {
   .tool-image {
     height: 150px;

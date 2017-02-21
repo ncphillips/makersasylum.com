@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {% seo title=false %}
     <title>{{ page.title }}{% if page.url != '/' %} - Siteleaf{% endif %}</title>
-    <link rel="stylesheet" href="/assets/css/all.css" />
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+    <link rel="stylesheet" href="/styles/all.css" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body class="{{ page.layout }}">
     {% if site.google_analytics %}
@@ -23,12 +23,10 @@
     {% include header.html %}
     <div class="wrap container" role="document">
       <div class="content">
-        <main class="main" role="main">
-          {{ content }}
-        </main>
+        {{ content }}
       </div>
     </div>
     {% include footer.html %}
-    <script src="/assets/js/all.js"></script>
+    <script src="/scripts/all.js"></script>
   </body>
 </html>
