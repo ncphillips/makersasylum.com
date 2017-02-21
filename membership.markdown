@@ -2,12 +2,20 @@
 title: Membership
 date: 2017-02-14 20:09:00 +05:30
 benefits slider:
-- heading: Do-it-Yourself Workspaces
+- heading: Workspaces
   caption text: |-
     You decide how your workspace looks and feels.
 
     We’ll provide you with the tools & community to help you make it happen!
-  image: 
+  image: "/uploads/workspaces.JPG"
+- heading: Community
+  caption text: Amongst our community there are architects, designers, artists, engineers,
+    all with a simple passion for making cool stuff.
+  image: "/uploads/Community.jpg"
+- heading: Tools
+  caption text: Our cornucopia of tools is ideal for product design teams, hardware
+    startups, and outliers who can build stuff that’s relevant to their work.
+  image: "/uploads/Tools.JPG"
 membership types:
 - name: REGULAR
   description: Ideal for individual makers, students, or professionals who need a
