@@ -26,6 +26,15 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    type: members
+  values:
+    profile picture:
+- scope:
+    type: projects
+  values:
+    pictures: []
+    members:  
 permalink: pretty
 logo: "/uploads/logo.svg"
 gems:
