@@ -1,0 +1,23 @@
+.btn:link,
+.btn:visited,
+.btn:hover,
+.btn:active {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+}
+.btn:hover {
+  text-decoration: underline;
+}
+.im-checkout-btn.btn--flat {
+  color: #fff;
+  background: $brand-primary !important;
+  border-color: $brand-primary !important;
+  border-radius: 6px !important;
+}
+.im-checkout-btn.btn--flat:hover {
+  color: #fff !important;
+}
+.member-documents .btn {
+  font-size: 16px;
+  padding: 0.6em 1em;
+}

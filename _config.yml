@@ -1,6 +1,6 @@
 ---
 title: Maker's Asylum
-timezone: UTC
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -21,3 +21,9 @@ defaults:
   values:
     layout: page
 permalink: pretty
+logo: "/uploads/logo.svg"
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+sass:
+  sass_dir: styles/
