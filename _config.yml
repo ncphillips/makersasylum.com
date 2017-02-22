@@ -27,14 +27,16 @@ defaults:
   values:
     layout: page
 - scope:
+    path: ''
     type: members
   values:
-    profile picture:
+    profile picture: 
 - scope:
+    path: ''
     type: projects
   values:
     pictures: []
-    members:  
+    members: 
 permalink: pretty
 logo: "/uploads/logo.svg"
 gems:
