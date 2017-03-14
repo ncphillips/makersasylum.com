@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="featured-content">
+<section class="featured-content">
   {% for post in page.featured %}
   <a href="{{ post.link }}" rel="bookmark">
     <article style="background-image: url('{{ post.image }}')">
@@ -12,13 +12,11 @@ layout: default
     </article>
   </a>
   {% endfor %}
-</div>
-<div class="tagline row">
-    <div class="col-xs-12">
-      <h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
-    </div>
-</div>
-<div class="newsletter">
+</section>
+<section class="tagline row">
+  <h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
+</section>
+<section class="newsletter">
     <div class="row">
       <div class="col-sm-3">
         <h3>Join our Mailing List</h3>
@@ -42,4 +40,8 @@ layout: default
       </div>
     </div>
     <div class="message"></div>
-</div>
+</section>
+<section>
+  <h2>LABS</h2>
+
+</section>
