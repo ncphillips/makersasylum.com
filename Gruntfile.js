@@ -7,7 +7,7 @@ module.exports = function(grunt) {
         separator: ';',
       },
       dist: {
-        src: ['scripts/_source/jquery.min.js', 'scripts/_source/bootstrap.min.js', 'scripts/_source/main.js'],
+        src: ['scripts/_source/jquery.min.js', 'scripts/_source/bootstrap.min.js', 'scripts/_source/holder.min.js', 'scripts/_source/main.js'],
         dest: 'scripts/all.js',
       },
     },

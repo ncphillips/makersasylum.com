@@ -1,6 +1,6 @@
 .newsletter {
   background-color: #fcbf15;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 .newsletter .message {
   padding-left: 15px;
@@ -14,15 +14,15 @@
   font-family: $base-font-stack;
 }
 .newsletter form {
-  float: right;
+  width: 100%;
+}
+.newsletter .form-group {
+  margin-right: 1rem;
 }
 .newsletter h3,
 .newsletter form .form-group * {
   font-size: 1.8rem;
   margin: 2px 0;
-}
-.newsletter form * {
-  margin-right: 2px;
 }
 .newsletter form input {
   border-style: none;
@@ -31,6 +31,7 @@
   font-size: 1.8rem;
   padding: 3px 10px;
   border-color: $brand-primary;
+  float: right;
 }
 .newsletter form button[type="submit"]:hover {
   background-color: white;

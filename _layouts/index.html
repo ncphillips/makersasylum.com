@@ -6,16 +6,12 @@ layout: default
   {% for post in page.featured %}
   <a href="{{ post.link }}" rel="bookmark">
     <article style="background-image: url('{{ post.image }}')">
-      <div>
-        <h2>{{ post.title }}</h2>
-      </div>
+      <h2>{{ post.title }}</h2>
     </article>
   </a>
   {% endfor %}
 </section>
-<section class="tagline row">
-  <h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
-</section>
+<h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
 <section class="newsletter">
     <div class="row">
       <div class="col-sm-3">
@@ -24,7 +20,7 @@ layout: default
       <div class="col-sm-9">
         <form method="post" class="form-inline" id="subscribe">
           <div class="form-group">
-            <label for="email">Email Address</label>
+            <label for="email">Email Address: </label>
             <input type="email" name="email" id="email" value="">
           </div>
           <div class="form-group">
@@ -62,3 +58,37 @@ layout: default
     {% endfor %}
   </div>
 </section>
+<section>
+  <h2>COMMUNITY</h2>
+  <div class="row">
+    {% for member in page['featured members'] %}
+    <div class="col-md-4">
+      <img data-src="holder.js/300x200?auto=yes">
+      <h3>{{ member.member }}</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="text-center">
+    <a class="btn btn-default btn-lg" href="/membership">JOIN THE COMMUNITY</a>
+  </p>
+</section>
+<section>
+  <h2>PARTNERS</h2>
+  <div class="row">
+    {% for partner in page['partners'] %}
+    <div class="col-md-4">
+      <img data-src="holder.js/200x200?auto=yes">
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<footer>
+  <div class="row">
+    <div class="col-md-offset-8 col-md-4">
+      <h2>Contact</h2>
+      <p></p>
+      <a href=""></a>
+    </div>
+  </div>
+</footer>
