@@ -33,21 +33,21 @@ defaults:
     path: ''
     type: members
   values:
-    profile picture:
+    profile picture: 
 - scope:
     path: ''
     type: projects
   values:
     pictures: []
-    members:
+    members: 
 - scope:
     path: ''
     type: labs
   values:
-    image:
-    free hours:
-    extra time price:
-    powered by:
+    image: 
+    free hours: 
+    extra time price: 
+    powered by: 
 permalink: pretty
 logo: "/uploads/logo.svg"
 gems:
