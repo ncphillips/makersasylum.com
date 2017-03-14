@@ -2,8 +2,17 @@
 title: Maker's Asylum
 timezone: Asia/Kolkata
 collections:
+  labs:
+    title: Labs
+    output: true
+  members:
+    title: Members
+    output: true
   posts:
     title: Posts
+    output: true
+  projects:
+    title: Projects
     output: true
   uploads:
     title: Uploads
@@ -20,6 +29,25 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: members
+  values:
+    profile picture: 
+- scope:
+    path: ''
+    type: projects
+  values:
+    pictures: []
+    members: 
+- scope:
+    path: ''
+    type: labs
+  values:
+    image: 
+    free hours: 
+    extra time price: 
+    powered by: 
 permalink: pretty
 logo: "/uploads/logo.svg"
 gems:

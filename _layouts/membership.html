@@ -59,17 +59,17 @@ layout: default
 <div class="section" id="membership-tools">
   <h3 class="page-header">{{ page['tools access'].title }}</h3>
   <div class="row">
-    {% for tool in page['tools access'].tools %}
+    {% for lab in site.labs %}
     <div class="col-md-3 text-center">
       <div class="tool-image center-block">
-        <img src="{{ tool.image }}" class="img-responsive" alt="{{ tool.name }}">
+        <img src="{{ lab.image }}" class="img-responsive" alt="{{ lab.title }}">
       </div>
-      <h4>{{ tool.name }}</h4>
-      <p>{{ tool['free hours'] }}</p>
-      <p>{{ tool['extra time price'] }}</p>
-      {% if tool['powered by'] %}
+      <h4>{{ lab.title }}</h4>
+      <p>{{ lab['free hours'] }}</p>
+      <p>{{ lab['extra time price'] }}</p>
+      {% if lab['powered by'] %}
       <p><small>Powered By</small></p>
-      <strong>{{ tool['powered by'] }}</strong>
+      <strong>{{ lab['powered by'] }}</strong>
       {% endif %}
     </div>
     {% endfor %}

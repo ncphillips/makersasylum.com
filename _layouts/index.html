@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<div class="featured-content">
+<section class="featured-content">
   {% for post in page.featured %}
   <a href="{{ post.link }}" rel="bookmark">
     <article style="background-image: url('{{ post.image }}')">
-      <div>
-        <h2>{{ post.title }}</h2>
-      </div>
+      <h2>{{ post.title }}</h2>
     </article>
   </a>
   {% endfor %}
-</div>
-<div class="tagline row">
-    <div class="col-xs-12">
-      <h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
-    </div>
-</div>
-<div class="newsletter">
+</section>
+<h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
+<section class="newsletter">
     <div class="row">
       <div class="col-sm-3">
         <h3>Join our Mailing List</h3>
@@ -26,7 +20,7 @@ layout: default
       <div class="col-sm-9">
         <form method="post" class="form-inline" id="subscribe">
           <div class="form-group">
-            <label for="email">Email Address</label>
+            <label for="email">Email Address: </label>
             <input type="email" name="email" id="email" value="">
           </div>
           <div class="form-group">
@@ -42,4 +36,59 @@ layout: default
       </div>
     </div>
     <div class="message"></div>
-</div>
+</section>
+<section>
+  <h2>LABS</h2>
+  <div class="row">
+    {% for lab in site.labs %}
+    <div class="col-md-3 center-block">
+      <div class="media-left">
+        <a href="#">
+          <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading h5">{{ lab.title }}</h3>
+        {% if lab['powered by'] %}
+        <em>Powered By</em>
+        <p>{{ lab['powered by'] }}</p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<section>
+  <h2>COMMUNITY</h2>
+  <div class="row">
+    {% for member in page['featured members'] %}
+    <div class="col-md-4">
+      <img data-src="holder.js/300x200?auto=yes">
+      <h3>{{ member.member }}</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="text-center">
+    <a class="btn btn-default btn-lg" href="/membership">JOIN THE COMMUNITY</a>
+  </p>
+</section>
+<section>
+  <h2>PARTNERS</h2>
+  <div class="row">
+    {% for partner in page['partners'] %}
+    <div class="col-md-4">
+      <img data-src="holder.js/200x200?auto=yes">
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<footer>
+  <div class="row">
+    <div class="col-md-offset-8 col-md-4">
+      <h2>Contact</h2>
+      <p></p>
+      <a href=""></a>
+    </div>
+  </div>
+</footer>

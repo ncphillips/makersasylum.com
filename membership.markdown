@@ -49,27 +49,6 @@ tools access:
     **Tool Training:** while membership gives you access to the space – safety is our primary concern – all members MUST be trained and tested on all power tools, machines and certain electronic equipment by a makerspace instructor before you can use them.
 
     Our Rapid Prototyping Course happens on a monthly basis to equip you with everything you need to know about our tools and certify you on good practices. Then you can use the tools yourself anytime. :)
-  tools:
-  - name: LASER CUTTER
-    free hours: 2 hours/week
-    extra time price: INR 15/min
-    image: "/uploads/icon-02.png"
-    powered by: 
-  - name: 3D PRINTER
-    free hours: 6 hours/month
-    extra time price: INR 100/hr
-    image: "/uploads/icon-05.png"
-    powered by: Imaginarium
-  - name: ELECTRONICS LAB
-    free hours: Unlimited Access
-    extra time price: 
-    image: "/uploads/icon-04.png"
-    powered by: 
-  - name: WOODWORKING LAB
-    free hours: Unlimited Access
-    extra time price: 
-    image: "/uploads/icon-03.png"
-    powered by: Bosch & Dremel
 layout: membership
 ---
 

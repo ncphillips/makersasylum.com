@@ -4,12 +4,11 @@
 }
 .row {
   margin-bottom: 20px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 // Typography
-body {
-  font-size: 16px;
-}
 body * {
   font-family: $base-font-stack;
 }
@@ -35,4 +34,8 @@ hr.dark {
 
 hr.dashed {
   border-style: dashed;
+}
+
+.media-object_thumbnail {
+  max-height: 80px;
 }
