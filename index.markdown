@@ -7,6 +7,10 @@ featured:
 featured members:
 - member: 
   description: 
+partners:
+- name: 
+  image: 
+  link: 
 layout: index
 ---
 
