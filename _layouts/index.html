@@ -43,5 +43,22 @@ layout: default
 </section>
 <section>
   <h2>LABS</h2>
-
+  <div class="row">
+    {% for lab in site.labs %}
+    <div class="col-md-3 center-block">
+      <div class="media-left">
+        <a href="#">
+          <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading h5">{{ lab.title }}</h3>
+        {% if lab['powered by'] %}
+        <em>Powered By</em>
+        <p>{{ lab['powered by'] }}</p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 </section>
