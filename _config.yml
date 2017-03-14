@@ -2,6 +2,9 @@
 title: Maker's Asylum
 timezone: Asia/Kolkata
 collections:
+  labs:
+    title: Labs
+    output: true
   members:
     title: Members
     output: true
