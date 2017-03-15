@@ -33,7 +33,16 @@ defaults:
     path: ''
     type: members
   values:
+    layout: "member"
     profile picture:
+    website:
+    email:
+    phone:
+    social:
+      facebook:
+      twitter:
+      youtube:
+      instagram:
 - scope:
     path: ''
     type: projects

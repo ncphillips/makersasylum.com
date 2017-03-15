@@ -328,7 +328,6 @@
   }
 }
 
-
 #membership-tools {
   .tool-image {
     height: 150px;
@@ -341,4 +340,16 @@
       max-height: 108px;
     }
   }
+}
+
+// Single Member
+.member-description {
+  box-sizing: content-box;
+  min-height: 300px;
+  border-bottom: 3px dashed black;
+  padding-bottom: 30px;
+}
+
+.member-contact {
+  border-bottom: 2px solid black;
 }
