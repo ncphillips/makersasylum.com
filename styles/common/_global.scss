@@ -1,6 +1,7 @@
 // Layout
 .container {
   max-width: 970px;
+  overflow: hidden;
 }
 .row {
   margin-bottom: 20px;
@@ -44,7 +45,29 @@ hr.dashed {
   padding: 1rem 1rem;
 }
 
+.font-weight-normal {
+  font-weight: normal;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.pad-x-sm {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
 .pad-y-sm {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.pad-y-lg {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.margin-top-none {
+  margin-top: 0;
 }

@@ -11,85 +11,55 @@ layout: default
   </a>
   {% endfor %}
 </section>
-<h2>Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="<?php echo home_url('what-we-do'); ?>">Know More..</a></h2>
-<section class="newsletter">
+<div class="container">
+  <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="">Know More..</a></h2>
+  <section>
+    <h2>LABS</h2>
+    <div class="row pad-y-lg">
+      {% for lab in site.labs %}
+      <div class="col-md-3 center-block">
+        <div class="media-left">
+          <a href="#">
+            <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
+          </a>
+        </div>
+        <div class="media-body">
+          <h3 class="media-heading h5">{{ lab.title }}</h3>
+          {% if lab['powered by'] %}
+          <em>Powered By</em>
+          <p>{{ lab['powered by'] }}</p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  <section>
+    <h2>COMMUNITY</h2>
+    <div class="pad-y-lg">
+      <div class="row">
+        {% for member in page['featured members'] %}
+        <div class="col-md-4">
+          <img src="holder.js/100px200?auto=yes">
+          {% assign current_member = site.members | where:"title",member.member %}
+          <h3><a href="{{ current_member[0].url }}">{{ member.member }}</a></h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        {% endfor %}
+      </div>
+      <p class="text-center">
+        <a class="btn btn-default btn-lg font-weight-bold pad-sm" href="/membership">JOIN THE COMMUNITY</a>
+      </p>
+    </div>
+  </section>
+  <section>
+    <h2>PARTNERS</h2>
     <div class="row">
-      <div class="col-sm-3">
-        <h3>Join our Mailing List</h3>
+      {% for partner in page['partners'] %}
+      <div class="col-md-4">
+        <img data-src="holder.js/200x200?auto=yes">
       </div>
-      <div class="col-sm-9">
-        <form method="post" class="form-inline" id="subscribe">
-          <div class="form-group">
-            <label for="email">Email Address: </label>
-            <input type="email" name="email" id="email" value="">
-          </div>
-          <div class="form-group">
-            <input type="radio" name="space" value="608d805f56" id="mumbai" checked="checked">
-            <label for="mumbai">Mumbai Space</label>
-          </div>
-          <div class="form-group">
-            <input type="radio" name="space" value="c50ebe6820" id="delhi">
-            <label for="delhi">Delhi Space</label>
-          </div>
-          <button type="submit" class="btn btn-default">Submit</button>
-        </form>
-      </div>
+      {% endfor %}
     </div>
-    <div class="message"></div>
-</section>
-<section>
-  <h2>LABS</h2>
-  <div class="row">
-    {% for lab in site.labs %}
-    <div class="col-md-3 center-block">
-      <div class="media-left">
-        <a href="#">
-          <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
-        </a>
-      </div>
-      <div class="media-body">
-        <h3 class="media-heading h5">{{ lab.title }}</h3>
-        {% if lab['powered by'] %}
-        <em>Powered By</em>
-        <p>{{ lab['powered by'] }}</p>
-        {% endif %}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-<section>
-  <h2>COMMUNITY</h2>
-  <div class="row">
-    {% for member in page['featured members'] %}
-    <div class="col-md-4">
-      <img src="holder.js/100px200?auto=yes">
-      {% assign current_member = site.members | where:"title",member.member %}
-      <h3><a href="{{ current_member[0].url }}">{{ member.member }}</a></h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    </div>
-    {% endfor %}
-  </div>
-  <p class="text-center">
-    <a class="btn btn-default btn-lg" href="/membership">JOIN THE COMMUNITY</a>
-  </p>
-</section>
-<section>
-  <h2>PARTNERS</h2>
-  <div class="row">
-    {% for partner in page['partners'] %}
-    <div class="col-md-4">
-      <img data-src="holder.js/200x200?auto=yes">
-    </div>
-    {% endfor %}
-  </div>
-</section>
-<footer>
-  <div class="row">
-    <div class="col-md-offset-8 col-md-4">
-      <h2>Contact</h2>
-      <p></p>
-      <a href=""></a>
-    </div>
-  </div>
-</footer>
+  </section>
+</div>

@@ -5,9 +5,9 @@
 }
 .page-header {
   border-bottom: none;
-}
-.page-header {
+  font-weight: normal;
   margin-top: 0;
+  margin-bottom: 10px;
 }
 .widget_categories a {
   color: $gray;
@@ -40,6 +40,22 @@
       }
     }
   }
+}
+
+section > h2 {
+  display: inline-block;
+  position: relative;
+}
+
+section > h2::after {
+  content: '';
+  position: absolute;
+  width: 1200px;
+  height: 3px;
+  background-color: black;
+  top: 40%;
+  margin-left: 16px;
+  transform: translateY(-50%);
 }
 
 // Story
@@ -314,7 +330,7 @@
 
 #carousel-membership {
   .item {
-    max-height: 400px;
+    max-height: 500px;
   }
   .item::before {
     content:"";

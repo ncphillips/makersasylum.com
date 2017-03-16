@@ -20,7 +20,7 @@
       init: function() {
         // JavaScript to be fired on all pages
         WebFontConfig = {
-          google: { families: [ 'Titillium+Web:200,300,600,700:latin', 'Lato:400,400italic,700:latin' ] }
+          google: { families: [ 'Poppins:200,300,600,700:latin', 'Raleway:400,400italic,700:latin' ] }
         };
         (function() {
           var wf = document.createElement('script');

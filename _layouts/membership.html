@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="page-header">
+<div class="page-header container">
   <h2 class="page-header">Membership</h2>
 </div>
 
@@ -14,7 +14,7 @@ layout: default
       <img src="{{ benefit.image }}" alt="{{ benefit.heading }}">
       <div class="carousel-caption">
         <h3 class="h1">{{ benefit.heading }}</h3>
-        <p class="h4">{{ benefit['caption text'] }}</p>
+        <p class="h4 font-weight-normal">{{ benefit['caption text'] }}</p>
       </div>
     </div>
     {% endfor %}
@@ -31,52 +31,55 @@ layout: default
   </a>
 </div>
 
-<div class="section">
-  {% for type in page['membership types'] %}
-  <div class="row">
-    <div class="col-md-3">
-      <img src="{{ type.image }}" alt="{{ type.name }}">
-    </div>
-    <div class="col-md-6">
-      <h3>{{ type.name }}</h3>
-      <p>{{ type.description }}</p>
-      <hr class="dark dashed">
-      <p>{{ type.benefits }}</p>
-    </div>
-    <div class="col-md-3 background-yellow text-center">
-      {% if type['is available'] == false %}
-      <p>CURRENTLY NOT AVAILABLE</p>
-      {% endif %}
-      <p class="h3">INR {{ type.price }}</p>
-    </div>
-  </div>
-  {% endfor %}
-  <p>If you’re new or have any questions, we recommend you drop by the space. Call us at <a href="tel:+919004686828">+919004686828</a> to know more!</p>
-</div>
-
-<hr class="dark">
-
-<div class="section" id="membership-tools">
-  <h3 class="page-header">{{ page['tools access'].title }}</h3>
-  <div class="row">
-    {% for lab in site.labs %}
-    <div class="col-md-3 text-center">
-      <div class="tool-image center-block">
-        <img src="{{ lab.image }}" class="img-responsive" alt="{{ lab.title }}">
+<div class="container">
+  <div class="section">
+    {% for type in page['membership types'] %}
+    <div class="row">
+      <div class="col-md-3">
+        <img src="holder.js/100px200?auto=yes" alt="{{ type.name }}">
       </div>
-      <h4>{{ lab.title }}</h4>
-      <p>{{ lab['free hours'] }}</p>
-      <p>{{ lab['extra time price'] }}</p>
-      {% if lab['powered by'] %}
-      <p><small>Powered By</small></p>
-      <strong>{{ lab['powered by'] }}</strong>
-      {% endif %}
+      <div class="col-md-6">
+        <h3 class="margin-top-none">{{ type.name }}</h3>
+        <p>{{ type.description }}</p>
+        <hr class="dark dashed">
+        <p>You get:</p>
+        <p>{{ type.benefits }}</p>
+      </div>
+      <div class="col-md-3 background-yellow text-center">
+        {% if type['is available'] == false %}
+        <p>CURRENTLY NOT AVAILABLE</p>
+        {% endif %}
+        <p class="h3 font-weight-normal">INR {{ type.price }}</p>
+      </div>
     </div>
     {% endfor %}
+    <p>If you’re new or have any questions, we recommend you drop by the space. Call us at <a href="tel:+919004686828">+919004686828</a> to know more!</p>
   </div>
-  <div class="row">
-    <div class="col-xs-12">
-      <p>{{ page['tools access'].description | markdownify }}</p>
+
+  <hr class="dark">
+
+  <div class="section" id="membership-tools">
+    <h3>{{ page['tools access'].title }}</h3>
+    <div class="row">
+      {% for lab in site.labs %}
+      <div class="col-md-3 text-center">
+        <div class="tool-image center-block">
+          <img src="{{ lab.image }}" class="img-responsive" alt="{{ lab.title }}">
+        </div>
+        <h4 >{{ lab.title }}</h4>
+        <p>{{ lab['free hours'] }}</p>
+        <p>{{ lab['extra time price'] }}</p>
+        {% if lab['powered by'] %}
+        <p><small>Powered By</small></p>
+        <strong>{{ lab['powered by'] }}</strong>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <p>{{ page['tools access'].description | markdownify }}</p>
+      </div>
     </div>
   </div>
 </div>
