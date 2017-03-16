@@ -63,8 +63,9 @@ layout: default
   <div class="row">
     {% for member in page['featured members'] %}
     <div class="col-md-4">
-      <img data-src="holder.js/300x200?auto=yes">
-      <h3>{{ member.member }}</h3>
+      <img src="holder.js/100px200?auto=yes">
+      {% assign current_member = site.members | where:"title",member.member %}
+      <h3><a href="{{ current_member[0].url }}">{{ member.member }}</a></h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
     {% endfor %}
