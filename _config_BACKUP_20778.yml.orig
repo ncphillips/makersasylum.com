@@ -1,4 +1,7 @@
 ---
+---
+
+---
 title: Maker's Asylum
 timezone: Asia/Kolkata
 collections:
@@ -33,16 +36,20 @@ defaults:
     path: ''
     type: members
   values:
-    layout: member
-    profile picture: 
-    website: 
-    email: 
-    phone: 
+<<<<<<< HEAD
+    layout: "member"
+    profile picture:
+    website:
+    email:
+    phone:
     social:
-      facebook: 
-      twitter: 
-      youtube: 
-      instagram: 
+      facebook:
+      twitter:
+      youtube:
+      instagram:
+=======
+    profile picture: 
+>>>>>>> 77e7005ce4025aef88555dd07ea974787a01b93e
 - scope:
     path: ''
     type: projects

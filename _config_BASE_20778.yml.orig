@@ -1,4 +1,7 @@
 ---
+---
+
+---
 title: Maker's Asylum
 timezone: Asia/Kolkata
 collections:
@@ -33,30 +36,21 @@ defaults:
     path: ''
     type: members
   values:
-    layout: member
-    profile picture: 
-    website: 
-    email: 
-    phone: 
-    social:
-      facebook: 
-      twitter: 
-      youtube: 
-      instagram: 
+    profile picture:
 - scope:
     path: ''
     type: projects
   values:
     pictures: []
-    members: 
+    members:
 - scope:
     path: ''
     type: labs
   values:
-    image: 
-    free hours: 
-    extra time price: 
-    powered by: 
+    image:
+    free hours:
+    extra time price:
+    powered by:
 permalink: pretty
 exclude:
 - Gruntfile.js
