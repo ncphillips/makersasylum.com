@@ -1,6 +1,10 @@
 ---
 title: Electric Car
 date: 2017-04-06 17:59:00 +05:30
+featured image: "/uploads/elec-car-00.jpg"
+pictures:
+- "/uploads/elec-car-02.jpg"
+- "/uploads/elec-car-01.jpg"
 team:
   contact email: jenujacob@gmail.com
 ---
