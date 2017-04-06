@@ -12,9 +12,13 @@ layout: default
   {% endfor %}
 </section>
 <div class="container">
-  <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a Community Makerspace to get your hands dirty and make your ideas happen. <a href="">Know More..</a></h2>
+  <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen. <a href="">Know More..</a></h2>
   <section>
     <h2>LABS</h2>
+    <p class="lead">
+      We have 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with
+      a fridge full of drinks and some kickass labs for work and fun.
+    </p>
     <div class="row pad-y-lg">
       {% for lab in site.labs %}
       <div class="col-md-3 center-block">
@@ -35,14 +39,14 @@ layout: default
     </div>
   </section>
   <section>
-    <h2>COMMUNITY</h2>
+    <h2>PROJECTS</h2>
     <div class="pad-y-lg">
       <div class="row">
-        {% for member in page['featured members'] %}
+          {% for project in page['featured projects'] %}
         <div class="col-md-4">
+          {% assign current_project = site.projects | where:"title", project.project %}
           <img src="holder.js/100px200?auto=yes">
-          {% assign current_member = site.members | where:"title",member.member %}
-          <h3><a href="{{ current_member[0].url }}">{{ member.member }}</a></h3>
+          <h3><a href="{{ current_project[0].url }}">{{ project.project }}</a></h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
         {% endfor %}

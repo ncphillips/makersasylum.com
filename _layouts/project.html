@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="container">
+	<h2>{{ page.title }}</h2>
+	<div class="row">
+		<div class="col-md-6">
+			<img src="holder.js/100px300?auto=yes" alt="">
+		</div>
+		<div class="col-md-6">
+			<div class="member-description">
+        {{ content }}
+			</div>
+			<div class="member-contact pad-y-sm">
+			  <h3 class="h5">Team:</h3>
+        <p>
+          {% if page['team']['team lead']['members'] != '' %}
+            {% for lead in page['team']['team lead']['members'] %}
+              {% assign current_member = site.members | where:"title", lead %}
+              <a href="{{ current_member[0].url }}">{{ lead }}</a>
+            {% endfor %}
+          {% endif %}
+          {% unless page['team']['members'] == empty %}
+            {% for member in page['team']['members'] %}
+              {% assign current_member = site.members | where:"title", member %}
+              <a href="{{ current_member[0].url }}">{{ member | prepend: ', ' }}</a>
+            {% endfor %}
+          {% endunless %}
+        </p>
+        <h3 class="h5">For more information, write to:</h3>
+        <a href="mailto:{{ page['team']['contact email'] }}">{{ page['team']['contact email'] }}</a>
+			</div>
+		</div>
+	</div>
+</div>
