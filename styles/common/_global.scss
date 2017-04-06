@@ -4,7 +4,6 @@
   overflow: hidden;
 }
 .row {
-  margin-bottom: 20px;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
@@ -53,6 +52,11 @@ hr.dashed {
   font-weight: bold;
 }
 
+.margin-y-sm {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .pad-x-sm {
   padding-right: 2rem;
   padding-left: 2rem;
@@ -70,4 +74,10 @@ hr.dashed {
 
 .margin-top-none {
   margin-top: 0;
+}
+
+// Video Embeds
+.fluid-width-video-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

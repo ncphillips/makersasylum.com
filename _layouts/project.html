@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="container">
-	<h2>{{ page.title }}</h2>
+	<h1 class="title">{{ page.title }}</h1>
 	<div class="row">
 		<div class="col-md-6">
-			<img src="holder.js/100px300?auto=yes" alt="">
+			<div class="project-featured-image-lg" style="background-image: url({{ page['featured image'] }})"></div>
 		</div>
 		<div class="col-md-6">
 			<div class="member-description">
@@ -33,4 +33,31 @@ layout: default
 			</div>
 		</div>
 	</div>
+  <div class="row">
+    <div class="col-md-4">
+      <a href="">Previous Project</a>
+    </div>
+    <div class="col-md-4 text-center">
+      <a href="/projects">See all Projects</a>
+    </div>
+    <div class="col-md-4">
+      <a href="" class="pull-right">Next Project</a>
+    </div>
+  </div>
+  <div class="row">
+    {% unless page['video iframes'] == empty %}
+    <div id="fluid-width-video-wrapper" class="col-md-12">
+      {% for video in page['video iframes'] %}
+        {{ video }}
+      {% endfor %}
+    </div>
+    {% endunless %}
+    {% unless page['pictures'] == empty %}
+    <div class="col-md-12">
+      {% for picture in page['pictures'] %}
+        <img src="{{ picture }}" class="img-responsive center-block margin-y-sm" alt="">
+      {% endfor %}
+    </div>
+    {% endunless %}
+  </div>
 </div>
