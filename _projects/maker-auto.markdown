@@ -7,7 +7,7 @@ pictures:
 - "/uploads/auto-02.jpg"
 team:
   team lead:
-    member:
+    members:
     - 
   members:
   - 
