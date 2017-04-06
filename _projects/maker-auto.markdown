@@ -1,11 +1,19 @@
 ---
 title: Maker Auto
 date: 2017-04-05 13:10:00 +05:30
+featured image: "/uploads/auto-01.JPG"
 pictures:
 - "/uploads/auto-00.JPG"
 - "/uploads/auto-01.JPG"
 - "/uploads/auto-02.jpg"
-members: Coby Unger
+video iframes:
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/4j1E92De-jI"
+  frameborder="0" allowfullscreen></iframe>
+team:
+  team lead:
+    members:
+    - Coby Unger
+  contact email: coby@cobyungerdesign.com
 ---
 
 The excitement and energy about innovation and building things within the maker culture is palpable. But how can we bring that creativity energy to to the streets of Mumbai in collaborative workshops and projects? Can we show the greater community that making and building things by is an essential part of some of the best innovations?

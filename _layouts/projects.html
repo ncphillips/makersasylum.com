@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h1 class="title">Projects</h1>
+  <div class="row">
+    {% for project in site.projects %}
+    <div class="col-md-4 margin-y-sm">
+      <div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div>
+      <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+      {% for lead in project['team']['team lead']['members'] %}
+        {% assign current_member = site.members | where:"title", lead %}
+        <a href="{{ current_member[0].url }}" style="color: black;">{{ lead }}</a>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

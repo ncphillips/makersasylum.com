@@ -47,8 +47,17 @@ defaults:
     path: ''
     type: projects
   values:
+    featured image: 
     pictures: []
-    members: 
+    video iframes: []
+    team:
+      team lead:
+        members:
+        - 
+      members:
+      - 
+      contact email: 
+    layout: project
 - scope:
     path: ''
     type: labs

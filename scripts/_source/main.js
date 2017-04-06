@@ -30,6 +30,7 @@
           var s = document.getElementsByTagName('script')[0];
           s.parentNode.insertBefore(wf, s);
         })();
+        $("#fluid-width-video-wrapper").fitVids();
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired
