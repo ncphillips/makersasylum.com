@@ -5,6 +5,9 @@ pictures:
 - "/uploads/auto-00.JPG"
 - "/uploads/auto-01.JPG"
 - "/uploads/auto-02.jpg"
+video iframes:
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/4j1E92De-jI"
+  frameborder="0" allowfullscreen></iframe>
 team:
   team lead:
     members:
