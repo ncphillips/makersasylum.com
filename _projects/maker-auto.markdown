@@ -6,7 +6,8 @@ pictures:
 - "/uploads/auto-01.JPG"
 - "/uploads/auto-02.jpg"
 members:
-- Coby Unger
+  project lead: Coby Unger
+  other members: 
 ---
 
 The excitement and energy about innovation and building things within the maker culture is palpable. But how can we bring that creativity energy to to the streets of Mumbai in collaborative workshops and projects? Can we show the greater community that making and building things by is an essential part of some of the best innovations?
