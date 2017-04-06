@@ -8,7 +8,7 @@ pictures:
 team:
   team lead:
     members:
-    - 
+    - Coby Unger
   members:
   - 
 ---
