@@ -13,6 +13,8 @@ team:
   team lead:
     members:
     - Coby Unger
+  members:
+  - Namita Mohandas
   contact email: coby@cobyungerdesign.com
 ---
 
