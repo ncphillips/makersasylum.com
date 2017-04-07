@@ -18,8 +18,8 @@ featured projects:
 - project: Game Arcade
   description: 
 partners:
-- name: 
-  image: 
+- name: Imaginarium
+  image: "/uploads/imaginarium.jpeg"
   link: 
 layout: index
 ---
