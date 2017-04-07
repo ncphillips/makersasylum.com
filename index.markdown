@@ -21,6 +21,10 @@ partners:
 - name: 
   image: 
   link: 
+sponsorers:
+- name: 
+  image: 
+  link: 
 layout: index
 ---
 
