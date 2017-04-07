@@ -7,6 +7,19 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+.carousel-inner .item {
+  height: 500px;
+  overflow: hidden;
+}
+.carousel-inner .item img{
+  width: 100%;
+}
+.carousel-caption a {
+  display: inline-block;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 8px;
+}
 
 // Typography
 body * {
