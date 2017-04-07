@@ -23,7 +23,7 @@ membership types:
   benefits: Access to tools, 11am-9pm, wifi, chair & table and access to the maker
     community.
   price: '5,000'
-  instamojo: 
+  instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
   image: 
   is available: true
 - name: STUDIO
