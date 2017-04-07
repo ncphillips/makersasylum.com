@@ -17,11 +17,11 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
-partners:
+sponsorers:
 - name: 
   image: 
   link: 
-sponsorers:
+partners:
 - name: 
   image: 
   link: 
