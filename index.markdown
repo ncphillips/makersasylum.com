@@ -42,6 +42,10 @@ partners:
 - name: 
   image: "/uploads/Fab_Lab_logo.svg.png"
   link: 
+sponsorers:
+- name: 
+  image: 
+  link: 
 layout: index
 ---
 
