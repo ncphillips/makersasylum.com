@@ -4,9 +4,9 @@ featured:
 - title: Exploring Electrooculography at the Delhi Asylum
   link: http://makersasylum.com/exploring-electrooculography-at-the-delhi-asylum/
   image: "/uploads/IMG_5128-970x540.jpg"
-- title: 'Learn Rapid Prototyping '
+- title: Monthly Certified Course on Rapid Prototyping
   link: http://makersasylum.com/rapidprototyping/
-  image: "/uploads/Makers-Facebook-11.png"
+  image: "/uploads/Workshop%20in%20progress.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: http://makersasylum.siteleaf.net/membership/
   image: "/uploads/IMG_6872.JPG"
@@ -17,7 +17,7 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
-sponsors:
+sponsorers:
 - name: Imaginarium
   image: "/uploads/imaginarium.jpeg"
   link: 
