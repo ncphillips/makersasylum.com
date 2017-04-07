@@ -7,6 +7,10 @@ featured:
 featured projects:
 - project: Maker Auto
   description: 
+- project: Leather World Map
+  description: 
+- project: Game Arcade
+  description: 
 partners:
 - name: 
   image: 
