@@ -1,9 +1,29 @@
 <footer>
-	<div class="row">
-    <div class="col-md-offset-8 col-md-4">
-      <h2 class="font-weight-normal">Contact</h2>
-      <p><a href="mailto:info@makersasylum.com">info@makersasylum.com</a></p>
-			<p><a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
-    </div>
-  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2 class="h4 font-weight-normal">Stay in the loop for projects, events & updates!</h2>
+				<form class="form-inline" action="index.html" method="post">
+					<div class="form-group">
+						<input type="email" class="form-control" name="email" placeholder="your email address">
+					</div>
+					<button type="submit" class="btn btn-primary" name="button">Submit</button>
+				</form>
+			</div>
+			<div class="col-md-3">
+				<ul class="list-unstyled">
+					<li><p><a href="">Team</a></p></li>
+					<li><p><a href="">Careers</a></p></li>
+					<li><p><a href="">Blog</a></p></li>
+					<li><p><a href="">FAQ</a></p></li>
+				</ul>
+			</div>
+	    <div class="col-md-3">
+	      <h2 class="h4 font-weight-normal">Contact</h2>
+	      <p><a href="mailto:info@makersasylum.com">info@makersasylum.com</a></p>
+				<p><a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
+				<p>Visit us: <a href="">Mumbai</a> | <a href="">Delhi</a></p>
+	    </div>
+	  </div>
+	</div>
 </footer>
