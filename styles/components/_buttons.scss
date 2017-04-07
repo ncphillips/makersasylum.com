@@ -6,14 +6,17 @@
   border-color: black;
 }
 
-.im-checkout-btn.btn--flat {
-  color: #fff;
-  background: $brand-primary !important;
-  border-color: $brand-primary !important;
+.im-checkout-btn {
+  @extend .center-block;
+  color: black;
+  background: white !important;
+  border-color: white !important;
   border-radius: 6px !important;
+  padding: 8px;
+  max-width: 100px;
 }
-.im-checkout-btn.btn--flat:hover {
-  color: #fff !important;
+.im-checkout-btn:hover {
+  color: $brand-primary !important;
 }
 .member-documents .btn {
   font-size: 16px;

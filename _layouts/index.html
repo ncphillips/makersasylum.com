@@ -75,12 +75,12 @@ layout: default
     </p>
   </section>
   <section>
-    <h2>SPONSORERS & PARTNERS</h2>
+    <h2>SPONSORS & PARTNERS</h2>
     <div class="row">
-      <h3 class="text-center">SPONSORERS</h3>
-      {% for sponsorer in page['sponsorers'] %}
+      <h3 class="text-center">SPONSORS</h3>
+      {% for sponsor in page['sponsors'] %}
       <div class="col-md-3 partner-thumb-container">
-        <img src="{{ sponsorer.image }}" class="img-responsive center-block" alt="">
+        <img src="{{ sponsor.image }}" class="img-responsive center-block" alt="{{ sponsor.name }}">
       </div>
       {% endfor %}
     </div>

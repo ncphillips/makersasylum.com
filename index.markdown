@@ -1,12 +1,12 @@
 ---
 title: Home
 featured:
-- title: Exploring Electrooculography at the Delhi Asylum
-  link: http://makersasylum.com/exploring-electrooculography-at-the-delhi-asylum/
-  image: "/uploads/IMG_5128-970x540.jpg"
-- title: 'Learn Rapid Prototyping '
+- title: Monthly Certified Course on Rapid Prototyping
   link: http://makersasylum.com/rapidprototyping/
-  image: "/uploads/Makers-Facebook-11.png"
+  image: "/uploads/Workshop%20in%20progress.jpg"
+- title: Exploring Electrooculography at the Delhi Asylum
+  link: ".../projects/maker-auto/"
+  image: "/uploads/20170312_124009-768x432.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: http://makersasylum.siteleaf.net/membership/
   image: "/uploads/IMG_6872.JPG"
