@@ -17,6 +17,10 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
+sponsorers:
+- name: 
+  image: 
+  link: 
 partners:
 - name: Imaginarium
   image: "/uploads/imaginarium.jpeg"
@@ -41,10 +45,6 @@ partners:
   link: 
 - name: 
   image: "/uploads/Fab_Lab_logo.svg.png"
-  link: 
-sponsorers:
-- name: 
-  image: 
   link: 
 layout: index
 ---
