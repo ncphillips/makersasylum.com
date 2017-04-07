@@ -17,6 +17,10 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
+sponsorers:
+- name: 
+  image: 
+  link: 
 partners:
 - name: Imaginarium
   image: "/uploads/imaginarium.jpeg"
