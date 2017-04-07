@@ -17,10 +17,6 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
-sponsorers:
-- name: 
-  image: 
-  link: 
 partners:
 - name: 
   image: 
