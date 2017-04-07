@@ -139,6 +139,16 @@ section > h2,
 	margin: 0 0 0 -15px;
 }
 
+.partner-thumb-container {
+  height: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.partner-thumb-container img {
+  max-height: 160px;
+}
+
 // Press Page
 .press h3 {
   color: white;
@@ -348,6 +358,12 @@ section > h2,
       max-height: 108px;
     }
   }
+}
+
+// Member Archive Page
+.member-profile-picture-container {
+  height: 293px;
+  overflow: hidden;
 }
 
 // Single Member

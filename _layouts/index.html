@@ -78,8 +78,8 @@ layout: default
     <h2>SPONSORERS & PARTNERS</h2>
     <div class="row">
       {% for partner in page['partners'] %}
-      <div class="col-md-4">
-        <img data-src="holder.js/200x200?auto=yes">
+      <div class="col-md-4 partner-thumb-container">
+        <img src="{{ partner.image }}" class="img-responsive center-block" alt="">
       </div>
       {% endfor %}
     </div>
