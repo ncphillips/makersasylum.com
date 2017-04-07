@@ -77,8 +77,17 @@ layout: default
   <section>
     <h2>SPONSORERS & PARTNERS</h2>
     <div class="row">
+      <h3 class="text-center">SPONSORERS</h3>
+      {% for sponsorer in page['sponsorers'] %}
+      <div class="col-md-3 partner-thumb-container">
+        <img src="{{ sponsorer.image }}" class="img-responsive center-block" alt="">
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <h3 class="text-center">PARTNERS</h3>
       {% for partner in page['partners'] %}
-      <div class="col-md-4 partner-thumb-container">
+      <div class="col-md-3 partner-thumb-container">
         <img src="{{ partner.image }}" class="img-responsive center-block" alt="">
       </div>
       {% endfor %}
