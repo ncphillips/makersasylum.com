@@ -18,22 +18,19 @@ featured projects:
 - project: Game Arcade
   description: 
 sponsorers:
-- name: 
-  image: 
-  link: 
-partners:
 - name: Imaginarium
   image: "/uploads/imaginarium.jpeg"
   link: 
-- name: 
+- name: Bosch
   image: "/uploads/1024px-Bosch-brand.svg.png"
   link: 
-- name: 
+- name: Dremel
   image: "/uploads/1024px-Dremel_logo.svg.png"
   link: 
-- name: 
+- name: Wyolum
   image: "/uploads/wyolum-logo7-250x250.png"
   link: 
+partners:
 - name: 
   image: "/uploads/LOGO%20SST.png"
   link: 
