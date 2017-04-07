@@ -21,6 +21,27 @@ partners:
 - name: Imaginarium
   image: "/uploads/imaginarium.jpeg"
   link: 
+- name: 
+  image: "/uploads/1024px-Bosch-brand.svg.png"
+  link: 
+- name: 
+  image: "/uploads/1024px-Dremel_logo.svg.png"
+  link: 
+- name: 
+  image: "/uploads/wyolum-logo7-250x250.png"
+  link: 
+- name: 
+  image: "/uploads/LOGO%20SST.png"
+  link: 
+- name: 
+  image: "/uploads/CRI%20logo.jpg"
+  link: 
+- name: 
+  image: "/uploads/Autodesk-logo-and-wordmark.png"
+  link: 
+- name: 
+  image: "/uploads/Fab_Lab_logo.svg.png"
+  link: 
 layout: index
 ---
 
