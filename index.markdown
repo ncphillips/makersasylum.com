@@ -2,13 +2,13 @@
 title: Home
 featured:
 - title: Monthly Certified Course on Rapid Prototyping
-  link: http://makersasylum.com/rapidprototyping/
-  image: "/uploads/Workshop%20in%20progress.jpg"
+  link: rapidprototyping/
+  image: "/uploads/Workshop%20in%20progress-95d825.jpg"
 - title: Workshops in Pune with the Maker Auto
-  link: ".../projects/maker-auto/"
+  link: projects/maker-auto/
   image: "/uploads/20170312_124009-768x432.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
-  link: http://makersasylum.siteleaf.net/membership/
+  link: membership/
   image: "/uploads/IMG_6872.JPG"
 featured projects:
 - project: Maker Auto
