@@ -4,7 +4,7 @@ featured:
 - title: Monthly Certified Course on Rapid Prototyping
   link: http://makersasylum.com/rapidprototyping/
   image: "/uploads/Workshop%20in%20progress.jpg"
-- title: Exploring Electrooculography at the Delhi Asylum
+- title: Workshops in Pune with the Maker Auto
   link: ".../projects/maker-auto/"
   image: "/uploads/20170312_124009-768x432.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
