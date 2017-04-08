@@ -3,17 +3,18 @@ layout: default
 ---
 
 <div class="container">
-	<h1 class="title">{{ page.title }}</h1>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="project-featured-image-lg" style="background-image: url({{ page['featured image'] }})"></div>
-		</div>
-		<div class="col-md-6">
-			<div class="member-description">
+  <h1 class="title">{{ page.title }}</h1>
+  <div class="row">
+    <div class="col-md-6">
+      <div class="project-featured-image-lg" style="background-image: url({{ page['featured image'] }})"></div>
+    </div>
+    <div class="col-md-6">
+      <div class="member-description">
         {{ content }}
-			</div>
-			<div class="project-contact pad-y-sm">
-			  <h3 class="h5">Team:</h3>
+      </div>
+      <div class="project-contact pad-y-sm">
+				{% if page['team']['members'][0] %}
+        <h3 class="h5">Team:</h3>
         <p>
           {% if page['team']['team lead']['members'] != '' %}
             {% for lead in page['team']['team lead']['members'] %}
@@ -28,11 +29,14 @@ layout: default
             {% endfor %}
           {% endunless %}
         </p>
+				{% endif %}
+        {% if page['team']['contact email'] %}
         <h3 class="h5">For more information, write to:</h3>
         <a href="mailto:{{ page['team']['contact email'] }}">{{ page['team']['contact email'] }}</a>
-			</div>
-		</div>
-	</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
   <div class="row">
     {% unless page['video iframes'] == empty %}
     <div id="fluid-width-video-wrapper" class="col-md-12">
