@@ -2,7 +2,7 @@
 title: Karishma Sharma
 date: 2017-04-06 18:30:00 +05:30
 profile picture: "/uploads/karishma.jpg"
-website: www.customademusings.in
+website: http://customademusings.in/
 email: karishma@customademusings.in
 ---
 
