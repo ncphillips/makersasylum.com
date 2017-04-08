@@ -1,21 +1,25 @@
 footer {
   background-color: black;
   color: white;
-}
-footer .row {
-  margin-bottom: 0;
-}
-footer .container {
-  padding-top: 32px;
-  padding-bottom: 32px;
-  border-top: 1px solid #231f20;
-}
-footer .form-group {
-  width: 70%;
-}
-footer form.form-inline input.form-control {
-  background-color: $gray-dark;
-  border: 0;
-  border-radius: 0;
-  width: 100%;
+
+  .row {
+    margin-bottom: 0;
+  }
+
+  .container {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    border-top: 1px solid #231f20;
+  }
+
+  .form-group {
+    width: 70%;
+  }
+
+  form.form-inline input.form-control {
+    background-color: $gray-dark;
+    border: 0;
+    border-radius: 0;
+    width: 100%;
+  }
 }

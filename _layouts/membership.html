@@ -38,19 +38,17 @@ layout: default
       <div class="col-md-3">
         <img src="holder.js/100px200?auto=yes" alt="{{ type.name }}">
       </div>
-      <div class="col-md-6">
+      <div class="col-md-9 membership-info">
         <h3 class="margin-top-none">{{ type.name }}</h3>
         <p>{{ type.description }}</p>
-        <hr class="dark dashed">
-        <p>You get:</p>
-        <p>{{ type.benefits }}</p>
-      </div>
-      <div class="col-md-3 background-yellow text-center">
+        <hr class="dark">
+        <p class="membership-benefits">
+          <strong>Benefits</strong>: {{ type.benefits }}
+        </p>
         {% if type['is available'] == false %}
         <p>CURRENTLY NOT AVAILABLE</p>
         {% endif %}
-        <p class="h3 font-weight-normal">INR {{ type.price }}</p>
-        <a href="{{ type.instamojo }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="GET"></a>
+        <a href="{{ type.instamojo }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="INR {{ type.price }}"></a>
         <script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script>
       </div>
     </div>
