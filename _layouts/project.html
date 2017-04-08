@@ -13,6 +13,7 @@ layout: default
         {{ content }}
       </div>
       <div class="project-contact pad-y-sm">
+				{% if page['team']['members'][0] %}
         <h3 class="h5">Team:</h3>
         <p>
           {% if page['team']['team lead']['members'] != '' %}
@@ -28,6 +29,7 @@ layout: default
             {% endfor %}
           {% endunless %}
         </p>
+				{% endif %}
         {% if page['team']['contact email'] %}
         <h3 class="h5">For more information, write to:</h3>
         <a href="mailto:{{ page['team']['contact email'] }}">{{ page['team']['contact email'] }}</a>

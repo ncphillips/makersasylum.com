@@ -44,7 +44,8 @@ section > h2,
 .title {
   border-bottom-style: solid;
   border-bottom-width: 8px;
-  border-image: repeating-linear-gradient(-50deg, black, black 20px, $brand-primary 21px, $brand-primary 40px) 20;
+  border-bottom-color: $brand-primary;
+  // border-image: repeating-linear-gradient(-50deg, black, black 20px, $brand-primary 21px, $brand-primary 40px) 20;
   padding-bottom: 10px;
 }
 
