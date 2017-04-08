@@ -29,7 +29,7 @@ layout: default
 </div>
 
 <div class="container">
-  <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen. <a href="">Know More..</a></h2>
+  <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen.</h2>
   <section>
     <h2>LABS</h2>
     <p class="lead">
@@ -40,9 +40,7 @@ layout: default
       {% for lab in site.labs %}
       <div class="col-md-3 center-block">
         <div class="media-left">
-          <a href="#">
-            <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
-          </a>
+          <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
         </div>
         <div class="media-body">
           <h3 class="media-heading h5">{{ lab.title }}</h3>

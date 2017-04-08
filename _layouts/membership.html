@@ -36,7 +36,7 @@ layout: default
     {% for type in page['membership types'] %}
     <div class="row">
       <div class="col-md-3">
-        <img src="holder.js/100px200?auto=yes" alt="{{ type.name }}">
+        <img src="{{ type.image }}" class="img-responsive" alt="{{ type.name }}">
       </div>
       <div class="col-md-9 membership-info">
         <h3 class="margin-top-none">{{ type.name }}</h3>
