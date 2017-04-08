@@ -1,7 +1,7 @@
 ---
 title: Parth Mehta
 date: 2017-04-06 18:28:00 +05:30
-website: quonto.io
+website: http://quonto.io/
 email: parth.rmehta@gmail.com
 ---
 

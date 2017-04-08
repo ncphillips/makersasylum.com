@@ -2,7 +2,7 @@
 title: Khyati Dodhia
 date: 2017-04-06 18:19:00 +05:30
 profile picture: "/uploads/khyati.jpg"
-website: www.theblackcanvas.in
+website: https://www.theblackcanvas.in/
 email: khyati@theblackcanvas.in
 social:
   facebook: https://www.facebook.com/khyatidodhia

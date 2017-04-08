@@ -2,7 +2,7 @@
 title: Namita Mohandas
 date: 2017-04-06 18:31:00 +05:30
 profile picture: "/uploads/IMG_1181.jpg"
-website: www.namitamohandas.com
+website: http://www.namitamohandas.com/
 email: namitamohandas@gmail.com
 social:
   facebook: https://www.facebook.com/namita.mohandas
