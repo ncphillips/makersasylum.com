@@ -5,31 +5,37 @@ layout: default
 <div class="container">
 	<h1 class="title">{{ page.title }}</h1>
 	<div class="row">
-		<div class="col-md-6">
-			<img src="{{ page['profile picture'] }}" class="img-responsive" alt="">
-			<h3>PROJECTS</h3>
-			<div class="row">
-				{% for project in site.projects %}
-				{% if project['team']['team lead']['members'] contains page.title or project['team']['members'] contains page.title %}
-				<div class="col-md-6">
-					<a href="{{ project.url }}"><div class="project-featured-image-xs" style="background-image: url({{ project['featured image'] }})"></div></a>
-					<h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
-				</div>
-				{% else %}
-					{% continue %}
-				{% endif %}
-				{% endfor %}
+		<div class="col-md-4">
+			<div class="member-page-profile-picture-container">
+				<img src="{{ page['profile picture'] }}" class="img-responsive" alt="">
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<div class="member-description">
 				{{ content }}
 			</div>
 			<div class="member-contact pad-y-sm">
-				<a href="{{ page.website }}">{{ page.website }}</a>
-				<p>Email - <a href="mailto:{{ page.email }}">{{ page.email | downcase }}</a></p>
-				<p>Phone - <a href="tel:{{ page.phone }}">{{ page.phone }}</a></p>
+				<p>
+					<a href="{{ page.website }}">{{ page.website }}</a>
+					<a href="mailto:{{ page.email }}" class="member-email">{{ page.email | downcase }}</a>
+					<a href="tel:{{ page.phone }}" class="member-phone">{{ page.phone }}</a>
+				</p>
 			</div>
 		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<h3>PROJECTS</h3>
+		</div>
+		{% for project in site.projects %}
+		{% if project['team']['team lead']['members'] contains page.title or project['team']['members'] contains page.title %}
+		<div class="col-md-4">
+			<a href="{{ project.url }}"><div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div></a>
+			<h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
+		</div>
+		{% else %}
+			{% continue %}
+		{% endif %}
+		{% endfor %}
 	</div>
 </div>

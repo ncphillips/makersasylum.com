@@ -1,17 +1,16 @@
 // Pages
-.page-header h2 {
-  border-bottom: 1px solid $brand-primary;
-  padding-bottom: 5px;
-}
 .page-header {
-  border-bottom: none;
+  border-bottom: 0;
   font-weight: normal;
-  margin-top: 0;
   margin-bottom: 10px;
+  margin-top: 0;
+
+  h2 {
+    border-bottom: 1px solid $brand-primary;
+    padding-bottom: 5px;
+  }
 }
-.widget_categories a {
-  color: $gray;
-}
+
 .membership {
   .panel-heading {
     background: $brand-primary;
@@ -23,44 +22,45 @@
   list-style-type: none;
   padding: 0;
 }
-.home h2 {
-  border-bottom: 1px solid $brand-primary;
-  padding-bottom: 5px;
-}
+
 .home {
+  h2 {
+    border-bottom: 1px solid $brand-primary;
+    padding-bottom: 5px;
+  }
+
   .tagline {
     padding: 10px 0;
+
     h2 {
+      border: 0;
       margin: 0;
       padding: 0;
-      border: 0;
-      a {
-        color: #333;
-        font: $heading-font-stack;
-      }
     }
   }
 }
 
 section > h2,
 .title {
-  padding-bottom: 10px;
-  border-bottom-width: 8px;
   border-bottom-style: solid;
-  border-image: repeating-linear-gradient( -50deg, black, black 20px, $brand-primary 21px, $brand-primary 40px) 20;
+  border-bottom-width: 8px;
+  border-image: repeating-linear-gradient(-50deg, black, black 20px, $brand-primary 21px, $brand-primary 40px) 20;
+  padding-bottom: 10px;
 }
 
 // Story
 .story .wrap.container {
   max-width: 1160px;
 }
+
 .cbp_tmtimeline {
-	margin: 30px auto 0 auto;
-	padding: 0;
-	list-style: none;
-	position: relative;
-	width: 100%;
+  list-style: none;
+  margin: 30px auto 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
 }
+
 .cbp_tmtimeline:before {
 	content: '';
 	position: absolute;
@@ -71,24 +71,29 @@ section > h2,
 	left: 50%;
 	margin-left: -10px;
 }
+
 .cbp_tmtimeline > li {
 	position: relative;
 	min-height: 110px;
 }
+
 .cbp_tmtimeline > li .cbp_tmtime {
 	display: block;
 	width: 50%;
 	padding-right: 60px;
 	position: absolute;
 }
+
 .cbp_tmtimeline > li > div:nth-child(1) > img:nth-child(1) {
 	width: 100%;
 	height: 100%;
 }
+
 .cbp_tmtimeline > li .cbp_tmtime img {
 	display: block;
 	text-align: right;
 }
+
 .cbp_tmtimeline > li .cbp_tmlabel {
 	margin: 0 0 15px 55%;
 	background: #FBBF14;
@@ -100,11 +105,13 @@ section > h2,
 	position: relative;
 	border-radius: 5px;
 }
+
 .cbp_tmtimeline > li .cbp_tmlabel h3 {
 	margin-top: 0px;
 	padding: 0 0 10px 0;
 	border-bottom: 1px solid rgba(255,255,255,0.4);
 }
+
 .cbp_tmtimeline > li .cbp_tmlabel:after {
 	right: 100%;
 	border: solid transparent;
@@ -117,6 +124,7 @@ section > h2,
 	border-width: 10px;
 	top: 10px;
 }
+
 .cbp_tmtimeline > li .cbp_tmicon {
 	width: 15px;
 	height: 15px;
@@ -140,43 +148,47 @@ section > h2,
 }
 
 .partner-thumb-container {
-  height: 200px;
-  display: flex;
   align-items: center;
-}
+  display: flex;
+  height: 200px;
 
-.partner-thumb-container img {
-  max-height: 180px;
-  max-width: 180px;
+  img {
+    max-height: 180px;
+    max-width: 180px;
+  }
 }
 
 // Press Page
 .press h3 {
+  background-color: $brand-primary;
   color: white;
   font-weight: 600;
-  background-color: $brand-primary;
   padding: 10px 5px;
 }
+
 .press h3:hover {
-  background-color: transparentize($brand-primary, 0.2);
+  background-color: transparentize($brand-primary, .2);
 }
 
 // Team Page
 .team article {
   padding: 15px;
 }
+
 .core article:nth-of-type(even),
 .advisors article:nth-of-type(even),
 .champions article:nth-of-type(even),
 .alumni article:nth-of-type(even) {
   clear: right;
 }
+
 .core article:nth-of-type(odd),
 .advisors article:nth-of-type(odd),
 .champions article:nth-of-type(odd),
 .alumni article:nth-of-type(odd) {
   clear: left;
 }
+
 .team .profile-header img {
   height: 120px;
   width: 120px;
@@ -187,163 +199,33 @@ section > h2,
   font-size: 2.4rem;
 }
 
-// Portfolio Page
-.page-template-template-portfolio {
-  div.col-xs-4 {
-    padding: 0;
-    .jetpack-portfolio {
-      overflow: hidden;
-      .post-thumbnail-wrapper {
-        background-color: $brand-primary;
-      	width: 100.1%;
-      	position: relative;
-      	z-index: 1;
-        padding-top: 100%;
-        .post-thumbnail {
-          margin: 0;
-        	position: absolute;
-        	top: 0;
-        	left: 0;
-        	width: 100%;
-          img {
-            width: 100%;
-            height: auto;
-            -webkit-transition: all 0.3s ease;
-          	-moz-transition: all 0.3s ease;
-          	transition: all 0.3s ease;
-          	-webkit-backface-visibility: hidden;
-          }
-        }
-      }
-      .image-link {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 2;
-      }
-      .project-info {
-        overflow: hidden;
-        position: absolute;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        > div {
-          display: table;
-          width: 100%;
-          height: 100%;
-          > div {
-            display: table-cell;
-            padding: 24px;
-            text-align: center;
-            vertical-align: middle;
-          }
-        }
-        .entry-title {
-            opacity: 0;
-            -webkit-transition: all 0.3s ease;
-          	-moz-transition: all 0.3s ease;
-          	transition: all 0.3s ease;
-          	font-size: 24px;
-          	font-weight: 700;
-          	line-height: 1.33333;
-          	margin: 0 0 24px;
-          	position: relative;
-          	z-index: 3;
-            a {
-              color: #fff;
-              text-decoration: none;
-              &:hover {
-                border-bottom: 1px solid white;
-              }
-            }
-        }
-        .entry-meta {
-          opacity: 0;
-          -webkit-transition: all 0.3s ease;
-        	-moz-transition: all 0.3s ease;
-        	transition: all 0.3s ease;
-        	font-size: 11px;
-        	font-weight: 400;
-        	line-height: 1.45455;
-        	color: #fff;
-        	padding: 4px 0;
-        	position: relative;
-        	width: auto;
-        	z-index: 3;
-          a {
-            color: #fff;
-            &:hover {
-              border-bottom: 1px solid white;
-            }
-          }
-        }
-        .view-link {
-          -webkit-transition: all 0.3s ease;
-          -moz-transition: all 0.3s ease;
-          transition: all 0.3s ease;
-          font-size: 15px;
-          font-weight: 700;
-          line-height: 1.6;
-          border: 2px solid white;
-          color: #fff;
-          display: inline-block;
-          padding: 4px 24px;
-          position: relative;
-          text-transform: uppercase;
-          z-index: 3;
-          opacity: 0;
-        }
-        .view-link:hover, .view-link:focus, .view-link:active {
-          background-color: #fff;
-          color: $brand-primary;
-        }
-        .view-link:active {
-          bottom: -2px;
-        }
-      }
-      &.hover {
-        .post-thumbnail {
-          img {
-            opacity: 0.5;
-          	-webkit-transform: scale(1.05, 1.05);
-          	-moz-transform: scale(1.05, 1.05);
-          	-ms-transform: scale(1.05, 1.05);
-          	transform: scale(1.05, 1.05);
-          	-webkit-filter: grayscale(100%);
-          	-moz-filter: grayscale(100%);
-          	filter: grayscale(100%);
-          }
-        }
-        .entry-title,
-        .entry-meta,
-        .view-link {
-        	opacity: 1;
-        }
-        .image-link {
-        	display: block;
-        }
-      }
-    }
-  }
-}
-
 // Membership Page
 
 #carousel-membership {
   .item {
     max-height: 500px;
   }
+
   .item::before {
-    content:"";
     background: rgba(0, 0, 0, 0.5);
-    position: absolute;
+    content: '';
+    height: 100%;
     left: 0;
+    position: absolute;
     top: 0;
     width: 100%;
-    height: 100%;
     z-index: 1;
+  }
+}
+
+.membership-info {
+  position: relative;
+  height: 200px;
+  max-height: 200px;
+
+  .im-checkout {
+    position: absolute;
+    bottom: 0;
   }
 }
 
@@ -371,13 +253,34 @@ section > h2,
 .member-description {
   font-size: 130%;
   box-sizing: content-box;
-  min-height: 300px;
-  border-bottom: 3px dashed black;
-  padding-bottom: 30px;
+  border-bottom: 2px solid black;
 }
 
-.member-contact {
-  border-bottom: 2px solid black;
+.member-page-profile-picture-container {
+  max-height: 293.33px;
+  overflow: hidden;
+}
+
+.member-contact a {
+  display: inline-block;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.member-contact a:first-of-type {
+  padding-left: 0;
+}
+
+.member-email,
+.member-phone {
+  border-left: 1px solid black;
+}
+
+// Project Archive Page
+
+.project-card {
+  height: 489px;
+  max-height: 489px;
 }
 
 // Single Project Page
