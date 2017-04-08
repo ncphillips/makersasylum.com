@@ -1,6 +1,7 @@
 ---
 title: Rajshekhar Dass
 date: 2017-04-06 18:27:00 +05:30
+profile picture: "/uploads/Rajshekhar%20Dass.jpg"
 website: https://www.behance.net/rajshekhardass
 email: rajshekhar.dass12@gmail.com
 ---
