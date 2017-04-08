@@ -24,7 +24,7 @@ membership types:
     community.
   price: '5,000'
   instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
-  image: 
+  image: "/uploads/regular.JPG"
   is available: true
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
@@ -32,7 +32,7 @@ membership types:
   benefits: Dedicated DIY workspace, tea/coffee + regular benefits.
   price: '13,800'
   instamojo: 
-  image: 
+  image: "/uploads/studio.JPG"
   is available: true
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
@@ -41,7 +41,7 @@ membership types:
     + regular benefits.
   price: '40,250'
   instamojo: 
-  image: 
+  image: "/uploads/private.JPG"
   is available: true
 tools access:
   title: Member Access to Tools
