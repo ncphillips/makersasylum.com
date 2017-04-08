@@ -34,6 +34,11 @@
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired
+        $('ul.nav li.dropdown').hover(function() {
+          $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+        }, function() {
+          $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+        });
       }
     },
     // Home page
@@ -43,43 +48,6 @@
       },
       finalize: function() {
         // JavaScript to be fired on the home page, after the init JS
-        $('.featured-content').slick({
-          dots: false,
-          infinite: true,
-          speed: 500,
-          fade: true,
-          cssEase: 'linear',
-          autoplay: true,
-          autoplaySpeed: 3000,
-          arrows: false,
-        });
-        var valid_email_address = function(email) {
-          var pattern = new RegExp(/^[+a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/i);
-          return pattern.test(email);
-        };
-        $('#subscribe').on('submit', function(e) {
-      		e.preventDefault();
-      		if (!valid_email_address($("#email").val())) {
-            $(".message").html('The email address you entered was invalid. Please make sure you enter a valid email address to subscribe.');
-          }
-      		else {
-            $(".message").html("<span style='color:green;'>Adding your email address...</span>");
-            $.ajax({
-            	type: 'POST',
-              url: 'app/themes/sage/lib/mailchimp_subscribe.php',
-              data: $('#subscribe').serialize(),
-              success: function(msg) {
-                if(msg==="success") {
-                  $("#email").val("");
-                  $(".message").html('<span style="color:green;">You have successfully subscribed to our mailing list. Please confirm your subscription by clicking the link in the confirmation mail.</span>');
-                }
-                else {
-                  $(".message").html('The email address you entered was invalid. Please make sure you enter a valid email address to subscribe.');
-                }
-              }
-            });
-          }
-        });
       }
     },
     'events': {
@@ -143,18 +111,6 @@
     },
     'projects': {
       init: function() {
-    		var portfolio_item = $( '.post-type-archive-jetpack-portfolio .hentry, .tax-jetpack-portfolio-type .hentry, .tax-jetpack-portfolio-tag .hentry, .page-template-template-portfolio .hentry' );
-
-    		$( portfolio_item ).off( 'mouseenter mouseleave' ).on( 'mouseenter mouseleave', function() {
-    			$( this ).toggleClass( 'hover' );
-    		} );
-
-    		/*
-    		 * Make sure the hover style stays when anchors inside are focused with a tab key.
-    		 */
-    		$( portfolio_item ).find( 'a:not(.image-link)' ).off( 'focus focusout' ).on( 'focus focusout', function() {
-    			$( this ).closest( '.hentry' ).toggleClass( 'hover' );
-    		} );
     	}
     }
   };
