@@ -2,7 +2,7 @@
 title: Shaheena Attarwala
 date: 2017-04-06 18:27:00 +05:30
 profile picture: "/uploads/shaheena%20attarwala.jpg"
-website: www.RuthlessUx.com
+website: https://ruthlessux.com/
 email: designs@purplecube.in
 ---
 
