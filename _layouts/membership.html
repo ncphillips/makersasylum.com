@@ -48,7 +48,26 @@ layout: default
         {% if type['is available'] == false %}
         <p>CURRENTLY NOT AVAILABLE</p>
         {% endif %}
+        {% if type.name == 'REGULAR' %}
         <a href="{{ type.instamojo }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="INR {{ type.price }}"></a>
+        {% else %}
+        <button class="btn btn-primary im-checkout" data-toggle="modal" data-target="#membership-modal" style="color: black">INR {{ type.price }}</button>
+        <div class="modal fade" id="membership-modal" tabindex="-1" role="dialog">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              </div>
+              <div class="modal-body">
+                <p class="h2">Please call us at <a href="tel:{{ site.phone }}">{{ site.phone }}</a> or e-mail us at <a href="mailto:info@makersasylum.com">info@makersasylum.com</a> to get a STUDIO or a PRIVATE space.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        {% endif %}
         <script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script>
       </div>
     </div>
