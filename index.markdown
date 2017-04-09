@@ -4,9 +4,6 @@ featured:
 - title: Monthly Certified Course on Rapid Prototyping
   link: rapidprototyping/
   image: "/uploads/Workshop%20in%20progress-95d825.jpg"
-- title: Workshops in Pune with the Maker Auto
-  link: projects/maker-auto/
-  image: "/uploads/20170312_124009-768x432.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
