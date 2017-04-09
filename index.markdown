@@ -38,7 +38,7 @@ partners:
   image: "/uploads/Autodesk-logo-and-wordmark.png"
   link: 
 - name: 
-  image: "/uploads/Fab_Lab_logo-s-89aa1c.png"
+  image: "/uploads/Fab_Lab_logo-s-234813.png"
   link: 
 layout: index
 ---
