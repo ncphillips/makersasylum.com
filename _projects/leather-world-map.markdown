@@ -11,7 +11,6 @@ team:
   team lead:
     members:
     - Khyati Dodhia
-  contact email: khyati@theblackcanvas.in
 ---
 
 When Khyati lost a chance to travel to one of her favorite places, she made up for it by designing a whole range of leather world-map products. This was when we approached her and asked her to create her first installation. What started out as a completely rustic, plain red brick wall turned out to become a 11 ft x 10 ft black brick wall with a massive world map made out of colourful reclaimed leather and MDF boards.
