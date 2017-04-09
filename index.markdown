@@ -4,9 +4,6 @@ featured:
 - title: Monthly Certified Course on Rapid Prototyping
   link: rapidprototyping/
   image: "/uploads/Workshop%20in%20progress-95d825.jpg"
-- title: Workshops in Pune with the Maker Auto
-  link: projects/maker-auto/
-  image: "/uploads/20170312_124009-768x432.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
@@ -32,7 +29,7 @@ sponsors:
   link: 
 partners:
 - name: 
-  image: "/uploads/LOGO%20SST.png"
+  image: "/uploads/LOGO%20SST%20-s-9d3358.png"
   link: 
 - name: 
   image: "/uploads/CRI%20logo.jpg"
@@ -41,7 +38,7 @@ partners:
   image: "/uploads/Autodesk-logo-and-wordmark.png"
   link: 
 - name: 
-  image: "/uploads/Fab_Lab_logo.svg.png"
+  image: "/uploads/Fab_Lab_logo-s.png"
   link: 
 layout: index
 ---
