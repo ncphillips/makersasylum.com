@@ -29,7 +29,7 @@ sponsors:
   link: 
 partners:
 - name: 
-  image: "/uploads/LOGO%20SST.png"
+  image: "/uploads/LOGO%20SST%20-s-9d3358.png"
   link: 
 - name: 
   image: "/uploads/CRI%20logo.jpg"
@@ -38,7 +38,7 @@ partners:
   image: "/uploads/Autodesk-logo-and-wordmark.png"
   link: 
 - name: 
-  image: "/uploads/Fab_Lab_logo.svg.png"
+  image: "/uploads/Fab_Lab_logo-s.png"
   link: 
 layout: index
 ---
