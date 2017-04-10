@@ -50,10 +50,8 @@ defaults:
     featured image:
     pictures: []
     video iframes: []
-    team:
-      members:
-      -
-      contact email:
+    members: []
+    contact email:
     layout: project
 - scope:
     path: ''
