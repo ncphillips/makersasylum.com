@@ -49,4 +49,4 @@ Application Procedure:
 
 * Let us know about the project that you want to do at the Asylum and why do you want to do it.
 
-* Attach your resume, past project documentations (pictures/ blog post/ link/ published papers/ presentations etc).
+* Attach your resume, past project documentations (pictures / blog post / link / published papers / presentations etc).
