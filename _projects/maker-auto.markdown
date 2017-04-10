@@ -13,6 +13,8 @@ team:
   team lead:
     members:
     - Coby Unger
+  members:
+  - Coby Unger
 ---
 
 The excitement and energy about innovation and building things within the maker culture is palpable. But how can we bring that creativity energy to to the streets of Mumbai in collaborative workshops and projects? Can we show the greater community that making and building things by is an essential part of some of the best innovations?
@@ -21,7 +23,7 @@ The goal of the Maker Auto is to bring the tools, materials, mentorship, and cre
 
 We are currently facilitating collaborative workshops & projects with various community groups, educational institutions, non-profits and corporates across the city.
 
-For more details - http://makerauto.tools/
+For more details - [makerauto.tools](http://makerauto.tools/)
 
 **Looking for:**
 * Partners to sponsor workshops
