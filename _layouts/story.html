@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div id="story">
+    <ul class="cbp_tmtimeline">
+      <li>
+        <div class="cbp_tmtime"></div>
+        <div class="cbp_tmicon"></div>
+        <div class="cbp_tmlabel">
+          <h1>Our Story</h1>
+        </div>
+      </li>
+      {% for version in page.versions %}
+      <li>
+        <div class="cbp_tmtime"><img src="{{ version.image }}" alt="{{ version.title }}"></div>
+        <div class="cbp_tmicon"></div>
+        <div class="cbp_tmlabel">
+          <h2 class="h3">{{ version.title }}</h2>
+          {{ version.description }}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
