@@ -59,7 +59,7 @@ layout: default
       {% for project in page['featured projects'] %}
       <div class="col-md-4">
         {% assign current_project = site.projects | where:"title", project.project %}
-        <div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div>
+        <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
         <h3><a href="{{ current_project[0].url }}">{{ project.project }}</a></h3>
         {% for lead in current_project[0]['team']['team lead']['members'] %}
           {% assign current_member = site.members | where:"title", lead %}
