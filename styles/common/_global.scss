@@ -1,10 +1,10 @@
 // Global
-.page-content {
-  padding: 30px 0;
-}
-
 body a {
   cursor: pointer;
+}
+
+.page-content {
+  padding: 30px 0;
 }
 
 .container {
@@ -12,17 +12,17 @@ body a {
 }
 
 .row {
-  padding-top: 2rem;
   padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .carousel-inner .item {
   height: 500px;
   overflow: hidden;
-}
 
-.carousel-inner .item img{
-  width: 100%;
+  img {
+    width: 100%;
+  }
 }
 
 .carousel-caption a {

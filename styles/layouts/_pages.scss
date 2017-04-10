@@ -17,6 +17,11 @@
   }
 }
 
+.page img {
+  @include img-responsive();
+  @include center-block();
+}
+
 //Front page
 .front-page-sections ul {
   list-style-type: none;
