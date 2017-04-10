@@ -92,15 +92,27 @@ We’d like build more meaningful associations with corporate through being a br
 ## List of Holidays for year 2016
 
 Maker’s Asylum will remain closed on following days:
+
 26th January – Republic Day
+
 24th March – Holi
+
 25th March – Good Friday
-15th August – Independance Day
+
+15th August – Independence Day
+
 5th September – Ganesh Chaturthi
+
 14th September – Anant Chaturdashi
+
 11th October – Dussehra
+
 30th October – Diwali
+
 31st October – Diwali
+
 25th December – Christmas
+
 31st December – Year End
+
 1st January – New year day
