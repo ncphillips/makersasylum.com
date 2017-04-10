@@ -1,7 +1,7 @@
 ---
 title: Home
 featured:
-- title: Monthly Certified Course on Rapid Prototyping
+- title: Rapid Prototyping Course
   link: rapidprototyping/
   image: "/uploads/Workshop%20in%20progress-95d825.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
