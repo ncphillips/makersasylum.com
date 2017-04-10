@@ -40,7 +40,7 @@ layout: default
       </div>
       <div class="col-md-9 membership-info">
         <h3 class="margin-top-none">{{ type.name }}</h3>
-        <p>{{ type.description }}</p>
+        <p>{{ type.description | markdownify }}</p>
         <hr class="dark">
         <p class="membership-benefits">
           <strong>Benefits</strong>: {{ type.benefits }}

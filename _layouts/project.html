@@ -13,18 +13,20 @@ layout: default
         {{ content }}
       </div>
       <div class="project-contact pad-y-sm">
-				{% if page['team']['members'][0] %}
+        {% if page['members'] %}
         <h3 class="h5">Team:</h3>
         <p>
-          {% unless page['members'] == empty %}
-            {% for member in page['members'] %}
-              {% assign current_member = site.members | where:"title", member %}
-              <a href="{{ current_member[0].url }}">{{ member | prepend: ', ' }}</a>
-            {% endfor %}
-          {% endunless %}
+          {% for member in page.members %}
+            {% assign current_member = site.members | where:"title", member %}
+            {% if page.members.size <= 1 and page.members.last == member %}
+            <a href="{{ current_member[0].url }}">{{ member }}</a>
+            {% else %}
+            <a href="{{ current_member[0].url }}">{{ member }},</a>
+            {% endif %}
+          {% endfor %}
         </p>
-				{% endif %}
-        {% if page['team']['contact email'] %}
+        {% endif %}
+        {% if page['contact email'] %}
         <h3 class="h5">For more information, write to:</h3>
         <a href="mailto:{{ page['team']['contact email'] }}">{{ page['team']['contact email'] }}</a>
         {% endif %}
