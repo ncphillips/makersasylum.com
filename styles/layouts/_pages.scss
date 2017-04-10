@@ -44,7 +44,7 @@ section > h2,
 .title {
   border-bottom-style: solid;
   border-bottom-width: 8px;
-  border-bottom-color: $brand-primary;
+  border-bottom-color: black;
   // border-image: repeating-linear-gradient(-50deg, black, black 20px, $brand-primary 21px, $brand-primary 40px) 20;
   padding-bottom: 10px;
 }
@@ -216,17 +216,6 @@ section > h2,
     top: 0;
     width: 100%;
     z-index: 1;
-  }
-}
-
-.membership-info {
-  position: relative;
-  height: 213px;
-  max-height: 213px;
-
-  .im-checkout {
-    position: absolute;
-    bottom: 0;
   }
 }
 

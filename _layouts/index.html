@@ -33,8 +33,7 @@ layout: default
   <section>
     <h2>LABS</h2>
     <p class="lead">
-      We have 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with
-      a fridge full of drinks and some kickass labs for work and fun.
+      {{ page['labs text'] }}
     </p>
     <div class="row pad-y-lg">
       {% for lab in site.labs %}
@@ -59,12 +58,10 @@ layout: default
       {% for project in page['featured projects'] %}
       <div class="col-md-4">
         {% assign current_project = site.projects | where:"title", project.project %}
-        <div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div>
-        <h3><a href="{{ current_project[0].url }}">{{ project.project }}</a></h3>
-        {% for lead in current_project[0]['team']['team lead']['members'] %}
-          {% assign current_member = site.members | where:"title", lead %}
-          <a href="{{ current_member[0].url }}" style="color: black;">{{ lead }}</a>
-        {% endfor %}
+        <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
+        <h3><a href="{{ current_project[0].url }}" style="color: black">{{ project.project }}</a></h3>
+          {% assign current_member = site.members | where:"title", current_project[0].members.first %}
+          <a href="{{ current_member[0].url }}" style="color: black;">{{ current_member[0].title }}</a>
       </div>
       {% endfor %}
     </div>

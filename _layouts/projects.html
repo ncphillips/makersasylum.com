@@ -7,12 +7,10 @@ layout: default
   <div class="row">
     {% for project in site.projects %}
     <div class="col-md-4 margin-y-sm project-card">
-      <div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div>
-      <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-      {% for lead in project['team']['team lead']['members'] %}
-        {% assign current_member = site.members | where:"title", lead %}
-        <a href="{{ current_member[0].url }}" style="color: black;">{{ lead }}</a>
-      {% endfor %}
+      <a href="{{ project.url }}"><div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div></a>
+      <h3><a href="{{ project.url }}" class="text-black">{{ project.title }}</a></h3>
+      {% assign current_member = site.members | where:"title", project.members.first %}
+      <a href="{{ current_member[0].url }}" class="text-black">{{ current_member[0].title }}</a>
     </div>
     {% endfor %}
   </div>

@@ -28,7 +28,7 @@ layout: default
 			<h3>PROJECTS</h3>
 		</div>
 		{% for project in site.projects %}
-		{% if project['team']['team lead']['members'] contains page.title or project['team']['members'] contains page.title %}
+		{% if project.members contains page.title %}
 		<div class="col-md-4">
 			<a href="{{ project.url }}"><div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div></a>
 			<h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
