@@ -32,7 +32,7 @@ membership types:
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
   benefits: Dedicated DIY workspace, tea/coffee + regular benefits.
-  price: '13,800'
+  price: 1500
   instamojo: 
   image: "/uploads/studio.JPG"
   is available: true
