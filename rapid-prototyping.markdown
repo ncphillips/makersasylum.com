@@ -15,12 +15,18 @@ Participants will learn about the Laser Cutter, 3D Printer, CNC, Electronics and
 
 Classes will be conducted over 3 weekends every month, and you will get access to the Maker’s Asylum for that whole month.
 
-You can choose to take up individual sessions, but that will not include the membership, or the certification. The costs for the same are mentioned in the schedule photo below.\
-Day 1: Orientation, Electronics and Arduino\
-Day 2: Tool Training: Power tools.\
-Day 3: CAD Software\
-Day 4: 3D Printing\
-Day 5: Laser cutting, CNC Router and Certification.\
+You can choose to take up individual sessions, but that will not include the membership, or the certification. The costs for the same are mentioned in the schedule photo below.
+
+Day 1: Orientation, Electronics and Arduino
+
+Day 2: Tool Training: Power tools.
+
+Day 3: CAD Software
+
+Day 4: 3D Printing
+
+Day 5: Laser cutting, CNC Router and Certification.
+
 Day 6: Project showcases and Community time.
 
 ![Rapid-Prototyping-Monthly-1.jpg](/uploads/Rapid-Prototyping-Monthly-1.jpg)
