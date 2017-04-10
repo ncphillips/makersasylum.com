@@ -3,7 +3,6 @@ title: Shaheena Attarwala
 date: 2017-04-06 18:27:00 +05:30
 profile picture: "/uploads/shaheena%20attarwala.jpg"
 website: https://ruthlessux.com/
-email: designs@purplecube.in
 ---
 
 A User experience  Designer and Researcher focused on user data, simple designs, usable products, User Centric Designs and functional interface.
