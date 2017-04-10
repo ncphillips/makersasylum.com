@@ -7,6 +7,7 @@ featured:
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
+labs text: 
 featured projects:
 - project: Maker Auto
   description: 
