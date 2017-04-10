@@ -18,14 +18,14 @@ benefits slider:
   image: "/uploads/Tools.JPG"
 membership types:
 - name: REGULAR
-  description: "Ideal for individual makers, students, or professionals who need a
-    space to work or make a mess.\n\nFIRST TIME MEMBERS must sign up for a mandatory
-    rapid prototyping course for tool training & certification (Includes one month
-    membership) "
+  description: |-
+    Ideal for individual makers, students, or professionals who need a space to work or make a mess.
+
+    > **FIRST TIME MEMBERS** must sign up for a mandatory rapid prototyping course for tool training & certification (Includes one month membership)
   benefits: Access to tools, 11am-9pm, wifi, chair & table and access to the maker
     community.
-  price: Rapid Prototyping
-  instamojo: http://www.americanethnography.com/ethnography.php
+  price: '5,000'
+  instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
   image: "/uploads/regular.JPG"
   is available: true
 - name: STUDIO
