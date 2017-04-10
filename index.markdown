@@ -7,7 +7,8 @@ featured:
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
-labs text: 
+labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
+  full of drinks and some kickass labs for work and fun.
 featured projects:
 - project: Maker Auto
   description: 
