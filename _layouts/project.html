@@ -16,14 +16,8 @@ layout: default
 				{% if page['team']['members'][0] %}
         <h3 class="h5">Team:</h3>
         <p>
-          {% if page['team']['team lead']['members'] != '' %}
-            {% for lead in page['team']['team lead']['members'] %}
-              {% assign current_member = site.members | where:"title", lead %}
-              <a href="{{ current_member[0].url }}">{{ lead }}</a>
-            {% endfor %}
-          {% endif %}
-          {% unless page['team']['members'] == empty %}
-            {% for member in page['team']['members'] %}
+          {% unless page['members'] == empty %}
+            {% for member in page['members'] %}
               {% assign current_member = site.members | where:"title", member %}
               <a href="{{ current_member[0].url }}">{{ member | prepend: ', ' }}</a>
             {% endfor %}

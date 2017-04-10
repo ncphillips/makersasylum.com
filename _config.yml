@@ -34,33 +34,33 @@ defaults:
     type: members
   values:
     layout: member
-    profile picture: 
-    website: 
-    email: 
-    phone: 
+    profile picture:
+    website:
+    email:
+    phone:
     social:
-      facebook: 
-      twitter: 
-      youtube: 
-      instagram: 
+      facebook:
+      twitter:
+      youtube:
+      instagram:
 - scope:
     path: ''
     type: projects
   values:
-    featured image: 
+    featured image:
     pictures: []
     video iframes: []
     members: []
-      contact email: 
+    contact email: 
     layout: project
 - scope:
     path: ''
     type: labs
   values:
-    image: 
-    free hours: 
-    extra time price: 
-    powered by: 
+    image:
+    free hours:
+    extra time price:
+    powered by:
 permalink: pretty
 exclude:
 - Gruntfile.js
