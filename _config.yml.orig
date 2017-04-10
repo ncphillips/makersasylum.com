@@ -50,8 +50,15 @@ defaults:
     featured image: 
     pictures: []
     video iframes: []
+<<<<<<< HEAD
     members: []
+    contact email:
+=======
+    team:
+      members:
+      - 
       contact email: 
+>>>>>>> c0e084de3f8af85dd36c16aa1bff01bfb2e0f230
     layout: project
 - scope:
     path: ''
