@@ -3,8 +3,6 @@ title: Coby Unger
 date: 2017-04-05 13:49:00 +05:30
 profile picture: "/uploads/1039812_10206414581271860_5304855683308534713_o-768x768.jpg"
 website: http://www.cobyungerdesign.com/
-email: Me@CobyUngerDesign.com
-phone: "+401 578 8823 "
 social:
   twitter: https://twitter.com/CobyUnger
 ---
