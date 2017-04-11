@@ -16,7 +16,7 @@ collections:
     output: true
   team:
     title: Team
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -37,33 +37,39 @@ defaults:
     type: members
   values:
     layout: member
-    profile picture: 
-    website: 
-    email: 
-    phone: 
+    profile picture:
+    website:
+    email:
+    phone:
     social:
-      facebook: 
-      twitter: 
-      youtube: 
-      instagram: 
+      facebook:
+      twitter:
+      youtube:
+      instagram:
 - scope:
     path: ''
     type: projects
   values:
-    featured image: 
+    featured image:
     pictures: []
     video iframes: []
     members: []
-    contact email: 
+    contact email:
     layout: project
+- scope:
+    type: team
+  values:
+    profile picture:
+    designation:
+    type: ["team", "advisor", "champion maker", "alumni"]
 - scope:
     path: ''
     type: labs
   values:
-    image: 
-    free hours: 
-    extra time price: 
-    powered by: 
+    image:
+    free hours:
+    extra time price:
+    powered by:
 permalink: pretty
 exclude:
 - Gruntfile.js
