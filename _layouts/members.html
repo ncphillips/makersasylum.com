@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="container">
-  <h1 class="title">Members</h1>
+  <div class="page-header">
+    <h1>{{ page.title }}</h1>
+  </div>
   <div class="row">
     {% for member in site.members %}
     <div class="col-md-4 margin-y-sm">

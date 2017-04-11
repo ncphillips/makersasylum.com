@@ -1,35 +1,15 @@
 // Global
-body a {
-  cursor: pointer;
+.container {
+  max-width: 970px;
 }
 
 .page-content {
-  padding: 30px 0;
-}
-
-.container {
-  max-width: 970px;
+  margin-bottom: 30px;
 }
 
 .row {
   padding-bottom: 2rem;
   padding-top: 2rem;
-}
-
-.carousel-inner .item {
-  height: 500px;
-  overflow: hidden;
-
-  img {
-    width: 100%;
-  }
-}
-
-.carousel-caption a {
-  display: inline-block;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 8px;
 }
 
 // Typography
@@ -48,6 +28,12 @@ h1, h2, h3, h4, h5, nav * {
   color: black;
 }
 
+.title {
+  border-bottom-style: solid;
+  border-bottom-width: 8px;
+  border-bottom-color: black;
+}
+
 .background-yellow {
   background-color: $brand-primary;
 }
@@ -59,10 +45,6 @@ section {
 hr.dark {
   border-width: 1px;
   border-color: black;
-}
-
-hr.dashed {
-  border-style: dashed;
 }
 
 .media-object_thumbnail {
@@ -83,6 +65,10 @@ hr.dashed {
 
 .margin-y-sm {
   margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.margin-bottom-sm {
   margin-bottom: 20px;
 }
 
