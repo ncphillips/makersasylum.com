@@ -31,37 +31,41 @@ layout: default
 <div class="container">
   <h2 class="h1 pad-y-lg font-weight-normal">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen.</h2>
   <section>
-    <h2>LABS</h2>
+    <h2 class="title">LABS</h2>
     <p class="lead">
       {{ page['labs text'] }}
     </p>
-    <div class="row pad-y-lg">
+    <div class="row">
       {% for lab in site.labs %}
-      <div class="col-md-3 center-block">
-        <div class="media-left">
-          <img class="media-object media-object_thumbnail" src="{{ lab.image }}" alt="{{ lab.title }}">
-        </div>
-        <div class="media-body">
-          <h3 class="media-heading h5">{{ lab.title }}</h3>
-          {% if lab['powered by'] %}
-          <em>Powered By</em>
-          <p>{{ lab['powered by'] }}</p>
-          {% endif %}
+      <div class="col-sm-6 col-md-3">
+        <div class="homepage-lab">
+          <div class="media-left">
+            <img class="media-object media-object_thumbnail center-block" src="{{ lab.image }}" alt="{{ lab.title }}">
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading h5">{{ lab.title }}</h3>
+            {% if lab['powered by'] %}
+            <em>Powered By</em>
+            <p>{{ lab['powered by'] }}</p>
+            {% endif %}
+          </div>
         </div>
       </div>
       {% endfor %}
     </div>
   </section>
   <section>
-    <h2>PROJECTS <a href="/projects" class="pull-right btn btn-primary">See All Projects</a></h2>
+    <h2 class="title">PROJECTS <a href="/projects" class="pull-right btn btn-primary">See All Projects</a></h2>
     <div class="row">
       {% for project in page['featured projects'] %}
       <div class="col-md-4">
-        {% assign current_project = site.projects | where:"title", project.project %}
-        <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
-        <h3><a href="{{ current_project[0].url }}" style="color: black">{{ project.project }}</a></h3>
+        <div class="homepage-project margin-bottom-sm">
+          {% assign current_project = site.projects | where:"title", project.project %}
+          <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
+          <h3><a href="{{ current_project[0].url }}" style="color: black">{{ project.project }}</a></h3>
           {% assign current_member = site.members | where:"title", current_project[0].members.first %}
           <a href="{{ current_member[0].url }}" style="color: black;">{{ current_member[0].title }}</a>
+        </div>
       </div>
       {% endfor %}
     </div>
@@ -70,11 +74,11 @@ layout: default
     </p>
   </section>
   <section>
-    <h2>SPONSORS & PARTNERS</h2>
+    <h2 class="title">SPONSORS & PARTNERS</h2>
     <div class="row">
       <h3 class="text-center">SPONSORS</h3>
       {% for sponsor in page['sponsors'] %}
-      <div class="col-md-3 partner-thumb-container">
+      <div class="col-sm-6 col-md-3 partner-thumb-container">
         <img src="{{ sponsor.image }}" class="img-responsive center-block" alt="{{ sponsor.name }}">
       </div>
       {% endfor %}
@@ -82,7 +86,7 @@ layout: default
     <div class="row">
       <h3 class="text-center">PARTNERS</h3>
       {% for partner in page['partners'] %}
-      <div class="col-md-3 partner-thumb-container">
+      <div class="col-sm-6 col-md-3 partner-thumb-container">
         <img src="{{ partner.image }}" class="img-responsive center-block" alt="">
       </div>
       {% endfor %}
