@@ -52,7 +52,7 @@ defaults:
   values:
     featured image: 
     pictures: []
-    video iframes: []
+    videos: []
     members: []
     contact email: 
     layout: project
