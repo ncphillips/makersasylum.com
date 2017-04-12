@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 0
 featured:
 - title: Rapid Prototyping Course
   link: rapidprototyping/

@@ -1,6 +1,7 @@
 ---
 title: Maker In Residence
 date: 2017-04-10 20:57:00 +05:30
+position: 5
 ---
 
 ![Maker-in-Residence.jpg](/uploads/Maker-in-Residence.jpg)

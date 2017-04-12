@@ -1,6 +1,7 @@
 ---
 title: FAQ
 date: 2017-04-10 21:28:00 +05:30
+position: 7
 ---
 
 ## What was the founding vision of your makerspace, and how is it supported? What facilities and skills programmes do you provide?
