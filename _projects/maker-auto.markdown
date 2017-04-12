@@ -7,8 +7,7 @@ pictures:
 - "/uploads/auto-01.JPG"
 - "/uploads/auto-02.jpg"
 video iframes:
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4j1E92De-jI"
-  frameborder="0" allowfullscreen></iframe>
+- https://www.youtube.com/watch?v=4j1E92De-jI
 members:
 - Coby Unger
 - Namita Mohandas
