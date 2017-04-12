@@ -4,7 +4,6 @@ date: 2017-04-05 13:10:00 +05:30
 featured image: "/uploads/auto-01.JPG"
 pictures:
 - "/uploads/auto-00.JPG"
-- "/uploads/auto-01.JPG"
 - "/uploads/auto-02.jpg"
 videos:
 - https://www.youtube.com/watch?v=4j1E92De-jI
