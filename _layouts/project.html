@@ -8,7 +8,9 @@ layout: default
   </div>
   <div class="row">
     <div class="col-md-6">
-      <div class="project-featured-image-lg" style="background-image: url({{ page['featured image'] }})"></div>
+      <a href="{{ page['featured image'] }}" data-fancybox="group">
+        <div class="project-featured-image-lg" style="background-image: url({{ page['featured image'] }})"></div>
+      </a>
     </div>
     <div class="col-md-6">
       <div class="member-description">
@@ -35,20 +37,14 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="row">
-    {% unless page['video iframes'] == empty %}
-    <div id="fluid-width-video-wrapper" class="col-md-12">
-      {% for video in page['video iframes'] %}
-        {{ video }}
-      {% endfor %}
-    </div>
-    {% endunless %}
-    {% unless page['pictures'] == empty %}
-    <div class="col-md-12">
-      {% for picture in page['pictures'] %}
-        <img src="{{ picture }}" class="img-responsive center-block margin-y-sm" alt="">
-      {% endfor %}
-    </div>
-    {% endunless %}
-  </div>
+  {% if page['videos'] %}
+  {% for video in page['videos'] %}
+  <a href="{{ video }}" data-fancybox="group"></a>
+  {% endfor %}
+  {% endif %}
+  {% if page['pictures'] %}
+  {% for picture in page['pictures'] %}
+  <a href="{{ picture }}" data-fancybox="group"></a>
+  {% endfor %}
+  {% endif %}
 </div>

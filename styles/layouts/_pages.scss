@@ -147,17 +147,11 @@
   padding: 15px;
 }
 
-.core article:nth-of-type(even),
-.advisors article:nth-of-type(even),
-.champions article:nth-of-type(even),
-.alumni article:nth-of-type(even) {
+.team article:nth-of-type(even) {
   clear: right;
 }
 
-.core article:nth-of-type(odd),
-.advisors article:nth-of-type(odd),
-.champions article:nth-of-type(odd),
-.alumni article:nth-of-type(odd) {
+.team article:nth-of-type(odd) {
   clear: left;
 }
 
