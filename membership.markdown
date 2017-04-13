@@ -23,7 +23,7 @@ membership types:
     space to work or make a mess.
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    Note: First-timers must sign up for mandatory rapid prototyping course for tool training & certification (includes one month membership)
+    Note: To use the tools, all first-timers must sign up for mandatory rapid prototyping course for tool training & certification (includes one month membership)
   image: "/uploads/regular.JPG"
   is available: true
   buttons:
