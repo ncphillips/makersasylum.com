@@ -24,7 +24,7 @@ membership types:
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
     Note: First-timers must sign up for mandatory rapid prototyping course for tool training & certification (includes one month membership)
-  price: Rapid Prototyping
+  price: '5,000'
   instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
   image: "/uploads/regular.JPG"
   is available: true
@@ -32,7 +32,7 @@ membership types:
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
   benefits: Dedicated DIY workspace, tea/coffee + regular benefits.
-  price: 1500
+  price: Rs. 1500
   instamojo: 
   image: "/uploads/studio.JPG"
   is available: true
@@ -41,7 +41,7 @@ membership types:
     or architecture.
   benefits: 24-hr access, high-speed wifi, tea/coffee, AC room, privacy & storage
     + regular benefits.
-  price: '40,250'
+  price: Contact Us
   instamojo: 
   image: "/uploads/private.JPG"
   is available: true
