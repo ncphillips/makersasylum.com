@@ -75,8 +75,7 @@ layout: default
       </div>
     </div>
     {% endfor %}
-    <p>If you’re new or have any questions, we recommend you drop by the space. Call us at <a href="tel:+919004686828">+919004686828</a> to know more!</p>
-    <p><strong>Notice</strong>: Students need to bring a proof of identity for example their college ID card.</p>
+    {{ page['membership types text'] | markdownify }}
   </div>
 
   <hr class="dark">
