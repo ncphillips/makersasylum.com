@@ -50,6 +50,10 @@ membership types:
   buttons:
   - label: CONTACT US
     link: 
+membership types text: |-
+  If you’re new or have any questions, we recommend you drop by the space. Call us at [+919004686828](tel:+919004686828) to know more!
+
+  **Notice:** Students need to bring a proof of identity for example their college ID card.
 tools access:
   title: Member Access to Tools
   description: |
