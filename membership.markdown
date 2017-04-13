@@ -19,12 +19,11 @@ benefits slider:
   image: "/uploads/Tools.JPG"
 membership types:
 - name: REGULAR
-  description: |-
-    Ideal for individual makers, students, or professionals who need a space to work or make a mess.
-
-    > **FIRST TIME MEMBERS** must sign up for a mandatory rapid prototyping course for tool training & certification (Includes one month membership)
-  benefits: Access to tools, 11am-9pm, wifi, chair & table and access to the maker
-    community.
+  description: Ideal for individual makers, students, or professionals who need a
+    space to work or make a mess.
+  benefits: |-
+    Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
+    **Note**: First-timers must sign up for mandatory rapid prototyping course for tool training & certification (*includes one month membership*)
   price: '5,000'
   instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
   image: "/uploads/regular.JPG"
