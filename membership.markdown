@@ -23,8 +23,8 @@ membership types:
     space to work or make a mess.
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    **Note**: First-timers must sign up for mandatory rapid prototyping course for tool training & certification (*includes one month membership*)
-  price: '5,000'
+    Note: First-timers must sign up for mandatory rapid prototyping course for tool training & certification (includes one month membership)
+  price: Rapid Prototyping
   instamojo: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
   image: "/uploads/regular.JPG"
   is available: true
