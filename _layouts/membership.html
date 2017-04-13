@@ -48,9 +48,13 @@ layout: default
         <p>CURRENTLY NOT AVAILABLE</p>
         {% endif %}
         {% if type.name == 'REGULAR' %}
-        <a href="{{ type.instamojo }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Renew"></a>
+        {% for button in type.buttons %}
+        <a href="{{ button.link }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="{{ button.label }}"></a>
+        {% endfor %}
         {% else %}
-        <button class="btn btn-primary im-checkout" data-toggle="modal" data-target="#membership-modal" style="color: black">{{ type.price }}</button>
+        {% for button in type.buttons %}
+        <button class="btn btn-primary im-checkout" data-toggle="modal" data-target="#membership-modal" style="color: black">{{ button.label }}</button>
+        {% endfor %}
         <div class="modal fade" id="membership-modal" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">

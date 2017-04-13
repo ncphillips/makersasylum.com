@@ -12,7 +12,6 @@
   border-color: white !important;
   border-radius: 0 !important;
   color: black;
-  max-width: 100px;
   padding: 8px;
   font-family: $base-font-stack !important;
 }
@@ -22,6 +21,6 @@
 }
 
 .im-checkout {
-  max-width: 100px !important;
+  display: inline-block;
   margin-bottom: 0 !important;
 }
