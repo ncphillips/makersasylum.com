@@ -4,9 +4,8 @@ date: 2017-04-06 18:33:00 +05:30
 featured image: "/uploads/leather-map-00.jpg"
 pictures:
 - "/uploads/leather-map-01.jpg"
-video iframes:
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/wIghILgi_SA"
-  frameborder="0" allowfullscreen></iframe>
+videos:
+- https://www.youtube.com/watch?v=wIghILgi_SA
 members:
 - Khyati Dodhia
 ---
