@@ -19,7 +19,7 @@ featured projects:
   description: 
 sponsors:
 - name: Imaginarium
-  image: "/uploads/imaginarium.jpeg"
+  image: "/uploads/imaginarium-ddf5c1.jpeg"
   link: 
 - name: Bosch
   image: "/uploads/1024px-Bosch-brand.svg.png"
