@@ -34,7 +34,7 @@ membership types:
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
-  benefits: Dedicated DIY workspace, tea/coffee + regular benefits.
+  benefits: Regular Benefits + Dedicated DIY workspace, tea/coffee.
   image: "/uploads/studio.JPG"
   is available: true
   buttons:
@@ -43,23 +43,23 @@ membership types:
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
-  benefits: 24-hr access, high-speed wifi, tea/coffee, AC room, privacy & storage
-    + regular benefits.
+  benefits: Regular Benefits + 24-hr access, high-speed wifi, tea/coffee, AC room,
+    privacy & storage.
   image: "/uploads/private.JPG"
   is available: true
   buttons:
-  - label: CONTACT US
+  - label: Contact Us
     link: 
 membership types text: |-
   If you’re new or have any questions, we recommend you drop by the space. Call us at [+919004686828](tel:+919004686828) to know more!
 
-  **Notice:** Students need to bring a proof of identity for example their college ID card.
+  **Notice:** Students need to bring a proof of identity eg: their college ID card.
 tools access:
   title: Member Access to Tools
   description: |
     **Tool Training:** while membership gives you access to the space – safety is our primary concern – all members MUST be trained and tested on all power tools, machines and certain electronic equipment by a makerspace instructor before you can use them.
 
-    Our Rapid Prototyping Course happens on a monthly basis to equip you with everything you need to know about our tools and certify you on good practices. Then you can use the tools yourself anytime. :)
+    Our monthly [Rapid Prototyping Course](/rapid-prototyping/) is mandatory for first-timers, to equip you with everything you need to know about our tools and certify you on good practices. After that, you can use the tools yourself, anytime you want. :)
 layout: membership
 ---
 
