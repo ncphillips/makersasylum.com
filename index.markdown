@@ -8,6 +8,9 @@ featured:
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
+- title: Events, Workshops & Meetups
+  link: https://www.facebook.com/pg/makersasylum/events/
+  image: "/uploads/events.jpg"
 labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
   full of drinks and some kickass labs for work and fun.
 featured projects:
@@ -19,7 +22,7 @@ featured projects:
   description: 
 sponsors:
 - name: Imaginarium
-  image: "/uploads/imaginarium.jpeg"
+  image: "/uploads/imaginarium-ddf5c1.jpeg"
   link: 
 - name: Bosch
   image: "/uploads/1024px-Bosch-brand.svg.png"
