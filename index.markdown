@@ -10,7 +10,7 @@ featured:
   image: "/uploads/IMG_6872.JPG"
 - title: Events, Workshops & Meetups
   link: https://www.facebook.com/pg/makersasylum/events/
-  image: "/uploads/events.jpg"
+  image: "/uploads/events-67c18d.jpg"
 labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
   full of drinks and some kickass labs for work and fun.
 featured projects:
