@@ -12,11 +12,11 @@ benefits slider:
 - heading: Community
   caption text: Amongst our community there are architects, designers, artists, engineers,
     all with a simple passion for making cool stuff.
-  image: "/uploads/Community.jpg"
+  image: "/uploads/community-dc8b09.jpg"
 - heading: Tools
   caption text: Our cornucopia of tools is ideal for product design teams, hardware
     startups, and outliers who can build stuff that’s relevant to their work.
-  image: "/uploads/Tools.JPG"
+  image: "/uploads/tools-777d4e.jpg"
 membership types:
 - name: REGULAR
   description: Ideal for individual makers, students, or professionals who need a
