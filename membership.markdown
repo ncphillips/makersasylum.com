@@ -23,13 +23,13 @@ membership types:
     space to work or make a mess.
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    Note: To use the tools, all first-timers must sign up for mandatory rapid prototyping course for tool training & certification (includes one month membership)
+    Note: To use all the tools, first-time members can sign up for our Rapid Prototyping course for an additional Rs. 5,000.
   image: "/uploads/regular.JPG"
   is available: true
   buttons:
-  - label: RAPID PROTOTYPING
+  - label: Rapid Prototyping
     link: "/rapid-prototyping/"
-  - label: RENEW
+  - label: 'Renew: 5,000/-'
     link: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
@@ -38,7 +38,7 @@ membership types:
   image: "/uploads/studio.JPG"
   is available: true
   buttons:
-  - label: 
+  - label: 15,000/-
     link: 
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
