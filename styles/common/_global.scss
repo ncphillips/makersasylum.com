@@ -18,7 +18,8 @@ body * {
   line-height: 150%;
 }
 
-h1, h2, h3, h4, h5, nav * {
+h1, h2, h3, h4, h5, nav *,
+.h1, .h2, .h3, .h4, .h5 {
   font-family: $heading-font-stack;
   line-height: 160%;
 }
@@ -32,6 +33,7 @@ h1, h2, h3, h4, h5, nav * {
   border-bottom-style: solid;
   border-bottom-width: 8px;
   border-bottom-color: black;
+  text-transform: uppercase;
 }
 
 .background-yellow {

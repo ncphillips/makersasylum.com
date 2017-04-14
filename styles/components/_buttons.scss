@@ -6,18 +6,29 @@
   border-color: black;
 }
 
+.btn-primary {
+  color: white;
+}
+
+.im-checkout {
+  color: white !important;
+}
+
 .im-checkout-btn {
   @extend .center-block;
   background: $brand-primary !important;
   border-color: white !important;
   border-radius: 0 !important;
-  color: black;
+  color: white;
   padding: 8px;
   font-family: $base-font-stack !important;
 }
 
-.im-checkout-btn:hover {
+.im-checkout-btn:hover,
+.im-checkout:hover {
   color: black !important;
+  text-decoration: underline;
+  background-color: #dba203 !important;
 }
 
 .im-checkout {
