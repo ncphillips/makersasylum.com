@@ -4,7 +4,7 @@ position: 0
 featured:
 - title: Rapid Prototyping Course
   link: rapidprototyping/
-  image: "/uploads/Workshop%20in%20progress-95d825.jpg"
+  image: "/uploads/Satnogs%20project.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
