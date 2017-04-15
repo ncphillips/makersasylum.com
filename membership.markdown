@@ -27,9 +27,9 @@ membership types:
   image: "/uploads/regular.JPG"
   is available: true
   buttons:
-  - label: Rapid Prototyping
+  - label: 'Membership + Training: 10,000/-'
     link: "/rapid-prototyping/"
-  - label: 'Renew: 5,000/-'
+  - label: 'Renewal: 5,000/-'
     link: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
@@ -38,7 +38,7 @@ membership types:
   image: "/uploads/studio.JPG"
   is available: true
   buttons:
-  - label: 15,000/-
+  - label: Contact Us
     link: 
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
