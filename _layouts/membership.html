@@ -45,7 +45,7 @@ layout: default
         <p>{{ type.description | markdownify }}</p>
         <hr class="dark">
         <p class="membership-benefits">
-          <strong>Benefits</strong>: {{ type.benefits }}
+          <strong>Benefits</strong>: {{ type.benefits | markdownify }}
         </p>
         {% if type['is available'] == false %}
         <p>CURRENTLY NOT AVAILABLE</p>

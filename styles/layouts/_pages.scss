@@ -255,6 +255,20 @@
   background-position: center;
 }
 
+#project-featured-image {
+  position: relative;
+}
+
+#project-featured-image::after {
+  position: absolute;
+  bottom: 0;
+  content: "";
+  height: 35px;
+  width: 160px;
+  background-image: url("/assets/album-btn.png");
+  background-repeat: no-repeat;
+}
+
 @media (max-width: 768px) {
   // Home Page Labs
   .homepage-lab {
