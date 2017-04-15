@@ -23,7 +23,7 @@ membership types:
     space to work or make a mess.
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    Note: To use all the tools, first-time members can sign up for our Rapid Prototyping course for an additional Rs. 5,000.
+    Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
   image: "/uploads/regular.JPG"
   is available: true
   buttons:
