@@ -17,7 +17,7 @@
 .im-checkout-btn {
   @extend .center-block;
   background: $brand-primary !important;
-  border-color: white !important;
+  border-color: #f4b503 !important;
   border-radius: 0 !important;
   color: white;
   padding: 8px;
@@ -26,8 +26,8 @@
 
 .im-checkout-btn:hover,
 .im-checkout:hover {
-  color: black !important;
-  text-decoration: underline;
+  color: white !important;
+  text-decoration: none;
   background-color: #dba203 !important;
 }
 
