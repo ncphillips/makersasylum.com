@@ -11,7 +11,7 @@ featured:
 - title: Events, Workshops & Meetups
   link: https://www.facebook.com/pg/makersasylum/events/
   image: "/uploads/events-67c18d.jpg"
-- title: STEAM School
+- title: Project-based Learning at S.T.E.A.M School
   link: http://school.makersasylum.com/
   image: "/uploads/steam-01.png"
 labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
