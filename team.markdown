@@ -1,6 +1,8 @@
 ---
 title: Team
 position: 10
+redirect_from:
+- "/about-us/team/"
 teams:
 - type: Team
   team:

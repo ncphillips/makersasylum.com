@@ -2,6 +2,8 @@
 title: Membership
 date: 2017-02-14 20:09:00 +05:30
 position: 1
+redirect_from:
+- "/get-started-at-makers-asylum-2/"
 benefits slider:
 - heading: Workspaces
   caption text: |-

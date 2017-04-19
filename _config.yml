@@ -83,6 +83,7 @@ logo: "/uploads/logo.svg"
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-redirect-from
 sass:
   sass_dir: styles/
 phone: "+919004686828"

@@ -2,6 +2,8 @@
 title: Our Story
 date: 2017-04-10 21:07:00 +05:30
 position: 6
+redirect_from:
+- "/about-us/story/"
 versions:
 - title: 'Version 1: EyeNetra'
   description: Maker’s Asylum began when the ceiling of EyeNetra’s office in Mumbai
