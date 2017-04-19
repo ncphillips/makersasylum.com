@@ -93,6 +93,22 @@ hr.dark {
   margin-top: 0;
 }
 
+.square-image-container {
+  overflow: hidden;
+  position: relative;
+  padding-top: 100%;
+  height: 0;
+}
+
+.square-image {
+  position: absolute;
+  height: 100%;
+  width: auto;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
 // Video Embeds
 .fluid-width-video-wrapper {
   margin-top: 20px;

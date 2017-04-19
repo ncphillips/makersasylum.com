@@ -261,7 +261,8 @@
 
 #project-featured-image::after {
   position: absolute;
-  bottom: 0;
+  bottom: 10px;
+  left: 10px;
   content: "";
   height: 35px;
   width: 160px;

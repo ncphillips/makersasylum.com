@@ -25,6 +25,8 @@ membership types:
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
     Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
   image: "/uploads/ma-regular-32b8d7.jpg"
+  gallery images:
+  - 
   is available: true
   buttons:
   - label: 'Membership + Training: 10,000/-'
@@ -36,6 +38,8 @@ membership types:
     else who needs a small, dedicated booth.
   benefits: Regular Benefits + Dedicated DIY workspace, tea/coffee.
   image: "/uploads/ma-studio.jpg"
+  gallery images:
+  - 
   is available: true
   buttons:
   - label: Contact Us
@@ -46,6 +50,8 @@ membership types:
   benefits: Regular Benefits + 24-hr access, high-speed wifi, tea/coffee, AC room,
     privacy & storage.
   image: "/uploads/ma-private.jpg"
+  gallery images:
+  - 
   is available: true
   buttons:
   - label: Contact Us

@@ -15,8 +15,8 @@ layout: default
     <div class="item {% if forloop.first == true %}active{% endif %}">
       <img src="{{ benefit.image }}" alt="{{ benefit.heading }}">
       <div class="carousel-caption">
-        <h3 class="h1">{{ benefit.heading }}</h3>
-        <p class="h4 font-weight-normal">{{ benefit['caption text'] }}</p>
+        <h2>{{ benefit.heading }}</h3>
+        <p class="lead">{{ benefit['caption text'] }}</p>
       </div>
     </div>
     {% endfor %}
@@ -38,7 +38,9 @@ layout: default
     {% for type in page['membership types'] %}
     <div class="row">
       <div class="col-md-3">
-        <img src="{{ type.image }}" class="img-responsive" alt="{{ type.name }}">
+        <div class="square-image-container">
+          <img src="{{ type.image }}" class="square-image" alt="{{ type.name }}">
+        </div>
       </div>
       <div class="col-md-9 membership-info">
         <h3 class="margin-top-none">{{ type.name }}</h3>
