@@ -59,12 +59,12 @@ layout: default
     <div class="row">
       {% assign membership_page = site.pages | where:"title","Membership" %}
       {% for type in membership_page[0]['membership types'] %}
-      <div class="col-sm-12 col-md-4">
-        <div class="">
-          <img src="{{ type.image }}" class="img-responsive" alt="">
-          <h3>{{ type.name }}</h3>
-          {{ type.description | markdownify }}
+      <div class="col-xs-8 col-sm-4">
+        <div class="square-image-container">
+          <img src="{{ type.image }}" class="square-image" alt="{{ type.name }}">
         </div>
+        <h3>{{ type.name }}</h3>
+        {{ type.description | markdownify }}
       </div>
       {% endfor %}
     </div>
@@ -76,7 +76,7 @@ layout: default
     <h2 class="title">PROJECTS <a href="/projects" class="pull-right btn btn-primary">See All Projects</a></h2>
     <div class="row">
       {% for project in page['featured projects'] %}
-      <div class="col-md-4">
+      <div class="col-sm-4">
         <div class="homepage-project margin-bottom-sm">
           {% assign current_project = site.projects | where:"title", project.project %}
           <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
