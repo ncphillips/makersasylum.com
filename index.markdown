@@ -13,7 +13,7 @@ featured:
   image: "/uploads/events-67c18d.jpg"
 - title: STEAM School
   link: http://school.makersasylum.com/
-  image: "/uploads/Screen%20Shot%202017-04-18%20at%2011.43.12%20AM.jpg"
+  image: "/uploads/steam-01.png"
 labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
   full of drinks and some kickass labs for work and fun.
 featured projects:
