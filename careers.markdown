@@ -1,5 +1,7 @@
 ---
 title: Careers
+redirect_from:
+- /joinus/
 date: 2017-04-10 21:34:00 +05:30
 position: 8
 ---
@@ -7,9 +9,9 @@ position: 8
 ![Culture-Manager.jpg](/uploads/Culture-Manager.jpg)
 
 ## Community Manager – Mumbai & Delhi
- 
+
 Makers Asylum seeks a Community Manager to work on creating the community at the space by organising events, talks and managing the artist network of Makers Asylum. Community manager will facilitate collaborations and drive the right connects within the space. Publicise events on Social media and grow the community. Network with Schools and Colleges to engage with Makers.
- 
+
 Key activities:
 * Networking with Artists and Engineers at the space.
 * Curating Events at the Asylum.

@@ -1,5 +1,7 @@
 ---
 title: Press
+redirect_from:
+- /about-us/press/
 date: 2017-04-10 21:39:00 +05:30
 position: 9
 links:
@@ -141,4 +143,3 @@ links:
   link: https://www.facebook.com/thebetterindia/videos/10155105605389594/
 layout: press
 ---
-
