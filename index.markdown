@@ -5,15 +5,15 @@ featured:
 - title: Rapid Prototyping Course
   link: rapidprototyping/
   image: "/uploads/Satnogs%20project-61e681.jpg"
+- title: Project-based Learning at S.T.E.A.M School
+  link: http://school.makersasylum.com/
+  image: "/uploads/steam-01.png"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
 - title: Events, Workshops & Meetups
   link: https://www.facebook.com/pg/makersasylum/events/
   image: "/uploads/events-67c18d.jpg"
-- title: Project-based Learning at S.T.E.A.M School
-  link: http://school.makersasylum.com/
-  image: "/uploads/steam-01.png"
 labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fridge
   full of drinks and some kickass labs for work and fun.
 featured projects:
