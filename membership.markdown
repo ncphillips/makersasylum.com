@@ -1,9 +1,9 @@
 ---
 title: Membership
-redirect_from:
-- /get-started-at-makers-asylum-2/
 date: 2017-02-14 20:09:00 +05:30
 position: 1
+redirect_from:
+- "/get-started-at-makers-asylum-2/"
 benefits slider:
 - heading: Workspaces
   caption text: |-
@@ -28,7 +28,7 @@ membership types:
     Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
   image: "/uploads/ma-regular-32b8d7.jpg"
   gallery images:
-  -
+  - 
   is available: true
   buttons:
   - label: 'Membership + Training: 10,000/-'
@@ -41,11 +41,11 @@ membership types:
   benefits: Regular Benefits + Dedicated DIY workspace, tea/coffee.
   image: "/uploads/ma-studio.jpg"
   gallery images:
-  -
+  - 
   is available: true
   buttons:
   - label: Contact Us
-    link:
+    link: 
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
@@ -53,11 +53,11 @@ membership types:
     privacy & storage.
   image: "/uploads/ma-private.jpg"
   gallery images:
-  -
+  - 
   is available: true
   buttons:
   - label: Contact Us
-    link:
+    link: 
 membership types text: |-
   If you’re new or have any questions, we recommend you drop by the space. Call us at [+919004686828](tel:+919004686828) to know more!
 
@@ -70,3 +70,4 @@ tools access:
     Our monthly [Rapid Prototyping Course](/rapid-prototyping/) is mandatory for first-timers, to equip you with everything you need to know about our tools and certify you on good practices. After that, you can use the tools yourself, anytime you want. :)
 layout: membership
 ---
+

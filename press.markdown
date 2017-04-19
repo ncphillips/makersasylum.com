@@ -1,9 +1,9 @@
 ---
 title: Press
-redirect_from:
-- /about-us/press/
 date: 2017-04-10 21:39:00 +05:30
 position: 9
+redirect_from:
+- "/about-us/press/"
 links:
 - title: Makerspaces, where people come together to design and create
   outlet: The Economic Times
@@ -143,3 +143,4 @@ links:
   link: https://www.facebook.com/thebetterindia/videos/10155105605389594/
 layout: press
 ---
+

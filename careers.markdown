@@ -1,9 +1,9 @@
 ---
 title: Careers
-redirect_from:
-- /joinus/
 date: 2017-04-10 21:34:00 +05:30
 position: 8
+redirect_from:
+- "/joinus/"
 ---
 
 ![Culture-Manager.jpg](/uploads/Culture-Manager.jpg)
