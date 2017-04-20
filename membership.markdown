@@ -26,9 +26,12 @@ membership types:
   benefits: |-
     Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
     Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
-  image: "/uploads/ma-regular-32b8d7.jpg"
+  image: "/uploads/ma-regular.jpg"
   gallery images:
-  - 
+  - "/uploads/lounge.jpg"
+  - "/uploads/woodworking.jpg"
+  - "/uploads/3dprint.jpg"
+  - "/uploads/laser.jpg"
   is available: true
   buttons:
   - label: 'Membership + Training: 10,000/-'
