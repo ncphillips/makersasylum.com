@@ -5,6 +5,9 @@ collections:
   labs:
     title: Labs
     output: true
+  member-types:
+    title: Member Types
+    output: false
   members:
     title: Members
     output: true
@@ -14,9 +17,6 @@ collections:
   projects:
     title: Projects
     output: true
-  team:
-    title: Team
-    output: false
   uploads:
     title: Uploads
     output: true
@@ -37,6 +37,7 @@ defaults:
     type: members
   values:
     layout: member
+    member type: 
     profile picture: 
     website: 
     email: 
