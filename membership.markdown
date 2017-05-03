@@ -41,7 +41,7 @@ membership types:
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
-  benefits: Regular Benefits + Dedicated DIY workspace, tea/coffee.
+  benefits: Regular Benefits + Dedicated DIY workspace.
   image: "/uploads/ma-studio.jpg"
   gallery images:
   - 
@@ -52,8 +52,7 @@ membership types:
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
-  benefits: Regular Benefits + 24-hr access, high-speed wifi, tea/coffee, AC room,
-    privacy & storage.
+  benefits: Regular Benefits + 24-hr access, high-speed wifi, AC room, privacy & storage.
   image: "/uploads/ma-private.jpg"
   gallery images:
   - 
