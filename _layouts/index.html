@@ -9,7 +9,7 @@ layout: default
     <div class="item {% if forloop.first == true %}active{% endif %}">
       <img src="{{ post.image }}" alt="{{ post.title }}">
       <div class="carousel-caption">
-        <h2 class="h1">
+        <h2>
           <a href="{{ post.link }}" rel="bookmark">{{ post.title }}</a>
         </h2>
       </div>
@@ -29,7 +29,7 @@ layout: default
 </div>
 
 <div class="container">
-  <h2 class="h1 pad-y-lg">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen.</h2>
+  <h2 class="pad-y-lg">Maker's Asylum is a community makerspace to get your hands dirty and make your ideas happen.</h2>
   <section>
     <h2 class="title">LABS</h2>
     <p class="lead">
@@ -81,30 +81,11 @@ layout: default
           {% assign current_project = site.projects | where:"title", project.project %}
           <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
           <h3><a href="{{ current_project[0].url }}" style="color: black">{{ project.project }}</a></h3>
-          {% assign current_member = site.members | where:"title", current_project[0].members.first %}
-          <a href="{{ current_member[0].url }}" style="color: black;">{{ current_member[0].title }}</a>
         </div>
       </div>
       {% endfor %}
     </div>
-    <div class="rvs-container">
-      <div class="rvs-item-container">
-        <div class="rvs-item-stage">
-          <div class="rvs-item" style="background-image: url(https://fb-s-d-a.akamaihd.net/h-ak-xft1/v/t15.0-10/p526x395/17176726_10155105614824594_5663149219997810688_n.jpg?oh=d9e0c475eff75232088167dd88358c75&oe=5975F4B1&__gda__=1501682882_68d04e953e53ac7aea3e554fe58c0a74)">
-            <a href="https://www.facebook.com/thebetterindia/videos/10155105605389594/" class="rvs-play-video"></a>
-          </div>
-        </div>
-      </div>
-      <div class="rvs-nav-container">
-        <a class="rvs-nav-prev"></a>
-        <div class="rvs-nav-stage">
-          <a class="rvs-nav-item">
-            <span class="rvs-nav-item-thumb" style="background-image: url(https://fb-s-d-a.akamaihd.net/h-ak-xft1/v/t15.0-10/p526x395/17176726_10155105614824594_5663149219997810688_n.jpg?oh=d9e0c475eff75232088167dd88358c75&oe=5975F4B1&__gda__=1501682882_68d04e953e53ac7aea3e554fe58c0a74)"></span>
-          </a>
-        </div>
-        <a class="rvs-nav-next"></a>
-      </div>
-    </div>
+    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//s1e7BHvgUXQ' frameborder='0' allowfullscreen></iframe></div>
   </section>
   <section>
     <h2 class="title">SPONSORS & PARTNERS</h2>

@@ -54,7 +54,7 @@ layout: default
         {% endif %}
         {% if type.name == 'REGULAR' %}
         {% for button in type.buttons %}
-        <a href="{{ button.link }}" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="{{ button.label }}"></a>
+        <button class="btn btn-primary im-checkout" data-toggle="modal" data-target="#membership-modal" style="color: black">{{ button.label }}</button>
         {% endfor %}
         {% else %}
         {% for button in type.buttons %}

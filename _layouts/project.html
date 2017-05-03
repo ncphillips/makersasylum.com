@@ -16,8 +16,8 @@ layout: default
       <div class="member-description">
         {{ content }}
       </div>
-      <div class="project-contact pad-y-sm">
-        {% if page['members'] %}
+      {% unless page.members == empty %}
+      <div class="member-contact pad-y-sm">
         <h3 class="h5">Team:</h3>
         <p>
           {% for member in page.members %}
@@ -25,16 +25,16 @@ layout: default
             {% if page.members.size <= 1 and page.members.last == member %}
             <a href="{{ current_member[0].url }}">{{ member }}</a>
             {% else %}
-            <a href="{{ current_member[0].url }}">{{ member }},</a>
+            <a href="{{ current_member[0].url }}">{{ member }}{% if page.members.last != member %},{% endif %}</a>
             {% endif %}
           {% endfor %}
         </p>
-        {% endif %}
-        {% if page['contact email'] %}
+      {% endunless %}
+      {% if page['contact email'] %}
         <h3 class="h5">For more information, write to:</h3>
         <a href="mailto:{{ page['team']['contact email'] }}">{{ page['team']['contact email'] }}</a>
-        {% endif %}
       </div>
+      {% endif %}
     </div>
   </div>
   {% if page['videos'] %}
