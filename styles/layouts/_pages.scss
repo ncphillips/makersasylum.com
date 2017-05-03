@@ -203,12 +203,16 @@
 .member-description {
   font-size: 130%;
   box-sizing: content-box;
-  border-bottom: 2px solid black;
+  padding-bottom: 2rem;
 }
 
 .member-page-profile-picture-container {
   max-height: 293.33px;
   overflow: hidden;
+}
+
+.member-contact {
+  border-top: 2px solid black;
 }
 
 .member-contact a {
@@ -224,13 +228,6 @@
 .member-email,
 .member-phone {
   border-left: 1px solid black;
-}
-
-// Project Archive Page
-
-.project-card {
-  height: 489px;
-  max-height: 489px;
 }
 
 // Single Project Page
