@@ -33,10 +33,8 @@ membership types:
   - "/uploads/laser.jpg"
   is available: true
   buttons:
-  - label: 'Membership + Training: 10,000/-'
-    link: "/rapid-prototyping/"
-  - label: 'Renewal: 5,000/-'
-    link: https://www.instamojo.com/MakersAsylum/regular-membership-payment-monthly/
+  - label: Contact Us
+    link: 
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
