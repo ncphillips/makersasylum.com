@@ -23,9 +23,8 @@ membership types:
 - name: REGULAR
   description: Ideal for individual makers, students, or professionals who need a
     space to work or make a mess.
-  benefits: |-
-    Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
+  benefits: Access to tools, 11am-9pm, wifi, chair & table and access to the maker
+    community.
   image: "/uploads/ma-regular.jpg"
   gallery images:
   - "/uploads/lounge.jpg"
