@@ -23,9 +23,8 @@ membership types:
 - name: REGULAR
   description: Ideal for individual makers, students, or professionals who need a
     space to work or make a mess.
-  benefits: |-
-    Access to tools, 11am-9pm, wifi, chair & table and access to the maker community.
-    Note: To use all the tools, first-time members can sign up for our training course for an additional Rs. 5,000.
+  benefits: Access to tools, 11am-9pm, wifi, chair & table and access to the maker
+    community.
   image: "/uploads/ma-regular.jpg"
   gallery images:
   - "/uploads/lounge.jpg"
@@ -41,7 +40,7 @@ membership types:
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
-  benefits: Regular Benefits + Dedicated DIY workspace, tea/coffee.
+  benefits: Regular Benefits + Dedicated DIY workspace.
   image: "/uploads/ma-studio.jpg"
   gallery images:
   - 
@@ -52,8 +51,7 @@ membership types:
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
-  benefits: Regular Benefits + 24-hr access, high-speed wifi, tea/coffee, AC room,
-    privacy & storage.
+  benefits: Regular Benefits + 24-hr access, high-speed wifi, AC room, privacy & storage.
   image: "/uploads/ma-private.jpg"
   gallery images:
   - 
