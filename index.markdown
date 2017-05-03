@@ -28,26 +28,26 @@ sponsors:
   image: "/uploads/imaginarium-ddf5c1.jpeg"
   link: 
 - name: Bosch
-  image: "/uploads/1024px-Bosch-brand.svg.png"
+  image: "/uploads/1024px-Bosch-brand.svg.jpg"
   link: 
 - name: Dremel
-  image: "/uploads/1024px-Dremel_logo.svg.png"
+  image: "/uploads/1024px-Dremel_logo.svg.jpg"
   link: 
 - name: Wyolum
-  image: "/uploads/wyolum-logo7-250x250.png"
+  image: "/uploads/wyolum-logo7-250x250.jpg"
   link: 
 partners:
 - name: 
-  image: "/uploads/LOGO%20SST%20-s.png"
+  image: "/uploads/LOGO%20SST%20-s.jpg"
   link: 
 - name: 
   image: "/uploads/CRI%20logo.jpg"
   link: 
 - name: 
-  image: "/uploads/Autodesk-logo-and-wordmark.png"
+  image: "/uploads/Autodesk-logo-and-wordmark.jpg"
   link: 
 - name: 
-  image: "/uploads/Fab_Lab_logo-s-234813.png"
+  image: "/uploads/Fab_Lab_logo-s-234813.jpg"
   link: 
 layout: index
 ---
