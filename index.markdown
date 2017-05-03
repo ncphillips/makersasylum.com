@@ -18,36 +18,37 @@ labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fr
   full of drinks and some kickass labs for work and fun.
 featured projects:
 - project: Maker Auto
-  description:
+  description: 
 - project: Leather World Map
-  description:
+  description: 
 - project: Game Arcade
-  description:
+  description: 
 sponsors:
 - name: Imaginarium
   image: "/uploads/imaginarium-ddf5c1.jpeg"
-  link:
+  link: 
 - name: Bosch
   image: "/uploads/1024px-Bosch-brand.svg.png"
-  link:
+  link: 
 - name: Dremel
   image: "/uploads/1024px-Dremel_logo.svg.png"
-  link:
+  link: 
 - name: Wyolum
   image: "/uploads/wyolum-logo7-250x250.png"
-  link:
+  link: 
 partners:
-- name:
+- name: 
   image: "/uploads/LOGO%20SST%20-s.png"
-  link:
-- name:
+  link: 
+- name: 
   image: "/uploads/CRI%20logo.jpg"
-  link:
-- name:
+  link: 
+- name: 
   image: "/uploads/Autodesk-logo-and-wordmark.png"
-  link:
-- name:
+  link: 
+- name: 
   image: "/uploads/Fab_Lab_logo-s-234813.png"
-  link:
+  link: 
 layout: index
 ---
+
