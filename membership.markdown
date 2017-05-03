@@ -51,7 +51,7 @@ membership types:
 - name: PRIVATE
   description: Ideal for large teams working on hardware, software, social innovation
     or architecture.
-  benefits: Regular Benefits + 24-hr access, high-speed wifi, AC room, privacy & storage.
+  benefits: Regular Benefits, high-speed wifi, AC room, privacy & storage.
   image: "/uploads/ma-private.jpg"
   gallery images:
   - 
