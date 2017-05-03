@@ -7,7 +7,7 @@ featured:
   image: "/uploads/Satnogs%20project-61e681.jpg"
 - title: Project-based Learning at S.T.E.A.M School
   link: http://school.makersasylum.com/
-  image: "/uploads/steam.png"
+  image: "/uploads/steam.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
