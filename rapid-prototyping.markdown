@@ -30,7 +30,7 @@ Day 5: Laser cutting, CNC Router and Certification.
 
 Day 6: Project showcases and Community time.
 
-![Rapid-Prototyping-Monthly-1.jpg](/uploads/Rapid-Prototyping-Monthly-1.jpg)
+![RP_chart-e1493800891121.jpg](/uploads/RP_chart-e1493800891121.jpg)
 
 Explore Rapid Prototyping! Build your imagination!
 
