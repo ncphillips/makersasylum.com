@@ -10,10 +10,8 @@ module.exports = function(grunt) {
         src: [
           'scripts/_source/jquery.min.js',
           'scripts/_source/bootstrap.min.js',
-          'scripts/_source/holder.min.js',
           'scripts/_source/jquery.fitvids.js',
           'scripts/_source/jquery.fancybox.min.js',
-          'scripts/_source/rvslider.min.js',
           'scripts/_source/main.js'
         ],
         dest: 'scripts/all.js',
