@@ -71,6 +71,7 @@ defaults:
     free hours: 
     extra time price: 
     powered by: 
+url: https://www.makersasylum.com
 permalink: pretty
 exclude:
 - Gruntfile.js
@@ -87,4 +88,5 @@ gems:
 - jekyll-redirect-from
 sass:
   sass_dir: styles/
+  style: compressed
 phone: "+919004686828"
