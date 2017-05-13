@@ -141,6 +141,9 @@ links:
 - title: 'Maker’s Asylum: Where Creators Collaborate!'
   outlet: The Better India
   link: https://www.facebook.com/thebetterindia/videos/10155105605389594/
+- title: Is the future of design industry collaborative?
+  outlet: Live Mint
+  link: http://www.livemint.com/Leisure/2FxEpiwzDtvEaO7iRyOw4N/Is-the-future-of-design-industry-collaborative.html
 layout: press
 ---
 
