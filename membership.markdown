@@ -33,8 +33,8 @@ membership types:
   - "/uploads/laser.jpg"
   is available: true
   buttons:
-  - label: Contact Us
-    link: 
+  - label: Renew
+    link: https://www.instamojo.com/MakersAsylum/full-supporter/
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
