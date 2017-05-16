@@ -25,7 +25,7 @@ layout: default
             {% if page.members.size <= 1 or page.members.last == member %}
             <a href="{{ current_member[0].url }}">{{ member }}</a>
             {% else %}
-            <a href="{{ current_member[0].url }}">{{ member }}{% if page.members.last != member %},{% endif %}</a>
+            <a href="{{ current_member[0].url }}">{{ member }},</a>
             {% endif %}
           {% endfor %}
         </p>
