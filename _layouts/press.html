@@ -7,7 +7,8 @@ layout: default
     <div class="page-header">
       <h1>{{ page.title }}</h1>
     </div>
-    {% for link in page.links %}
+    {% assign links = page.links | reverse %}
+    {% for link in links %}
     <article>
       <a href="{{ link.link }}" target="_blank">
         <h2 class="h3"><span class="text-black">{{ link.outlet }}</span> - {{ link.title }}</h2>
