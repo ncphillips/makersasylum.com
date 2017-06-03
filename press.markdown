@@ -151,6 +151,9 @@ links:
     innovate new products '
   outlet: The Economic Times
   link: http://economictimes.indiatimes.com/small-biz/startups/how-makerspaces-are-helping-startups-and-a-new-breed-of-entrepreneurs-to-innovate-new-products/articleshow/58741461.cms?utm_source=APPusers&utm_medium=whatsappshare&utm_campaign=socialsharebutton
+- title: 'The Art of Creating: A Peek at India’s Collaborative Makerspace '
+  outlet: TEDxIITBHU
+  link: https://www.youtube.com/watch?v=Egpuqt8Gj1c&t=2s
 layout: press
 ---
 
