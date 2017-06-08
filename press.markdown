@@ -144,6 +144,16 @@ links:
 - title: Is the future of design industry collaborative?
   outlet: Live Mint
   link: http://www.livemint.com/Leisure/2FxEpiwzDtvEaO7iRyOw4N/Is-the-future-of-design-industry-collaborative.html
+- title: How Indians Coming Back from United States to India are creating a Difference?
+  outlet: Top Videos
+  link: https://www.youtube.com/watch?v=zm_TRdaS0BA&list=FL7xed_-b3DeXY62s_zuG9AQ&index=10&t=46s
+- title: 'How makerspaces are helping startups and a new breed of entrepreneurs to
+    innovate new products '
+  outlet: The Economic Times
+  link: http://economictimes.indiatimes.com/small-biz/startups/how-makerspaces-are-helping-startups-and-a-new-breed-of-entrepreneurs-to-innovate-new-products/articleshow/58741461.cms?utm_source=APPusers&utm_medium=whatsappshare&utm_campaign=socialsharebutton
+- title: 'The Art of Creating: A Peek at India’s Collaborative Makerspace '
+  outlet: TEDxIITBHU
+  link: https://www.youtube.com/watch?v=Egpuqt8Gj1c&t=2s
 layout: press
 ---
 

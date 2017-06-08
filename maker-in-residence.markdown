@@ -8,7 +8,8 @@ position: 5
 
 ## Maker in Residence – Mumbai
 
-If you’ve ever wanted to build something with your own hands, but have been limited by the availability of tools and space to do so, we need you.
+If you have a great project in mind but limited availability of tools or space to make it happen, or if you are looking for a strong community to support you in this adventure, we need you!
+We are looking for people willing to create a positive impact on the world, with innovative ideas and a passion for making!
 
 Introducing our ‘Maker in Residence’ program. A 4 to 8 month residency at Maker’s Asylum, which gives you the chance to build your dreams in an environment designed to foster innovation and creative problem solving.
 
@@ -46,8 +47,6 @@ Responsibilities:
 
 Application Procedure:
 
-* Fill [this](https://docs.google.com/forms/d/e/1FAIpQLSdNyvSjANmzBPhqCYb1f1w2PHzgC2HQA8W9NOlVvm9Be_12ZQ/viewform) form to apply for Maker’s Asylum Resident Maker program.
-
-* Let us know about the project that you want to do at the Asylum and why do you want to do it.
+* Send email to info@makersasylum.com with info about yourself and the project you want to work on. 
 
 * Attach your resume, past project documentations (pictures / blog post / link / published papers / presentations etc).

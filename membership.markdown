@@ -35,6 +35,8 @@ membership types:
   buttons:
   - label: Renew
     link: https://www.instamojo.com/MakersAsylum/full-supporter/
+  - label: Student Membership
+    link: https://www.instamojo.com/MakersAsylum/makers-asylum-student-membership/
 - name: STUDIO
   description: Ideal for small teams or even individual designers, artists or anyone
     else who needs a small, dedicated booth.
