@@ -1,7 +1,6 @@
 ---
 title: Quidich
 date: 2017-04-07 15:14:00 +05:30
-published: false
 featured image: "/uploads/quidich-03.JPG"
 pictures:
 - "/uploads/quidich-00.jpg"
