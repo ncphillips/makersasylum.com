@@ -1,10 +1,11 @@
 ---
 title: Maker Auto
 date: 2017-04-05 13:10:00 +05:30
-featured image: "/uploads/auto-01.JPG"
+featured image: "/uploads/IMG_1607.JPG"
 pictures:
 - "/uploads/auto-00.JPG"
 - "/uploads/auto-02.jpg"
+- "/uploads/IMG_1623.JPG"
 videos:
 - https://www.youtube.com/watch?v=4j1E92De-jI
 members:
