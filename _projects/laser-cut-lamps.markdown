@@ -1,7 +1,6 @@
 ---
 title: Laser-cut Lamps
 date: 2017-04-06 18:54:00 +05:30
-published: false
 featured image: "/uploads/laser-lamp-frame-00.jpg"
 team:
   team lead:
