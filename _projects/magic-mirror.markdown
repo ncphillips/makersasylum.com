@@ -1,6 +1,7 @@
 ---
-title: magic mirror
+title: Magic Mirror
 date: 2017-06-17 16:53:00 +05:30
+published: false
 members:
 - Viren Vaz
 - Rupin chadda
