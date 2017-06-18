@@ -45,6 +45,9 @@ versions:
     and improved makerspace — 6,000 square feet of space in Andheri’s industrial district,
     inclusive of an open-air terrace.
   image: "/uploads/andheri.jpg"
+- title: Fab Lab
+  description: We are now a fablab
+  image: "/uploads/Fab_Lab_logo.svg-a16f06.png"
 layout: story
 ---
 
