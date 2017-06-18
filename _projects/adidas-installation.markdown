@@ -4,6 +4,8 @@ date: 2017-06-17 16:09:00 +05:30
 featured image: "/uploads/adidasinstall-00.jpg"
 videos:
 - 
+members:
+- Kushal Samant
 ---
 
 We worked on a infinity Mirror for Adidas's new product launch in collaboration with Homegrown magazine. The event took place at Social in Todi mills in Mumbai. 
