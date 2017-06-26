@@ -22,10 +22,18 @@ layout: default
         <p>
           {% for member in page.members %}
             {% assign current_member = site.members | where:"title", member %}
-            {% if page.members.size <= 1 or page.members.last == member %}
-            <a href="{{ current_member[0].url }}">{{ member }}</a>
+            {% if current_member == '' %}
+              {% if page.members.size <= 1 or page.members.last == member %}
+              <a href="{{ current_member[0].url }}">{{ member }}</a>
+              {% else %}
+              <a href="{{ current_member[0].url }}">{{ member }},</a>
+              {% endif %}
             {% else %}
-            <a href="{{ current_member[0].url }}">{{ member }},</a>
+              {% if page.members.size <= 1 or page.members.last == member %}
+                {{ member }}
+              {% else %}
+                {{ member }},
+              {% endif %}
             {% endif %}
           {% endfor %}
         </p>

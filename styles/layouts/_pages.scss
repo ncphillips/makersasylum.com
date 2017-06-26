@@ -265,6 +265,12 @@
   background-repeat: no-repeat;
 }
 
+// Project Archive Page
+.project-card:nth-of-type(3n+1) {
+  clear: left;
+}
+
+
 @media (max-width: 768px) {
   // Home Page Labs
   .homepage-lab {
