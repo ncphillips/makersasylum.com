@@ -154,6 +154,9 @@ links:
 - title: 'The Art of Creating: A Peek at India’s Collaborative Makerspace '
   outlet: TEDxIITBHU
   link: https://www.youtube.com/watch?v=Egpuqt8Gj1c&t=2s
+- title: Hardware Innovation ecosystems in Europe and Asia
+  outlet: Fab13 - France
+  link: https://www.youtube.com/watch?v=CScA3ZynfVQ
 layout: press
 ---
 
