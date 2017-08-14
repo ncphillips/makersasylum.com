@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
 - title: Rapid Prototyping Course
