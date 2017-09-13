@@ -157,6 +157,9 @@ links:
 - title: Hardware Innovation ecosystems in Europe and Asia
   outlet: Fab13 - France
   link: https://www.youtube.com/watch?v=CScA3ZynfVQ
+- title: Vaibhav Chhabra, the Indian maker-trotter
+  outlet: Makery France
+  link: http://www.makery.info/2017/09/12/vaibhav-chhabra-le-maker-trotter-indien/
 layout: press
 ---
 
