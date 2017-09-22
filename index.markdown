@@ -49,6 +49,10 @@ partners:
 - name: 
   image: "/uploads/Fab_Lab_logo-s-234813.jpg"
   link: 
+highlight:
+  title: 
+  text: 
+  button link: 
 layout: index
 ---
 
