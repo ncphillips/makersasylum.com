@@ -52,7 +52,9 @@ partners:
 highlight:
   title: 
   text: 
-  button link: 
+  button:
+    link: 
+    text: 
 layout: index
 ---
 
