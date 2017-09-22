@@ -37,40 +37,40 @@ defaults:
     type: members
   values:
     layout: member
-    member type: 
-    profile picture: 
-    website: 
-    email: 
-    phone: 
+    member type:
+    profile picture:
+    website:
+    email:
+    phone:
     social:
-      facebook: 
-      twitter: 
-      youtube: 
-      instagram: 
+      facebook:
+      twitter:
+      youtube:
+      instagram:
 - scope:
     path: ''
     type: projects
   values:
-    featured image: 
+    featured image:
     pictures: []
     videos: []
     members: []
-    contact email: 
+    contact email:
     layout: project
 - scope:
     path: ''
     type: team
   values:
-    profile picture: 
-    designation: 
+    profile picture:
+    designation:
 - scope:
     path: ''
     type: labs
   values:
-    image: 
-    free hours: 
-    extra time price: 
-    powered by: 
+    image:
+    free hours:
+    extra time price:
+    powered by:
 url: https://www.makersasylum.com
 permalink: pretty
 exclude:
@@ -82,7 +82,7 @@ exclude:
 - node_modules
 - ".gitignore"
 logo: "/uploads/logo.svg"
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from
