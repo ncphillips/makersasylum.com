@@ -1,6 +1,26 @@
 ---
 title: STiTCH
 date: 2017-10-06 22:17:00 +05:30
+principles:
+  text: STiTCH cultivates five key principles helping kids succeed as innovators later
+    in life over the two and a half days.
+  principles:
+  - name: Design Thinking
+    description: Energise a child’s innovative framework through play-way; taking
+      offbeat approaches to arrive at a logical conclusion.
+  - name: Kinesthetics
+    description: Hands-on experiential learning is gaining currency the world over
+      and is an interesting method to foster out-of-the-box thinking.
+  - name: Paper Prototyping
+    description: An idea remains just that if it doesn’t make it to the prototyping
+      stage. To bring an idea to life, working with basic materials and observational
+      drawing on paper is the simplest.
+  - name: Peer Review
+    description: Most often, kids get feedback from elders. Reviews by peers are however,
+      key to co-creating and fosters a feeling of collaboration.
+  - name: Presentation
+    description: Presentation brings alive the impact behind the innovation and gives
+      innovators an opportunity to showcase the passion.
 layout: stitch
 ---
 
