@@ -4,6 +4,13 @@
   @include center-block();
 }
 
+// Home Page Highlight
+#highlight {
+  p {
+    @extend .lead;
+  }
+}
+
 // Home Page Labs
 .homepage-lab {
   .media-left {

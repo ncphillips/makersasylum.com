@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
 - title: Rapid Prototyping Course
@@ -49,6 +49,12 @@ partners:
 - name: 
   image: "/uploads/Fab_Lab_logo-s-234813.jpg"
   link: 
+highlight:
+  title: 
+  text: 
+  button:
+    link: 
+    text: 
 layout: index
 ---
 

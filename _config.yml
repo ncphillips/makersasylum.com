@@ -82,7 +82,7 @@ exclude:
 - node_modules
 - ".gitignore"
 logo: "/uploads/logo.svg"
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from
