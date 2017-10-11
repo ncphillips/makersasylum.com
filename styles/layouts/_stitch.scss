@@ -1,3 +1,9 @@
 .color-stitch {
   color: $stitch;
 }
+
+.stitch {
+  .title {
+    text-transform: none;
+  }
+}
