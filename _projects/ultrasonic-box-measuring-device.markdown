@@ -1,6 +1,7 @@
 ---
 title: Ultrasonic Box measuring device
 date: 2017-06-17 16:01:00 +05:30
+position: 13
 featured image: "/uploads/amitabh-01.jpg"
 pictures:
 - "/uploads/amitabh-02-ecbe73.jpg"

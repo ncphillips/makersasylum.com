@@ -1,6 +1,7 @@
 ---
 title: Adidas Installation
 date: 2017-06-17 16:09:00 +05:30
+position: 14
 featured image: "/uploads/adidasinstall-00.jpg"
 videos:
 - 

@@ -1,6 +1,7 @@
 ---
 title: C3PO Installation
 date: 2017-06-17 16:57:00 +05:30
+position: 20
 featured image: "/uploads/c3p0-00.jpg"
 ---
 

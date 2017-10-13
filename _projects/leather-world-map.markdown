@@ -1,6 +1,7 @@
 ---
 title: Leather World Map
 date: 2017-04-06 18:33:00 +05:30
+position: 8
 featured image: "/uploads/leather-map-00.jpg"
 pictures:
 - "/uploads/leather-map-01.jpg"
