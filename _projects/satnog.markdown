@@ -1,7 +1,7 @@
 ---
 title: SatNOG
 date: 2017-04-06 18:47:00 +05:30
-position: 9
+position: 10
 featured image: "/uploads/Satnogs%20project%202.JPG"
 pictures:
 - "/uploads/Satnogs%20project%203.JPG"

@@ -1,7 +1,7 @@
 ---
 title: Scrabble Board
 date: 2017-04-06 18:40:00 +05:30
-position: 8
+position: 9
 featured image: "/uploads/scrabble-03.JPG"
 pictures:
 - "/uploads/scrabble-00.JPG"

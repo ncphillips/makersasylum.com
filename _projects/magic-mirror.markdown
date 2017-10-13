@@ -2,7 +2,7 @@
 title: Magic Mirror
 date: 2017-06-17 16:53:00 +05:30
 published: false
-position: 1
+position: 2
 members:
 - Viren Vaz
 - Rupin chadda

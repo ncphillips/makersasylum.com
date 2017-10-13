@@ -1,7 +1,7 @@
 ---
 title: Maker Auto
 date: 2017-04-05 13:10:00 +05:30
-position: 4
+position: 5
 featured image: "/uploads/IMG_1607.JPG"
 pictures:
 - "/uploads/auto-00.JPG"
