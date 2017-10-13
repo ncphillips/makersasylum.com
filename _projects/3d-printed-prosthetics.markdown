@@ -1,7 +1,7 @@
 ---
 title: 3D printed Prosthetics
 date: 2017-06-17 16:52:00 +05:30
-position: 17
+position: 18
 featured image: "/uploads/701939_227759454237080_5365880819369846736_o.jpg"
 pictures:
 - "/uploads/12719296_228942520785440_4125578033960963021_o.jpg"

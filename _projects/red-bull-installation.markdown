@@ -1,7 +1,7 @@
 ---
 title: Red Bull Installation
 date: 2017-06-17 17:14:00 +05:30
-position: 21
+position: 22
 featured image: "/uploads/1933469_232652003747825_4945697174099419750_o.jpg"
 ---
 
