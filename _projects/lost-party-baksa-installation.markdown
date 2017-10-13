@@ -1,7 +1,7 @@
 ---
 title: Lost Party Baksa installation
 date: 2017-06-17 16:21:00 +05:30
-position: 14
+position: 15
 featured image: "/uploads/12779227_228155664197459_7149010233869033659_o.jpg"
 ---
 

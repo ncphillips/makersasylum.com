@@ -1,7 +1,7 @@
 ---
 title: Zeuva
 date: 2017-04-06 18:13:00 +05:30
-position: 1
+position: 6
 featured image: "/uploads/zeuva-00.JPG"
 ---
 

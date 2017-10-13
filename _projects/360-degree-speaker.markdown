@@ -2,7 +2,7 @@
 title: 360 degree speaker
 date: 2017-06-17 17:12:00 +05:30
 published: false
-position: 3
+position: 2
 featured image: "/uploads/DSC_1716.JPG"
 ---
 
