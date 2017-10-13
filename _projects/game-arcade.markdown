@@ -1,6 +1,7 @@
 ---
 title: Game Arcade
 date: 2017-04-06 18:49:00 +05:30
+position: 10
 featured image: "/uploads/12185384_176245172721842_8411632474865245319_o.jpg"
 pictures:
 - "/uploads/game-arcade-05.jpg"
