@@ -39,6 +39,7 @@ defaults:
     layout: member
     member type: 
     profile picture: 
+    designation: 
     website: 
     email: 
     phone: 

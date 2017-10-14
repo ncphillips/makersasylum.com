@@ -8,13 +8,14 @@ layout: default
   </div>
   <h2>“Individuals can and do make a difference, but it takes a team to really mess things up.”</h2>
   <div class="row">
-    {% assign members = site.members | where:"member type","Team" %}
+    {% assign members = site.members | where:"member type","Team" | sort:"position" %}
     {% for member in members %}
     <div class="col-md-4 margin-y-sm">
       <div class="member-profile-picture-container">
         <img src="{{ member['profile picture'] }}" class="img-responsive" alt="">
       </div>
       <h3><a href="{{ member.url }}" class="text-black">{{ member.title }}</a></h3>
+      <h4>{{ member.designation }}</h4>
     </div>
     {% endfor %}
   </div>

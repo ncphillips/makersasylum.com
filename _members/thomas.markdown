@@ -1,6 +1,7 @@
 ---
 title: Thomas
 date: 2017-04-07 16:33:00 +05:30
+position: 7
 profile picture: "/uploads/10506738_10150004552801856_220367501106153455_o.jpg"
 ---
 
