@@ -1,7 +1,7 @@
 ---
 title: Girish Malage
 date: 2017-04-06 18:30:00 +05:30
-position: 14
+position: 15
 member type: Team
 profile picture: "/uploads/Girish%20Malage.jpg"
 website: https://www.behance.net/xyzzynitrospoon1
