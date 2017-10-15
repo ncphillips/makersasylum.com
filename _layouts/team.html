@@ -19,17 +19,19 @@ layout: default
     </div>
     {% endfor %}
   </div>
+  {% assign leads = site.members | where:"member type","Lab Lead" | sort:"position" %}
+  {% unless leads == empty %}
   <h2 class="title">Lab Leads</h2>
   <div class="row">
-    {% assign members = site.members | where:"member type","Lab Lead" | sort:"position" %}
-    {% for member in members %}
+    {% for lead in leads %}
     <div class="col-md-4 margin-y-sm">
       <div class="member-profile-picture-container">
-        <img src="{{ member['profile picture'] }}" class="img-responsive" alt="">
+        <img src="{{ lead['profile picture'] }}" class="img-responsive" alt="{{ lead.title }}">
       </div>
-      <h3><a href="{{ member.url }}" class="text-black">{{ member.title }}</a></h3>
-      <h4>{{ member.designation }}</h4>
+      <h3><a href="{{ lead.url }}" class="text-black">{{ lead.title }}</a></h3>
+      <h4>{{ lead.designation }}</h4>
     </div>
     {% endfor %}
   </div>
+  {% endunless %}
 </div>
