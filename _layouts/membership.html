@@ -34,9 +34,9 @@ layout: default
 </div>
 
 <div class="container">
-  <div class="section">
+  <div class="section pad-y-sm">
     {% for type in page['membership types'] %}
-    <div class="row">
+    <div class="row margin-bottom-sm">
       <div class="col-md-3">
         <div class="square-image-container">
           <img src="{{ type.image }}" class="square-image" alt="{{ type.name }}">
@@ -80,8 +80,8 @@ layout: default
       </div>
     </div>
     {% endfor %}
-    {{ page['membership types text'] | markdownify }}
   </div>
+  {{ page['membership types text'] | markdownify }}
 
   <hr class="dark">
 
