@@ -7,11 +7,6 @@
   margin-bottom: 30px;
 }
 
-.row {
-  padding-bottom: 2rem;
-  padding-top: 2rem;
-}
-
 // Typography
 body * {
   font-family: $base-font-stack;
@@ -107,6 +102,10 @@ hr.dark {
   left: 50%;
   top: 0;
   transform: translateX(-50%);
+}
+
+.bg-white {
+  background-color: white;
 }
 
 // Video Embeds
