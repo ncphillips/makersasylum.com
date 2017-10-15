@@ -4,6 +4,7 @@ date: 2017-10-06 22:17:00 +05:30
 principles:
   text: STiTCH cultivates five key principles helping kids succeed as innovators later
     in life over the two and a half days.
+  image: "/uploads/stitch.png"
   principle:
   - name: Design Thinking
     description: Energise a child’s innovative framework through play-way; taking
