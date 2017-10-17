@@ -1,7 +1,7 @@
 ---
 title: Abhijeet Thube
 date: 2017-10-17 14:53:00 +05:30
-position: 6
+position: 5
 member type: Team
 profile picture: "/uploads/Makers%20Asylum_Team%20(4%20of%206).jpg"
 designation: Operations Manager Mumbai

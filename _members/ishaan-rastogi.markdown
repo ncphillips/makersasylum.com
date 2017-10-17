@@ -1,7 +1,7 @@
 ---
 title: Ishaan Rastogi
 date: 2017-10-17 14:37:00 +05:30
-position: 4
+position: 3
 member type: Team
 profile picture: "/uploads/Makers%20Asylum_Team%20(6%20of%206).jpg"
 designation: Curator Delhi
