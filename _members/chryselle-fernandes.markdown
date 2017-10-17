@@ -1,7 +1,7 @@
 ---
 title: Chryselle Fernandes
 date: 2017-04-06 18:28:00 +05:30
-position: 2
+position: 11
 profile picture: "/uploads/chryselle.jpg"
 website: https://www.behance.net/chrysellevfernandes
 ---
