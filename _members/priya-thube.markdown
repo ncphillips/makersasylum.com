@@ -1,7 +1,7 @@
 ---
 title: Priya Thube
 date: 2017-10-17 14:34:00 +05:30
-position: 11
+position: 12
 member type: Team
 designation: Content Manager Mumbai
 ---
