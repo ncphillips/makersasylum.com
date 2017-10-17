@@ -1,6 +1,7 @@
 ---
 title: Joshua Rodrigues
 date: 2017-10-17 14:31:00 +05:30
+position: 1
 member type: Team
 profile picture: "/uploads/Makers%20Asylum_Team%20(1%20of%201).jpg"
 designation: Space Manager Mumbai

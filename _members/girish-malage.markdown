@@ -1,7 +1,7 @@
 ---
 title: Girish Malage
 date: 2017-04-06 18:30:00 +05:30
-position: 15
+position: 22
 member type: Team
 profile picture: "/uploads/Girish%20Malage.jpg"
 designation: Operations Manager Mumbai

@@ -1,7 +1,7 @@
 ---
 title: Vaibhav Chhabra
 date: 2017-04-24 11:04:00 +05:30
-position: 13
+position: 0
 member type: Team
 profile picture: "/uploads/17973736_10155443295258690_5429972603409790332_o.jpg"
 designation: Founder

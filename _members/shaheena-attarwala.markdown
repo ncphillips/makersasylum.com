@@ -1,7 +1,7 @@
 ---
 title: Shaheena Attarwala
 date: 2017-04-06 18:27:00 +05:30
-position: 1
+position: 9
 profile picture: "/uploads/shaheena%20attarwala.jpg"
 website: https://ruthlessux.com/
 ---
