@@ -1,5 +1,5 @@
 ---
-title: RishabhUniyal
+title: Rishabh Uniyal
 date: 2017-10-17 14:55:00 +05:30
 member type: Team
 profile picture: "/uploads/Makers%20Asylum_Team%20(1%20of%206).jpg"
