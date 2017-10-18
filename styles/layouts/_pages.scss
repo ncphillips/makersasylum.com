@@ -19,10 +19,10 @@
 
   .media-body {
     vertical-align: middle;
-  }
 
-  .media-body p {
-    margin-bottom: 0;
+    p {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -51,90 +51,90 @@
   width: 100%;
 }
 
-.cbp_tmtimeline:before {
-	content: '';
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	width: 5px;
-	background: black;
-	left: 50%;
-	margin-left: -10px;
+.cbp_tmtimeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background: black;
+  left: 50%;
+  margin-left: -10px;
 }
 
 .cbp_tmtimeline > li {
-	position: relative;
-	min-height: 110px;
+  position: relative;
+  min-height: 110px;
 }
 
 .cbp_tmtimeline > li .cbp_tmtime {
-	display: block;
-	width: 50%;
-	padding-right: 60px;
-	position: absolute;
+  display: block;
+  width: 50%;
+  padding-right: 60px;
+  position: absolute;
 }
 
 .cbp_tmtimeline > li > div:nth-child(1) > img:nth-child(1) {
-	width: 100%;
-	height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 .cbp_tmtimeline > li .cbp_tmtime img {
-	display: block;
-	text-align: right;
+  display: block;
+  text-align: right;
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel {
-	margin: 0 0 15px 55%;
-	background: #FBBF14;
-	color: #fff;
-	padding: 2em;
-	font-size: 1.2em;
-	font-weight: 300;
-	line-height: 1.4;
-	position: relative;
-	border-radius: 5px;
+  margin: 0 0 15px 55%;
+  background: #fbbf14;
+  color: #fff;
+  padding: 2em;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.4;
+  position: relative;
+  border-radius: 5px;
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel h3 {
-	margin-top: 0px;
-	padding: 0 0 10px 0;
-	border-bottom: 1px solid rgba(255,255,255,0.4);
+  margin-top: 0;
+  padding: 0 0 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
 }
 
-.cbp_tmtimeline > li .cbp_tmlabel:after {
-	right: 100%;
-	border: solid transparent;
-	content: " ";
-	height: 0;
-	width: 0;
-	position: absolute;
-	pointer-events: none;
-	border-right-color: #FBBF14;
-	border-width: 10px;
-	top: 10px;
+.cbp_tmtimeline > li .cbp_tmlabel::after {
+  right: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-right-color: #fbbf14;
+  border-width: 10px;
+  top: 10px;
 }
 
 .cbp_tmtimeline > li .cbp_tmicon {
-	width: 15px;
-	height: 15px;
-	font-family: 'ecoico';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	font-size: 1.4em;
-	line-height: 20px;
-	-webkit-font-smoothing: antialiased;
-	position: absolute;
-	color: #fff;
-	background: black;
-	border-radius: 50%;
-	text-align: center;
-	left: 50%;
-	top: 0;
-	margin: 0 0 0 -15px;
+  width: 15px;
+  height: 15px;
+  font-family: "ecoico";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  font-size: 1.4em;
+  line-height: 20px;
+  -webkit-font-smoothing: antialiased;
+  position: absolute;
+  color: #fff;
+  background: black;
+  border-radius: 50%;
+  text-align: center;
+  left: 50%;
+  top: 0;
+  margin: 0 0 0 -15px;
 }
 
 // Press Page
@@ -146,7 +146,7 @@
 }
 
 .press h3:hover {
-  background-color: transparentize($brand-primary, .2);
+  background-color: transparentize($brand-primary, 0.2);
 }
 
 // Team Page
@@ -154,17 +154,25 @@
   padding: 15px;
 }
 
-.team article:nth-of-type(even) {
-  clear: right;
+@media (min-width: $screen-md-min) {
+  .team .team-member:nth-of-type(3n + 1) {
+    clear: left;
+  }
 }
 
-.team article:nth-of-type(odd) {
-  clear: left;
+.team img {
+  max-width: 300px;
 }
 
-.team .profile-header img {
-  height: 120px;
-  width: 120px;
+@media (max-width: $screen-xs-max) {
+  .team-member h3,
+  .team-member h4 {
+    text-align: center;
+  }
+
+  .team img {
+    margin: auto;
+  }
 }
 
 // Membership Page
@@ -176,7 +184,7 @@
 
   .item::before {
     background: rgba(0, 0, 0, 0.5);
-    content: '';
+    content: "";
     height: 100%;
     left: 0;
     position: absolute;
@@ -272,10 +280,9 @@
 }
 
 // Project Archive Page
-.project-card:nth-of-type(3n+1) {
+.project-card:nth-of-type(3n + 1) {
   clear: left;
 }
-
 
 @media (max-width: 768px) {
   // Home Page Labs
@@ -286,7 +293,7 @@
 
 // Stitch page
 .stitch section {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .stitch-principles h3 {
