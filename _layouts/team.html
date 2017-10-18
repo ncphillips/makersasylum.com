@@ -10,7 +10,7 @@ layout: default
   <div class="row">
     {% assign members = site.members | where:"member type","Team" | sort:"position" %}
     {% for member in members %}
-    <div class="col-md-4 margin-y-sm">
+    <div class="col-sm-6 col-md-4 margin-y-sm team-member">
       <div class="member-profile-picture-container">
         <img src="{{ member['profile picture'] }}" class="img-responsive" alt="{{ member.title }}">
       </div>
@@ -24,7 +24,7 @@ layout: default
   <h2 class="title">Lab Leads</h2>
   <div class="row">
     {% for lead in leads %}
-    <div class="col-md-4 margin-y-sm">
+    <div class="col-sm-6 col-md-4 margin-y-sm team-member">
       <div class="member-profile-picture-container">
         <img src="{{ lead['profile picture'] }}" class="img-responsive" alt="{{ lead.title }}">
       </div>
