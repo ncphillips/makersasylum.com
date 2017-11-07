@@ -6,32 +6,27 @@ position: 4
 
 ![Rapid Prototyping-556392.jpg](/uploads/Rapid%20Prototyping-556392.jpg)
 
-Bring your ideas to life!
+3D Printing and other digital prototyping tools are now buzzwords in the creative world. At Maker’s Asylum Fab lab, we have launched a weekends-only course to give a working knowledge of tool training.
 
-Maker’s Asylum brings to you Rapid Prototyping, a 3-weekend hands-on certified program.
+Day 1: Basics of electronics and Arduino
+Day 2: CAD Software
+Day 3: 3D Printing
+Day 4: Power tools like power drill, angle grinders and jig saw
+Day 5: Laser Cutting and CNC Router 
+Day 6: Project build time
 
-Build your knowledge about prototyping techniques with engineers, designers, architects and artists. Get intimate with the machines and materials at the Asylum to get your hands dirty and make your ideas happen!
+This looks like a crash course on tools - but it is really about getting you started on that dream project you've wanted to build. You'll learn from experts who'll be there to guide you through the sessions. It doesn't matter if you've got rudimentary or no technical knowledge. We will begin at the basics. And then off you go on your journey of innovation and tinkering.
 
-Participants will learn about the Laser Cutter, 3D Printer, CNC, Electronics and Power Tools. Immerse yourself in learning modules, expert talks, experiments and projects on skills learned. And what’s the best part? You get full access to Maker’s Asylum and its community of mentors and makers for the entire month! For more details on Membership, please click [HERE](/membership).
+Just bring your attitude, lap top and lunch boxes. All materials, tools and insights for the sessions are on us.
 
-Classes will be conducted over 3 weekends every month, and you will get access to the Maker’s Asylum for that whole month.
+T&C: Cancellations and refund request accepted only 72 hrs prior to the workshop.
 
-You can choose to take up individual sessions, but that will not include the membership, or the certification. The costs for the same are mentioned in the schedule photo below.
+Call 9004686828 or mail events@makersasylum.com
 
-Day 1: Orientation, Electronics and Arduino
-
-Day 2: Tool Training: Power tools.
-
-Day 3: CAD Software
-
-Day 4: 3D Printing
-
-Day 5: Laser cutting, CNC Router and Certification.
-
-Day 6: Project showcases and Community time.
+Registration link: https://goo.gl/udpNCN
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1aUEVR7nwU9IRDaRYbhuZ2wiopzVqPLX_G4GUYN9LmEmO6beqgcSl9Lb6rQ-SWIkoVccTciewxW3D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
 Explore Rapid Prototyping! Build your imagination!
 
-Click [Here](https://www.instamojo.com/MakersAsylum/rapid-prototyping-b8d6a/) to register.
+Click [Here](https://goo.gl/udpNCN) to register.
