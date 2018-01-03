@@ -49,6 +49,18 @@ partners:
 - name: 
   image: "/uploads/Fab_Lab_logo-s-234813.jpg"
   link: 
+- name: 
+  image: "/uploads/ubisoft.png"
+  link: 
+- name: 
+  image: "/uploads/tata_edge_class.png"
+  link: 
+- name: 
+  image: "/uploads/imt_logo.png"
+  link: 
+- name: 
+  image: "/uploads/em_lyon_logo.png"
+  link: 
 highlight:
   title: 
   text: 
