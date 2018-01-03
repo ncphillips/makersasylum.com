@@ -68,7 +68,7 @@ tools access:
   description: |
     **Tool Training:** while membership gives you access to the space – safety is our primary concern – all members MUST be trained and tested on all power tools, machines and certain electronic equipment by a makerspace instructor before you can use them.
 
-    Our monthly [Rapid Prototyping Course](/rapid-prototyping/) is mandatory for first-timers, to equip you with everything you need to know about our tools and certify you on good practices. After that, you can use the tools yourself, anytime you want. :)
+    Our monthly [Rapid Prototyping Course](/rapidprototyping/) is mandatory for first-timers, to equip you with everything you need to know about our tools and certify you on good practices. After that, you can use the tools yourself, anytime you want. :)
 layout: membership
 ---
 
