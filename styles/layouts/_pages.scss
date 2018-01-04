@@ -177,21 +177,41 @@
 
 // Membership Page
 
-#carousel-membership {
-  .item {
-    max-height: 500px;
-  }
+.membership .table > thead > tr > th {
+  vertical-align: top;
+}
 
-  .item::before {
-    background: rgba(0, 0, 0, 0.5);
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-  }
+.membership .table tbody th {
+  background-color: #6d6e71;
+  color: white;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+.membership .table tbody td {
+  background-color: #fdc012;
+  border-color: white;
+  vertical-align: middle;
+}
+
+.membership .table tbody td:last-of-type {
+  background-color: black;
+  color: white;
+}
+
+.membership .table .locker-rental th {
+  background-color: black;
+  color: #fdc012;
+}
+
+.membership .table .locker-rental td {
+  background-color: #6d6e71;
+  color: white;
+}
+
+.membership .table .locker-rental td:last-of-type {
+  background-color: #fdc012;
+  color: black;
 }
 
 #membership-tools {

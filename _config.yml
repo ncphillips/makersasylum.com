@@ -11,6 +11,9 @@ collections:
   members:
     title: Members
     output: true
+  membership-plans:
+    title: Membership Plans
+    output: false
   posts:
     title: Posts
     output: true
@@ -72,6 +75,18 @@ defaults:
     free hours: 
     extra time price: 
     powered by: 
+- scope:
+    path: ''
+    type: membership-plans
+  values:
+    validity: 1 Day, 1 Month, 3 Months, 6 Months or 1 Year
+    has tool access: 
+    has community events: 
+    has training on all tools: 
+    locker access: 
+    has dedicated section: 
+    benefits: 
+    price: 
 url: https://www.makersasylum.com
 permalink: pretty
 exclude:
