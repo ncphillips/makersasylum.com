@@ -5,6 +5,7 @@ validity: 6 Months
 has tool access: true
 has community events: true
 has training on all tools: true
+locker access: 30 Days
 benefits: RP + Membership
 price: "₹19900"
 ---
