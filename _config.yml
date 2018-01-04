@@ -13,7 +13,7 @@ collections:
     output: true
   membership-plans:
     title: Membership Plans
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
