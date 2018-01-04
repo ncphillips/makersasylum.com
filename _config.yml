@@ -11,6 +11,9 @@ collections:
   members:
     title: Members
     output: true
+  membership-plans:
+    title: Membership Plans
+    output: true
   posts:
     title: Posts
     output: true
