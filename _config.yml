@@ -80,6 +80,13 @@ defaults:
     type: membership-plans
   values:
     validity: "1 Day, 1 Month, 3 Months, 6 Months or 1 Year"
+    has tool access:
+    has community events:
+    has training on all tools:
+    has locker access:
+    has dedicated section:
+    benefits:
+    price:
 url: https://www.makersasylum.com
 permalink: pretty
 exclude:
