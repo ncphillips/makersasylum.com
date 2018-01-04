@@ -79,7 +79,7 @@ defaults:
     path: ''
     type: membership-plans
   values:
-    validity: ["1 Day", "1 Month", "3 Months", "6 Months", "1 Year"]
+    validity: "1 Day, 1 Month, 3 Months, 6 Months or 1 Year"
 url: https://www.makersasylum.com
 permalink: pretty
 exclude:
