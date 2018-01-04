@@ -40,53 +40,53 @@ defaults:
     type: members
   values:
     layout: member
-    member type:
-    profile picture:
-    designation:
-    website:
-    email:
-    phone:
+    member type: 
+    profile picture: 
+    designation: 
+    website: 
+    email: 
+    phone: 
     social:
-      facebook:
-      twitter:
-      youtube:
-      instagram:
+      facebook: 
+      twitter: 
+      youtube: 
+      instagram: 
 - scope:
     path: ''
     type: projects
   values:
-    featured image:
+    featured image: 
     pictures: []
     videos: []
     members: []
-    contact email:
+    contact email: 
     layout: project
 - scope:
     path: ''
     type: team
   values:
-    profile picture:
-    designation:
+    profile picture: 
+    designation: 
 - scope:
     path: ''
     type: labs
   values:
-    image:
-    free hours:
-    extra time price:
-    powered by:
+    image: 
+    free hours: 
+    extra time price: 
+    powered by: 
 - scope:
     path: ''
     type: membership-plans
   values:
     validity: 1 Day, 1 Month, 3 Months, 6 Months or 1 Year
-    has tool access:
-    has community events:
-    has training on all tools:
+    has tool access: 
+    has community events: 
+    has training on all tools: 
     locker access: 30 Days or 60 Days
-    has dedicated section:
-    benefits:
-    price:
+    has dedicated section: 
+    benefits: 
+    price: 
 url: https://www.makersasylum.com
 permalink: pretty
 exclude:
