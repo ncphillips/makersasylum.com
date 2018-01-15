@@ -1,7 +1,7 @@
 ---
 title: Champion plan
 date: 2018-01-04 15:23:00 +05:30
-position: 10
+position: 9
 validity: 1 Year
 has tool access: true
 has community events: true
