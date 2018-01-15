@@ -1,7 +1,7 @@
 ---
 title: Get Started plan
 date: 2018-01-04 15:23:00 +05:30
-position: 7
+position: 2
 validity: 1 Month
 has tool access: true
 has community events: true
