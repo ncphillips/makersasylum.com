@@ -25,7 +25,8 @@ layout: default
         </tr>
       </thead>
       <tbody>
-        {% for plan in site.membership-plans %}
+        {% assign sorted_plans = site.membership-plans | sort: "position" %}
+        {% for plan in sorted_plans %}
         <tr>
           <th>{{ plan.title }}</th>
           <td>{{ plan.validity }}</td>
