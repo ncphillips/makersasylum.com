@@ -1,5 +1,5 @@
 ---
-title: Deep Dive plan (6 Months)
+title: Deep Dive plan
 date: 2018-01-04 15:23:00 +05:30
 validity: 6 Months
 has tool access: true

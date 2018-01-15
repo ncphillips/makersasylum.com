@@ -5,7 +5,7 @@ validity: 1 Year
 has tool access: true
 has community events: true
 locker access: 60 Days
-benefits: Membership + 2 workshops
+benefits: Membership + 2 workshop upto 1500 value
 price: "₹24900"
 ---
 
