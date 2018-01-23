@@ -9,6 +9,11 @@ layout: default
 </div>
 
 <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <p>{{ page['tools access'].description | markdownify }}</p>
+    </div>
+  </div>
   <div class="table-responsive">
     <table class="table">
       <thead>
@@ -105,11 +110,6 @@ layout: default
         {% endif %}
       </div>
       {% endfor %}
-    </div>
-    <div class="row">
-      <div class="col-xs-12">
-        <p>{{ page['tools access'].description | markdownify }}</p>
-      </div>
     </div>
   </div>
 </div>
