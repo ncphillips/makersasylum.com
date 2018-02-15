@@ -178,8 +178,9 @@ links:
 - title: Ep 07 - Vaibhav Chhabra - Make. Break. Create.
   outlet: experimentQ
   link: https://www.experimentq.org/episode/07
-- title: "Modern prosthetics: Improvising to make things better"
+- title: 'Modern prosthetics: Improvising to make things better'
   outlet: DNA India
   link: http://www.dnaindia.com/mumbai/report-modern-prosthetics-improvising-to-make-things-better-2584752
 layout: press
 ---
+
