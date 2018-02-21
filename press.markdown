@@ -181,6 +181,12 @@ links:
 - title: 'Modern prosthetics: Improvising to make things better'
   outlet: DNA India
   link: http://www.dnaindia.com/mumbai/report-modern-prosthetics-improvising-to-make-things-better-2584752
+- title: Designing Flying Wheelchairs And Bionic Arms At A Mumbai Workshop
+  outlet: Homegrown
+  link: https://homegrown.co.in/article/802296/designing-flying-wheelchairs-and-bionic-arms-at-a-mumbai-workshop
+- title: En Inde, un Fabrikarium pour hacker le handicap
+  outlet: Makery
+  link: http://www.makery.info/2018/02/20/en-inde-un-fabrikarium-pour-hacker-le-handicap/
 layout: press
 ---
 
