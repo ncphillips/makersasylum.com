@@ -7,12 +7,12 @@ media_folder: "_uploads"
 public_folder: "/uploads"
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "."
+  - name: "press"
+    label: "Press Item"
+    folder: "_press"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publication", name: "publication", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
