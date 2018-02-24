@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: MakersAsylumIndia/makersasylum.com
+  branch: master
+
+media_folder: "_uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
