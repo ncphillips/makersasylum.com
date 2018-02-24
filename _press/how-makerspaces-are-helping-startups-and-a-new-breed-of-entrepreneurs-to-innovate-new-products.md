@@ -1,6 +1,6 @@
 ---
 title: >-
-  How makerspaces are helping startups and a new breed of entrepreneurs to    
+  How makerspaces are helping startups and a new breed of entrepreneurs to
   innovate new products
 publication: The Economic Times
 link: >-
