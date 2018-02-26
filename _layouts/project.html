@@ -45,14 +45,16 @@ layout: default
       {% endif %}
     </div>
   </div>
-  {% if page['videos'] %}
-  {% for video in page['videos'] %}
-  <a href="{{ video }}" data-fancybox="group"></a>
-  {% endfor %}
+
+  {% if page.videos %}
+    {% for video in page.videos %}
+    <a href="{{ video }}" data-fancybox="group"></a>
+    {% endfor %}
   {% endif %}
-  {% if page['pictures'] %}
-  {% for picture in page['pictures'] %}
-  <a href="{{ picture }}" data-fancybox="group"></a>
-  {% endfor %}
+
+  {% if page.pictures %}
+    {% for picture in page.pictures %}
+    <a href="{{ picture.image }}" data-fancybox="group" data-caption="{{ picture.alt }}"></a>
+    {% endfor %}
   {% endif %}
 </div>
