@@ -8,7 +8,8 @@ public_folder: "/uploads"
 
 collections:
   - name: "press"
-    label: "Press Item"
+    label: "Press Items"
+    singular_label: "Press Item"
     folder: "_press"
     create: true
     slug: "{{slug}}"
