@@ -32,4 +32,4 @@ collections:
         fields:
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image Description", name: "alt", widget: "string"}
-      - {label: "Description", name: "content", widget: "markdown"}
+      - {label: "Description", name: "body", widget: "markdown"}
