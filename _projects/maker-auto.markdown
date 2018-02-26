@@ -4,9 +4,12 @@ date: 2017-04-05 13:10:00 +05:30
 position: 5
 featured image: "/uploads/IMG_1607.JPG"
 pictures:
-- "/uploads/auto-00.JPG"
-- "/uploads/auto-02.jpg"
-- "/uploads/IMG_1623.JPG"
+- image: "/uploads/auto-00.JPG"
+  alt:
+- image: "/uploads/auto-02.jpg"
+  alt:
+- image: "/uploads/IMG_1623.JPG"
+  alt:
 videos:
 - https://www.youtube.com/watch?v=4j1E92De-jI
 members:

@@ -4,8 +4,10 @@ date: 2017-04-07 15:14:00 +05:30
 position: 12
 featured image: "/uploads/quidich-03.JPG"
 pictures:
-- "/uploads/quidich-00.jpg"
-- "/uploads/quidich-02.JPG"
+- image: "/uploads/quidich-00.jpg"
+  alt:
+- image: "/uploads/quidich-02.JPG"
+  alt:
 team:
   team lead:
     members:

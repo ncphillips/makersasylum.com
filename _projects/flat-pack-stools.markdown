@@ -4,7 +4,8 @@ date: 2017-06-17 16:47:00 +05:30
 position: 19
 featured image: "/uploads/DSC_1717.JPG"
 pictures:
-- "/uploads/DSC_1715.JPG"
+- image: "/uploads/DSC_1715.JPG"
+  alt:
 members:
 - Viren Vaz
 ---

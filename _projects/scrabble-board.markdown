@@ -4,9 +4,12 @@ date: 2017-04-06 18:40:00 +05:30
 position: 9
 featured image: "/uploads/scrabble-03.JPG"
 pictures:
-- "/uploads/scrabble-00.JPG"
-- "/uploads/scrabble-01.JPG"
-- "/uploads/scrabble-05.JPG"
+- image: "/uploads/scrabble-00.JPG"
+  alt:
+- image: "/uploads/scrabble-01.JPG"
+  alt:
+- image: "/uploads/scrabble-05.JPG"
+  alt:
 members:
 - Namita Mohandas
 ---

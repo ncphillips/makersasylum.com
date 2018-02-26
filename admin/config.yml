@@ -16,3 +16,20 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publication", name: "publication", widget: "string"}
       - {label: "Link", name: "link", widget: "string"}
+  - name: "projects"
+    label: "Projects"
+    singular_label: "Project"
+    folder: "_projects"
+    extension: "markdown"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "featured image", widget: "image"}
+      - label: "Pictures"
+        name: "pictures"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image Description", name: "alt", widget: "string"}
+      - {label: "Description", name: "content", widget: "markdown"}
