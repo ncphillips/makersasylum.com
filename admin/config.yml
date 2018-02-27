@@ -16,7 +16,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publication", name: "publication", widget: "string"}
       - {label: "Link", name: "link", widget: "string"}
-      - {label: "Publication Date", name: "date", widget: "date"}
+      - {label: "Publication Date", name: "date", widget: "date", format: "DD-MM-YYYY"}
   - name: "projects"
     label: "Projects"
     singular_label: "Project"
