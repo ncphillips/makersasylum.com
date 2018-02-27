@@ -1,7 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
   repo: MakersAsylumIndia/makersasylum.com
-  branch: master
 
 media_folder: "_uploads"
 public_folder: "/uploads"
