@@ -163,6 +163,30 @@ links:
 - title: Makers gonna make. The story of how Maker's Asylum Mumbai came...
   outlet: Red Bull
   link: https://m.facebook.com/story.php?story_fbid=10159685769800352&id=14226545351
+- title: S.T.E.A.M. Fabrikarium Builds Assistive Tech in Mumbai
+  outlet: Hackaday
+  link: https://hackaday.com/2018/02/07/steam-fabrikarium-mumbai/
+- title: This workshop in Mumbai has special powers
+  outlet: mid-day
+  link: https://www.mid-day.com/articles/this-workshop-in-mumbai-has-special-powers/19014192
+- title: The Power of Innovation
+  outlet: TheBetterIndia
+  link: https://www.facebook.com/thebetterindia/videos/10156068411114594/
+- title: Learning by doing at STEAM School in Mumbai
+  outlet: Makery
+  link: http://www.makery.info/en/2018/01/23/a-mumbai-leducation-par-le-faire-a-la-steam-school/
+- title: Ep 07 - Vaibhav Chhabra - Make. Break. Create.
+  outlet: experimentQ
+  link: https://www.experimentq.org/episode/07
+- title: 'Modern prosthetics: Improvising to make things better'
+  outlet: DNA India
+  link: http://www.dnaindia.com/mumbai/report-modern-prosthetics-improvising-to-make-things-better-2584752
+- title: Designing Flying Wheelchairs And Bionic Arms At A Mumbai Workshop
+  outlet: Homegrown
+  link: https://homegrown.co.in/article/802296/designing-flying-wheelchairs-and-bionic-arms-at-a-mumbai-workshop
+- title: En Inde, un Fabrikarium pour hacker le handicap
+  outlet: Makery
+  link: http://www.makery.info/2018/02/20/en-inde-un-fabrikarium-pour-hacker-le-handicap/
 layout: press
 ---
 

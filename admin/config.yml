@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: MakersAsylumIndia/makersasylum.com
+  branch: master
+
+media_folder: "_uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "press"
+    label: "Press Item"
+    folder: "_press"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publication", name: "publication", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
