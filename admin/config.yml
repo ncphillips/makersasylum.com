@@ -38,6 +38,7 @@ collections:
     label: "Membership Plans"
     singular_label: "Membership Plan"
     folder: "_membership-plans"
+    extension: "markdown"
     create: true
     slug: "{{slug}}"
     fields:
