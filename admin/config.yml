@@ -16,7 +16,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publication", name: "publication", widget: "string"}
       - {label: "Link", name: "link", widget: "string"}
-      - {label: "Publication Date", name: "date", widget: "date", format: "DD-MM-YYYY"}
+      - {label: "Publication Date", name: "date", widget: "date", format: "DD MM YYYY"}
   - name: "projects"
     label: "Projects"
     singular_label: "Project"
@@ -34,3 +34,19 @@ collections:
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image Description", name: "alt", widget: "string"}
       - {label: "Description", name: "body", widget: "markdown"}
+  - name: "membership-plans"
+    label: "Membership Plans"
+    singular_label: "Membership Plan"
+    folder: "_membership-plans"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "number"}
+      - {label: "Validity", name: "validity", widget: "string"}
+      - {label: "Has tool access?", name: "has tool access", widget: "boolean"}
+      - {label: "Has community events?", name: "has community events", widget: "boolean"}
+      - {label: "Locker access duration", name: "locker access", widget: "string"}
+      - {label: "Benefits", name: "benefits", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Payment link", name: "link", widget: "string"}
