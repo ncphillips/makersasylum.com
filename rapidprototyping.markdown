@@ -23,10 +23,10 @@ T&C: Cancellations and refund request accepted only 72 hrs prior to the workshop
 
 Call 9004686828 or mail events@makersasylum.com
 
-[Registration link](https://goo.gl/udpNCN)
+[Registration link](https://www.instamojo.com/MakersAsylum/rapid-prototyping-march-mumbai/)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1aUEVR7nwU9IRDaRYbhuZ2wiopzVqPLX_G4GUYN9LmEmO6beqgcSl9Lb6rQ-SWIkoVccTciewxW3D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
 Explore Rapid Prototyping! Build your imagination!
 
-Click [Here](https://goo.gl/udpNCN) to register.
+Click [Here](https://www.instamojo.com/MakersAsylum/rapid-prototyping-march-mumbai/) to register.
