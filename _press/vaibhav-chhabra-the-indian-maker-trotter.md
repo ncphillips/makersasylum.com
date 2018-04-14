@@ -1,7 +1,7 @@
 ---
 title: 'Vaibhav Chhabra, the Indian maker-trotter'
-publication: Makery France
+publication: Makery
 link: 'http://www.makery.info/2017/09/12/vaibhav-chhabra-le-maker-trotter-indien/'
-date: 2017-09-12T00:00:00+05:30
+date: 2017-09-11T18:30:00.000Z
 ---
 
