@@ -1,9 +1,12 @@
 ---
 title: Referral plan
-date: 2018-01-04 15:24:00 +05:30
 position: 10
 validity: 1 Month
 has tool access: true
+has community events: true
+locker access: Available on an additional cost
+benefits: Access to Tools -Access to community events -Fixed spot
 price: Free 1 month for 2 refferals
+link: 'https://goo.gl/uK43F7'
 ---
 
