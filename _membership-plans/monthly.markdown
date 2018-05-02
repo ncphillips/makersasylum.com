@@ -1,10 +1,12 @@
 ---
 title: Monthly renewal
-date: 2018-01-04 15:22:00 +05:30
 position: 4
 validity: 1 Month
 has tool access: true
 has community events: true
-price: "₹4900"
+locker access: Available on additional cost
+benefits: Access to Tools -Access to all community events
+price: ₹4900
+link: 'https://goo.gl/kGa73n'
 ---
 
