@@ -1,12 +1,12 @@
 ---
 title: Startup plan (for 4 people)
-date: 2018-01-04 15:25:00 +05:30
 position: 13
 validity: 1 Month
 has tool access: true
 has community events: true
-has dedicated section: true
+locker access: Available on additional cost
 benefits: Big Studio
-price: "₹20000"
+price: ₹20000
+link: 'https://goo.gl/Rj7dcq'
 ---
 
