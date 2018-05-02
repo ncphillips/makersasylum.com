@@ -7,6 +7,6 @@ has community events: false
 locker access: Additional fees to avail the service
 benefits: Access to Tools
 price: ₹2500
-link: 'https://goo.gl/qWCz8G'
+link: 'https://goo.gl/qWCz8'
 ---
 
