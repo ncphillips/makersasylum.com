@@ -1,9 +1,12 @@
 ---
 title: Student monthly renewal
-date: 2018-01-04 15:22:00 +05:30
 position: 5
 validity: 1 Month
 has tool access: true
-price: "₹2500"
+has community events: false
+locker access: Additional fees to avail the service
+benefits: Access to Tools
+price: ₹2500
+link: 'https://goo.gl/qWCz8G'
 ---
 
