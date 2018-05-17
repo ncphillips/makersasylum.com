@@ -26,6 +26,7 @@ layout: default
             <th>Dedicated section</th>
             <th>Benefits</th>
             <th class="text-center">Price</th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
@@ -57,6 +58,11 @@ layout: default
             </td>
             <td>{{ plan.benefits }}</td>
             <td class="text-center">{{ plan.price }}</td>
+            <td>
+              {% if plan.link %}
+                <a href="{{ plan.link }}" target="_blank">Select Plan</a>
+              {% endif %}
+            </td>
           </tr>
           {% endfor %}
           <tr style="height: 2em;"></tr>

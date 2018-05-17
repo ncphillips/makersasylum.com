@@ -194,9 +194,20 @@
   vertical-align: middle;
 }
 
-.membership .table tbody td:last-of-type {
+.membership .table tbody td:nth-last-of-type(2) {
   background-color: black;
   color: white;
+}
+
+.membership .table tbody td:last-of-type {
+  background-color: #fdc012;
+  width: 12%;
+  text-align: center;
+}
+
+.membership .table tbody td:last-of-type a {
+  color: white;
+  text-decoration: underline;
 }
 
 .membership .table .locker-rental th {
