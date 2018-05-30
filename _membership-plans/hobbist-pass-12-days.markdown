@@ -6,7 +6,6 @@ has tool access: true
 has community events: false
 locker access: Available on additional cost
 benefits: Wi-fi
-price: ₹4900
+price: ₹5000
 link: 'https://goo.gl/zt2Atr '
 ---
-

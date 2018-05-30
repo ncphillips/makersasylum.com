@@ -7,6 +7,5 @@ has community events: false
 locker access: "Available on additional cost\t"
 benefits: Access to Tools
 price: ₹2500
-link: 'https://goo.gl/qWCz8'
+link: 'https://www.instamojo.com/MakersAsylum/student-monthly-renewal/'
 ---
-
