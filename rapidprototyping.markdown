@@ -4,29 +4,23 @@ date: 2017-04-10 20:35:00 +05:30
 position: 4
 ---
 
-![Rapid Prototyping-556392.jpg](/uploads/Rapid%20Prototyping-556392.jpg)
+![Rapid Prototyping Schedule](/uploads/rapid_prototyping_schedule.png)
 
-3D Printing and other digital prototyping tools are now buzzwords in the creative world. At Maker’s Asylum Fab lab, we have launched a weekends-only course to give a working knowledge of tool training.
+At Maker’s Asylum Fab lab, we have launched a weekends-only course to give you all the tools you need to starting making, breaking, and creating.
 
-* Day 1: Basics of electronics and Arduino
-* Day 2: CAD Software
+* Day 1: Power Tools
+* Day 2: CAD (Mumbai) / Welding (Delhi)
 * Day 3: 3D Printing
-* Day 4: Power tools like power drill, angle grinders and jig saw
-* Day 5: Laser Cutting and CNC Router
-* Day 6: Project build time
+* Day 4: Laser Cutting
+* Day 5: Electronics
 
-This looks like a crash course on tools - but it is really about getting you started on that dream project you've wanted to build. You'll learn from experts who'll be there to guide you through the sessions. It doesn't matter if you've got rudimentary or no technical knowledge. We will begin at the basics. And then off you go on your journey of innovation and tinkering.
+This is a month long course that’s about getting you started on that dream project you’ve wanted to build. It doesn’t matter if you’ve got rudimentary or no technical knowledge. We will begin at the basics, before you go off on your journey of innovation and tinkering.
 
-Just bring your attitude, lap top and lunch boxes. All materials, tools and insights for the sessions are on us.
+Just bring your attitude, a laptop and lunch boxes. Materials + Tools are on us.
 
 T&C: Cancellations and refund request accepted only 72 hrs prior to the workshop.
 
-Call 9004686828 or mail events@makersasylum.com
+Call <a href="tel:9004686828">9004686828</a> (Mumbai) / <a href="tel:8826446828">8826446828<a/> (Delhi) or mail <a href="mailto:events@makersasylum.com">events@makersasylum.com</a>
 
-[Registration link](https://bit.ly/2xqxcL9)
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1aUEVR7nwU9IRDaRYbhuZ2wiopzVqPLX_G4GUYN9LmEmO6beqgcSl9Lb6rQ-SWIkoVccTciewxW3D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
-
-Explore Rapid Prototyping! Build your imagination!
-
-Click [Here](https://bit.ly/2xqxcL9) to register.
+<a href="https://www.facebook.com/pg/makersasylumdelhi/events/" target="_blank" class="btn btn-primary">Delhi Tickets</a>
+<a href="https://www.facebook.com/pg/makersasylum/events/" target="_blank" class="btn btn-primary">Mumbai Tickets</a>
