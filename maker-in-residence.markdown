@@ -4,49 +4,36 @@ date: 2017-04-10 20:57:00 +05:30
 position: 5
 ---
 
-![Maker-in-Residence.jpg](/uploads/Maker-in-Residence.jpg)
+![Maker in Residence](/uploads/ma_residency.jpg)
 
 ## Maker in Residence – Mumbai
 
-If you have a great project in mind but limited availability of tools or space to make it happen, or if you are looking for a strong community to support you in this adventure, we need you!
-We are looking for people willing to create a positive impact on the world, with innovative ideas and a passion for making!
+We are looking for people who want to create something socially productive. If you have a passion for making and innovative ideas, we’ll give you tools and space to make your ideas happen.
 
-Introducing our ‘Maker in Residence’ program. A 4 to 8 month residency at Maker’s Asylum, which gives you the chance to build your dreams in an environment designed to foster innovation and creative problem solving.
+We are also looking for sponsors - corporate or otherwise, who want to fuel Indian innovation. If your company is interested in sponsoring a specific type of project, we’re more than happy to work with our applicants to make it happen.
 
-Come help spread the love for making while building your portfolio as you acquire new skills and pass it on to the rest of our community. Explore collaborative ideation unlike anything you’ve experienced before.
+Our residency program ranges from 4-12 months, depending on the project. We provide the space to make and the tools to build with, as well as funding for your project. In return, we expect you to teach a few workshops, and most importantly - make something great!
 
-As part of the residency, you’ll be provided:
+As part of the program, Resident Makers will receive:
 
-* Training on all the tools & equipment at the Asylum.
+* Training & unlimited access to all the tools & equipment at the Asylum.
 
-* Unlimited access to tools & equipment.
+* Guidance and support in sourcing material from local vendors.
 
-* Support in raising sponsorship for your project within the range of INR 50000 to INR 300000 from our partners. \* Depends on Project.
+* A dedicated space to work.
 
-* Support in getting resources like materials, special tools, etc.
+* Various platforms to showcase their work - either through workshops or exhibitions.
 
-* Full support from the mentors at the Asylum.
-
-* Dedicated space to work on your project.
-
-* Platform to showcase your talent: showcase projects, conduct workshops and courses.
-
-* Ownership: All IP related to the project will belong to you. The physical project will also belong to you.
+* We believe in contributing to the open-source community, so we recommend that our Resident Makers document and share their work publicly. However, all IP related to the project will belong to them, as will the physical project.
 
 Responsibilities:
 
-* We suggest you to plan your time at the Asylum as follows:
+* We expect all our Resident Makers to give back to the community in some way, either through teaching and conducting workshops, or through joining collaborative projects and helping other members.
 
-  * Project work: 1/3rd of your time should be dedicated towards your big residency project.
-
-  * 1/3 rd of your time  should be dedicated to give back to the community via  conducting workshops and training.
-
-  * Helping members / other community projects: 1/3rd of your time.
-
-* Your engagement at the Asylum should be for minimum of 4 months and maximum of 12 months.
+* At the end of the residency, we expect to see some amazing projects that fulfil an important urban need, that have been well-documented for the purpose of future research.
 
 Application Procedure:
 
-* Send email to info@makersasylum.com with info about yourself and the project you want to work on. 
+* STEP 1: Send an email to [info@makersasylum.com](mailto:info@makersasylum.com) introducing yourself and briefly describe your project. If we like what we see, we’ll ask you to then send some of your previous work (websites, PDF portfolios, blog posts, papers, presentations, etc) as well as a more detailed project proposal.
 
-* Attach your resume, past project documentations (pictures / blog post / link / published papers / presentations etc).
+* STEP 2: After we’ve seen some of your past work and considered your project proposal, we’ll have a better understanding of how we can pair you up with sponsors to fund the project. At this stage, we’ll work together to come up with a proposed timeline and budget.
