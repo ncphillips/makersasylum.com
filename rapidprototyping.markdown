@@ -5,6 +5,7 @@ position: 4
 ---
 
 ![Rapid Prototyping Schedule](/uploads/rapid_prototyping_schedule.png)
+![Rapid Prototyping Schedule](/uploads/rapid_prototyping_website_syllabus.jpg)
 
 At Maker’s Asylum Fab lab, we have launched a weekends-only course to give you all the tools you need to starting making, breaking, and creating.
 
