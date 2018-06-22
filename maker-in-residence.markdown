@@ -6,7 +6,7 @@ position: 5
 
 ![Maker in Residence](/uploads/ma_residency.jpg)
 
-## Maker in Residence – Mumbai
+## Maker in Residence
 
 We are looking for people who want to create something socially productive. If you have a passion for making and innovative ideas, we’ll give you tools and space to make your ideas happen.
 
