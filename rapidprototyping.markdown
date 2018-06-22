@@ -4,7 +4,7 @@ date: 2017-04-10 20:35:00 +05:30
 position: 4
 ---
 
-![Rapid Prototyping Schedule](/uploads/rapid_prototyping_schedule.png)
+![Rapid Prototyping Schedule](/uploads/rapid_prototyping_website_syllabus.jpg)
 
 At Maker’s Asylum Fab lab, we have launched a weekends-only course to give you all the tools you need to starting making, breaking, and creating.
 
@@ -14,7 +14,7 @@ At Maker’s Asylum Fab lab, we have launched a weekends-only course to give you
 * Day 4: Laser Cutting
 * Day 5: Electronics
 
-![Rapid Prototyping Schedule](/uploads/rapid_prototyping_website_syllabus.jpg)
+![Rapid Prototyping Schedule](/uploads/rapid_prototyping_schedule.png)
 
 This is a month long course that’s about getting you started on that dream project you’ve wanted to build. It doesn’t matter if you’ve got rudimentary or no technical knowledge. We will begin at the basics, before you go off on your journey of innovation and tinkering.
 
