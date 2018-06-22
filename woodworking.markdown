@@ -13,10 +13,10 @@ Our goal is to make sure each participant walks away a master in basic wood #joi
 
 #### Schedule:
 
-Day 1: Introduction and cutting wood to size
-Day 2: Joinery, dry fitting and final assembly
-Day 3: Polish and finish
-Day 4: Spillover
+* Day 1: Introduction and cutting wood to size
+* Day 2: Joinery, dry fitting and final assembly
+* Day 3: Polish and finish
+* Day 4: Spillover
 
 #### About the Instructor:
 
@@ -24,14 +24,14 @@ Viren Vaz of V for Wood is a software professional by day and a tinkerer by nigh
 
 #### T&Cs:
 
-Cancellations and refund request accepted only 48 hrs prior to the workshop.
-
-Dress Code: Shoes, Cotton T-shirt, Denims, with tied up hair
-
-Cost: Rs. 5,000 + government taxes as applicable
-
+Cancellations and refund request accepted only 48 hrs prior to the workshop.<br>
+Dress Code: Shoes, Cotton T-shirt, Denims, with tied up hair<br>
+Cost: Rs. 5,000 + government taxes as applicable<br>
 Age: 16+ recommended. Younger participants can attend but will have to bring along
           a parent or guardian to sign the indemnity form for them.
+
+<a href="https://www.instamojo.com/MakersAsylum/woodworking-for-beginners-july-mumbai/" target="_blank" class="btn btn-primary">Mumbai Tickets</a>
+
 
 ## Woodworking (Delhi)
 
@@ -51,11 +51,10 @@ Check out her story on Little Black Book, Delhi:
 
 #### T&Cs:
 
-Cancellations and refund request accepted only 48 hrs prior to the workshop.
-
-Dress Code: Shoes, Cotton T-shirt, Denims, with tied up hair
-
-Cost: Rs. 3,000 + government taxes as applicable
-
+Cancellations and refund request accepted only 48 hrs prior to the workshop.<br>
+Dress Code: Shoes, Cotton T-shirt, Denims, with tied up hair.<br>
+Cost: Rs. 3,000 + government taxes as applicable<br>
 Age: 16+ recommended. Younger participants can attend but will have to bring along
           a parent or guardian to sign the indemnity form for them.
+
+<a href="https://www.instamojo.com/MakersAsylum/woodworking-for-beginners-june-del/" target="_blank" class="btn btn-primary">Delhi Tickets</a>
