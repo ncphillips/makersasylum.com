@@ -8,6 +8,13 @@ pictures:
   alt:
 - image: "/uploads/guitar-101-3.jpg"
   alt:
+members:
+- Satyam Baranwal
+- Tanwi Agarwal
+- Amanpreet Kaur
+- Sanket Thakur
+- Praanshu Gupta
+- Hemang Vellore 
 ---
 
 Guitar 101 is a low cost guitar tutor that can be retrofitted onto existing guitars, which will guide first time users on basic chord construction by the use of LEDs that light up on the correct fret positions.
