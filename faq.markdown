@@ -90,30 +90,30 @@ While we’ve had the involvements of corporate, the scope is just beginning to 
 
 We’d like build more meaningful associations with corporate through being a bridge between their needs and the talent that’s available across the community. The Asylum would like to co-create curriculum through industry-academia partnerships. We would also like industry to think of maker spaces as a test bed for new ideas.
 
-### List of Holidays for year 2016
+### List of Holidays for the current year
 
 Maker’s Asylum will remain closed on following days:
 
 26th January – Republic Day
 
-24th March – Holi
+1st March – Holi
 
-25th March – Good Friday
+30th March – Good Friday
 
 15th August – Independence Day
 
-5th September – Ganesh Chaturthi
+13th September – Ganesh Chaturthi
 
-14th September – Anant Chaturdashi
+23rd September – Anant Chaturdashi
 
-11th October – Dussehra
+19th October – Dussehra
 
-30th October – Diwali
+6th November – Diwali
 
-31st October – Diwali
+7th November – Diwali
 
 25th December – Christmas
 
 31st December – Year End
 
-1st January – New year day
+1st January – New Year Day

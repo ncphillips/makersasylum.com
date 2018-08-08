@@ -57,4 +57,4 @@ Cost: Rs. 3,000 + government taxes as applicable<br>
 Age: 16+ recommended. Younger participants can attend but will have to bring along
           a parent or guardian to sign the indemnity form for them.
 
-<a href="https://www.instamojo.com/MakersAsylum/woodworking-for-beginners-june-del/" target="_blank" class="btn btn-primary">Delhi Tickets</a>
+<a href="https://www.instamojo.com/MakersAsylum/woodworking-workshop-august-delhi/" target="_blank" class="btn btn-primary">Delhi Tickets</a>
