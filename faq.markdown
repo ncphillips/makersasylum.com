@@ -4,6 +4,10 @@ date: 2017-04-10 21:28:00 +05:30
 position: 7
 ---
 
+### What is Maker's Asylum?
+
+Maker’s Asylum is a community space focussed on fostering innovation through hands on learning. It also provides access to an ecosystem of stakeholders which includes Governments, Businesses, Incubators/Accelerators, Investors and subject matter experts. The space houses various labs that are co-located in order to facilitate prototyping of ideas that are interdisciplinary in nature.
+
 ### What was the founding vision of your makerspace, and how is it supported? What facilities and skills programmes do you provide?
 
 Maker’s Asylum is a lot like a playground for artists, thinkers and engineers. We call them our community of unlike minded people. Our vision has always been of a collaborative workspace with an access to a range of tools, ideas and people. Over time we have equipped our space with simple hand and power tools to rapid prototyping devices and digital fabrication machines like 3D printers, laser cutters, CNC mills etc.
@@ -22,7 +26,7 @@ We provide all basic hand tools, power tools, 3D printers and a Laser cutting ma
 
 ### Can I co-work from the Asylum?
 
-Yes you can. We are in process of setting up a whole new co-working section for startups and freelancers. get in touch with us at info@makersasylum.com
+Yes you can. We are in process of setting up a whole new co-working section for startups and freelancers. Get in touch with us at info@makersasylum.com
 
 ### Will there be someone to guide me?
 
@@ -32,6 +36,10 @@ Think of Makers Asylum like a gym for tools. You come here, we teach you how to 
 
 It’s all yours. You bring the materials and you take what you build out of it home. However, if Asylum funded a Build Group, the project remains at the Asylum. Similarly, if we pay for the materials, the project stays at the Asylum.
 
+### What is a Build Group?
+
+Build Groups are open community projects. Champion Makers can initiate Builds at the Asylum. These projects are open for the community to join and learn. This is a great way to get started at the Asylum – work on new exciting projects and learn from the champions during the process.
+
 ### I don’t have an idea or skill, can I still join?
 
 Yep, you are more than welcome. We suggest you to come for some of our training sessions. They will teach you some basic skills that you can practice at the space later.
@@ -39,10 +47,6 @@ Yep, you are more than welcome. We suggest you to come for some of our training 
 ### What do you guys do for fun?
 
 Censored. Just kidding. Come hang out with us to find out.
-
-### What is a Build Group?
-
-Build Groups are open community projects. Champion Makers can initiate Builds at the Asylum. These projects are open for the community to join and learn. This is a great way to get started at the Asylum – work on new exciting projects and learn from the champions during the process.
 
 ### What’s a Workshop?
 
@@ -78,7 +82,7 @@ Yes we do. You can send us an STL file for 3D printing and a DFX file for laser 
 
 ### Where can I source material?
 
-We do have basic materials for laser cutting and some basic electronics kept at the asylum that you can buy. If you need something specific you can try reach out to the following vendors: Link
+We do have basic materials for laser cutting and some basic electronics kept at the asylum that you can buy. We also provide with the contact details of vendors to our members if they need any specific material.
 
 ### What activities and support do you provide for social entrepreneurs and NGOs?
 
