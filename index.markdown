@@ -24,6 +24,9 @@ featured projects:
 - project: Game Arcade
   description: 
 sponsors:
+- name: Ador Welding
+  image: "/uploads/Ador Logo.png"
+  link: ''
 - name: Imaginarium
   image: "/uploads/imaginarium.png"
   link: 
@@ -68,5 +71,5 @@ highlight:
     link: 
     text: 
 layout: index
----
 
+---
