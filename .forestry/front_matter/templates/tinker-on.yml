@@ -23,3 +23,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- _press/Making-in-India.md
