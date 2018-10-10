@@ -2,12 +2,12 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
+- title: Project-based Learning at S.T.E.A.M School
+  link: http://school.makersasylum.com/
+  image: "/uploads/Steam School 2018 Banner-04.jpg"
 - title: Rapid Prototyping Course
   link: rapidprototyping/
   image: "/uploads/Satnogs%20project-61e681.jpg"
-- title: Project-based Learning at S.T.E.A.M School
-  link: http://school.makersasylum.com/
-  image: "/uploads/steam.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
   link: membership/
   image: "/uploads/IMG_6872.JPG"
