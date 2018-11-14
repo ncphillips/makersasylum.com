@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: 2018-11-14 13:07
+date: ''
 publication: ''
 link: ''
 
@@ -23,16 +23,24 @@ Few notable partners of Maker’s Asylum in the past : Godrej, Airbus, Dassault 
 
 ### ​STEAM Fabrikarium
 
+Program with the differently abled community
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/0XNo7CGpvLo' frameborder='0' allowfullscreen></iframe></div>
 
 ### ​STEAM School
+
+Project based learning program aligned to the United Nations Sustainable Development Goals
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/MyuoBraNCAQ' frameborder='0' allowfullscreen></iframe></div>
 
 ### ​STEAM School Documentary
 
+Project based learning program aligned to the United Nations Sustainable Development Goals
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_cgSFmtqUb4' frameborder='0' allowfullscreen></iframe></div>
 
 ### ​STITCH
+
+Design thinking & prototyping for kids
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/qDjQO9XQWfY' frameborder='0' allowfullscreen></iframe></div>
