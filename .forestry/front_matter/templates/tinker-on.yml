@@ -24,4 +24,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- about-us.md
 - _press/Making-in-India.md
