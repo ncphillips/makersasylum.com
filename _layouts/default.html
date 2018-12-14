@@ -8,7 +8,6 @@
     <title>{{ page.title }}{% if page.url != '/' %} - Maker's Asylum{% endif %}</title>
     <link rel="stylesheet" href="/styles/all.css" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- MailerLite Universal -->
     <script>
     (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
@@ -40,17 +39,6 @@
     </main>
     {% include footer.html %}
     <script src="/scripts/all.js"></script>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
     <script>
       var ml_webform_888918 = ml_account('webforms', '888918', 'o5t5r2', 'load');
       var ml_webform_968126 = ml_account('webforms', '968126', 'y2f7t9', 'load');
