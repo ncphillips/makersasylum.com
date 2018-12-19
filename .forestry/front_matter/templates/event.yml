@@ -12,3 +12,5 @@ fields:
   - body-copy
   - images
   - buttons
+pages:
+- fab-academy.md

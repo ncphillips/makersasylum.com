@@ -24,6 +24,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- fab-academy.md
 - _press/Making-in-India.md
 - about-us.md
