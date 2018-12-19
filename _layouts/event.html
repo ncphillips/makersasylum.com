@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="container">
+  {% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+    {% when 'banner' %}
+      {% include blocks/banner.html %}
+    {% when 'buttons' %}
+      {% include blocks/buttons.html %}
+    {% when 'title' %}
+      {% include blocks/title.html %}
+    {% when 'body-copy' %}
+      {% include blocks/body-copy.html %}
+    {% when 'images' %}
+      {% include blocks/images.html %}
+    {% endcase %}
+  {% endfor %}
+</div>

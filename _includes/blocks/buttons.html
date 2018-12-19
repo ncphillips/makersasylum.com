@@ -1,0 +1,5 @@
+<div class="text-center margin-bottom-sm">
+  {% for button in block.buttons %}
+    <a href="{{ button.link }}" class="btn btn-primary">{{ button.text }}</a>
+  {% endfor %}
+</div>

@@ -1,8 +1,7 @@
 ---
 title: Fab Academy
 date: 2018-12-19 13:08:58 +0530
-publication: ''
-link: ''
+layout: event
 page_sections:
 - template: banner
   image: "/uploads/IMG_8825.jpg"
@@ -48,28 +47,12 @@ page_sections:
     * Digital fabrication applications and implications - 1 week
     * Invention, intellectual property, and business models - 1 week
     * Digital fabrication project development - 2 weeks
-
-    | --- | --- |
-    |  Digital fabrication principles and practices – |  1 week |
-    | Computer-aided design, manufacturing, and modeling  | 1 week |
-    | Computer-controlled cutting  | 1 week |
-    | Electronics design and production | 2 Weeks |
-    | Computer-controlled machining | 1 week |
-    | Embedded programming | 1 week |
-    | 3D molding and casting | 1 week |
-    | Collaborative technical development and project management | 1 week |
-    | 3D scanning and printing | 1 week |
-    | Sensors, actuators, and displays | 2 weeks |
-    | Interface and application programming | 1 week |
-    | Embedded networking and communications | 1 weel |
-    | Machine design | 2 weeks |
-    | Digital fabrication applications and implications | 1 week |
-    | Invention, intellectual property, and business models | 1 week |
-    | Digital fabrication project development | 2 weeks |
 - template: buttons
   buttons:
   - link: https://form.jotformeu.com/FabAcademy/2019-students-application
     text: Apply Now
+- template: title
+  title: Powered By
 - template: images
   images:
   - "/uploads/IMG_8832.jpg"
