@@ -10,7 +10,7 @@ page_sections:
   - text: Apply Now
     link: https://form.jotformeu.com/FabAcademy/2019-students-application
   - link: http://fabacademy.org/application-form/
-    text: More information on Fab Academy website
+    text: Fab Academy
 - template: title
   title: HOW TO MAKE ANYTHING?
 - template: body-copy
