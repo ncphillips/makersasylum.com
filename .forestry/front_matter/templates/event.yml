@@ -12,5 +12,9 @@ fields:
   - body-copy
   - images
   - buttons
+- type: include
+  name: primary_color
+  label: Primary color
+  template: primary-color
 pages:
 - fab-academy.md
