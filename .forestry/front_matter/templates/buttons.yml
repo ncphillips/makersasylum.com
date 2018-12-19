@@ -1,0 +1,16 @@
+---
+label: Buttons
+hide_body: false
+is_partial: true
+display_field: buttons
+fields:
+- type: field_group_list
+  name: buttons
+  label: Buttons
+  fields:
+  - type: text
+    name: link
+    label: Link
+  - type: text
+    name: text
+    label: Text
