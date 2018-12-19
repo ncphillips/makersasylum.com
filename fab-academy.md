@@ -213,7 +213,7 @@ page_sections:
     image: "/uploads/IMG_8834.jpg"
     link: http://fab.cba.mit.edu/
   number_of_columns:
-    desktop: '3'
-    mobile: '3'
+    desktop: '4'
+    mobile: '4'
 
 ---
