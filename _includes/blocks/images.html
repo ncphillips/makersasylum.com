@@ -1,7 +1,13 @@
 <div class="row pad-y-sm">
   {% for image in block.images %}
     <div class="col-xs-3">
-      <img src="{{ image }}" alt="" class="img-responsive">
+      {% if image.link %}
+        <a href="{{ image.link }}" target="_blank">
+          <img src="{{ image.image }}" alt="" class="img-responsive">
+        </a>
+      {% else %}
+        <img src="{{ image.image }}" alt="" class="img-responsive">
+      {% endif %}
     </div>
   {% endfor %}
 </div>
