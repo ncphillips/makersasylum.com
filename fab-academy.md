@@ -35,7 +35,7 @@ page_sections:
     |  Digital fabrication principles and practices – |  1 week |
     | Computer-aided design, manufacturing, and modeling  | 1 week |
     | Computer-controlled cutting  | 1 week |
-    | Electronics design and production | 2 Weeks |
+    | Electronics design and production | 2 weeks |
     | Computer-controlled machining | 1 week |
     | Embedded programming | 1 week |
     | 3D molding and casting | 1 week |
@@ -43,7 +43,7 @@ page_sections:
     | 3D scanning and printing | 1 week |
     | Sensors, actuators, and displays | 2 weeks |
     | Interface and application programming | 1 week |
-    | Embedded networking and communications | 1 weel |
+    | Embedded networking and communications | 1 week |
     | Machine design | 2 weeks |
     | Digital fabrication applications and implications | 1 week |
     | Invention, intellectual property, and business models | 1 week |
