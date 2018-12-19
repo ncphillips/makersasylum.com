@@ -2,6 +2,9 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
+- title: Applications are open for Fab Academy
+  link: https://www.makersasylum.com/fab-academy/
+  image: "/uploads/IMG_8825.jpg"
 - title: Project-based Learning at S.T.E.A.M School
   link: http://steam.makersasylum.com/
   image: "/uploads/Steam School 2018 Banner-04.jpg"
