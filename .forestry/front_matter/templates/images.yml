@@ -14,3 +14,13 @@ fields:
   - type: text
     name: link
     label: Link
+- type: field_group
+  name: number_of_columns
+  label: Number of columns
+  fields:
+  - type: number
+    name: desktop
+    label: Desktop
+  - type: number
+    name: mobile
+    label: Mobile
