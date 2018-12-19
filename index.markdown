@@ -9,7 +9,7 @@ featured:
   link: rapidprototyping/
   image: "/uploads/Satnogs%20project-61e681.jpg"
 - title: DIY Workspaces for Startups,  Designers, Architects
-  link: membership/
+  link: https://membership.makersasylum.com/
   image: "/uploads/IMG_6872.JPG"
 - title: Events, Workshops & Meetups
   link: https://www.facebook.com/pg/makersasylum/events/
