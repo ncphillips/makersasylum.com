@@ -1,0 +1,14 @@
+---
+label: Event
+hide_body: true
+is_partial: false
+fields:
+- type: blocks
+  label: Page sections
+  name: page_sections
+  template_types:
+  - banner
+  - title
+  - body-copy
+  - images
+  - buttons
