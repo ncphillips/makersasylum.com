@@ -4,6 +4,13 @@ hide_body: false
 is_partial: true
 display_field: images
 fields:
-- type: image_gallery
+- type: field_group_list
   name: images
   label: Images
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: link
+    label: Link
