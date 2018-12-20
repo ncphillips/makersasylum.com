@@ -50,8 +50,6 @@ page_sections:
     | Digital fabrication project development | 2 weeks |
 - template: body-copy
   content: |-
-    **How It Works**
-
     **Fab Academy** is a distributed educational model providing a unique educational experience.
 
     Each Fab Lab that participates in the Fab Academy program (see list [here](http://fabacademy.org/2017-nodes-supernodes/)) is part of a global Fab Lab / Fab Academy network. These Fab Labs are Nodes that offer the Fab Academy program.
