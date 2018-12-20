@@ -30,6 +30,17 @@ page_sections:
 - template: title
   title: What will you master within 5 months?
 - template: body-copy
+  content: |-
+    **How It Works**
+
+    **Fab Academy** is a distributed educational model providing a unique educational experience.
+
+    Each Fab Lab that participates in the Fab Academy program (see list [here](http://fabacademy.org/2017-nodes-supernodes/)) is part of a global Fab Lab / Fab Academy network. These Fab Labs are Nodes that offer the Fab Academy program.
+
+    Students view and participate in global lectures broadcasted every Wednesdays at 9:00 am – 12:00 pm EST. The lectures are recorded and available to students throughout the semester. In addition to the lectures, there are 2 / 3 lab days each week where students have access the digital fabrication equipment and personal help with projects. Each Fab Lab will establish the schedule for these Lab days.
+
+    Fab Academy faculty, who are leaders in their respective fields, provide global video lectures, supervise academic content, and guide research. Hands-on instruction in the labs is provided by instructors who supervise and evaluate Certificates, develop and disseminate instructional material, and assist with projects.
+- template: body-copy
   content: |
     | --- | --- |
     |  Digital fabrication principles and practices – |  1 week |
@@ -48,17 +59,6 @@ page_sections:
     | Digital fabrication applications and implications | 1 week |
     | Invention, intellectual property, and business models | 1 week |
     | Digital fabrication project development | 2 weeks |
-- template: body-copy
-  content: |-
-    **How It Works**
-
-    **Fab Academy** is a distributed educational model providing a unique educational experience.
-
-    Each Fab Lab that participates in the Fab Academy program (see list [here](http://fabacademy.org/2017-nodes-supernodes/)) is part of a global Fab Lab / Fab Academy network. These Fab Labs are Nodes that offer the Fab Academy program.
-
-    Students view and participate in global lectures broadcasted every Wednesdays at 9:00 am – 12:00 pm EST. The lectures are recorded and available to students throughout the semester. In addition to the lectures, there are 2 / 3 lab days each week where students have access the digital fabrication equipment and personal help with projects. Each Fab Lab will establish the schedule for these Lab days.
-
-    Fab Academy faculty, who are leaders in their respective fields, provide global video lectures, supervise academic content, and guide research. Hands-on instruction in the labs is provided by instructors who supervise and evaluate Certificates, develop and disseminate instructional material, and assist with projects.
 - template: body-copy
   content: |-
     CALENDAR
