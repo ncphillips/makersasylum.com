@@ -77,7 +77,7 @@ page_sections:
 
     The **Global Evaluation** calendar TBA.
 
-    **Fab Academy Graduation Ceremony** 2019 will tale place [**@Fab15**](http://fab15.org/) Event, in El Cairo + El Gouna, Egypt (TBA)
+    **Fab Academy Graduation Ceremony** 2019 will take place [**@Fab15**](http://fab15.org/) Event, in El Cairo + El Gouna, Egypt (TBA)
 - template: title
   title: Powered By
 - template: images
