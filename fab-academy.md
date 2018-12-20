@@ -48,6 +48,8 @@ page_sections:
     | Digital fabrication applications and implications | 1 week |
     | Invention, intellectual property, and business models | 1 week |
     | Digital fabrication project development | 2 weeks |
+- template: title
+  title: How It Works
 - template: body-copy
   content: |-
     **Fab Academy** is a distributed educational model providing a unique educational experience.
@@ -90,7 +92,5 @@ page_sections:
   buttons:
   - link: https://form.jotformeu.com/FabAcademy/2019-students-application
     text: Apply Now
-- template: title
-  title: How It Works
 
 ---
