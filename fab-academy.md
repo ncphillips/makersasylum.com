@@ -73,5 +73,22 @@ page_sections:
   buttons:
   - link: https://form.jotformeu.com/FabAcademy/2019-students-application
     text: Apply Now
+- template: body-copy
+  content: |-
+    CALENDAR
+
+    The up-to-date calendar is published in the [**Fab Academy Archive**](http://fab.academany.org/2019/schedule.html)
+
+    Clases start in mid-January and finish in early-June, followed by the Final Presentation rounds and the Global Evaluation, typically finishing in mid-July.
+
+    **Global lectures** happen every Wednesdays at 9:00 on the US East Coast (ranging from 6:00 on the West Coast to 23:00 in Japan).
+
+    **Recitations** happen on Mondays at the same hour.
+
+    **Regional Reviews** will be organized by Mentors, in local time-zones.
+
+    The **Global Evaluation** calendar TBA.
+
+    **Fab Academy Graduation Ceremony** 2019 will tale place [**@Fab15**](http://fab15.org/) Event, in El Cairo + El Gouna, Egypt (TBA)
 
 ---
