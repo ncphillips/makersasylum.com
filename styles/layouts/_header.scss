@@ -78,7 +78,14 @@
 
   img {
     width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
   }
+}
+.carousel-control.left,
+.carousel-control.right {
+  background: none;
 }
 
 .carousel-caption a {
@@ -104,11 +111,6 @@
 
   .carousel-inner .item {
     height: 200px;
-
-    img {
-      min-height: 200px;
-      min-width: 100%;
-    }
   }
 }
 
@@ -120,10 +122,11 @@
 
   .carousel-inner .item {
     height: 400px;
+  }
+}
 
-    img {
-      min-height: 400px;
-      min-width: 100%;
-    }
+@media (min-width: 725px) {
+  .carousel-caption {
+    bottom: 50px;
   }
 }
