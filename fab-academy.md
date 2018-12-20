@@ -59,6 +59,8 @@ page_sections:
     Students view and participate in global lectures broadcasted every Wednesdays at 9:00 am – 12:00 pm EST. The lectures are recorded and available to students throughout the semester. In addition to the lectures, there are 2 / 3 lab days each week where students have access the digital fabrication equipment and personal help with projects. Each Fab Lab will establish the schedule for these Lab days.
 
     Fab Academy faculty, who are leaders in their respective fields, provide global video lectures, supervise academic content, and guide research. Hands-on instruction in the labs is provided by instructors who supervise and evaluate Certificates, develop and disseminate instructional material, and assist with projects.
+- template: title
+  title: Class Schedule 2019
 - template: body-copy
   content: |-
     CALENDAR
@@ -90,7 +92,5 @@ page_sections:
   buttons:
   - link: https://form.jotformeu.com/FabAcademy/2019-students-application
     text: Apply Now
-- template: title
-  title: Class Schedule 2019
 
 ---
