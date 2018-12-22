@@ -94,14 +94,5 @@ page_sections:
   buttons:
   - link: https://form.jotformeu.com/FabAcademy/2019-students-application
     text: Apply Now
-- template: body-copy
-  content: |-
-    Course Fees:
-
-    Fab Academy fees: USD 2500
-
-    Local lab fees: USD 2500
-
-    Total: USD 5000
 
 ---
