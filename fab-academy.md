@@ -7,7 +7,7 @@ page_sections:
   image: "/uploads/IMG_8825.jpg"
 - template: buttons
   buttons:
-  - link: https://form.jotformeu.com/82145071840350
+  - link: https://eu.jotform.com/FabAcademy/2019-scholarship-application
     text: Avail Scholarship
   - text: Apply Now
     link: https://form.jotformeu.com/FabAcademy/2019-students-application
