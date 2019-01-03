@@ -40,6 +40,11 @@ sections:
   label: Labs
   create: all
   match: "**/*"
+- type: directory
+  path: _data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml}"
 upload_dir: _uploads
 public_path: "/uploads"
 front_matter_path: ''
