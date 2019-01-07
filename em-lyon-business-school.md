@@ -35,7 +35,12 @@ page_sections:
 - template: title
   title: The participants also get
 - template: body-copy
-  content: CALENDAR
+  content: |-
+    Course certificate recognised by **Em Lyon Business School** across its 6 campuses  across the globe. Moreover on successful completion of the program you will get an access to Em Lyon Business School’s infrastructure by means of opportunities to:
+
+    * Pursue research at Em Lyon Business School
+    * Apply for a job/internship
+    * Apply to courses offered by the Business School
 - template: title
   title: ''
 - template: images
