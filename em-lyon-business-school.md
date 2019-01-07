@@ -42,7 +42,7 @@ page_sections:
     * Apply for a job/internship
     * Apply to courses offered by the Business School
 - template: title
-  title: ''
+  title: Course Fee
 - template: images
   images: []
 - template: buttons
