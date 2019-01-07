@@ -28,12 +28,8 @@ page_sections:
   title: Program Structure
 - template: body-copy
   content: "**Orientation**"
-- template: images
-  images: []
-- template: body-copy
-  content: Mentors
 - template: title
-  title: How It Works
+  title: Mentors
 - template: body-copy
   content: ''
 - template: title
