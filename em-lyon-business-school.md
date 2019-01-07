@@ -17,6 +17,8 @@ page_sections:
     Participant’s will get a unique firsthand experience in the areas of **frugal
     innovation**, **BOP economics**, **social innovation**, **social enterprise**
     and **CSR** to name a few"
+- template: title
+  title: Challenges
 - template: images
   images: []
 - template: body-copy
