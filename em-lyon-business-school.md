@@ -26,10 +26,10 @@ page_sections:
     academia, government and the scientific community.
 - template: title
   title: Program Structure
+- template: body-copy
+  content: "**Orientation**"
 - template: images
   images: []
-- template: body-copy
-  content: ''
 - template: body-copy
 - template: title
   title: How It Works
