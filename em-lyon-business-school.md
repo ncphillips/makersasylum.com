@@ -24,12 +24,12 @@ page_sections:
     Goals** aimed at developing Digital pedagogies for Building Peaceful and Sustainable
     Societies. Participants will work in teams with mentors and peers from the industry,
     academia, government and the scientific community.
+- template: title
+  title: Program Structure
 - template: images
   images: []
 - template: body-copy
   content: ''
-- template: title
-  title: ''
 - template: body-copy
 - template: title
   title: How It Works
