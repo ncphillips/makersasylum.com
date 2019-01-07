@@ -20,8 +20,8 @@ page_sections:
 - template: title
   title: Challenges
 - template: body-copy
-  content: The challenges are based on the United Nations Sustainable Development
-    Goals aimed at developing Digital pedagogies for Building Peaceful and Sustainable
+  content: The challenges are based on the **United Nations Sustainable Development
+    Goals** aimed at developing Digital pedagogies for Building Peaceful and Sustainable
     Societies. Participants will work in teams with mentors and peers from the industry,
     academia, government and the scientific community.
 - template: images
