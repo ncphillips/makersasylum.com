@@ -33,7 +33,7 @@ page_sections:
 - template: body-copy
   content: to be updated soon..
 - template: title
-  title: Class Schedule 2019
+  title: What you will get?
 - template: body-copy
   content: CALENDAR
 - template: title
