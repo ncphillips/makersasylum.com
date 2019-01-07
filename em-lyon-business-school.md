@@ -33,7 +33,7 @@ page_sections:
 - template: body-copy
   content: to be updated soon..
 - template: title
-  title: What you will get?
+  title: The participants also get
 - template: body-copy
   content: CALENDAR
 - template: title
