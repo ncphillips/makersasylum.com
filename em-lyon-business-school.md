@@ -31,7 +31,7 @@ page_sections:
 - template: title
   title: Mentors
 - template: body-copy
-  content: ''
+  content: to be updated soon..
 - template: title
   title: Class Schedule 2019
 - template: body-copy
