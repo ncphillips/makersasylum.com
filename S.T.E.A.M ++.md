@@ -16,7 +16,7 @@ page_sections:
     innovation**, **BOP economics**, **social innovation**, **social enterprise**
     and **CSR** to name a few"
 - template: title
-  title: Challenges
+  title: Challenges for STEAM++ 2019
 - template: body-copy
   content: The challenges are based on the **United Nations Sustainable Development
     Goals** aimed at developing Digital pedagogies for Building Peaceful and Sustainable
@@ -25,7 +25,7 @@ page_sections:
 - template: title
   title: Program Structure
 - template: body-copy
-  content: "**Orientation**"
+  content: "Orientation\n\n1. "
 - template: title
   title: Mentors
 - template: body-copy
@@ -34,7 +34,7 @@ page_sections:
   title: The participants also get
 - template: body-copy
   content: |-
-    Course certificate recognised by **Em Lyon Business School** across its 6 campuses  across the globe. Moreover on successful completion of the program you will get an access to Em Lyon Business School’s infrastructure by means of opportunities to:
+    Course certificate recognised by **Em Lyon Business School** in its 6 campuses across the globe. On successful completion of the program you will get an access to Em-Lyon Business School’s infrastructure by means of opportunities to:
 
     * Pursue research at Em Lyon Business School
     * Apply for a job/internship
