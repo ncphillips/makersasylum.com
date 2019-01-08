@@ -5,8 +5,6 @@ layout: event
 page_sections:
 - template: banner
   image: ''
-- template: buttons
-  buttons: []
 - template: title
   title: S.T.E.A.M++
 - template: body-copy
