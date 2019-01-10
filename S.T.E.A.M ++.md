@@ -24,7 +24,14 @@ page_sections:
 - template: title
   title: Program Structure
 - template: body-copy
-  content: "Orientation\n\n1. "
+  content: |-
+    * Thinking
+    * Frugal Innovation and Testing
+    * Learning by doing
+    * Prototyping
+    * Productization
+    * Market feasibility and Testing
+    * Presentation / Evaluation
 - template: title
   title: Mentors
 - template: body-copy
