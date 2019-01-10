@@ -6,7 +6,7 @@ page_sections:
 - template: banner
   image: ''
 - template: title
-  title: S.T.E.A.M++
+  title: D.I.V.E 2019
 - template: body-copy
   content: |-
     **STEAM++** is a 1 month long, project-based experiential learning program which **Maker’s Asylum** will be conducting in March 2019 in partnership with [**XAVIER**-**EMLYON Business School**](http://xebs.edu.in/index.html).
