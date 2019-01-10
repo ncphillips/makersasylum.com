@@ -50,8 +50,6 @@ page_sections:
 - template: body-copy
   content: The course fee for the duration of STEAM++ is 40,000/- INR all inclusive.
     Participants can avail scholarships of up to 90%
-- template: images
-  images: []
 - template: buttons
   buttons: []
 published: false
