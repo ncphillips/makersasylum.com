@@ -9,7 +9,7 @@ page_sections:
   title: D.I.V.E 2019
 - template: body-copy
   content: |-
-    **STEAM++** is a 1 month long, project-based experiential learning program which **Maker’s Asylum** will be conducting in March 2019 in partnership with [**XAVIER**-**EMLYON Business School**](http://xebs.edu.in/index.html).
+    **D.I.V.E** is a 1 month long, project-based experiential learning program which **Maker’s Asylum** will be conducting in March 2019 in partnership with [**XAVIER**-**EMLYON Business School**](http://xebs.edu.in/index.html).
 
     The program is focused on bringing together various stakeholders which include entrepreneurs, students and corporate organisations. Participant’s will get a unique firsthand experience in the areas of **frugal innovation**, **BOP economics**, **social innovation**, **social enterprise** and **CSR** to name a few
 - template: title
