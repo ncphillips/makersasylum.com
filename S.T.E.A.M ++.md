@@ -13,7 +13,7 @@ page_sections:
 
     The program is focused on bringing together various stakeholders which include entrepreneurs, students and corporate organisations. Participant’s will get a unique firsthand experience in the areas of **frugal innovation**, **BOP economics**, **social innovation**, **social enterprise** and **CSR** to name a few
 - template: title
-  title: Challenges for STEAM++ 2019
+  title: Challenges for D.I.V.E
 - template: body-copy
   content: The challenges are based on the **United Nations Sustainable Development
     Goals** aimed at developing Digital pedagogies for Building Peaceful and Sustainable
