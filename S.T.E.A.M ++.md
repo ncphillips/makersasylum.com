@@ -53,10 +53,12 @@ page_sections:
 - template: title
   title: How to apply
 - template: body-copy
-  content: "1. Pay an application fee of 500/-\n2. You will receive a transaction
-    receipt with link to the application form over email.\n3. Fill the form along
-    with a one-minute video on YouTube \n4. Submit the application before 10th February
-    2019\n5. Wait for the acceptance email from D.I.V.E 2019 in mid February 2019"
+  content: |-
+    1. Pay an application fee of 500/-
+    2. You will receive a transaction receipt with link to the application form over email.
+    3. Choose the scholarship bucket (Regular / 50% / 90%) and fill the form along with a one-minute video on YouTube
+    4. Submit the application before 10th February 2019
+    5. Wait for the acceptance email from D.I.V.E 2019 in mid February 2019
 - template: buttons
   buttons: []
 published: false
