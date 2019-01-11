@@ -4,7 +4,7 @@ date: 2018-12-19 07:38:58 +0000
 layout: event
 page_sections:
 - template: banner
-  image: "/uploads/Website.png"
+  image: "/uploads/DIVE.png"
 - template: title
   title: D.I.V.E 2019
 - template: body-copy
