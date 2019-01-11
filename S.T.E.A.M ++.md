@@ -48,8 +48,8 @@ page_sections:
 - template: title
   title: Course Fee
 - template: body-copy
-  content: The course fee for the duration of STEAM++ is 40,000/- INR all inclusive.
-    Participants can avail scholarships of up to 90%
+  content: The course fee for the duration of **D.I.V.E 2019 Program** is 40,000/-
+    INR all inclusive. Participants can avail scholarship of up to 90%.
 - template: buttons
   buttons: []
 published: false
