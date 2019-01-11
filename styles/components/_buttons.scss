@@ -20,7 +20,7 @@
 }
 
 .im-checkout-btn {
-  @extend .center-block;
+  @extend .mx-auto;
   background: $brand-primary !important;
   border-color: #f4b503 !important;
   border-radius: 0 !important;

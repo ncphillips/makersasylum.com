@@ -1,7 +1,10 @@
 // Global
 .page img {
-  @include img-responsive();
-  @include center-block();
+  @include img-fluid();
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 // Home Page Highlight
@@ -105,7 +108,7 @@
 .cbp_tmtimeline > li .cbp_tmlabel::after {
   right: 100%;
   border: solid transparent;
-  content: " ";
+  content: "";
   height: 0;
   width: 0;
   position: absolute;
@@ -154,7 +157,7 @@
   padding: 15px;
 }
 
-@media (min-width: $screen-md-min) {
+@include media-breakpoint-up(md) {
   .team .team-member:nth-of-type(3n + 1) {
     clear: left;
   }
@@ -164,7 +167,7 @@
   max-width: 300px;
 }
 
-@media (max-width: $screen-xs-max) {
+@include media-breakpoint-down(xs) {
   .team-member h3,
   .team-member h4 {
     text-align: center;

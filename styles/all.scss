@@ -5,15 +5,15 @@
 
 @import "common/variables";
 
-@import "bootstrap.scss";
+@import "bootstrap/bootstrap";
 
-@import "fancybox.scss";
+@import "fancybox";
 
 @import "common/global";
 
 @import "components/buttons";
+@import "components/carousel";
 @import "components/forms";
-@import "components/grid";
 
 @import "layouts/header";
 @import "layouts/footer";

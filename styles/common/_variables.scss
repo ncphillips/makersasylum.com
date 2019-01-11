@@ -6,6 +6,10 @@ $main-sm-columns:       12;
 $sidebar-sm-columns:    4;
 
 // Colors
+$theme-colors: (
+  "primary": #fcbf15
+);
+
 $brand-primary:         #fcbf15;
 $tundora:               #231f20;
 $gray:                  #898989;
@@ -16,4 +20,3 @@ $stitch:                #854a88;
 // Typography
 $heading-font-stack: 'Poppins', sans-serif;
 $base-font-stack: 'Raleway', sans-serif;
-$font-size-base: 16px;

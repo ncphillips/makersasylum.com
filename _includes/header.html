@@ -1,63 +1,59 @@
-<header class="banner navbar navbar-default navbar-static-top" role="banner">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/" style="background-image: url('{{ site.logo }}')">
-        <h1>{{ site.title }}</h1>
-      </a>
-    </div>
+<header class="container py-4">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="/">
+      <img src="{{ site.logo }}" alt="Maker's Asylum Logo" width="180">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <nav class="collapse navbar-collapse" role="navigation">
-      <ul id="menu-main-menu" class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learn</a>
-          <ul class="dropdown-menu">
-            <li><a href="/fab-academy/">Fab Academy</a></li>
-            <li><a href="/rapidprototyping/">Rapid Prototyping</a></li>
-            <li><a href="/maker-in-residence/">Maker In Residence</a></li>
-            <li><a href="/stitch/">STiTCH</a></li>
-            <li><a href="/woodworking/">Woodworking</a></li>
-          </ul>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learn</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/fab-academy/">Fab Academy</a>
+            <a class="dropdown-item" href="/rapidprototyping/">Rapid Prototyping</a>
+            <a class="dropdown-item" href="/maker-in-residence/">Maker In Residence</a>
+            <a class="dropdown-item" href="/stitch/">STiTCH</a>
+            <a class="dropdown-item" href="/woodworking/">Woodworking</a>
+          </div>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">S.T.E.A.M.</a>
-          <ul class="dropdown-menu">
-            <li><a href="http://steam.makersasylum.com/school" target="_blank">S.T.E.A.M. School</a></li>
-            <li><a href="http://steam.makersasylum.com/fabrikarium" target="_blank">S.T.E.A.M. Fabrikarium</a></li>
-          </ul>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">S.T.E.A.M.</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="http://steam.makersasylum.com/school" target="_blank">S.T.E.A.M. School</a>
+            <a class="dropdown-item" href="http://steam.makersasylum.com/fabrikarium" target="_blank">S.T.E.A.M. Fabrikarium</a>
+          </div>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community</a>
-          <ul class="dropdown-menu">
-            <li><a href="/projects">Projects</a></li>
-            <li><a href="http://discuss.makersasylum.com/" target="_blank">Discuss</a></li>
-          </ul>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/projects">Projects</a>
+            <a class="dropdown-item" href="http://discuss.makersasylum.com/" target="_blank">Discuss</a>
+          </div>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
-          <ul class="dropdown-menu">
-            <li><a href="https://www.facebook.com/pg/makersasylum/events/" target="_blank">Mumbai</a></li>
-            <li><a href="https://www.facebook.com/pg/makersasylumdelhi/events/" target="_blank">Delhi</a></li>
-          </ul>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="https://www.facebook.com/pg/makersasylum/events/" target="_blank">Mumbai</a>
+            <a class="dropdown-item" href="https://www.facebook.com/pg/makersasylumdelhi/events/" target="_blank">Delhi</a>
+          </div>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
-          <ul class="dropdown-menu">
-            <li><a href="/about-us/">About Us</a></li>
-            <li><a href="/our-story/">Our Story</a></li>
-            <li><a href="/team/">Team</a></li>
-            <li><a href="/faq">FAQ</a></li>
-            <li><a href="/press/">Press</a></li>
-            <li><a href="/contact/">Contact</a></li>
-          </ul>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/about-us/">About Us</a>
+            <a class="dropdown-item" href="/our-story/">Our Story</a>
+            <a class="dropdown-item" href="/team/">Team</a>
+            <a class="dropdown-item" href="/faq">FAQ</a>
+            <a class="dropdown-item" href="/press/">Press</a>
+            <a class="dropdown-item" href="/contact/">Contact</a>
+          </div>
         </li>
         <li><a href="https://membership.makersasylum.com/" class="btn btn-primary" target="_blank">Membership</a></li>
       </ul>
-    </nav>
-  </div>
+    </div>
+  </nav>
+
 </header>

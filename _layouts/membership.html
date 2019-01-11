@@ -98,8 +98,8 @@ layout: default
     <div class="row">
       {% for lab in site.labs %}
       <div class="col-md-3 text-center">
-        <div class="tool-image center-block">
-          <img src="{{ lab.image }}" class="img-responsive" alt="{{ lab.title }}">
+        <div class="tool-image mx-auto">
+          <img src="{{ lab.image }}" class="img-fluid" alt="{{ lab.title }}">
         </div>
         <h4 >{{ lab.title }}</h4>
         <p>{{ lab['free hours'] }}</p>

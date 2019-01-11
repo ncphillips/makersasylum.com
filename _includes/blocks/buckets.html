@@ -1,0 +1,24 @@
+<div class="row mb-3">
+  {% for bucket in block.buckets %}
+    <div class="col-lg-4 mb-3">
+      <div class="card h-100">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">
+            {{ bucket.title }}
+          </h5>
+          <p class="card-text">
+            {{ bucket.description }}
+          </p>
+          <div class="mt-auto">
+            {% for fee in bucket.fees %}
+              <p class="card-text">
+                <b>{{ fee.name }}:</b>
+                {{ fee.amount }}
+              </p>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

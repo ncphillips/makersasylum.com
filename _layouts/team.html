@@ -12,7 +12,7 @@ layout: default
     {% for member in members %}
     <div class="col-sm-6 col-md-4 margin-y-sm team-member">
       <div class="member-profile-picture-container">
-        <img src="{{ member['profile picture'] }}" class="img-responsive" alt="{{ member.title }}">
+        <img src="{{ member['profile picture'] }}" class="img-fluid" alt="{{ member.title }}">
       </div>
       <h3><a href="{{ member.url }}" class="text-black">{{ member.title }}</a></h3>
       <h4>{{ member.designation }}</h4>
@@ -26,7 +26,7 @@ layout: default
     {% for lead in leads %}
     <div class="col-sm-6 col-md-4 margin-y-sm team-member">
       <div class="member-profile-picture-container">
-        <img src="{{ lead['profile picture'] }}" class="img-responsive" alt="{{ lead.title }}">
+        <img src="{{ lead['profile picture'] }}" class="img-fluid" alt="{{ lead.title }}">
       </div>
       <h3><a href="{{ lead.url }}" class="text-black">{{ lead.title }}</a></h3>
       <h4>{{ lead.designation }}</h4>
