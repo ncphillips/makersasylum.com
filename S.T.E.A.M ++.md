@@ -66,7 +66,11 @@ page_sections:
     - amount: 40,000/- INR
       name: Regular Application
     description: Ideal for Professionals
-  - {}
+  - title: 50% Scholarship
+    description: Ideal for students
+    fees:
+    - name: 50% Scholarship
+      amount: 20,000/-
   - {}
 - template: buttons
   buttons: []
