@@ -65,6 +65,7 @@ page_sections:
     fees:
     - amount: 40,000/- INR
       name: Regular Application
+    description: Ideal for Professionals
   - {}
   - {}
 - template: buttons
