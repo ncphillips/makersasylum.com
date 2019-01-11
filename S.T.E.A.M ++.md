@@ -77,7 +77,9 @@ page_sections:
     - name: 90% Scholarship
       amount: 4,000/- INR
 - template: buttons
-  buttons: []
+  buttons:
+  - link: https://www.instamojo.com/MakersAsylum1000/regular-application-fee-xebs-2019/
+    text: Apply Now
 published: false
 
 ---
