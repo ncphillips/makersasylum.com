@@ -71,7 +71,11 @@ page_sections:
     fees:
     - name: 50% Scholarship
       amount: 20,000/-
-  - {}
+  - title: 90% Scholarship
+    description: Ideal for entrepreneurs, freelancing artists, designers
+    fees:
+    - name: 90% Scholarship
+      amount: 4,000/- INR
 - template: buttons
   buttons: []
 published: false
