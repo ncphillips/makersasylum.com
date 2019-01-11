@@ -1,0 +1,28 @@
+---
+label: Buckets
+hide_body: false
+is_partial: true
+display_field: buckets
+fields:
+- type: field_group_list
+  label: Buckets
+  name: buckets
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: description
+    label: Description
+  - type: field_group_list
+    name: fees
+    label: Fees
+    fields:
+    - type: text
+      name: name
+      label: Name
+      description: 'example: Application Fee'
+    - type: text
+      name: amount
+      label: Amount
+      description: 'example: INR 40,000'
