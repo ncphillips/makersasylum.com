@@ -52,6 +52,11 @@ page_sections:
     INR all inclusive. Participants can avail scholarship of up to 90%.
 - template: title
   title: How to apply
+- template: body-copy
+  content: "1. Pay an application fee of 500/-\n2. You will receive a transaction
+    receipt with link to the application form over email.\n3. Fill the form along
+    with a one-minute video on YouTube \n4. Submit the application before 10th February
+    2019\n5. Wait for the acceptance email from D.I.V.E 2019 in mid February 2019"
 - template: buttons
   buttons: []
 published: false
