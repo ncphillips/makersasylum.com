@@ -2,6 +2,9 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
+- title: D.I.V.E 2019
+  link: https://www.makersasylum.com/dive-2019
+  image: "/uploads/DIVE.png"
 - title: Applications are open for Fab Academy
   link: https://www.makersasylum.com/fab-academy/
   image: "/uploads/IMG_8825.jpg"
