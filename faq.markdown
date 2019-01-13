@@ -1,9 +1,9 @@
 ---
 title: FAQ
-date: 2017-04-10 21:28:00 +05:30
+date: 2017-04-10 15:58:00 +0000
 position: 7
----
 
+---
 ### What is Maker's Asylum?
 
 Maker’s Asylum is a community space focussed on fostering innovation through hands on learning. It also provides access to an ecosystem of stakeholders which includes Governments, Businesses, Incubators/Accelerators, Investors and subject matter experts. The space houses various labs that are co-located in order to facilitate prototyping of ideas that are interdisciplinary in nature.
@@ -100,21 +100,21 @@ Maker’s Asylum will remain closed on following days:
 
 26th January – Republic Day
 
-1st March – Holi
+21st March – Holi
 
-30th March – Good Friday
+19th April – Good Friday
 
 15th August – Independence Day
 
-13th September – Ganesh Chaturthi
+2nd September – Ganesh Chaturthi
 
-23rd September – Anant Chaturdashi
+12th September – Anant Chaturdashi
 
-19th October – Dussehra
+8th October – Dussehra
 
-6th November – Diwali
+27th November – Diwali
 
-7th November – Diwali
+28th November – Diwali
 
 25th December – Christmas
 
