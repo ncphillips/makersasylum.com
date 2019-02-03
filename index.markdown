@@ -5,9 +5,6 @@ featured:
 - title: D.I.V.E 2019
   link: https://www.makersasylum.com/dive-2019
   image: "/uploads/DIVE.png"
-- title: Applications are open for Fab Academy
-  link: https://www.makersasylum.com/fab-academy/
-  image: "/uploads/IMG_8825.jpg"
 - title: Project-based Learning at S.T.E.A.M School
   link: http://steam.makersasylum.com/
   image: "/uploads/Steam School 2018 Banner-04.jpg"
