@@ -1,0 +1,19 @@
+---
+label: People
+hide_body: false
+is_partial: true
+display_field: person
+fields:
+- type: field_group_list
+  name: person
+  label: Person
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    name: link
+    label: Link
+  - type: file
+    name: image
+    label: Image
