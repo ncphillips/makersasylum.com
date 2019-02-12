@@ -1,6 +1,6 @@
 ---
 title: Membership
-date: 2017-02-14 20:09:00 +05:30
+date: 2017-02-14 14:39:00 +0000
 position: 1
 redirect_from:
 - "/get-started-at-makers-asylum-2/"
@@ -70,5 +70,6 @@ tools access:
 
     Our monthly [Rapid Prototyping Course](/rapidprototyping/) is mandatory for first-timers, to equip you with everything you need to know about our tools and certify you on good practices. After that, you can use the tools yourself, anytime you want. :)
 layout: membership
----
+published: false
 
+---
