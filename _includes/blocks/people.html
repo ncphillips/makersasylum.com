@@ -1,0 +1,10 @@
+<div class="row">
+  {% for person in block.people %}
+    <div class="col-md-3 text-center">
+      <a href="{{ person.link }}">
+        <img src="{{ person.image }}" alt="{{ person.name }}" class="img-fluid rounded-circle img-grayscale">
+        <h3 class="h4">{{ person.name }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>

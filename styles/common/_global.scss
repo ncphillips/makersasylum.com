@@ -106,6 +106,10 @@ hr.dark {
   transform: translateX(-50%);
 }
 
+.img-grayscale {
+  filter: grayscale(100%);
+}
+
 .bg-white {
   background-color: white;
 }
