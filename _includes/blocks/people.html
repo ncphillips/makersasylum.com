@@ -1,8 +1,8 @@
 <div class="row">
   {% for person in block.people %}
-    <div class="col-md-3 text-center">
+    <div class="col-md-3 text-center p-3">
       <a href="{{ person.link }}">
-        <img src="{{ person.image }}" alt="{{ person.name }}" class="img-fluid rounded-circle img-grayscale">
+        <img src="{{ person.image }}" alt="{{ person.name }}" class="img-fluid rounded-circle img-grayscale mb-2">
         <h3 class="h4">{{ person.name }}</h3>
       </a>
     </div>
