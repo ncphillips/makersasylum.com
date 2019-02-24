@@ -7,7 +7,7 @@ pictures:
 - image: "/uploads/plastic safari.JPG"
   alt: Children learning about plastic recycling
 - image: ''
-  alt: Plastic Recycling Lab
+  alt: Children learning about plastic recycling 2
 videos: []
 members:
 - Rushad Damania
