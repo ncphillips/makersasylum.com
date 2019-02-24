@@ -3,7 +3,6 @@ title: Maker Auto Version 2.0 Plastic Recycling Lab
 date: 2019-02-24 07:40:00 +0000
 position: 5
 pictures:
-- {}
 - image: "/uploads/plastic safari.JPG"
   alt: Children learning about plastic recycling
 - image: ''
@@ -34,6 +33,8 @@ pictures:
   alt: Assembly 5
 - image: "/uploads/Assembly 6.jpg"
   alt: Shredder - Extruder Assembly
+- image: "/uploads/Assembly 7.jpg"
+  alt: 3D Printing station
 videos: []
 members:
 - Rushad Damania
@@ -52,7 +53,6 @@ members:
 - Richa Shrivastava
 - Vaibhav Chhabra
 image: "/uploads/IMG_4747.JPG"
-published: false
 
 ---
 [Plastic Safari](http://plasticsafari.com) was born out of the need to educate consumers especially the ones with the responsibility to safeguard our future ‘the gen-next’ about waste, err resource management. You read that right, it’s not just waste management. With plastic safari we are not just indulging in word play but using skills and methods to lend a new lease of life to the greatest invention of all times in packaging – **Plastic**
