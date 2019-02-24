@@ -2,7 +2,7 @@
 title: SADA Kit
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/sada-kit.jpg"
+image: "/uploads/sada-kit.jpg"
 members:
 - Praveen Anandmurugan
 - Bharat Sharma

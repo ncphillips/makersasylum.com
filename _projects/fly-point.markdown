@@ -2,7 +2,7 @@
 title: Fly Point
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/fly-point.jpg"
+image: "/uploads/fly-point.jpg"
 members:
 - Shruthi Esther
 - Natasha Sharma

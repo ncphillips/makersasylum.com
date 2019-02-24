@@ -90,7 +90,7 @@ layout: default
       <div class="col-sm-4">
         <div class="homepage-project margin-bottom-sm">
           {% assign current_project = site.projects | where:"title", project.project %}
-          <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project[0]['featured image'] }})"></div></a>
+          <a href="{{ current_project[0].url }}"><div class="project-featured-image-sm" style="background-image: url({{ current_project.first.image }})"></div></a>
           <h3><a href="{{ current_project[0].url }}" style="color: black">{{ project.project }}</a></h3>
         </div>
       </div>

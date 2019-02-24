@@ -9,7 +9,7 @@ layout: default
   <div class="row">
     {% for project in site.projects %}
     <div class="col-md-4 margin-y-sm project-card">
-      <a href="{{ project.url }}"><div class="project-featured-image-sm" style="background-image: url({{ project['featured image'] }})"></div></a>
+      <a href="{{ project.url }}"><div class="project-featured-image-sm" style="background-image: url({{ project.image }})"></div></a>
       <h3><a href="{{ project.url }}" class="text-black">{{ project.title }}</a></h3>
     </div>
     {% endfor %}

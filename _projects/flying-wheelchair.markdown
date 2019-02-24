@@ -2,7 +2,7 @@
 title: Flying Wheelchair (Fl’Air)
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/flying-wheelchair-1.jpg"
+image: "/uploads/flying-wheelchair-1.jpg"
 pictures:
 - image: "/uploads/flying-wheelchair-2.png"
   alt:

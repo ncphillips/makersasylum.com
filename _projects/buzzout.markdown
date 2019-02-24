@@ -2,7 +2,7 @@
 title: BuzzOut
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/BuzzOut.jpeg"
+image: "/uploads/BuzzOut.jpeg"
 members:
 - Yesha Niranjan
 - Parul Gupta

@@ -2,7 +2,7 @@
 title: O-Trotti
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/o-trotti-1.jpg"
+image: "/uploads/o-trotti-1.jpg"
 pictures:
 - image: "/uploads/o-trotti-2.png"
   alt:

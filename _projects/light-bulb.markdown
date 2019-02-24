@@ -2,7 +2,7 @@
 title: Light Bulb
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/light-bulb.jpg"
+image: "/uploads/light-bulb.jpg"
 members:
 - Gurmeet Kochhar
 - Jaiveer Singh

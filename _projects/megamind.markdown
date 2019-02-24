@@ -2,7 +2,7 @@
 title: MegaMind
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/megamind.png"
+image: "/uploads/megamind.png"
 members:
 - Vyoma Haldipur
 - Franklin Prashanth Christopher

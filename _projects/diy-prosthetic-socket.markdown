@@ -2,7 +2,7 @@
 title: DIY Prosthetic Socket
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/diy-prosthetic-socket-1.jpg"
+image: "/uploads/diy-prosthetic-socket-1.jpg"
 pictures:
 - image: "/uploads/diy-prosthetic-socket-2.jpg"
   alt:

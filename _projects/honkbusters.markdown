@@ -2,7 +2,7 @@
 title: Honkbusters
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/honkbusters.jpg"
+image: "/uploads/honkbusters.jpg"
 members:
 - Aditya Kabra
 - Bhavya Singh

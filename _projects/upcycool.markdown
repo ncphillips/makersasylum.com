@@ -2,7 +2,7 @@
 title: Upcycool
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/upcycool.png"
+image: "/uploads/upcycool.png"
 members:
 - Celia Parraud-Apparu
 - Susmeet Jain

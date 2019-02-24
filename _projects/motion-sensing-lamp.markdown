@@ -2,7 +2,7 @@
 title: Motion sensing lamp
 date: 2017-06-17 16:43:00 +05:30
 position: 17
-featured image: "/uploads/hanginglamp-01.jpg"
+image: "/uploads/hanginglamp-01.jpg"
 members:
 - Coby Unger
 - Ankush Mishra

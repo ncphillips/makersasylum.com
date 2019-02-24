@@ -58,7 +58,7 @@ defaults:
     path: ''
     type: projects
   values:
-    featured image: 
+    image: 
     pictures: []
     videos: []
     members: []

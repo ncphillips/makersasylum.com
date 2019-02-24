@@ -2,7 +2,7 @@
 title: M&Ms
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/m-and-m-s.png"
+image: "/uploads/m-and-m-s.png"
 members:
 - Saurabh Jain
 - Shraddha Ganesh

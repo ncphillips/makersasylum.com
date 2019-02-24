@@ -2,7 +2,7 @@
 title: Bachpana
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/bachpana.jpg"
+image: "/uploads/bachpana.jpg"
 members:
 - Aquib Ajani
 - Raj Patil

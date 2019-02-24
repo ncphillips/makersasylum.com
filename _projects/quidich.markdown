@@ -2,7 +2,7 @@
 title: Quidich
 date: 2017-04-07 15:14:00 +05:30
 position: 12
-featured image: "/uploads/quidich-03.JPG"
+image: "/uploads/quidich-03.JPG"
 pictures:
 - image: "/uploads/quidich-00.jpg"
   alt:

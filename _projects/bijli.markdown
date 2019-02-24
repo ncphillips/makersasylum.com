@@ -2,7 +2,7 @@
 title: Bijli
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/bijli-1.jpg"
+image: "/uploads/bijli-1.jpg"
 pictures:
 - image: "/uploads/bijli-2.jpg"
   alt:

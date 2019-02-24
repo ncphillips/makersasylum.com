@@ -2,7 +2,7 @@
 title: Garbage CAN
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/garbage-can.jpg"
+image: "/uploads/garbage-can.jpg"
 members:
 - Gayatri B Gohain
 - Nikhil Jain

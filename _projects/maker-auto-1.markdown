@@ -2,7 +2,7 @@
 title: Maker Auto Version 2.0 Plastic Recycling Lab
 date: 2017-04-05 07:40:00 +0000
 position: 5
-featured image: ''
+image: ''
 pictures:
 - image: ''
   alt: Plastic Recycling Lab

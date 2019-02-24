@@ -2,7 +2,7 @@
 title: FujiFilm Photo Wheel
 date: 2017-06-17 17:16:00 +05:30
 position: 23
-featured image: "/uploads/12322539_187025678310458_1703033883010907768_o.jpg"
+image: "/uploads/12322539_187025678310458_1703033883010907768_o.jpg"
 pictures:
 - image: "/uploads/12304359_187025658310460_8430608714548764108_o.jpg"
   alt:

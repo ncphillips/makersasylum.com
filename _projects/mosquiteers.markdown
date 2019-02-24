@@ -2,7 +2,7 @@
 title: Mosquiteers
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/mosquiteers.png"
+image: "/uploads/mosquiteers.png"
 members:
 - Rony Alex Thomas
 - Théophile Verdier

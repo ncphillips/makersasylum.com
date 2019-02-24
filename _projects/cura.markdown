@@ -2,7 +2,7 @@
 title: CURA
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/cura-2.jpg"
+image: "/uploads/cura-2.jpg"
 pictures:
 - image: "/uploads/cura-1.jpg"
   alt:

@@ -2,7 +2,7 @@
 title: BrailleRap STEAM
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/braillerap-steam-1.jpg"
+image: "/uploads/braillerap-steam-1.jpg"
 pictures:
 - image: "/uploads/braillerap-steam-2.png"
   alt:

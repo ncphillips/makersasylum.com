@@ -2,7 +2,7 @@
 title: STEAM Punk Harley Davidson
 date: 2017-04-06 18:49:00 +05:30
 position: 11
-featured image: "/uploads/steam-punk-harley-1.jpg"
+image: "/uploads/steam-punk-harley-1.jpg"
 pictures:
 - image: "/uploads/steam-punk-harley-2.jpg"
   alt:

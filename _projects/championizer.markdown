@@ -2,7 +2,7 @@
 title: Championizer
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/championizer.jpg"
+image: "/uploads/championizer.jpg"
 members:
 - Elizabeth Adjei
 - Romain Gendreau

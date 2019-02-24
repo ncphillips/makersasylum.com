@@ -2,7 +2,7 @@
 title: Hackberry Feedback System
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/hackberry-feedback-system-1.jpg"
+image: "/uploads/hackberry-feedback-system-1.jpg"
 pictures:
 - image: "/uploads/hackberry-feedback-system-2.jpg"
   alt:

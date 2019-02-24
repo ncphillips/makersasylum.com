@@ -2,7 +2,7 @@
 title: OpenBraille System
 date: 2017-04-06 17:59:00 +05:30
 position: 13
-featured image: "/uploads/openbraille-system-1.jpg"
+image: "/uploads/openbraille-system-1.jpg"
 pictures:
 - image: "/uploads/openbraille-system-2.jpeg"
   alt:

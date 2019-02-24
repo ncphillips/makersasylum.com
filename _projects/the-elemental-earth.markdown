@@ -2,7 +2,7 @@
 title: The Elemental Earth
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/the_elemental_earth_featured.jpg"
+image: "/uploads/the_elemental_earth_featured.jpg"
 pictures:
 - image: "/uploads/the_elemental_earth_1.jpg"
   alt:

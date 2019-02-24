@@ -2,7 +2,7 @@
 title: A gift to the Duke and Duchess
 date: 2017-06-17 17:04:00 +05:30
 position: 21
-featured image: "/uploads/Screen%20Shot%202017-06-17%20at%205.07.51%20PM.png"
+image: "/uploads/Screen%20Shot%202017-06-17%20at%205.07.51%20PM.png"
 pictures:
 - image: "/uploads/duke_dutchess-02.jpg"
   alt:

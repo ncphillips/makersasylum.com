@@ -2,7 +2,7 @@
 title: VAT 69 Installation
 date: 2017-06-17 17:23:00 +05:30
 position: 24
-featured image: "/uploads/VAT69-01.jpg"
+image: "/uploads/VAT69-01.jpg"
 pictures:
 - image: "/uploads/VAT69-00.jpg"
   alt:

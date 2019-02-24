@@ -2,7 +2,7 @@
 title: Electric Car
 date: 2017-04-06 17:59:00 +05:30
 position: 6
-featured image: "/uploads/elec-car-00.jpg"
+image: "/uploads/elec-car-00.jpg"
 pictures:
 - image: "/uploads/elec-car-02.jpg"
   alt:

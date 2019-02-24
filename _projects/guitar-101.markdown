@@ -2,7 +2,7 @@
 title: Guitar 101
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/guitar-101-1.jpg"
+image: "/uploads/guitar-101-1.jpg"
 pictures:
 - image: "/uploads/guitar-101-2.jpg"
   alt:

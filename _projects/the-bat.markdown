@@ -2,7 +2,7 @@
 title: The BAT
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/the-bat.jpg"
+image: "/uploads/the-bat.jpg"
 members:
 - Shubham Chandak
 - Aadil Poonawala

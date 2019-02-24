@@ -2,7 +2,7 @@
 title: SensKar
 date: 2018-07-01 16:01:00 +05:30
 position: 13
-featured image: "/uploads/SensKar.jpg"
+image: "/uploads/SensKar.jpg"
 members:
 - Clara Latimier
 - Aadil Poonawala
