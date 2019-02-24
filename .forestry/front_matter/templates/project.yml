@@ -22,3 +22,6 @@ fields:
 - type: list
   label: Videos
   name: videos
+- type: number
+  name: position
+  label: Position
