@@ -1,6 +1,6 @@
 ---
 title: Maker Auto Version 2.0 Plastic Recycling Lab
-date: 2017-04-05 07:40:00 +0000
+date: 2019-02-24 07:40:00 +0000
 position: 5
 image: ''
 pictures:
@@ -8,8 +8,6 @@ pictures:
   alt: Plastic Recycling Lab
 videos: []
 members:
-- Vaibhav Chhabra
-- Richa Shrivastava
 - Rushad Damania
 - Nitish Bhaskaran
 - Joshua Rodrigues
@@ -23,6 +21,8 @@ members:
 - Suvesha Chandrasekaran
 - Satyam Shukla
 - Rohan Shah
+- Richa Shrivastava
+- Vaibhav Chhabra
 published: false
 
 ---
