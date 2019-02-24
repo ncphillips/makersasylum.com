@@ -69,11 +69,11 @@ It’s an initiative to generate awareness about waste management/segregation am
 
 So what happens in the demonstration? Nothing less than magic. The students witness transformation. First things first, the plastic waste is washed to get rid of dirt, then it’s dried using the dryer. Next in line is the shredder where the plastic is shredded into smaller bits for the extruder. The extruded filament is then fed into the 3D printer for anyone to create objects of their liking.
 
-The assembly was conceptualised, designed and built by makers at Maker’s Asylum. It comprises of a linear process for transforming plastic from waste to something delightful/utilitarian depending on the creativity of the individual. The beauty of the plastic recycling lab on wheels is that it allows ‘you’ to be a part of the transformation and in the process it makes you aware of the bigger picture.
+This concept for recycling plastic is an open source initiative refined by [Precious Plastic]()—a commutnity built to tackle plastic waste pollution from the bottom..It comprises of a linear process for transforming plastic from waste to something delightful/utilitarian depending on the creativity of the individual. The beauty of the plastic recycling lab on wheels is that it allows ‘you’ to be a part of the transformation and in the process it makes you aware of the bigger picture. The plastic recycling lab was built by maker’s at the Maker’s Asylum
 
 **The impact**?
 
-So far, Plastic Safari has reached out to 4,500 students across schools in and around Mumbai. And counting. Not just that, the initiative has set in motion a partnership between diverse organisations including [HUL](https://www.unilever.com/), [XYNTEO](https://xynteo.com/), [Maker’s Asylum](http://www.makersasylum.com/), [Academy of Earth Sustainability](https://www.aeslife.in/), and [Raddi Connect](http://www.raddiconnect.com/). The Plastic Safari is more than just a project, it’s a model for innumerable such initiatives towards building a sustainable society and a responsible consumer. 
+So far, Plastic Safari has reached out to 4,500 students across schools in and around Mumbai. And counting. Not just that, the initiative has set in motion a partnership between diverse organisations including [HUL](https://www.unilever.com/), [XYNTEO](https://xynteo.com/), [Maker’s Asylum](http://www.makersasylum.com/), [Academy of Earth Sustainability](https://www.aeslife.in/), and [Raddi Connect](http://www.raddiconnect.com/). The Plastic Safari is more than just a project, it’s a model for innumerable such initiatives towards building a sustainable society and a responsible consumer.
 
 **Looking for:**
 
