@@ -16,6 +16,7 @@ pictures:
 - image: "/uploads/IMG_0069.jpg"
   alt: 3D Modelling on Fusion360
 - image: "/uploads/Assembly 1.jpg"
+  alt: Assembly of motors
 videos: []
 members:
 - Rushad Damania
