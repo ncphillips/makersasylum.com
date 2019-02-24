@@ -3,11 +3,12 @@ title: Maker Auto Version 2.0 Plastic Recycling Lab
 date: 2019-02-24 07:40:00 +0000
 position: 5
 pictures:
-- {}
-- image: "/uploads/plastic safari.JPG"
-  alt: Children learning about plastic recycling
 - image: ''
   alt: Children learning about plastic recycling 2
+- image: "/uploads/plastic safari.JPG"
+  alt: Children learning about plastic recycling
+- image: "/uploads/Children learning about plastic recycling 2.JPG"
+  alt: Children learning about plastic recycling 3
 videos: []
 members:
 - Rushad Damania
