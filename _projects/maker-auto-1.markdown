@@ -11,10 +11,11 @@ pictures:
   alt: Children learning about plastic recycling 3
 - image: "/uploads/Children learning about plastic recycling.JPG"
   alt: Children learning about plastic recycling 4
-- image: "/uploads/IMG_0069.jpg"
-  alt: 3D Modelling on Fusion360
 - image: "/uploads/3D Modelling .jpg"
   alt: 3D Model
+- image: "/uploads/IMG_0069.jpg"
+  alt: 3D Modelling on Fusion360
+- image: "/uploads/Assembly 1.jpg"
 videos: []
 members:
 - Rushad Damania
