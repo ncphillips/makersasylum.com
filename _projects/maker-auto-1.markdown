@@ -25,10 +25,12 @@ pictures:
   alt: Extruder
 - image: "/uploads/Motor.jpg"
   alt: Motor
-- image: "/uploads/Assembly 4.JPG"
-  alt: Assembling 4
 - image: "/uploads/Assembly.JPG"
   alt: Assembly welding
+- image: "/uploads/Assembly 4.JPG"
+  alt: Assembling 4
+- image: "/uploads/Assembly 5-1.jpg"
+  alt: Assembly 5
 videos: []
 members:
 - Rushad Damania
