@@ -1,0 +1,24 @@
+---
+label: Project
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: image
+  label: Image
+- type: field_group_list
+  name: pictures
+  label: Pictures
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt
+    label: Alt
+- type: list
+  label: Videos
+  name: videos
