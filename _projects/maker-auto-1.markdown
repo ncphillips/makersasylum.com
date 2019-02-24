@@ -69,7 +69,7 @@ It’s an initiative to generate awareness about waste management/segregation am
 
 So what happens in the demonstration? Nothing less than magic. The students witness transformation. First things first, the plastic waste is washed to get rid of dirt, then it’s dried using the dryer. Next in line is the shredder where the plastic is shredded into smaller bits for the extruder. The extruded filament is then fed into the 3D printer for anyone to create objects of their liking.
 
-This concept for recycling plastic is an open source initiative refined by [Precious Plastic]()—a commutnity built to tackle plastic waste pollution from the bottom..It comprises of a linear process for transforming plastic from waste to something delightful/utilitarian depending on the creativity of the individual. The beauty of the plastic recycling lab on wheels is that it allows ‘you’ to be a part of the transformation and in the process it makes you aware of the bigger picture. The plastic recycling lab was built by maker’s at the Maker’s Asylum
+This concept for recycling plastic is an open source initiative refined by [Precious Plastic]()—a commutnity built to tackle plastic waste pollution from the bottom. It comprises of a linear process for transforming plastic from waste to something delightful/utilitarian depending on the creativity of the individual. The beauty of the plastic recycling lab on wheels is that it allows ‘you’ to be a part of the transformation and in the process it makes you aware of the bigger picture. The plastic recycling lab was built by maker’s at the Maker’s Asylum
 
 **The impact**?
 
