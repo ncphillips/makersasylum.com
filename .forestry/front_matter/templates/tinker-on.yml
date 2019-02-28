@@ -1,6 +1,6 @@
 ---
 label: Press
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - name: title
@@ -24,5 +24,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _press/മെക്കാനിക്കല്‍-എഞ്ചിനീയറുടെ-ഹോബി-maker-s-asylum-എന്ന-സ്റ്റാര്‍ട്ടപ്പായപ്പോള്‍.md
 - about-us.md
 - _press/Making-in-India.md
