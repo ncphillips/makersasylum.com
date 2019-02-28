@@ -19,6 +19,8 @@ sections:
   label: Press
   create: all
   match: "**/*"
+  templates:
+  - tinker-on
 - type: jekyll-posts
   label: Posts
   create: all
