@@ -1,7 +1,6 @@
 ---
 label: Buckets
 hide_body: false
-is_partial: true
 display_field: buckets
 fields:
 - type: field_group_list

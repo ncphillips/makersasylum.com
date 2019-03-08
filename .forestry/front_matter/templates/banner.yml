@@ -1,7 +1,6 @@
 ---
 label: Banner
 hide_body: false
-is_partial: true
 display_field: image
 fields:
 - type: file
