@@ -24,6 +24,10 @@ page_sections:
   content: To be updated soon..
 - template: title
   title: What you can expect
+- template: body-copy
+  content: <iframe width="966" height="543" src="[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
+    "https://www.youtube.com/embed/VglywTOj_rY")" frameborder="0" allow="accelerometer;
+    autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 date: 2019-03-14 06:05:35 +0000
 published: false
 
