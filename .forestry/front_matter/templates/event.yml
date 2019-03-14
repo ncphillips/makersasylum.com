@@ -2,6 +2,15 @@
 label: Event
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: image
+  label: Image
+- type: textarea
+  name: description
+  label: Description
 - type: blocks
   label: Page sections
   name: page_sections
