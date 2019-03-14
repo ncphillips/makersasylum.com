@@ -4,6 +4,8 @@ page_sections:
 - template: title
   title: Summer Program, France
 - template: body-copy
+- template: body-copy
+  content: Video goes here
 - template: title
   title: Program details
 - template: body-copy
