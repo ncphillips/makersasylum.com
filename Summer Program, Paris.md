@@ -14,10 +14,6 @@ page_sections:
     * Exposure to global issues and a chance to solve real world problems using technology
     * Network of like minded tinkerers / makers for life
     * Mentorship from some of the most brilliant change makers
-- template: body-copy
-  content: <iframe width="966" height="543" src="[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
-    "https://www.youtube.com/embed/VglywTOj_rY")" frameborder="0" allow="accelerometer;
-    autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - template: title
   title: Program details
 - template: body-copy
@@ -25,9 +21,8 @@ page_sections:
 - template: title
   title: What you can expect
 - template: body-copy
-  content: <iframe width="966" height="543" src="[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
-    "https://www.youtube.com/embed/VglywTOj_rY")" frameborder="0" allow="accelerometer;
-    autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  content: '[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
+    "https://www.youtube.com/embed/VglywTOj_rY")'
 date: 2019-03-14 06:05:35 +0000
 published: false
 
