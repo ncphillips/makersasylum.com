@@ -22,6 +22,8 @@ page_sections:
   title: Program details
 - template: body-copy
   content: To be updated soon..
+- template: title
+  title: What you can expect
 date: 2019-03-14 06:05:35 +0000
 published: false
 
