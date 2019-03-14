@@ -21,12 +21,14 @@ page_sections:
 - template: title
   title: What you can expect
 - template: body-copy
-  content: '[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
-    "STEAM SCHOOL")'
+  content: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VglywTOj_rY"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
 - template: buttons
   buttons:
   - text: S.T.E.A.M School 2018 Report
 date: 2019-03-14 06:05:35 +0000
+title: Summer Program, France
 published: false
 layout: event
 permalink: /summer-program-paris
