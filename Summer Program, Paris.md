@@ -4,6 +4,16 @@ page_sections:
 - template: title
   title: Summer Program, France
 - template: body-copy
+  content: |-
+    After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **Summer Program** in France is a one month long project based program which Maker’s Asylum will be conducting in partnership with CRI, Interdisciplinary Research Center.
+
+    Why you should apply?
+
+    * Opportunity to co-work with the best and the most diverse minds
+    * Hands on learning with some of the latest digital fabrication tools and practices
+    * Exposure to global issues and a chance to solve real world problems using technology
+    * Network of like minded tinkerers / makers for life
+    * Mentorship from some of the most brilliant change makers
 - template: body-copy
   content: Video goes here
 - template: title
