@@ -15,7 +15,9 @@ page_sections:
     * Network of like minded tinkerers / makers for life
     * Mentorship from some of the most brilliant change makers
 - template: body-copy
-  content: Video goes here
+  content: <iframe width="966" height="543" src="[https://www.youtube.com/embed/VglywTOj_rY](https://www.youtube.com/embed/VglywTOj_rY
+    "https://www.youtube.com/embed/VglywTOj_rY")" frameborder="0" allow="accelerometer;
+    autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - template: title
   title: Program details
 - template: body-copy
