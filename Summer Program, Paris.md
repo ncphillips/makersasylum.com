@@ -9,8 +9,8 @@ page_sections:
 
     Why you should apply?
 
-    * Opportunity to co-work with the best and the most diverse minds
-    * Hands on learning with some of the latest digital fabrication tools and practices
+    * Opportunity to co-learn from the best and the most diverse minds
+    * Hands on learning in some of the most advanced digital fabrication labs
     * Exposure to global issues and a chance to solve real world problems using technology
     * Network of like minded tinkerers / makers for life
     * Mentorship from some of the most brilliant change makers
