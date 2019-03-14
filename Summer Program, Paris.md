@@ -28,5 +28,6 @@ page_sections:
   - text: S.T.E.A.M School 2018 Report
 date: 2019-03-14 06:05:35 +0000
 published: false
-
+layout: event
+permalink: /summer-program-paris
 ---

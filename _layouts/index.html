@@ -66,24 +66,6 @@ layout: default
     </div>
   </section>
   <section>
-    <h2 class="title">Membership</h2>
-    <div class="row">
-      {% assign membership_page = site.pages | where:"title","Membership" %}
-      {% for type in membership_page[0]['membership types'] %}
-      <div class="col-xs-8 col-sm-4">
-        <div class="square-image-container">
-          <img src="{{ type.image }}" class="square-image" alt="{{ type.name }}">
-        </div>
-        <h3>{{ type.name }}</h3>
-        {{ type.description | markdownify }}
-      </div>
-      {% endfor %}
-    </div>
-    <p class="text-center">
-      <a class="btn btn-default btn-lg font-weight-bold pad-sm text-uppercase" href="/membership">BECOME A MEMBER</a>
-    </p>
-  </section>
-  <section>
     <h2 class="title">PROJECTS <a href="/projects" class="float-right btn btn-primary">See All Projects</a></h2>
     <div class="row">
       {% for project in page['featured projects'] %}
