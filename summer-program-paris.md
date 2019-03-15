@@ -38,5 +38,6 @@ image: ''
 description: ''
 layout: event
 permalink: "/summer-program-paris"
+published: false
 
 ---
