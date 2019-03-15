@@ -1,0 +1,11 @@
+---
+label: File Download
+hide_body: true
+display_field: button_text
+fields:
+- type: file
+  name: file
+  label: File
+- type: text
+  name: button_text
+  label: Button Text
