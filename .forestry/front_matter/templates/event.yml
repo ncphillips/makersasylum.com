@@ -15,6 +15,7 @@ fields:
   label: Page sections
   name: page_sections
   template_types:
+  - file-download
   - people
   - buckets
   - banner
