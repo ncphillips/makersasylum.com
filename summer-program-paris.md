@@ -21,7 +21,11 @@ page_sections:
 - template: title
   title: What you can expect
 - template: body-copy
-  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY' frameborder='0' allowfullscreen></iframe></div>"
+  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
+    height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
+    object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
+    height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
+    frameborder='0' allowfullscreen></iframe></div>"
 - template: buttons
   buttons:
   - text: S.T.E.A.M School 2018 Report
@@ -32,7 +36,7 @@ date: 2019-03-14 06:05:35 +0000
 title: Summer Program, France
 image: ''
 description: ''
-published: false
 layout: event
-permalink: /summer-program-paris
+permalink: "/summer-program-paris"
+
 ---
