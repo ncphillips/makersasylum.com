@@ -1,0 +1,52 @@
+<div class="text-center">
+  <a href="{{ block.link }}" class="btn btn-primary margin-bottom-sm" data-toggle="modal" data-target="#{{ page.title | slugify }}-modal">{{ block.button_text }}</a>
+</div>
+
+<div class="modal fade" id="{{ page.title | slugify }}-modal" tabindex="-1" role="dialog" aria-labelledby="{{ page.title | slugify }}-label" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="{{ page.title | slugify }}-label">{{ block.button_text }}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="{{ block.button_text | slugify }}-form" name="{{ page.title | slugify }}" action="{{ block.file }}" method="post" data-netlify="true">
+          <div class="form-group">
+            <label for="name" class="col-form-label">Name</label>
+            <input type="text" name="name" class="form-control" id="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email" class="col-form-label">E-mail Address</label>
+            <input type="email" name="email" class="form-control" id="email" required>
+          </div>
+          <div class="form-group">
+            <label for="phone" class="col-form-label">Contact Number</label>
+            <input type="tel" name="phone" class="form-control" id="phone">
+          </div>
+          <div class="form-group">
+            <label for="occupation" class="col-form-label">Occupation</label>
+            <input type="text" name="occupation" class="form-control" id="occupation" required>
+          </div>
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary">Submit and Download</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', (event) => {
+    $("#{{ block.button_text | slugify }}-form").submit(function(e) {
+      e.preventDefault();
+
+      var $form = $(this);
+      $.post($form.attr("action"), $form.serialize()).then(function() {
+        alert("Thank you!");
+      });
+    });
+  })
+</script> -->

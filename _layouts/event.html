@@ -20,6 +20,8 @@ layout: default
       {% include blocks/buckets.html %}
     {% when 'people' %}
       {% include blocks/people.html %}
+    {% when 'file-download' %}
+      {% include blocks/file-download.html %}
     {% endcase %}
   {% endfor %}
 </div>
