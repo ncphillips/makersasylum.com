@@ -27,8 +27,13 @@ page_sections:
 - template: buttons
   buttons:
   - text: S.T.E.A.M School 2018 Report
+- template: file-download
+  file: "/uploads/megamind.png"
+  button_text: STEAM School 2018 Report
 date: 2019-03-14 06:05:35 +0000
 title: Summer Program, France
+image: ''
+description: ''
 published: false
 
 ---
