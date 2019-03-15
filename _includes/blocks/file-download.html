@@ -44,8 +44,9 @@
       e.preventDefault();
 
       var $form = $(this);
+      var downloadUrl = "https://www.makersasylum.com" + $form.attr("action");
       $.post($form.attr("action"), $form.serialize()).then(function() {
-        window.open(`https://www.makersasylum.com/${$form.attr("action")}`);
+        window.open(downloadUrl);
       });
     });
   })
