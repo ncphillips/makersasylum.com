@@ -12,11 +12,12 @@ page_sections:
 - template: title
   title: Why you should apply?
 - template: body-copy
-  content: "* Opportunity to co-learn from the best and the most diverse minds  \n*
-    Hands on learning in some of the most advanced digital fabrication labs\n* Exposure
-    to global issues and a chance to solve real world problems using technology\n*
-    Network of like minded tinkerers / makers for life\n* Mentorship from some of
-    the most brilliant change makers"
+  content: |-
+    * Opportunity to co-learn with the best and the most diverse minds
+    * Hands on learning in some of the most advanced digital fabrication labs
+    * Exposure to global issues and a chance to solve real world problems using technology
+    * Network of like minded tinkerers / makers for life
+    * Mentorship from some of the most brilliant change makers
 - template: title
   title: What you can expect
 - template: body-copy
