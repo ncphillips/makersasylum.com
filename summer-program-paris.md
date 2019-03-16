@@ -5,7 +5,7 @@ page_sections:
   title: SDG School
 - template: body-copy
   content: |-
-    After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **Summer Program** in France is a one month long project based program which Maker’s Asylum will be conducting in partnership with CRI, Interdisciplinary Research Center.
+    After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **SDG School 2019 Edition** is a one month long project based program which Maker’s Asylum will be conducting in partnership with CRI, Interdisciplinary Research Center.
 
     Why you should apply?
 
