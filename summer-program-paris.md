@@ -10,11 +10,13 @@ page_sections:
     based program which Maker’s Asylum will be conducting in partnership with CRI,
     Interdisciplinary Research Center.
 - template: title
+  title: Why you should apply?
+- template: title
+  title: What you can expect
+- template: title
   title: Program details
 - template: body-copy
   content: To be updated soon..
-- template: title
-  title: What you can expect
 - template: body-copy
   content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
     height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
