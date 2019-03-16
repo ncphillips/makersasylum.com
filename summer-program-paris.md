@@ -2,7 +2,7 @@
 page_sections:
 - template: banner
 - template: title
-  title: Summer Program, France
+  title: SDG School
 - template: body-copy
   content: |-
     After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **Summer Program** in France is a one month long project based program which Maker’s Asylum will be conducting in partnership with CRI, Interdisciplinary Research Center.
@@ -33,7 +33,7 @@ page_sections:
   file: "/uploads/megamind.png"
   button_text: STEAM School 2018 Report
 date: 2019-03-14 06:05:35 +0000
-title: Summer Program, France
+title: SDG School
 image: ''
 description: ''
 layout: event
