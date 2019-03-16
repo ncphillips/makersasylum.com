@@ -27,6 +27,8 @@ page_sections:
     height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
     frameborder='0' allowfullscreen></iframe></div>"
 - template: title
+  title: Program framework
+- template: title
   title: Program details
 - template: body-copy
   content: To be updated soon..
