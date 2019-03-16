@@ -34,6 +34,9 @@ page_sections:
   button_text: STEAM School 2018 Report
 - template: title
   title: Partners
+- template: images
+  images:
+  - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: ''
