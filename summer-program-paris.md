@@ -28,6 +28,9 @@ page_sections:
     frameborder='0' allowfullscreen></iframe></div>"
 - template: title
   title: Program framework
+- template: images
+  images:
+  - image: "/uploads/UN SDG-1.jpg"
 - template: title
   title: Program details
 - template: body-copy
