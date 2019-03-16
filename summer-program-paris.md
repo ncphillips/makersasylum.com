@@ -33,7 +33,7 @@ page_sections:
   file: "/uploads/megamind.png"
   button_text: STEAM School 2018 Report
 - template: title
-  title: Who should apply
+  title: Partners
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: ''
