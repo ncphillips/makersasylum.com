@@ -25,4 +25,5 @@ fields:
   - images
   - buttons
 pages:
+- sdg-school.md
 - dive-2019.md
