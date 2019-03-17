@@ -60,8 +60,8 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
-image: ''
-description: ''
+image: "/uploads/SDG SChool-2-1.png"
+description: One month long project based program in Paris, France
 layout: event
 permalink: "/summer-program-paris"
 published: false
