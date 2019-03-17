@@ -7,5 +7,5 @@ has community events: false
 locker access: Available on additional cost
 benefits: Wi-fi
 price: ₹5000
-link: 'https://goo.gl/zt2Atr '
+link: 'https://goo.gl/zt2Atr'
 ---

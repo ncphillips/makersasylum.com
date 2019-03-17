@@ -1,0 +1,10 @@
+<div class="row">
+  {% for partner in block.partners %}
+    <div class="col-6 col-sm-3 text-center p-3">
+      <a href="{{ partner.link }}">
+        <img src="{{ partner.image }}" alt="{{ partner.name }}" class="img-fluid mb-2">
+        <h3 class="h5">{{ partner.name }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>

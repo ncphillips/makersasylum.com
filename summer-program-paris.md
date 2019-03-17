@@ -54,6 +54,7 @@ page_sections:
   partners:
   - name: CRI
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
+    link: https://cri-paris.org/
 - template: buttons
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
