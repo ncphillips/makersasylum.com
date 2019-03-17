@@ -48,15 +48,15 @@ page_sections:
   title: Mentors
 - template: body-copy
   content: To be updated soon..
-- template: buttons
-  buttons:
-  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
-    text: I'm interested, send more info!
 - template: title
   title: Partners
 - template: images
   images:
   - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
+- template: buttons
+  buttons:
+  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
+    text: I'm interested, send more info!
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
