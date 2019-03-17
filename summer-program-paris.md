@@ -1,7 +1,7 @@
 ---
 page_sections:
 - template: banner
-  image: "/uploads/SDG School '19-1.png"
+  image: "/uploads/SDG School 2019 Website Cover.1.png"
 - template: body-copy
   content: |-
     After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **SDG School 2019 Edition** is a one month long project based program which Maker’s Asylum will be conducting in partnership with CRI, Interdisciplinary Research Center.
