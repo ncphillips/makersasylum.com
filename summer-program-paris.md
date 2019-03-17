@@ -19,6 +19,13 @@ page_sections:
     * Mentorship from some of the most brilliant change makers
 - template: title
   title: Program framework
+- template: body-copy
+  content: The framework for **SDG School 2019 Edition** is based on the Sustainable
+    Development Goals outlined by the United Nations to be reached by 2030. These
+    goals are a blueprint to achieve a better and a sustainable future for all cultures
+    around the globe. These goals address challenges faced by economies both in the
+    developed and the developing nations in the areas of education, healthcare, equalities,
+    energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
   - image: "/uploads/UN SDG-1.jpg"
@@ -34,9 +41,6 @@ page_sections:
   title: Program details
 - template: body-copy
   content: To be updated soon..
-- template: buttons
-  buttons:
-  - text: S.T.E.A.M School 2018 Report
 - template: file-download
   file: "/uploads/megamind.png"
   button_text: STEAM School 2018 Report
