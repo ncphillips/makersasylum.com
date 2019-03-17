@@ -59,6 +59,8 @@ page_sections:
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
     text: I'm interested, send more info!
+- template: title
+  title: Key dates
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
