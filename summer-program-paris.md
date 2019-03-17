@@ -47,8 +47,7 @@ page_sections:
 - template: title
   title: Mentors
 - template: body-copy
-  content: To be updated soon, in the mean time have a look at the S.T.E.A.M School
-    2018 Report.
+  content: To be updated soon..
 - template: buttons
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
