@@ -41,18 +41,18 @@ page_sections:
 - template: body-copy
   content: To be updated soon, in the mean time have a look at the S.T.E.A.M School
     2018 Report.
-- template: buttons
-  buttons:
-  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
-    text: I'm interested, send more info!
+- template: file-download
+  file: "/uploads/megamind.png"
+  button_text: STEAM School 2018 Report
 - template: title
   title: Mentors
 - template: body-copy
   content: To be updated soon, in the mean time have a look at the S.T.E.A.M School
     2018 Report.
-- template: file-download
-  file: "/uploads/megamind.png"
-  button_text: STEAM School 2018 Report
+- template: buttons
+  buttons:
+  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
+    text: I'm interested, send more info!
 - template: title
   title: Partners
 - template: images
