@@ -1,6 +1,7 @@
 ---
 page_sections:
 - template: banner
+  image: "/uploads/SDG School '19-1.png"
 - template: title
   title: SDG School
 - template: body-copy
