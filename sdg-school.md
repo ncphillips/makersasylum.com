@@ -41,8 +41,9 @@ page_sections:
 - template: body-copy
   content: To be updated soon. You can download the S.T.E.A.M School 2018 Report below.
 - template: file-download
-  file: "/uploads/megamind.png"
+  file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
+  has_form: false
 - template: title
   title: Mentors
 - template: body-copy
@@ -76,6 +77,5 @@ title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
 description: One month long project based program in Paris, France
 layout: event
-published: false
 
 ---
