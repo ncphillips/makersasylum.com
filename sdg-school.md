@@ -76,7 +76,6 @@ title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
 description: One month long project based program in Paris, France
 layout: event
-permalink: "/summer-program-paris"
 published: false
 
 ---
