@@ -49,12 +49,15 @@ page_sections:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
     text: I'm interested, send more info!
 - template: title
+  title: Mentors
+- template: title
   title: Partners
 - template: images
   images:
   - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
-- template: title
-  title: Mentors
+- template: body-copy
+  content: To be updated soon, in the mean time have a look at the S.T.E.A.M School
+    2018 Report.
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: ''
