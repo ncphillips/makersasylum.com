@@ -39,8 +39,7 @@ page_sections:
 - template: title
   title: Program details
 - template: body-copy
-  content: To be updated soon, in the mean time have a look at the S.T.E.A.M School
-    2018 Report.
+  content: To be updated soon. You can download the S.T.E.A.M School 2018 Report below.
 - template: file-download
   file: "/uploads/megamind.png"
   button_text: STEAM School 2018 Report
