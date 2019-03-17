@@ -1,5 +1,5 @@
 ---
-label: File Download With Form
+label: File Download
 hide_body: true
 fields:
 - type: file
