@@ -50,9 +50,6 @@ page_sections:
   content: To be updated soon..
 - template: title
   title: Partners
-- template: images
-  images:
-  - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
 - template: buttons
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
