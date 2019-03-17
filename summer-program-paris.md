@@ -50,17 +50,6 @@ page_sections:
   content: To be updated soon..
 - template: title
   title: Key dates
-- template: title
-  title: Partners
-- template: partners
-  partners:
-  - name: CRI
-    image: "/uploads/CRI_FRUITFUL_FUTURE.png"
-    link: https://cri-paris.org/
-- template: buttons
-  buttons:
-  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
-    text: I'm interested, send more info!
 - template: body-copy
   content: |-
     **Registrations Open** :                   Last week of March, 2019
@@ -72,6 +61,17 @@ page_sections:
     **Program at CRI, Paris** :               1st July -26th July, 2019
 
     **Program Summit at CRI, Paris**:   26th - 27th July 2019
+- template: buttons
+  buttons:
+  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
+    text: I'm interested, send more info!
+- template: title
+  title: Partners
+- template: partners
+  partners:
+  - name: CRI
+    image: "/uploads/CRI_FRUITFUL_FUTURE.png"
+    link: https://cri-paris.org/
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
