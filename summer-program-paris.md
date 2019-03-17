@@ -19,6 +19,11 @@ page_sections:
     * Network of like minded tinkerers / makers for life
     * Mentorship from some of the most brilliant change makers
 - template: title
+  title: Program framework
+- template: images
+  images:
+  - image: "/uploads/UN SDG-1.jpg"
+- template: title
   title: What you can expect
 - template: body-copy
   content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
@@ -26,11 +31,6 @@ page_sections:
     object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
     height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
     frameborder='0' allowfullscreen></iframe></div>"
-- template: title
-  title: Program framework
-- template: images
-  images:
-  - image: "/uploads/UN SDG-1.jpg"
 - template: title
   title: Program details
 - template: body-copy
