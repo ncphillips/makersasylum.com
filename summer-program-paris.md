@@ -52,7 +52,7 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE.png"
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
-image: ''
+image: "/uploads/SDG School '19.png"
 description: ''
 layout: event
 permalink: "/summer-program-paris"
