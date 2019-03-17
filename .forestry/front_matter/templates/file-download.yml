@@ -1,7 +1,6 @@
 ---
-label: File Download
+label: File Download With Form
 hide_body: true
-display_field: button_text
 fields:
 - type: file
   name: file
