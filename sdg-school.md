@@ -43,6 +43,7 @@ page_sections:
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
+  has_form: false
 - template: title
   title: Mentors
 - template: body-copy
