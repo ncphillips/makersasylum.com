@@ -41,6 +41,8 @@ page_sections:
   title: Program details
 - template: body-copy
   content: To be updated soon..
+- template: title
+  title: Download S.T.E.A.M School 2018 Report
 - template: file-download
   file: "/uploads/megamind.png"
   button_text: STEAM School 2018 Report
