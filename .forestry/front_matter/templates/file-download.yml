@@ -8,3 +8,6 @@ fields:
 - type: text
   name: button_text
   label: Button Text
+- type: boolean
+  name: has_form
+  label: Has Form?
