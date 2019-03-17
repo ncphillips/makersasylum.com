@@ -41,7 +41,7 @@ page_sections:
 - template: body-copy
   content: To be updated soon. You can download the S.T.E.A.M School 2018 Report below.
 - template: file-download
-  file: "/uploads/megamind.png"
+  file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
 - template: title
   title: Mentors
