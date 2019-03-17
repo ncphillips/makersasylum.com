@@ -52,8 +52,7 @@ page_sections:
 - template: title
 - template: buttons
   buttons:
-  - link: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCwlRqQ-Di0VOBNQ9QAdGWqlXKv89K-aczGR-3sJjA1NYWGA/viewform?embedded=true"
-      width="640" height="1309" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
     text: I'm interested, send more info!
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
