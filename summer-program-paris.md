@@ -58,7 +58,7 @@ page_sections:
 
     **Shortlisting of Candidates**:         Mid April, 2019
 
-    **Program at CRI, Paris** :               1st July -26th July, 2019
+    **Program at CRI, Paris** :               1st July - 26th July, 2019
 
     **Program Summit at CRI, Paris**:   26th - 27th July 2019
 - template: buttons
