@@ -58,6 +58,8 @@ page_sections:
     * Summit
 
     Download the S.T.E.A.M School 2018 Report below
+- template: title
+  title: Program Fee
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
