@@ -97,8 +97,10 @@ page_sections:
 - template: title
   title: How it works?
 - template: body-copy
-  content: 'As a participant you can opt to attend either for 2 weeks (Module 1) or
-    4 weeks (Module 1 + 2) of the program. '
+  content: |-
+    As a participant you can opt to attend either for 2 weeks (Module 1) or 4 weeks (Module 1 + 2) of the program.
+
+    Eligibility for Module 2 will be based on a selection criteria of projects which are high impact prototypes. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high impact projects.
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
