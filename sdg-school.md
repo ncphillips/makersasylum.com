@@ -40,20 +40,21 @@ page_sections:
   title: Program details
 - template: body-copy
   content: |-
-    The SDG School program consists of two modules which will be conducted within a time span of 4 weeks. The components of each module are as follows:
+    The **SDG School program** consists of two modules which will be conducted within a time span of 4 weeks. The components of each module are as follows:
 
-    **Module 1: STEAM** (Duration 1st July - 13th July)
+    **Module 1: STEAM** (1st July - 13th July)
 
     * Introduction to UNSDG's
     * Ideation
     * Prototyping
     * Demo
 
-    **Module 2: IMPACT** (Duration 14th July - 27th July)
+    **Module 2: IMPACT** (14th July - 27th July)
 
-    * Social /scientific entrepreneurship
+    * Social / Scientific entrepreneurship
     * Project maturation
     * Advanced Prototyping
+    * Prototype presentation
     * Program Summit
 
     Download the S.T.E.A.M School 2018 Report below
