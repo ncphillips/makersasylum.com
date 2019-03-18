@@ -77,7 +77,7 @@ page_sections:
   buckets:
   - title: ''
     fees:
-    - amount: 500€
+    - amount: 900€
       name: STEAM
     description: 'Duration: 1st July - 13th July'
   - title: ''
