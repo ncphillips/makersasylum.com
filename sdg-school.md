@@ -96,7 +96,7 @@ page_sections:
       name: STEAM
     description: 'Duration: 1st July - 13th July'
   - title: STEAM + IMPACT
-    description: 1st - 27th July
+    description: 'Duration: 1st - 27th July'
     fees:
     - name: STEAM + IMPACT
       amount: 1500€
