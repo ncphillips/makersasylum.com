@@ -100,15 +100,15 @@ page_sections:
   title: Key dates
 - template: body-copy
   content: |-
-    Registrations Open :                   Last week of March, 2019
+    Registrations Open :                   20th March 2019
 
-    Application deadline :                 30th April, 2019
+    Application deadline :                30th April, 2019
 
     Shortlisting of Candidates:         Mid April, 2019
 
-    Program at CRI, Paris :               1st July - 26th July, 2019
+    Program at, Paris :                      1st July - 26th July, 2019
 
-    Program Summit at CRI, Paris:   26th - 27th July 2019
+    One leadership SUMMIT :          26th - 27th July 2019
 - template: buttons
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
