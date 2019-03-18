@@ -18,7 +18,7 @@ page_sections:
     Development Goals outlined by the United Nations to be reached by 2030. These
     goals are a blueprint to achieve a better and a sustainable future for all cultures
     around the globe. These goals address challenges faced by economies both in the
-    developed and the developing nations in the areas of education, healthcare, equalities,
+    developed and the developing nations in the areas of education, healthcare, equalitiy,
     energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
