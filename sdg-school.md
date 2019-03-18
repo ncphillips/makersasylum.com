@@ -66,7 +66,7 @@ page_sections:
   title: How it works?
 - template: body-copy
   content: |-
-    As a participant you can opt to attend either for 2 weeks i.e **STEAM** or 4 weeks STEAM and IMPACT modules of the program.
+    As a participant you can opt to attend either for 2 weeks **STEAM** Module or 4 weeks **STEAM and IMPACT** modules of the program.
 
     Only the projects with market potential will be shortlisted for the IMPACT module. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high potential projects.
 
