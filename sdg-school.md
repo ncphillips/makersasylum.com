@@ -8,7 +8,7 @@ page_sections:
 
     The program is designed to give you access to a platform where you can voice an opinion, take an action and create an impact.
 - template: title
-  title: Program framework
+  title: SDG School framework
 - template: body-copy
   content: The framework for **SDG School 2019 Edition** is based on the Sustainable
     Development Goals outlined by the United Nations to be reached by 2030. These
