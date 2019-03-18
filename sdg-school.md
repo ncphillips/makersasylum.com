@@ -45,7 +45,6 @@ page_sections:
     **Module 1: STEAM** (Duration 1st July - 13th July)
 
     * Introduction to UNSDG's
-    * Design thinking
     * Ideation
     * Prototyping
     * Demo
@@ -55,11 +54,12 @@ page_sections:
     * Social /scientific entrepreneurship
     * Project maturation
     * Advanced Prototyping
-    * Summit
+    * Program Summit
 
     Download the S.T.E.A.M School 2018 Report below
 - template: title
   title: Program Fee
+- template: body-copy
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
