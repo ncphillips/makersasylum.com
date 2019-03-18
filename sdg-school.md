@@ -108,7 +108,7 @@ page_sections:
 
     Application deadline :                30th April, 2019
 
-    Shortlisting of Candidates:         Mid April, 2019
+    Shortlisting of Candidates:        First week of May, 2019
 
     Program at, Paris :                      1st July - 26th July, 2019
 
