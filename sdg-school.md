@@ -47,12 +47,12 @@ page_sections:
 
     **Module 1: STEAM** (1st July - 13th July)
 
-    Module 1 of the SDG School program is a comprehensive exercise into the following:
+    Module 1 of the SDG School program is designed to:
 
-    * Identify social challenges and frame problem statements in the European context
+    * Identify social challenges and frame problem statements within the European context
     * Use Rapid Prototyping to implement a project within the identified context
 
-    **Objectives of Module 1: STEAM**
+    **Structure of Module 1: STEAM**
 
     * Introduction to UNSDG's
     * Ideation
@@ -61,15 +61,13 @@ page_sections:
 
     **Module 2: IMPACT** (14th July - 27th July)
 
-    The IMPACT module is the project maturation experience guided towards research methodology and social entrepreneurship.
+    Module 2 is guided towards research methodologies and social entrepreneurship. This module will enable participants to:
 
-    The IMPACT module answers to the following goals
-
-    * Innovate with a meaning-driven human-centered use and vision of technology
-    * Contextualize a project with the design mindset
+    * Innovate with a meaning-driven, human-centered vision of technology
+    * Contextualise the project or how to achieve scale?
     * Prototype with research and entrepreneurship methodologies
 
-    Objective of IMPACT
+    **Structure of Module 2: IMPACT**
 
     * Social / Scientific entrepreneurship
     * Project maturation
