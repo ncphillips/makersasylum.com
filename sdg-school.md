@@ -138,6 +138,11 @@ page_sections:
     link: https://cri-paris.org/
 - template: buckets
   buckets:
+  - title: STEAM + IMPACT
+    description: 14th July - 27th July
+    fees:
+    - name: STEAM + IMPACT
+      amount: 1500€
   - title: STEAM
     fees:
     - amount: 500€
