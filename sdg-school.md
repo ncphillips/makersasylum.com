@@ -44,6 +44,8 @@ page_sections:
 
     **Module 1: STEAM** (1st July - 13th July)
 
+    This module is designed to provide skill upgrades, application of design thinking
+
     * Introduction to UNSDG's
     * Ideation
     * Prototyping
