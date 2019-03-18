@@ -40,7 +40,7 @@ page_sections:
   title: Program details
 - template: body-copy
   content: |-
-    The **SDG School program** consists of two modules which will be conducted within a time span of 4 weeks. The components of each module are as follows:
+    The **SDG School program** consists of two modules which will be conducted within a time span of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
 
     **Module 1: STEAM** (1st July - 13th July)
 
