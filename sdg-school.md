@@ -14,7 +14,7 @@ page_sections:
 - template: title
   title: SDG School framework
 - template: body-copy
-  content: The framework for **SDG School 2019 Edition** is based on the Sustainable
+  content: The framework for **SDG School** 2019 Edition is based on the Sustainable
     Development Goals outlined by the United Nations to be reached by 2030. These
     goals are a blueprint to achieve a better and a sustainable future for all cultures
     around the globe. These goals address challenges faced by economies both in the
@@ -30,7 +30,7 @@ page_sections:
   - image: "/uploads/SDG School TIMELINE.001-1.png"
 - template: body-copy
   content: |-
-    The **SDG School program** consists of two modules (STEAM and IMPACT) which will be conducted within a time frame of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
+    The **SDG School** program consists of two modules (STEAM and IMPACT) which will be conducted within a time frame of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
 
     **STEAM** (1st July - 13th July)
 
