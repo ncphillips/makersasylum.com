@@ -136,6 +136,13 @@ page_sections:
   - name: ''
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
+- template: buckets
+  buckets:
+  - title: STEAM
+    fees:
+    - amount: 500€
+      name: STEAM
+    description: 'Module 1 of SDG program '
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
