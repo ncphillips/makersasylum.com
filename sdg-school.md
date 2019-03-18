@@ -102,7 +102,7 @@ page_sections:
       amount: 1500€
 - template: body-copy
   content: |-
-    **The program fee will cover costs for:**
+    The program fee will cover costs for:
 
     * Tuition fees
     * All day sessions and workshops
