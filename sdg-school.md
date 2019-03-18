@@ -38,6 +38,9 @@ page_sections:
     frameborder='0' allowfullscreen></iframe></div>"
 - template: title
   title: Program details
+- template: images
+  images:
+  - image: "/uploads/SDG School TIMELINE.001.png"
 - template: body-copy
   content: |-
     The **SDG School program** consists of two modules which will be conducted within a time span of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
