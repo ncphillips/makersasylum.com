@@ -122,6 +122,8 @@ page_sections:
   content: |-
     Corporate Young Leaders, Students from Design, Engineering, Art, Business, Law, Health, Policy and other backgrounds, Entrepreneurs/Freelancers, High School graduates focused on STEAM
 
+    The program is focused on bringing together a diverse group of individuals passionate about creating an impact and changing the world.
+
     Age: 16 and above
 - template: buttons
   buttons:
