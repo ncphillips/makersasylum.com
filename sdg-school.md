@@ -82,6 +82,8 @@ page_sections:
     * Access to labs and facilities at Cité des Sciences & CRI
     * Mentorship all through the program stages
     * Certification
+
+    Travel, accommodation and meals are not included in the program fee.
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
