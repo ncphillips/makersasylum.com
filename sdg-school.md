@@ -69,11 +69,19 @@ page_sections:
   title: Program Fee
 - template: body-copy
   content: |-
-    The program fee for this years SDG School is:
+    **The program fee for this years SDG School is:**
 
     Module 1 (2 Weeks ): 900€
 
     Module 2 (4 Weeks): 1500€
+
+    **The program fee will cover costs for:**
+
+    * Tuition fees
+    * All day sessions and workshops
+    * Access to labs and facilities at Cité des Sciences & CRI
+    * Mentorship all through the program stages
+    * Certification
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
