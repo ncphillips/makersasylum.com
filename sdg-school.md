@@ -56,7 +56,7 @@ page_sections:
     Module 2 is guided towards research methodologies and social entrepreneurship. This module will enable participants to:
 
     * Innovate with a meaning-driven, human-centered vision of technology
-    * Contextualise the project or how to achieve scale?
+    * Contextualise the project
     * Prototype with research and entrepreneurship methodologies
 
     **Structure of IMPACT**
