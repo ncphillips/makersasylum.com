@@ -91,11 +91,14 @@ page_sections:
 
     * Tuition fees
     * All day sessions and workshops
+    * Materials and documentation tools
     * Access to labs and facilities at Cité des Sciences & CRI
     * Mentorship all through the program stages
     * Certification
 
     **Travel, accommodation and meals are not included in the program fee**
+
+    Scholarship will be granted to deserving candidates. The grant of scholarship lies solely within the discretion of the Steering Committee.
 - template: title
   title: Mentors
 - template: body-copy
