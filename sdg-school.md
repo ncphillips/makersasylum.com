@@ -44,10 +44,10 @@ page_sections:
 
     **Module 1: STEAM** (1st July - 13th July)
 
-    The STEAM module is a comprehensive global learning experience specially curated for the participants to achieve the following:
+    Module 1 of the SDG School program is a comprehensive exercise into the following:
 
-    * Identify social challenges in a European context.
-    * Use rapid prototyping to implement a project which is relevant for corporate organisations, government agencies and decision maker institutions
+    * Identify social challenges and frame problem statements in the European context
+    * Use Rapid Prototyping to implement a project within the identified context
 
     **Objectives of Module 1: STEAM**
 
@@ -57,6 +57,16 @@ page_sections:
     * Demo
 
     **Module 2: IMPACT** (14th July - 27th July)
+
+    The IMPACT module is the project maturation experience guided towards research methodology and social entrepreneurship.
+
+    The IMPACT module answers to the following goals
+
+    * Innovate with a meaning-driven human-centered use and vision of technology
+    * Contextualize a project with the design mindset
+    * Prototype with research and entrepreneurship methodologies
+
+    Objective of IMPACT
 
     * Social / Scientific entrepreneurship
     * Project maturation
