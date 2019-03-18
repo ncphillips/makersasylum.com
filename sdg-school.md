@@ -131,7 +131,7 @@ page_sections:
   title: Partners
 - template: partners
   partners:
-  - name: CRI
+  - name: ''
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
 date: 2019-03-14 06:05:35 +0000
