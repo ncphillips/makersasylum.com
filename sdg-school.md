@@ -26,7 +26,7 @@ page_sections:
   - image: "/uploads/SDG School TIMELINE.001-1.png"
 - template: body-copy
   content: |-
-    The **SDG School program** consists of two modules which will be conducted within a time frame of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
+    The **SDG School program** consists of two modules (STEAM and IMPACT) which will be conducted within a time frame of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
 
     **STEAM** (1st July - 13th July)
 
