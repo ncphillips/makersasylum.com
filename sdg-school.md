@@ -20,15 +20,6 @@ page_sections:
   images:
   - image: "/uploads/UN SDG-1.jpg"
 - template: title
-  title: Why you should apply?
-- template: body-copy
-  content: |-
-    * Opportunity to co-learn with the best and the most diverse minds
-    * Hands on learning in some of the most advanced digital fabrication labs
-    * Exposure to global issues and a chance to solve real world problems using technology
-    * Network of like minded tinkerers / makers for life
-    * Mentorship from some of the most brilliant change makers
-- template: title
   title: Program details
 - template: images
   images:
@@ -50,6 +41,15 @@ page_sections:
 - template: file-download
   button_text: STEAM School 2018 Report
   has_form: false
+- template: title
+  title: Why you should apply?
+- template: body-copy
+  content: |-
+    * Opportunity to co-learn with the best and the most diverse minds
+    * Hands on learning in some of the most advanced digital fabrication labs
+    * Exposure to global issues and a chance to solve real world problems using technology
+    * Network of like minded tinkerers / makers for life
+    * Mentorship from some of the most brilliant change makers
 - template: title
   title: What you can expect
 - template: body-copy
