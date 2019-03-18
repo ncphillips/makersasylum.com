@@ -22,7 +22,7 @@ page_sections:
     energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
-  - image: "/uploads/UN SDG-1.jpg"
+  - image: "/uploads/SDG.png"
 - template: title
   title: Program details
 - template: images
@@ -98,7 +98,7 @@ page_sections:
 
     **Travel, accommodation and meals are not included in the program fee**
 
-    Scholarship will be granted to deserving candidates. The grant of scholarship lies solely within the discretion of the Steering Committee.
+    Scholarships available. The grant of scholarship lies solely within the discretion of the Steering Committee.
 - template: title
   title: Mentors
 - template: body-copy
