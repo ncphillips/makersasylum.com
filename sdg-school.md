@@ -51,14 +51,6 @@ page_sections:
     * Network of like minded tinkerers / makers for life
     * Mentorship from some of the most brilliant change makers
 - template: title
-  title: What you can expect
-- template: body-copy
-  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
-    height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
-    object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
-    height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
-    frameborder='0' allowfullscreen></iframe></div>"
-- template: title
   title: How it works?
 - template: body-copy
   content: |-
@@ -67,6 +59,14 @@ page_sections:
     Only the projects with market potential will be shortlisted for the IMPACT module. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high potential projects.
 
     This way candidates get an opportunity to learn outside the framework of their ongoing projects and also get to contribute and test their skills
+- template: title
+  title: What you can expect
+- template: body-copy
+  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
+    height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
+    object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
+    height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
+    frameborder='0' allowfullscreen></iframe></div>"
 - template: title
   title: Program Fee
 - template: buckets
