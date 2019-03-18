@@ -116,12 +116,17 @@ page_sections:
     Program at, Paris :                      1st July - 26th July, 2019
 
     Learning Planet Assembly :          26th - 27th July 2019
+- template: title
+  title: Who should apply?
+- template: body-copy
+  content: |-
+    Corporate Young Leaders, Students from Design, Engineering, Art, Business, Law, Health, Policy and other backgrounds, Entrepreneurs/Freelancers, High School graduates focused on STEAM
+
+    Age: 16 and above
 - template: buttons
   buttons:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
-- template: title
-  title: Who should apply?
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
