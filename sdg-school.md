@@ -44,7 +44,12 @@ page_sections:
 
     **Module 1: STEAM** (1st July - 13th July)
 
-    This module is designed to provide skill upgrades, application of design thinking
+    The STEAM module is a comprehensive global learning experience specially curated for the participants to achieve the following:
+
+    * Identify social challenges in a European context.
+    * Use rapid prototyping to implement a project which is relevant for corporate organisations, government agencies and decision maker institutions
+
+    **Objectives of Module 1: STEAM**
 
     * Introduction to UNSDG's
     * Ideation
