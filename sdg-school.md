@@ -108,7 +108,7 @@ page_sections:
   title: Key dates
 - template: body-copy
   content: |-
-    Registrations Open :                   20th March 2019
+    Registrations Open :                   18th March 2019
 
     Application deadline :                30th April, 2019
 
