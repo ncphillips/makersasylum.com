@@ -37,16 +37,12 @@ page_sections:
   content: |-
     The **SDG School program** consists of two modules which will be conducted within a time span of 4 weeks at [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
 
-    **Module 1: STEAM** (1st July - 13th July)
-
-    Module 1 of the SDG School program is designed to:
+    **STEAM** (1st July - 13th July)
 
     * Identify social challenges and frame problem statements within the European context
     * Use Rapid Prototyping to implement a project within the identified context
 
-    **Module 2: IMPACT** (14th July - 27th July)
-
-    Module 2 is guided towards research methodologies and social entrepreneurship. This module will enable participants to:
+    **IMPACT** (14th July - 27th July)
 
     * Innovate with a meaning-driven, human-centered vision of technology
     * Contextualise the project
