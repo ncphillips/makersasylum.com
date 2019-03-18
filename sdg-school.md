@@ -113,8 +113,6 @@ page_sections:
   title: Partners
 - template: partners
   partners:
-  - name: Maker's Asylum
-    image: "/uploads/MA Standard - Color.png"
   - name: CRI
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
