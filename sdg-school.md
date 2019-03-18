@@ -111,8 +111,8 @@ page_sections:
     Learning Planet Assembly :          26th - 27th July 2019
 - template: buttons
   buttons:
-  - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
-    text: I'm interested, send more info!
+  - link: ''
+    text: ''
 - template: title
   title: Partners
 - template: partners
