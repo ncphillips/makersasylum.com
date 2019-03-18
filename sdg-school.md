@@ -138,16 +138,16 @@ page_sections:
     link: https://cri-paris.org/
 - template: buckets
   buckets:
-  - title: STEAM + IMPACT
-    description: 14th July - 27th July
-    fees:
-    - name: STEAM + IMPACT
-      amount: 1500€
   - title: STEAM
     fees:
     - amount: 500€
       name: STEAM
     description: 1st July - 13th July
+  - title: STEAM + IMPACT
+    description: 1st - 27th July
+    fees:
+    - name: STEAM + IMPACT
+      amount: 1500€
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
