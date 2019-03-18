@@ -108,7 +108,7 @@ page_sections:
 
     Program at, Paris :                      1st July - 26th July, 2019
 
-    One leadership SUMMIT :          26th - 27th July 2019
+    One Learning Planet Assembly :          26th - 27th July 2019
 - template: buttons
   buttons:
   - link: https://goo.gl/forms/mR9kV5AN1bZwDUHG3
