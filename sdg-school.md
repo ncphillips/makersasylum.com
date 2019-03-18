@@ -96,6 +96,9 @@ page_sections:
     link: https://cri-paris.org/
 - template: title
   title: How it works?
+- template: body-copy
+  content: 'As a participant you can opt to attend either for 2 weeks (Module 1) or
+    4 weeks (Module 1 + 2) of the program. '
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
