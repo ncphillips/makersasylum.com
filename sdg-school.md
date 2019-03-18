@@ -39,8 +39,8 @@ page_sections:
 
     **STEAM** (1st July - 13th July)
 
-    * Identify social challenges and frame problem statements within the European context
-    * Use Rapid Prototyping to implement a project within the identified context
+    * Identify social challenges and frame problem statements within the european context
+    * Use Rapid Prototyping to implement a project
 
     **IMPACT** (14th July - 27th July)
 
