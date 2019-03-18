@@ -94,6 +94,8 @@ page_sections:
   - name: CRI
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
+- template: title
+  title: How it works?
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
