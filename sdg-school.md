@@ -83,7 +83,7 @@ page_sections:
     * Mentorship all through the program stages
     * Certification
 
-    Travel, accommodation and meals are not included in the program fee.
+    Travel, accommodation and meals are not included in the program fee
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
