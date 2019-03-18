@@ -42,15 +42,6 @@ page_sections:
   button_text: STEAM School 2018 Report
   has_form: false
 - template: title
-  title: Why you should apply?
-- template: body-copy
-  content: |-
-    * Opportunity to co-learn with the best and the most diverse minds
-    * Hands on learning in some of the most advanced digital fabrication labs
-    * Exposure to global issues and a chance to solve real world problems using technology
-    * Network of like minded tinkerers / makers for life
-    * Mentorship from some of the most brilliant change makers
-- template: title
   title: How it works?
 - template: body-copy
   content: |-
@@ -59,6 +50,15 @@ page_sections:
     Only the projects with market potential will be shortlisted for the IMPACT module. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high potential projects.
 
     This way candidates get an opportunity to learn outside the framework of their ongoing projects and also get to contribute and test their skills
+- template: title
+  title: Why you should apply?
+- template: body-copy
+  content: |-
+    * Opportunity to co-learn with the best and the most diverse minds
+    * Hands on learning in some of the most advanced digital fabrication labs
+    * Exposure to global issues and a chance to solve real world problems using technology
+    * Network of like minded tinkerers / makers for life
+    * Mentorship from some of the most brilliant change makers
 - template: title
   title: What you can expect
 - template: body-copy
