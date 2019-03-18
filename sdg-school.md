@@ -8,15 +8,6 @@ page_sections:
 
     The program is designed to give you access to a platform where you can voice an opinion, take an action and create an impact.
 - template: title
-  title: Why you should apply?
-- template: body-copy
-  content: |-
-    * Opportunity to co-learn with the best and the most diverse minds
-    * Hands on learning in some of the most advanced digital fabrication labs
-    * Exposure to global issues and a chance to solve real world problems using technology
-    * Network of like minded tinkerers / makers for life
-    * Mentorship from some of the most brilliant change makers
-- template: title
   title: Program framework
 - template: body-copy
   content: The framework for **SDG School 2019 Edition** is based on the Sustainable
@@ -29,13 +20,14 @@ page_sections:
   images:
   - image: "/uploads/UN SDG-1.jpg"
 - template: title
-  title: What you can expect
+  title: Why you should apply?
 - template: body-copy
-  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
-    height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
-    object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
-    height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
-    frameborder='0' allowfullscreen></iframe></div>"
+  content: |-
+    * Opportunity to co-learn with the best and the most diverse minds
+    * Hands on learning in some of the most advanced digital fabrication labs
+    * Exposure to global issues and a chance to solve real world problems using technology
+    * Network of like minded tinkerers / makers for life
+    * Mentorship from some of the most brilliant change makers
 - template: title
   title: Program details
 - template: images
@@ -76,6 +68,14 @@ page_sections:
     * Program Summit
 
     Download the S.T.E.A.M School 2018 Report below
+- template: title
+  title: What you can expect
+- template: body-copy
+  content: "<style>.embed-container { position: relative; padding-bottom: 56.25%;
+    height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container
+    object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
+    height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
+    frameborder='0' allowfullscreen></iframe></div>"
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
