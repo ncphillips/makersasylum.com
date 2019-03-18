@@ -58,13 +58,17 @@ page_sections:
     * Program Summit
 
     Download the S.T.E.A.M School 2018 Report below
+- template: file-download
+  file: "/uploads/SS18 Report.pdf"
+  button_text: STEAM School 2018 Report
+  has_form: false
 - template: title
   title: How it works?
 - template: body-copy
   content: |-
     As a participant you can opt to attend either for 2 weeks (Module 1) or 4 weeks (Module 1 + 2) of the program.
 
-    Eligibility for Module 2 will be based on a selection criteria of projects which are high impact prototypes. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high impact projects.
+    Eligibility for Module 2 will be based on a selection criteria of projects which are high impact prototypes. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high impact projects. This way candidates get an opportunity to learn outside the framework of their ongoing projects and also get to contribute and test their skills
 - template: title
   title: Program Fee
 - template: body-copy
@@ -84,10 +88,6 @@ page_sections:
     * Certification
 
     Travel, accommodation and meals are not included in the program fee
-- template: file-download
-  file: "/uploads/SS18 Report.pdf"
-  button_text: STEAM School 2018 Report
-  has_form: false
 - template: title
   title: Mentors
 - template: body-copy
