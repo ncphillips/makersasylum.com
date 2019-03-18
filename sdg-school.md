@@ -68,6 +68,9 @@ page_sections:
     * Program Summit
 
     Download the S.T.E.A.M School 2018 Report below
+- template: file-download
+  button_text: STEAM School 2018 Report
+  has_form: false
 - template: title
   title: What you can expect
 - template: body-copy
@@ -76,10 +79,6 @@ page_sections:
     object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
     height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
     frameborder='0' allowfullscreen></iframe></div>"
-- template: file-download
-  file: "/uploads/SS18 Report.pdf"
-  button_text: STEAM School 2018 Report
-  has_form: false
 - template: title
   title: How it works?
 - template: body-copy
