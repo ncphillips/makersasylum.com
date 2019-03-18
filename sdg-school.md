@@ -142,7 +142,7 @@ page_sections:
     fees:
     - amount: 500€
       name: STEAM
-    description: 'Module 1 of SDG program '
+    description: 1st July - 13th July
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
