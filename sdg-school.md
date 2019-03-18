@@ -44,13 +44,6 @@ page_sections:
     * Identify social challenges and frame problem statements within the European context
     * Use Rapid Prototyping to implement a project within the identified context
 
-    **Structure of STEAM**
-
-    * Introduction to UNSDG's
-    * Ideation
-    * Prototyping
-    * Demo
-
     **Module 2: IMPACT** (14th July - 27th July)
 
     Module 2 is guided towards research methodologies and social entrepreneurship. This module will enable participants to:
@@ -58,14 +51,6 @@ page_sections:
     * Innovate with a meaning-driven, human-centered vision of technology
     * Contextualise the project
     * Prototype with research and entrepreneurship methodologies
-
-    **Structure of IMPACT**
-
-    * Social / Scientific entrepreneurship
-    * Project maturation
-    * Advanced Prototyping
-    * Prototype presentation
-    * Program Summit
 - template: file-download
   button_text: STEAM School 2018 Report
   has_form: false
