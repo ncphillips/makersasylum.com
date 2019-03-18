@@ -91,14 +91,20 @@ page_sections:
     This way candidates get an opportunity to learn outside the framework of their ongoing projects and also get to contribute and test their skills
 - template: title
   title: Program Fee
+- template: buckets
+  buckets:
+  - title: STEAM
+    fees:
+    - amount: 500€
+      name: STEAM
+    description: 1st July - 13th July
+  - title: STEAM + IMPACT
+    description: 1st - 27th July
+    fees:
+    - name: STEAM + IMPACT
+      amount: 1500€
 - template: body-copy
   content: |-
-    **The program fee for this years SDG School is:**
-
-    Module 1 (2 Weeks ): 900€
-
-    Module 2 (4 Weeks): 1500€
-
     **The program fee will cover costs for:**
 
     * Tuition fees
@@ -136,18 +142,6 @@ page_sections:
   - name: ''
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
-- template: buckets
-  buckets:
-  - title: STEAM
-    fees:
-    - amount: 500€
-      name: STEAM
-    description: 1st July - 13th July
-  - title: STEAM + IMPACT
-    description: 1st - 27th July
-    fees:
-    - name: STEAM + IMPACT
-      amount: 1500€
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
