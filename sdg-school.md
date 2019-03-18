@@ -95,7 +95,7 @@ page_sections:
     * Mentorship all through the program stages
     * Certification
 
-    **Travel, accommodation and meals are not included in the program fee.**
+    **Travel, accommodation and meals are not included in the program fee**
 - template: title
   title: Mentors
 - template: body-copy
