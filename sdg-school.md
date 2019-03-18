@@ -39,7 +39,25 @@ page_sections:
 - template: title
   title: Program details
 - template: body-copy
-  content: To be updated soon. You can download the S.T.E.A.M School 2018 Report below.
+  content: |-
+    The SDG School program consists of two modules which will be conducted within a time span of 4 weeks. The components of each module are as follows
+
+    **Module 1: STEAM** (Duration 1st July - 13th July)
+
+    * Introduction to UNSDG's
+    * Design thinking
+    * Ideation
+    * Prototyping
+    * Demo
+
+    **Module 2: IMPACT** (Duration 14th July - 27th July)
+
+    * Social /scientific entrepreneurship
+    * Project maturation
+    * Advanced Prototyping
+    * Summit
+
+    To be updated soon. You can download the S.T.E.A.M School 2018 Report below.
 - template: file-download
   file: "/uploads/SS18 Report.pdf"
   button_text: STEAM School 2018 Report
@@ -69,6 +87,7 @@ page_sections:
   title: Partners
 - template: partners
   partners:
+  - name: Maker's Asylum
   - name: CRI
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
