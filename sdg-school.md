@@ -22,7 +22,7 @@ page_sections:
     energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
-  - image: "/uploads/SDG.png"
+  - image: "/uploads/SDG PNG.001.jpeg"
 - template: title
   title: Program details
 - template: images
