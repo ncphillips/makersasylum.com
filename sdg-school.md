@@ -52,7 +52,7 @@ page_sections:
     * Identify social challenges and frame problem statements within the European context
     * Use Rapid Prototyping to implement a project within the identified context
 
-    **Structure of Module 1: STEAM**
+    **Structure of STEAM**
 
     * Introduction to UNSDG's
     * Ideation
@@ -67,7 +67,7 @@ page_sections:
     * Contextualise the project or how to achieve scale?
     * Prototype with research and entrepreneurship methodologies
 
-    **Structure of Module 2: IMPACT**
+    **Structure of IMPACT**
 
     * Social / Scientific entrepreneurship
     * Project maturation
