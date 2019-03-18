@@ -66,8 +66,6 @@ page_sections:
     * Advanced Prototyping
     * Prototype presentation
     * Program Summit
-
-    Download the S.T.E.A.M School 2018 Report below
 - template: file-download
   button_text: STEAM School 2018 Report
   has_form: false
