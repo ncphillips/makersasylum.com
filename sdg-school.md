@@ -48,12 +48,12 @@ page_sections:
 - template: title
   title: How it works?
 - template: body-copy
-  content: |-
-    As a participant you can opt to attend either for 2 weeks **STEAM** Module or 4 weeks **STEAM and IMPACT** modules of the program.
-
-    Only the projects with market potential will be shortlisted for the IMPACT module. Candidates whose projects don't get selected and have choosen the 4 Week module while applying will be reshuffled to these high potential projects.
-
-    This way candidates get an opportunity to learn outside the framework of their ongoing projects and also get to contribute and test their skills
+  content: "You can opt to attend either for 2 weeks or 4 weeks of the program. \n\nPlease
+    note: \n\nOnly the projects with market potential will be shortlisted for the
+    IMPACT module. Candidates whose projects don't get selected and have choosen the
+    4 Week module while applying will be reshuffled to these high potential projects.\n\nThis
+    way candidates get an opportunity to learn outside the framework of their ongoing
+    projects and also get to contribute and test their skills"
 - template: title
   title: Why you should apply?
 - template: body-copy
@@ -95,7 +95,7 @@ page_sections:
     * Mentorship all through the program stages
     * Certification
 
-    Travel, accommodation and meals are not included in the program fee
+    **Travel, accommodation and meals are not included in the program fee.**
 - template: title
   title: Mentors
 - template: body-copy
