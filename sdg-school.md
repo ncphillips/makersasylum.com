@@ -139,6 +139,9 @@ page_sections:
   - name: ''
     image: "/uploads/CRI_FRUITFUL_FUTURE.png"
     link: https://cri-paris.org/
+- template: buttons
+  buttons:
+  - text: Apply
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
