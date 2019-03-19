@@ -76,10 +76,10 @@ page_sections:
   title: Program Fee
 - template: buckets
   buckets:
-  - title: ''
+  - title: STEAM
     fees:
     - amount: 900€
-      name: STEAM
+      name: ''
     description: 'Duration: 1st July - 13th July'
   - title: ''
     description: 'Duration: 1st - 27th July'
