@@ -42,10 +42,6 @@ page_sections:
     * Innovate with a meaning-driven, human-centered vision of technology
     * Contextualise the project
     * Prototype with research and entrepreneurship methodologies
-- template: file-download
-  button_text: STEAM School 2018 Report
-  has_form: false
-  file: "/uploads/SS18 Report-1.pdf"
 - template: title
   title: How it works?
 - template: body-copy
@@ -72,6 +68,10 @@ page_sections:
     object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%;
     height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VglywTOj_rY'
     frameborder='0' allowfullscreen></iframe></div>"
+- template: file-download
+  button_text: STEAM School 2018 Report
+  has_form: false
+  file: "/uploads/SS18 Report-1.pdf"
 - template: title
   title: Program Fee
 - template: buckets
