@@ -84,7 +84,7 @@ page_sections:
   - title: STEAM + IMPACT
     description: 'Duration: 1st - 27th July'
     fees:
-    - name: ''
+    - name: Program fee
       amount: 1500€
 - template: body-copy
   content: |-
