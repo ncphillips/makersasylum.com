@@ -106,6 +106,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jekyll-target-blank
+- jekyll-menus
 sass:
   sass_dir: styles/
   style: compressed
