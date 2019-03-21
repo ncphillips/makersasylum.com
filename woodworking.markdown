@@ -1,8 +1,11 @@
 ---
 title: Woodworking
-date: 2018-06-22 20:57:00 +05:30
----
+date: 2018-06-22 15:27:00 +0000
+menu:
+  learn:
+    weight: 6
 
+---
 ![Woodworking](/uploads/woodworking_workshop.jpg)
 
 ## Woodworking (Mumbai)
