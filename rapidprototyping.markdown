@@ -1,9 +1,13 @@
 ---
 title: Rapid Prototyping
-date: 2017-04-10 20:35:00 +05:30
+date: 2017-04-10 15:05:00 +0000
 position: 4
----
+menu:
+  learn:
+    weight: 3
+    title: " Rapid Prototyping"
 
+---
 ![Rapid Prototyping Schedule](/uploads/rapid_prototyping_website_syllabus.jpg)
 
 At Maker’s Asylum Fab lab, we have launched a weekends-only course to give you all the tools you need to starting making, breaking, and creating.

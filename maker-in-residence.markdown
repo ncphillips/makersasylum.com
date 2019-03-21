@@ -1,9 +1,13 @@
 ---
 title: Maker In Residence
-date: 2017-04-10 20:57:00 +05:30
+date: 2017-04-10 15:27:00 +0000
 position: 5
----
+menu:
+  learn:
+    weight: 4
+    title: " Maker In Residence"
 
+---
 ![Maker in Residence](/uploads/ma_residency.jpg)
 
 ## Maker in Residence
