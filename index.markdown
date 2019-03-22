@@ -2,9 +2,9 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
-- title: D.I.V.E 2019
-  link: https://www.makersasylum.com/dive-2019
-  image: "/uploads/DIVE.png"
+- title: SDG School
+  link: https://www.makersasylum.com/sdg-school/
+  image: https://www.makersasylum.com/uploads/SDG%20SChool-2.png
 - title: Project-based Learning at S.T.E.A.M School
   link: http://steam.makersasylum.com/
   image: "/uploads/Steam School 2018 Banner-04.jpg"
