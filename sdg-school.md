@@ -128,7 +128,7 @@ page_sections:
     Age: 16 and above
 - template: buttons
   buttons:
-  - text: Apply for  STEAM
+  - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
 date: 2019-03-14 06:05:35 +0000
 title: SDG School
