@@ -26,47 +26,8 @@ featured projects:
   description: 
 - project: Game Arcade
   description: 
-sponsors:
-- name: Ador Welding
-  image: "/uploads/Ador Logo.png"
-  link: ''
-- name: Imaginarium
-  image: "/uploads/imaginarium.png"
-  link: 
-- name: Bosch
-  image: "/uploads/1024px-Bosch-brand.svg.jpg"
-  link: 
-- name: Dremel
-  image: "/uploads/1024px-Dremel_logo.svg.jpg"
-  link: 
-- name: Wyolum
-  image: "/uploads/wyolum-logo7-250x250.jpg"
-  link: 
-partners:
-- name: 
-  image: "/uploads/LOGO%20SST%20-s.jpg"
-  link: 
-- name: 
-  image: "/uploads/CRI%20logo.jpg"
-  link: 
-- name: 
-  image: "/uploads/Autodesk-logo-and-wordmark.jpg"
-  link: 
-- name: 
-  image: "/uploads/Fab_Lab_logo-s-234813.jpg"
-  link: 
-- name: 
-  image: "/uploads/ubisoft.png"
-  link: 
-- name: 
-  image: "/uploads/tata_edge_class.png"
-  link: 
-- name: 
-  image: "/uploads/imt_logo.png"
-  link: 
-- name: 
-  image: "/uploads/em_lyon_logo.png"
-  link: 
+sponsors: []
+partners: []
 highlight:
   title: 
   text: 
