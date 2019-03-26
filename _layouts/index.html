@@ -86,22 +86,26 @@ layout: default
   {% unless page.sponsors == empty and page.partners == empty %}
     <section>
       <h2 class="title">SPONSORS & PARTNERS</h2>
-      <h3 class="text-center">SPONSORS</h3>
-      <div class="row">
-        {% for sponsor in page.sponsors %}
-        <div class="col-sm-6 col-md-3 partner-thumb-container">
-          <img src="{{ sponsor.image }}" class="img-fluid mx-auto" alt="{{ sponsor.name }}">
+      {% unless page.sponsors == empty %}
+        <h3 class="text-center">SPONSORS</h3>
+        <div class="row">
+          {% for sponsor in page.sponsors %}
+          <div class="col-sm-6 col-md-3 partner-thumb-container">
+            <img src="{{ sponsor.image }}" class="img-fluid mx-auto" alt="{{ sponsor.name }}">
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
-      </div>
-      <h3 class="text-center">PARTNERS</h3>
-      <div class="row">
-        {% for partner in page.partners %}
-        <div class="col-sm-6 col-md-3 partner-thumb-container">
-          <img src="{{ partner.image }}" class="img-fluid mx-auto" alt="">
+      {% endunless %}
+      {% unless page.partners == empty %}
+        <h3 class="text-center">PARTNERS</h3>
+        <div class="row">
+          {% for partner in page.partners %}
+          <div class="col-sm-6 col-md-3 partner-thumb-container">
+            <img src="{{ partner.image }}" class="img-fluid mx-auto" alt="">
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
-      </div>
+      {% endunless %}
     </section>
   {% endunless %}
 </div>
