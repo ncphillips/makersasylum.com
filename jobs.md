@@ -19,7 +19,7 @@ page_sections:
 
     We are looking for energetic, passionate and zen like Maker’s to join our small and effective team at the Asylum’s space in **Mumbai**. The role is simple but comes with a truck load of responsibilities and will keep you on the tip of your toes, quite literally, well maybe sometimes you’ll get to breathe, we are not promising. Jokes aside, we are looking for someone who can organise and execute tasks like it’s nobody’s business!
 
-    A **Maker in Residence** is someone who:
+    ## A Maker in Residence is someone who:
 
     1. Facilitates in conducting workshops at the Asylum
     2. Delivers content / teaches participants about a particular workshop while juggling knives set on fire, we mean to say questions thrown by participants in a workshop
@@ -35,7 +35,7 @@ page_sections:
     6. Thinks that tools can sing beautifully when trained right, we mean that they are maintained, greased, test run-ned from time-to-time
     7. Is a quick learner and can execute on their feet like a Formula 1 pit crew.
 
-    What the Maker in Residence stands to gain:
+    ## What the Maker in Residence stands to gain:
 
     1. Be a part of the Maker movement
     2. Design / strategise products/programs
