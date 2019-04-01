@@ -14,3 +14,7 @@ fields:
   - title
   - carousel
   - seo
+- type: text
+  label: Permalink
+  name: permalink
+  hidden: true
