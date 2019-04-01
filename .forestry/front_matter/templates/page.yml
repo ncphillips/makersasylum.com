@@ -1,10 +1,19 @@
 ---
 label: Page
 hide_body: false
+display_field: seo
 fields:
 - type: include
   name: seo
   label: SEO
   template: seo
+- type: blocks
+  label: Page Sections
+  name: page_sections
+  template_types:
+  - body-copy
+  - title
+  - carousel
+  - seo
 pages:
 - jobs.md
