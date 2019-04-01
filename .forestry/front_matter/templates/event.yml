@@ -1,16 +1,12 @@
 ---
 label: Event
 hide_body: true
+display_field: seo
 fields:
-- type: text
-  name: title
-  label: Title
-- type: file
-  name: image
-  label: Image
-- type: textarea
-  name: description
-  label: Description
+- type: include
+  name: seo
+  label: SEO
+  template: seo
 - type: blocks
   label: Page sections
   name: page_sections
