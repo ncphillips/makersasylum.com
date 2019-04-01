@@ -1,7 +1,6 @@
 ---
 label: Event
 hide_body: true
-display_field: seo
 fields:
 - type: include
   name: seo
@@ -23,7 +22,7 @@ fields:
 - type: text
   name: permalink
   label: Permalink
-  hidden: true
+  hidden: false
 pages:
 - "./d-i-v-e-2019.md"
 - sdg-school.md
