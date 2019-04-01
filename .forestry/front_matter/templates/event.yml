@@ -20,6 +20,10 @@ fields:
   - body-copy
   - images
   - buttons
+- type: text
+  name: permalink
+  label: Permalink
+  hidden: true
 pages:
 - "./d-i-v-e-2019.md"
 - sdg-school.md
