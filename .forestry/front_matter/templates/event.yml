@@ -24,6 +24,4 @@ fields:
   label: Permalink
   hidden: false
 pages:
-- "./d-i-v-e-2019.md"
 - sdg-school.md
-- dive-2019.md
