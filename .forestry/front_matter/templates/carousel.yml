@@ -9,6 +9,7 @@ fields:
   - type: file
     name: image
     label: Image
+    description: Images need to be of aspect ratio 16:9
   - type: text
     name: caption
     label: Caption
