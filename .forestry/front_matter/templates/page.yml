@@ -13,7 +13,6 @@ fields:
   - body-copy
   - title
   - carousel
-  - seo
 - type: text
   label: Permalink
   name: permalink
