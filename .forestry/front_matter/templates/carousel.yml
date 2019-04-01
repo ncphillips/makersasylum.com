@@ -1,4 +1,19 @@
 ---
 label: Carousel
 hide_body: true
-fields: []
+fields:
+- type: field_group_list
+  name: images
+  label: Images
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: caption
+    label: Caption
+  - type: text
+    name: link
+    label: Link
+  config:
+    labelField: caption
