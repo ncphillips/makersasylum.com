@@ -28,7 +28,7 @@ page_sections:
        1. Power tools or
        2. 3D Printer or
        3. Laser cutter or
-       4. Or all of the above
+       4. All of the above
 
        Like a boss! Like mind blowing sweep-me-off of the floor types. You got the point, right?
     5. Manages and keeps stock of all herds/sheep's/inventory in their respective labs
