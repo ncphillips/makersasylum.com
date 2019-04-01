@@ -1,0 +1,14 @@
+---
+label: SEO
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: image
+  label: Image
