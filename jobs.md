@@ -45,11 +45,15 @@ page_sections:
     6. Freedom from a 9 - 5 monotonous job
     7. Opportunity to grow / build something meaningful
 
-    Open position: 2 Mississippi
+    ## Open position
 
-    When : Immediately
+    2 Mississippi
 
-    Interested candidates must share:
+    ## When
+
+    Immediately
+
+    ### Interested candidates must share:
 
     1. Cover letter*
     2. Idea of a product that they would like to build*
