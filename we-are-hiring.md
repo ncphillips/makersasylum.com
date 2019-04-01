@@ -1,5 +1,5 @@
 ---
-title: We are hiring
+title: We Are Hiring
 permalink: jobs
 date: 2018-12-19 07:38:58 +0000
 layout: event
