@@ -33,7 +33,7 @@ page_sections:
        Like a boss! Like mind blowing sweep-me-off of the floor types. You got the point, right?
     5. Manages and keeps stock of all herds/sheep's/inventory in their respective labs
     6. Thinks that tools can sing beautifully when trained right, we mean that they are maintained, greased, test run-ned from time-to-time
-    7. Is a quick learner and can execute on their feet like a Formula 1 pit crew.
+    7. Is a quick learner and can execute on their feet like a Formula 1 pit crew member.
 
     ## What the Maker in Residence stands to gain:
 
