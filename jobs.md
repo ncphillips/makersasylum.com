@@ -45,6 +45,10 @@ page_sections:
     6. Freedom from a 9 - 5 monotonous job
     7. Opportunity to grow / build something meaningful
 
+    ## Location
+
+    Mumbai
+
     ## Open position
 
     2 Mississippi
