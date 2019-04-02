@@ -35,5 +35,7 @@ highlight:
     link: 
     text: 
 layout: index
+page_sections:
+- template: carousel
 
 ---
