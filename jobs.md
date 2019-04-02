@@ -58,7 +58,7 @@ page_sections:
     1. Cover letter*
     2. Idea of a product that they would like to build*
     3. Portfolio link
-    4. Resume (qualifications and past experience)*
+    4. Resume (qualifications, past experience, expected CTC)*
     5. LinkedIn profile link (optional)
 
     \*Excepted format: PDF
