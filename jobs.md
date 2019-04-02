@@ -61,7 +61,7 @@ page_sections:
     4. Resume (qualifications, past experience, expected CTC)*
     5. LinkedIn profile link (optional)
 
-    \*Excepted format: PDF
+    \*Accepted format: PDF
 - template: buttons
   buttons:
   - text: Apply
