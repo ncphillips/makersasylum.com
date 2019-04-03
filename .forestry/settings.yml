@@ -37,11 +37,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _member-types
-  label: Member types
-  create: all
-  match: "**/*"
-- type: directory
   path: _labs
   label: Labs
   create: all

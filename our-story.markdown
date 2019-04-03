@@ -1,6 +1,6 @@
 ---
 title: Our Story
-date: 2017-04-10 21:07:00 +05:30
+date: 2017-04-10 15:37:00 +0000
 position: 6
 redirect_from:
 - "/about-us/story/"
@@ -46,5 +46,9 @@ versions:
     inclusive of an open-air terrace.
   image: "/uploads/andheri.jpg"
 layout: story
----
+menu:
+  header:
+    weight: 2
+    parent: item_5iEM3AD
 
+---

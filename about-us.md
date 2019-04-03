@@ -3,6 +3,10 @@ title: About Us
 date: ''
 publication: ''
 link: ''
+menu:
+  header:
+    weight: 1
+    parent: item_5iEM3AD
 
 ---
 Maker’s Asylum is a community space focussed on fostering innovation through hands on learning. It also provides access to an ecosystem of stakeholders which includes Governments, Businesses, Incubators/Accelerators, Investors and subject matter experts. The space houses various labs that are co-located in order facilitate prototyping of ideas that are interdisciplinary in nature.
