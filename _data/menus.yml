@@ -1,5 +1,13 @@
 ---
 header:
+- url: http://steam.makersasylum.com/fabrikarium
+  weight: 8
+  parent: item_P4kBtGu
+  title: S.T.E.A.M Fabrikarium
+- url: http://steam.makersasylum.com/school
+  weight: 7
+  parent: item_P4kBtGu
+  title: S.T.E.A.M School
 - weight: 4
   identifier: item_5iEM3AD
   title: About
