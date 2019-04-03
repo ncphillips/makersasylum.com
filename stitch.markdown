@@ -23,7 +23,7 @@ principles:
       young innovators an opportunity to showcase their passion.
 layout: stitch
 menu:
-  learn:
+  header:
     weight: 5
 
 ---
