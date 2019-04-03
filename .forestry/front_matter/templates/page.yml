@@ -10,11 +10,7 @@ fields:
   label: Page Sections
   name: page_sections
   template_types:
+  - images
   - body-copy
   - title
   - carousel
-  - seo
-- type: text
-  label: Permalink
-  name: permalink
-  hidden: true

@@ -15,11 +15,11 @@ page_sections:
     We are new in the way we function and so are the challenges. So if you are up for a dynamic workplace like our's we have some challenges for you! Are you up for it?
 - template: body-copy
   content: |-
-    **Maker in Residence**
+    # Maker in Residence
 
     We are looking for energetic, passionate and zen like Maker’s to join our small and effective team at the Asylum’s space in **Mumbai**. The role is simple but comes with a truck load of responsibilities and will keep you on the tip of your toes, quite literally, well maybe sometimes you’ll get to breathe, we are not promising. Jokes aside, we are looking for someone who can organise and execute tasks like it’s nobody’s business!
 
-    A **Maker in Residence** is someone who:
+    ## A Maker in Residence is someone who:
 
     1. Facilitates in conducting workshops at the Asylum
     2. Delivers content / teaches participants about a particular workshop while juggling knives set on fire, we mean to say questions thrown by participants in a workshop
@@ -28,14 +28,14 @@ page_sections:
        1. Power tools or
        2. 3D Printer or
        3. Laser cutter or
-       4. Or all of the above
+       4. All of the above
 
        Like a boss! Like mind blowing sweep-me-off of the floor types. You got the point, right?
     5. Manages and keeps stock of all herds/sheep's/inventory in their respective labs
     6. Thinks that tools can sing beautifully when trained right, we mean that they are maintained, greased, test run-ned from time-to-time
-    7. Is a quick learner and can execute on their feet like a Formula 1 pit crew.
+    7. Is a quick learner and can execute on their feet like a Formula 1 pit crew member.
 
-    What the Maker in Residence stands to gain:
+    ## What the Maker in Residence stands to gain:
 
     1. Be a part of the Maker movement
     2. Design / strategise products/programs
@@ -45,19 +45,27 @@ page_sections:
     6. Freedom from a 9 - 5 monotonous job
     7. Opportunity to grow / build something meaningful
 
-    Open position: 2 Mississippi
+    ## Location
 
-    When : Immediately
+    Mumbai
 
-    Interested candidates must share:
+    ## Open position
+
+    2 Mississippi
+
+    ## When
+
+    Immediately
+
+    ### Interested candidates must share:
 
     1. Cover letter*
     2. Idea of a product that they would like to build*
     3. Portfolio link
-    4. Resume (qualifications and past experience)*
+    4. Resume (qualifications, past experience, expected CTC)*
     5. LinkedIn profile link (optional)
 
-    \*Excepted format: PDF
+    \*Accepted format: PDF
 - template: buttons
   buttons:
   - text: Apply

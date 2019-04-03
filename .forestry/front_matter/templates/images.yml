@@ -1,5 +1,5 @@
 ---
-label: Images
+label: Image Grid
 hide_body: false
 display_field: images
 fields:
@@ -13,3 +13,13 @@ fields:
   - type: text
     name: link
     label: Link
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: caption
+    label: Caption
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
