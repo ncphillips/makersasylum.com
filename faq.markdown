@@ -2,6 +2,10 @@
 title: FAQ
 date: 2017-04-10 15:58:00 +0000
 position: 7
+menu:
+  header:
+    weight: 4
+    parent: item_5iEM3AD
 
 ---
 ### What is Maker's Asylum?

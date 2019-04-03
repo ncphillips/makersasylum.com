@@ -72,5 +72,8 @@ page_sections:
     link: mailto:info@makersasylum.com?subject=Maker In Residence!
 image: ''
 description: ''
+menu:
+  header:
+    weight: 5
 
 ---
