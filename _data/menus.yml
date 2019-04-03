@@ -10,6 +10,7 @@ header:
   title: S.T.E.A.M School
 - weight: 4
   identifier: item_5iEM3AD
+  url: "#"
   title: About
 - url: https://www.facebook.com/pg/makersasylumdelhi/events/
   weight: 2
@@ -21,6 +22,7 @@ header:
   title: Mumbai
 - weight: 3
   identifier: item_uoTrgtN
+  url: "#"
   title: Events
 - url: https://discuss.makersasylum.com/
   weight: 2
@@ -28,7 +30,9 @@ header:
   title: Discuss
 - weight: 2
   identifier: item_JWs9GTb
+  url: "#"
   title: Community
 - weight: 1
   identifier: item_P4kBtGu
+  url: "#"
   title: Learn
