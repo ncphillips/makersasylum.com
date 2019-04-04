@@ -1,7 +1,6 @@
 ---
 label: Menus
 hide_body: true
-display_field: menu_items
 fields:
 - type: field_group_list
   name: menu_items
@@ -10,9 +9,15 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: select
+    name: internal_link
+    config:
+      source:
+        type: pages
+    label: Internal Link
   - type: text
-    name: url
-    label: URL
+    name: external_link
+    label: External Link
   - type: blocks
     label: Children
     name: children
