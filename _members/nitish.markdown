@@ -2,8 +2,8 @@
 title: Nitish
 date: 2017-10-17 14:46:00 +05:30
 position: 4
-member type: Team
-profile picture: "/uploads/nitish.jpg"
+
+image: "/uploads/nitish.jpg"
 designation: Space Manager Mumbai
 ---
 

@@ -41,7 +41,7 @@ defaults:
   values:
     layout: member
     member type:
-    profile picture:
+    image:
     designation:
     website:
     email:
@@ -65,7 +65,7 @@ defaults:
     path: ''
     type: team
   values:
-    profile picture:
+    image:
     designation:
 - scope:
     path: ''

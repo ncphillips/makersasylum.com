@@ -2,7 +2,7 @@
 title: Rajshekhar Dass
 date: 2017-04-06 18:27:00 +05:30
 position: 16
-profile picture: "/uploads/Rajshekhar%20Dass.jpg"
+image: "/uploads/Rajshekhar%20Dass.jpg"
 website: https://www.behance.net/rajshekhardass
 ---
 

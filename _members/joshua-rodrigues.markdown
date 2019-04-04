@@ -2,8 +2,8 @@
 title: Joshua Rodrigues
 date: 2017-10-17 14:31:00 +05:30
 position: 5
-member type: Team
-profile picture: "/uploads/joshua-rodrigues.jpg"
+
+image: "/uploads/joshua-rodrigues.jpg"
 designation: Space Manager Mumbai
 ---
 

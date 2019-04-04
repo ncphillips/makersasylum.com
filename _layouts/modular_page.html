@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="page-header">
+    <h1>{{ page.title }}</h1>
+  </div>
+
+  {% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+    {% when 'body-copy' %}
+      {% include blocks/body_copy.html %}
+    {% when 'members' %}
+      {% include blocks/members.html %}
+    {% endcase %}
+  {% endfor %}
+</div>

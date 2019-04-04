@@ -2,8 +2,8 @@
 title: Ishaan Rastogi
 date: 2017-10-17 14:37:00 +05:30
 position: 6
-member type: Team
-profile picture: "/uploads/ishaan-rastogi.jpg"
+
+image: "/uploads/ishaan-rastogi.jpg"
 designation: Curator Delhi
 ---
 

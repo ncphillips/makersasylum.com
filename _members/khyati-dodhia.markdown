@@ -2,7 +2,7 @@
 title: Khyati Dodhia
 date: 2017-04-06 18:19:00 +05:30
 position: 18
-profile picture: "/uploads/khyati.jpg"
+image: "/uploads/khyati.jpg"
 website: https://www.theblackcanvas.in/
 social:
   facebook: https://www.facebook.com/khyatidodhia

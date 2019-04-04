@@ -2,8 +2,8 @@
 title: Narender Sharma
 date: 2017-10-17 14:54:00 +05:30
 position: 7
-member type: Team
-profile picture: "/uploads/narender.jpeg"
+
+image: "/uploads/narender.jpeg"
 designation: Space Manager Delhi
 ---
 

@@ -2,7 +2,7 @@
 title: Karishma Sharma
 date: 2017-04-06 18:30:00 +05:30
 position: 20
-profile picture: "/uploads/karishma.jpg"
+image: "/uploads/karishma.jpg"
 website: http://customademusings.in/
 ---
 

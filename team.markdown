@@ -6,20 +6,20 @@ redirect_from:
 teams:
 - type: Team
   team:
-  - 
+  -
 - type: Lab Leads
   team:
-  - 
+  -
 - type: Advisors
   team:
-  - 
+  -
 - type: Intern/Volunteers
   team:
-  - 
+  -
 - type: Alumni
   team:
-  - 
-layout: team
+  -
+layout: modular_page
 menu:
   header:
     weight: 3

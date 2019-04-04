@@ -2,8 +2,8 @@
 title: Abhijeet Thube
 date: 2017-10-17 09:23:00 +0000
 position: 3
-member type: Team
-profile picture: "/uploads/abhijeet-thube.jpg"
+
+image: "/uploads/abhijeet-thube.jpg"
 designation: Operations Manager Mumbai
 
 ---
