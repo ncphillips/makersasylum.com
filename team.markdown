@@ -26,8 +26,8 @@ menu:
     parent: item_5iEM3AD
 page_sections:
 - template: body-copy
-  content: "> “Individuals can and do make a difference, but it takes a team to really
-    mess things up.”"
+  content: "> Individuals can and do make a difference, but it takes a team to really
+    mess things up."
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
