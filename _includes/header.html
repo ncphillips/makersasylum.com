@@ -11,19 +11,33 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        {% for link in site.menus.header %}
-          {% unless link.parent %}
-            <li class="nav-item {% if link.children %}dropdown{% endif %}">
-              <a href="{{ link.url }}" class="nav-link {% if link.children %}dropdown-toggle{% endif %}" {% if link.children %}data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{% endif %}>{{ link.title }}</a>
-              {% if link.children %}
-                <div class="dropdown-menu">
-                  {% for child in link.children %}
-                    <a class="dropdown-item" href="{{ child.url | absolute_url }}">{{ child.title }}</a>
-                  {% endfor %}
-                </div>
-              {% endif %}
-            </li>
-          {% endunless %}
+        {% for menu_item in site.data.navigation.menu_items %}
+
+          {% if menu_item.internal_link %}
+            {% assign page_object = site.pages | where: "path", menu_item.internal_link | first %}
+            {% assign menu_item_url = page_object.url %}
+          {% elsif menu_item.external_link %}
+            {% assign menu_item_url = menu_item.external_link %}
+          {% endif %}
+
+          <li class="nav-item {% if menu_item.children %}dropdown{% endif %}">
+            <a href="{{ menu_item_url }}" class="nav-link {% if menu_item.children %}dropdown-toggle{% endif %}" {% if menu_item.children %}data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{% endif %}>{{ menu_item.title }}</a>
+            
+            {% if menu_item.children %}
+              <div class="dropdown-menu">
+                {% for child in menu_item.children %}
+
+                  {% if child.template == "internal-link" %}
+                    {% assign child_menu_item = site.pages | where: "path", child.page | first %}
+                  {% elsif child.template == "external-link" %}
+                    {% assign child_menu_item = child %}
+                  {% endif %}
+
+                  <a class="dropdown-item" href="{{ child_menu_item.url | absolute_url }}">{{ child_menu_item.title }}</a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </li>
         {% endfor %}
         <li><a href="https://membership.makersasylum.com/" class="btn btn-primary" target="_blank">Membership</a></li>
       </ul>

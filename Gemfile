@@ -22,6 +22,4 @@ group :jekyll_plugins do
    gem 'jekyll-paginate'
    gem 'jekyll-redirect-from'
    gem 'jekyll-target-blank'
-   gem 'jekyll-menus'
-   gem 'pry', '~> 0.12.2'
 end
