@@ -10,6 +10,7 @@ fields:
   label: Page Sections
   name: page_sections
   template_types:
+  - members
   - images
   - body-copy
   - title
