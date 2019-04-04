@@ -1,7 +1,7 @@
 ---
 label: People
 hide_body: false
-display_field: person
+display_field: people
 fields:
 - type: field_group_list
   name: people
