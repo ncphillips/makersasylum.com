@@ -28,5 +28,9 @@ page_sections:
 - template: body-copy
   content: "> “Individuals can and do make a difference, but it takes a team to really
     mess things up.”"
+- template: members
+  members:
+  - _members/vaibhav-chhabra.markdown
+  - _members/anool-mahidharia.markdown
 
 ---
