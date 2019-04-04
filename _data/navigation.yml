@@ -20,3 +20,10 @@ links:
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
   title: Learn
+- title: Community
+  children:
+  - template: internal-link
+    page: projects.markdown
+  - template: external-link
+    title: Discuss
+    url: https://discuss.makersasylum.com/
