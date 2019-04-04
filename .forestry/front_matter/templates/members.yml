@@ -1,4 +1,13 @@
 ---
 label: Members
 hide_body: true
-fields: []
+display_field: members
+fields:
+- type: list
+  name: members
+  label: Members
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: members
