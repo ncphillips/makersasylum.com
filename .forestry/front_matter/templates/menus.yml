@@ -1,4 +1,18 @@
 ---
 label: Menus
 hide_body: true
-fields: []
+display_field: links
+fields:
+- type: field_group_list
+  name: links
+  label: Links
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: url
+    label: URL
+  - type: blocks
+    label: Children
+    name: children
