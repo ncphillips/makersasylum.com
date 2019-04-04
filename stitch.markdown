@@ -25,7 +25,7 @@ layout: stitch
 menu:
   header:
     weight: 5
-    parent: item_P4kBtGu
+    parent: learn
 
 ---
 #STiTCH is devised on 3Cs - conceptualise, collaborate & co-create. The first session of #STiTCH was launched in Singapore for a select group of students and is now being presented in India. To give participants the best immersive experience, only 30 students will be enrolled per session.

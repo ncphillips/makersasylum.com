@@ -5,9 +5,6 @@ collections:
   labs:
     title: Labs
     output: true
-  member-types:
-    title: Member Types
-    output: false
   members:
     title: Members
     output: true

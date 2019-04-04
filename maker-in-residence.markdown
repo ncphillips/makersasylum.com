@@ -6,7 +6,7 @@ menu:
   header:
     weight: 4
     title: " Maker In Residence"
-    parent: item_P4kBtGu
+    parent: learn
 
 ---
 ![Maker in Residence](/uploads/ma_residency.jpg)

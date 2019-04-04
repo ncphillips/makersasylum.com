@@ -6,7 +6,7 @@ menu:
   header:
     weight: 3
     title: " Rapid Prototyping"
-    parent: item_P4kBtGu
+    parent: learn
 
 ---
 ![Rapid Prototyping Schedule](/uploads/rapid_prototyping_website_syllabus.jpg)
