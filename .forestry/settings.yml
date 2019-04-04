@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/navigation.yml
-  label: Menu
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
@@ -44,6 +40,10 @@ sections:
   path: _labs
   label: Labs
   create: all
+  match: "**/*"
+- type: document
+  path: _data/navigation.yml
+  label: Menu
   match: "**/*"
 upload_dir: _uploads
 public_path: "/uploads"
