@@ -1,4 +1,11 @@
 ---
 label: Internal Link
 hide_body: true
-fields: []
+display_field: page
+fields:
+- type: select
+  name: page
+  config:
+    source:
+      type: pages
+  label: Page
