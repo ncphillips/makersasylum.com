@@ -1,6 +1,7 @@
 ---
-links:
-- children:
+menu_items:
+- title: Learn
+  children:
   - template: internal-link
     page: sdg-school.md
   - template: internal-link
@@ -19,7 +20,6 @@ links:
   - template: external-link
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
-  title: Learn
 - title: Community
   children:
   - template: internal-link
