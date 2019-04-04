@@ -1,6 +1,7 @@
 ---
 label: Menus
 hide_body: true
+display_field: links
 fields:
 - type: field_group_list
   name: links
