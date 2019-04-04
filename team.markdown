@@ -24,5 +24,9 @@ menu:
   header:
     weight: 3
     parent: item_5iEM3AD
+page_sections:
+- template: body-copy
+  content: "> “Individuals can and do make a difference, but it takes a team to really
+    mess things up.”"
 
 ---
