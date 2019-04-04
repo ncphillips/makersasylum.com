@@ -1,11 +1,11 @@
 ---
 label: Menus
 hide_body: true
-display_field: links
+display_field: menu_items
 fields:
 - type: field_group_list
-  name: links
-  label: Links
+  name: menu_items
+  label: Menu Items
   fields:
   - type: text
     name: title
