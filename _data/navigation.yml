@@ -1,0 +1,22 @@
+---
+links:
+- children:
+  - template: internal-link
+    page: sdg-school.md
+  - template: internal-link
+    page: dive-2019.md
+  - template: internal-link
+    page: rapidprototyping.markdown
+  - template: internal-link
+    page: maker-in-residence.markdown
+  - template: internal-link
+    page: stitch.markdown
+  - template: internal-link
+    page: woodworking.markdown
+  - template: external-link
+    title: S.T.E.A.M School
+    url: https://steam.makersasylum.com/school
+  - template: external-link
+    title: S.T.E.A.M Fabrikarium
+    url: https://steam.makersasylum.com/fabrikarium
+  title: Learn
