@@ -1,7 +1,6 @@
 ---
 label: Menus
 hide_body: true
-display_field: links
 fields:
 - type: field_group_list
   name: links
@@ -16,3 +15,6 @@ fields:
   - type: blocks
     label: Children
     name: children
+    template_types:
+    - internal-link
+    - external-link
