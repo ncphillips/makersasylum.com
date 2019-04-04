@@ -35,3 +35,19 @@ menu_items:
   - template: external-link
     title: Delhi
     url: https://www.facebook.com/pg/makersasylumdelhi/events/
+- title: About
+  children:
+  - template: internal-link
+    page: about-us.md
+  - template: internal-link
+    page: our-story.markdown
+  - template: internal-link
+    page: team.markdown
+  - template: internal-link
+    page: faq.markdown
+  - template: internal-link
+    page: press.markdown
+  - template: internal-link
+    page: contact.markdown
+- title: Jobs
+  internal_link: jobs.md
