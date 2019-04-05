@@ -6,19 +6,19 @@ redirect_from:
 teams:
 - type: Team
   team:
-  -
+  - 
 - type: Lab Leads
   team:
-  -
+  - 
 - type: Advisors
   team:
-  -
+  - 
 - type: Intern/Volunteers
   team:
-  -
+  - 
 - type: Alumni
   team:
-  -
+  - 
 layout: modular_page
 menu:
   header:
@@ -32,5 +32,7 @@ page_sections:
   members:
   - _members/vaibhav-chhabra.markdown
   - _members/anool-mahidharia.markdown
+- template: title
+  title: Advisory Board
 
 ---
