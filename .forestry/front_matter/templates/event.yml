@@ -19,10 +19,6 @@ fields:
   - body-copy
   - images
   - buttons
-- type: text
-  name: permalink
-  label: Permalink
-  hidden: false
 pages:
 - summer-program-in-advanced-robotics-and-ai.md
 - sdg-school.md
