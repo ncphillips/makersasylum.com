@@ -8,6 +8,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - event
   - page
 - type: directory
   path: _projects

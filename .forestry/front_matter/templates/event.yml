@@ -24,4 +24,5 @@ fields:
   label: Permalink
   hidden: false
 pages:
+- summer-program-in-advanced-robotics-and-ai.md
 - sdg-school.md
