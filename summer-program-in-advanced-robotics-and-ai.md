@@ -33,6 +33,7 @@ page_sections:
     10. How to evaluate their own progress when learning new skills
 - template: images
   images:
+  - image: "/uploads/noun_Robot_2229963.png"
   - image: "/uploads/noun_sensor_1712213.png"
   - image: "/uploads/noun_Robotics_2328189.png"
 date: 2019-04-08 20:36:29 +0530
