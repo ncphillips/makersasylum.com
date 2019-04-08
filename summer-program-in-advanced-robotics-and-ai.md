@@ -31,6 +31,9 @@ page_sections:
      8. How to work in a team
      9. How to chalk their own goals
     10. How to evaluate their own progress when learning new skills
+- template: images
+  images:
+  - image: "/uploads/noun_Robotics_2328189.png"
 date: 2019-04-08 20:36:29 +0530
 published: false
 
