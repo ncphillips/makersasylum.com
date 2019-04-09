@@ -62,9 +62,7 @@ page_sections:
 
     Mumbai/Delhi | June 03 - June 13
 
-    ## Program schedule: Working weekdays and free on weekends.
-
-    The program is designed to provide an intensive hands on learning experience to participants during weekdays and on weekends, participants can explore their free time in pursuing other activities with their families. We understand that it’s summer and we know that everyone wants their family time! The Summer program is a balance between learning and family time!
+    The curriculum is designed to provide an intensive hands on learning experience to its participants during weekdays. On weekends participants can explore their free time in pursuing other activities!
 - template: title
   title: Who all can participate in the Summer Camp?
 - template: body-copy
