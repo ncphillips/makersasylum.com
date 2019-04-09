@@ -11,6 +11,13 @@ sections:
   - event
   - page
 - type: directory
+  path: _events
+  label: Events
+  create: documents
+  match: "**/*"
+  templates:
+  - event
+- type: directory
   path: _projects
   label: Projects
   create: all
