@@ -37,6 +37,26 @@ page_sections:
      8. How to tackle unforeseen challenges
      9. How to work in a team
     10. How to evaluate their own progress when learning new skills
+- template: body-copy
+  content: |-
+    ## The program fee covers:
+
+    * Facilitation of program
+    * Materials (Laser cut components, motors, sensors, electronics, Arduino boards etc)
+    * Robotics kit
+    * Mentor supervision and guidance
+    * Access to digital fabrication labs
+    * Takeaway robotics kit for individual participants at the end of the program
+    * Refreshments
+- template: body-copy
+  content: |-
+    ## Summer Program dates
+
+    Mumbai | May 06 - May 16
+
+    Mumbai/Delhi | May 20 - May 30
+
+    Mumbai/Delhi | June 03 - June 13
 - template: buckets
   buckets:
   - title: Summer Program in Advanced Robotics and AI
@@ -64,26 +84,6 @@ page_sections:
     fees:
     - amount: INR 25,000
       name: Program fee
-- template: body-copy
-  content: |-
-    ## The program fee covers:
-
-    * Facilitation of program
-    * Materials (Laser cut components, motors, sensors, electronics, Arduino boards etc)
-    * Robotics kit
-    * Mentor supervision and guidance
-    * Access to digital fabrication labs
-    * Takeaway robotics kit for individual participants at the end of the program
-    * Refreshments
-- template: body-copy
-  content: |-
-    ## Summer Program dates
-
-    Mumbai | May 06 - May 16
-
-    Mumbai/Delhi | May 20 - May 30
-
-    Mumbai/Delhi | June 03 - June 13
 date: 2019-04-08 20:36:29 +0530
 published: false
 
