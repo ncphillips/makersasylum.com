@@ -71,7 +71,7 @@ page_sections:
 - template: images
   images:
   - image: "/uploads/40642298_2352658361427643_5935239109051154432_n.jpg"
-  - image: "/uploads/40622685_2352658221427657_2611058052580769792_n.jpg"
+  - image: "/uploads/40622685_2352658221427657_2611058052580769792_n-1.jpg"
 - template: buttons
   buttons:
   - text: Reserve my seat
