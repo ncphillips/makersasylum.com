@@ -15,22 +15,9 @@ page_sections:
     challenges in their journey towards being problem solvers!'
 - template: body-copy
   content: |-
-    # **Program framework**
+    ## What Junior's will learn?
 
-    The programs learning modules are a result of a burning curiosity towards integrating technology in learning new skills. Participants get to learn how these technologies work and what all goes into it from scratch in a **fun**, **playful** and an **open** **environment**, all of which supports a child’s nature for picking up new skills. Core learning values are subtly embedded in the programs structure.
-
-    On successful completion, the participants will have learnt:
-
-     1. The science and technology behind Robotics and AI
-     2. 3D printing technology
-     3. How to code
-     4. Basics of electronics and applications of an Arduino board
-     5. How to be efficient hackers of any designed system
-     6. How to use tools to achieve desired tasks
-     7. How to tackle unforeseen challenges
-     8. How to work in a team
-     9. How to chalk their own goals
-    10. How to evaluate their own progress when learning new skills
+    The programs learning modules are a result of a burning curiosity towards integrating technology in learning new skills. Participants get to learn how these technologies work and what all goes into it from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment**, which supports a child’s nature for picking up new skills. Core learning values are subtly embedded in the programs structure.
 - template: images
   images:
   - image: "/uploads/noun_Robot_2229963.png"
