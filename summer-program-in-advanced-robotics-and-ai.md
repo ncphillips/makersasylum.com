@@ -63,6 +63,11 @@ page_sections:
     ## Program schedule: Working weekdays and free on weekends.
 
     The program is designed to provide an intensive hands on learning experience to participants during weekdays and on weekends, participants can explore their free time in pursuing other activities with their families. We understand that it’s summer and we know that everyone wants their family time! The Summer program is a balance between learning and family time!
+- template: body-copy
+  content: |-
+    ## Who?
+
+    The program is especially curated for kids of age 12 - 18 years
 - template: buckets
   buckets:
   - title: Summer Program in Advanced Robotics and AI
