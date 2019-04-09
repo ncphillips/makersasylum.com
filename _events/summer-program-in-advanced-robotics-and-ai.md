@@ -2,11 +2,11 @@
 title: 'Summer Program: Advanced Robotics and AI'
 description: An intensive hands on learning program especially curated for the age
   group of 12 - 18 years
-image: "/uploads/Summer Program.png"
+image: "/uploads/Summer Camp.png"
 page_sections:
 - template: images
   images:
-  - image: "/uploads/Summer Program.png"
+  - image: "/uploads/Summer Camp.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
   title: Summer Program
@@ -68,10 +68,10 @@ page_sections:
   content: The Summer Camp is especially curated for kids of age 12 - 16 years. The
     intake for each batch is limited to 25 participants to maintain a good peer to
     mentor ratio.
+- template: images
 - template: buttons
   buttons:
-  - text: Delhi
-  - text: Mumbai
+  - text: Reserve my seat
 date: 2019-04-08 15:06:29 +0000
 layout: event
 published: false
