@@ -21,7 +21,9 @@ menu_items:
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
 - title: Juniors
-  children: []
+  children:
+  - template: internal-link
+    page: _events/summer-program-in-advanced-robotics-and-ai.md
 - title: Community
   children:
   - template: internal-link
