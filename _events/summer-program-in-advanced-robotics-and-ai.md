@@ -4,6 +4,10 @@ description: An intensive hands on learning program especially curated for the a
   group of 12 - 18 years
 image: "/uploads/Summer Program.png"
 page_sections:
+- template: images
+  images:
+  - image: "/uploads/Summer Program.png"
+    title: 'Summer Program: Advanced Robotics and AI'
 - template: body-copy
   content: "Get ready to make the most of your junior’s summer break this 2019! Maker's
     Asylum will be conducting **Summer Program**: a 2 week long intensive hands-on
@@ -50,6 +54,7 @@ page_sections:
     * Access to digital fabrication labs
     * Takeaway robotics kit  (MeArm, Line following robot) for individual participants at the end of the program
     * Refreshments
+- template: images
 - template: body-copy
   content: |-
     ## Summer Program dates
