@@ -40,7 +40,7 @@ page_sections:
 - template: buckets
   buckets:
   - title: Summer Program
-    description: Mumbai
+    description: 'Mumbai: May 06 - May 16'
     fees:
     - name: Program fee
       amount: INR 25,000
