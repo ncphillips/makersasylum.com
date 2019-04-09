@@ -69,6 +69,8 @@ page_sections:
     intake for each batch is limited to 25 participants to maintain a good peer to
     mentor ratio.
 - template: images
+  images:
+  - image: "/uploads/40622685_2352658221427657_2611058052580769792_n.jpg"
 - template: buttons
   buttons:
   - text: Reserve my seat
