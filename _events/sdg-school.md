@@ -1,4 +1,11 @@
 ---
+date: 2019-03-14 06:05:35 +0530
+redirect_from:
+  - /sdg-school/
+title: SDG School
+image: "/uploads/SDG SChool-2-1.png"
+description: One month long project based program in Paris, France
+layout: event
 page_sections:
 - template: banner
   image: "/uploads/SDG SChool-2.png"
@@ -130,11 +137,6 @@ page_sections:
   buttons:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
-date: 2019-03-14 06:05:35 +0000
-title: SDG School
-image: "/uploads/SDG SChool-2-1.png"
-description: One month long project based program in Paris, France
-layout: event
 menu:
   header:
     weight: 1

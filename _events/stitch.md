@@ -1,6 +1,8 @@
 ---
 title: STiTCH
-date: 2017-10-06 16:47:00 +0000
+redirect_from:
+  - /stitch/
+date: 2017-10-06 16:47:00 +0530
 principles:
   text: "#STiTCH cultivates five key principles helping kids succeed as innovators
     later in life over the three days."

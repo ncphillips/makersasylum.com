@@ -9,6 +9,8 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
+    {% assign all_documents = site.documents | concat: site.pages %}
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         {% for menu_item in site.data.navigation.menu_items %}
@@ -26,7 +28,7 @@
               <div class="dropdown-menu">
                 {% for child in menu_item.children %}
                   {% if child.template == "internal-link" %}
-                    {% assign child_menu_item = site.pages | where: "path", child.page | first %}
+                    {% assign child_menu_item = all_documents | where: "path", child.page | first %}
                   {% elsif child.template == "external-link" %}
                     {% assign child_menu_item = child %}
                   {% endif %}

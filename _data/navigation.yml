@@ -3,15 +3,15 @@ menu_items:
 - title: Learn
   children:
   - template: internal-link
-    page: sdg-school.md
+    page: _events/sdg-school.md
   - template: internal-link
-    page: dive-2019.md
+    page: _events/dive-2019.md
   - template: internal-link
     page: rapidprototyping.markdown
   - template: internal-link
     page: maker-in-residence.markdown
   - template: internal-link
-    page: stitch.markdown
+    page: _events/stitch.md
   - template: internal-link
     page: woodworking.markdown
   - template: external-link
@@ -31,10 +31,10 @@ menu_items:
   children:
   - template: external-link
     title: Mumbai
-    url: https://www.facebook.com/pg/makersasylum/events/
+    url: "https://www.facebook.com/pg/makersasylum/events/"
   - template: external-link
     title: Delhi
-    url: https://www.facebook.com/pg/makersasylumdelhi/events/
+    url: "https://www.facebook.com/pg/makersasylumdelhi/events/"
 - title: About
   children:
   - template: internal-link
