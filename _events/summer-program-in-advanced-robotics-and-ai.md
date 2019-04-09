@@ -70,6 +70,7 @@ page_sections:
     mentor ratio.
 - template: images
   images:
+  - image: "/uploads/STITCH_02-09-18 (42 of 56).jpg"
   - image: "/uploads/40642298_2352658361427643_5935239109051154432_n.jpg"
   - image: "/uploads/40622685_2352658221427657_2611058052580769792_n-1.jpg"
 - template: buttons
