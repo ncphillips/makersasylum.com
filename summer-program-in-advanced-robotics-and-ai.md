@@ -66,13 +66,14 @@ page_sections:
       name: Program fee
 - template: body-copy
   content: |-
-    The program fee covers:
+    ## The program fee covers:
 
     * Facilitation of program
     * Materials (Laser cut components, motors, sensors, electronics, Arduino boards etc)
+    * Robotics kit
     * Mentor supervision and guidance
     * Access to digital fabrication labs
-    * Robotics kit for individual participants as takeaway at the end of the program
+    * Takeaway robotics kit for individual participants at the end of the program
     * Refreshments
 date: 2019-04-08 20:36:29 +0530
 published: false
