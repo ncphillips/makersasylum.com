@@ -9,7 +9,7 @@ page_sections:
   - image: "/uploads/Summer Program.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
-  title: 'Summer Program: Advanced Robotics & AI'
+  title: Summer Program
 - template: body-copy
   content: "Get ready to make the most of your junior’s summer break this 2019! Maker's
     Asylum will be conducting **Summer Program**: a 2 week long intensive hands-on
