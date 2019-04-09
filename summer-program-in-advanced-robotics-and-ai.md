@@ -86,6 +86,9 @@ page_sections:
     fees:
     - amount: INR 25,000
       name: Program fee
+- template: buttons
+  buttons:
+  - text: Mumbai
 date: 2019-04-08 20:36:29 +0530
 published: false
 
