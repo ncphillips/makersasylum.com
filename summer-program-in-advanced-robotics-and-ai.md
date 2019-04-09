@@ -40,6 +40,11 @@ page_sections:
 - template: buckets
   buckets:
   - title: Summer Program in Advanced Robotics and AI
+    description: Delhi June 03 - June 13
+    fees:
+    - name: Program Fee
+      amount: INR 25,000
+  - title: Summer Program in Advanced Robotics and AI
     description: Delhi May 20 - May 30
     fees:
     - name: Program Fee
