@@ -53,6 +53,7 @@ page_sections:
     * Takeaway robotics kit  (MeArm, Line following robot) for individual participants at the end of the program
     * Refreshments
 - template: title
+  title: Summer Program dates
 - template: body-copy
   content: |-
     Mumbai | May 06 - May 16
