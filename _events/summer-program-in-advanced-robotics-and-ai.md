@@ -77,6 +77,5 @@ page_sections:
   - text: Reserve my seat
 date: 2019-04-08 15:06:29 +0000
 layout: event
-published: false
 
 ---
