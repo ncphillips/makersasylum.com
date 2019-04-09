@@ -98,6 +98,8 @@ page_sections:
   buttons:
   - text: Delhi
   - text: Mumbai
+- template: title
+  title: Who all can participate in the Summer Camp?
 date: 2019-04-08 15:06:29 +0000
 layout: event
 published: false
