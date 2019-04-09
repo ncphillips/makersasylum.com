@@ -2,7 +2,7 @@
 title: 'Summer Program: Advanced Robotics and AI'
 description: An intensive hands on learning program especially curated for the age
   group of 12 - 18 years
-image: ''
+image: "/uploads/Summer Program.png"
 page_sections:
 - template: body-copy
   content: "Get ready to make the most of your junior’s summer break this 2019! Maker's
@@ -99,7 +99,8 @@ page_sections:
   buttons:
   - text: Delhi
   - text: Mumbai
-date: 2019-04-08 20:36:29 +0530
-published: false
+date: 2019-04-08 15:06:29 +0000
 layout: event
+published: false
+
 ---
