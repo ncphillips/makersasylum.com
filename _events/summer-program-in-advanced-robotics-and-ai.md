@@ -41,7 +41,9 @@ page_sections:
   title: Summer Camp Program Fee
 - template: body-copy
   content: |-
-    ## The program fee covers:
+    The program fee for the Summer Camp on Advanced Robotics and AI is INR 25,000/- all inclusive.
+
+    ### The program fee covers cost for:
 
     * Facilitation of the program
     * Robotics kit (MeArm, Line following robot)
@@ -63,6 +65,8 @@ page_sections:
     ## Program schedule: Working weekdays and free on weekends.
 
     The program is designed to provide an intensive hands on learning experience to participants during weekdays and on weekends, participants can explore their free time in pursuing other activities with their families. We understand that it’s summer and we know that everyone wants their family time! The Summer program is a balance between learning and family time!
+- template: title
+  title: Who all can participate in the Summer Camp?
 - template: body-copy
   content: The program is especially curated for kids of age 12 - 16 years. The intake
     for each batch is limited to 25 participants to maintain a good peer to mentor
@@ -98,8 +102,6 @@ page_sections:
   buttons:
   - text: Delhi
   - text: Mumbai
-- template: title
-  title: Who all can participate in the Summer Camp?
 date: 2019-04-08 15:06:29 +0000
 layout: event
 published: false
