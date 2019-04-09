@@ -64,6 +64,16 @@ page_sections:
     fees:
     - amount: INR 25,000
       name: Program fee
+- template: body-copy
+  content: |-
+    The program fee covers:
+
+    * Facilitation of program
+    * Materials (Laser cut components, motors, sensors etc)
+    * Mentor supervision
+    * Robotics kit for individual kids as takeaway at the end of the program
+    * Access to digital fabrication labs
+    * Refreshments
 date: 2019-04-08 20:36:29 +0530
 published: false
 
