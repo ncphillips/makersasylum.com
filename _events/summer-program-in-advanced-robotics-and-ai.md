@@ -63,7 +63,7 @@ page_sections:
 
     Mumbai/Delhi | June 03 - June 13
 
-    The curriculum is designed to provide an intensive hands on learning experience to its participants during weekdays. On weekends participants can explore their free time in pursuing other activities!
+    The curriculum is designed to provide an intensive hands on learning experience to its participants during weekdays.
 - template: title
   title: Who all can participate in the Summer Camp?
 - template: body-copy
