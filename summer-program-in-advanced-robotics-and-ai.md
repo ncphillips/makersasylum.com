@@ -69,8 +69,8 @@ page_sections:
     The program fee covers:
 
     * Facilitation of program
-    * Materials (Laser cut components, motors, sensors etc)
-    * Mentor supervision
+    * Materials (Laser cut components, motors, sensors, electronics, Arduino boards etc)
+    * Mentor supervision and guidance
     * Robotics kit for individual kids as takeaway at the end of the program
     * Access to digital fabrication labs
     * Refreshments
