@@ -23,6 +23,20 @@ page_sections:
   - image: "/uploads/noun_Robot_2229963.png"
   - image: "/uploads/noun_sensor_1712213.png"
   - image: "/uploads/noun_Robotics_2328189.png"
+- template: body-copy
+  content: |-
+    On successful completion, the participants will have learnt:
+
+     1. The science and technology behind **Robotics** and **AI**
+     2. 3D printing technology
+     3. How to code using Google Blockly
+     4. Basics of electronics and applications of an Arduino board
+     5. How to use sensors in a system
+     6. How to use tools to achieve desired tasks
+     7. How to be efficient hackers of any designed system
+     8. How to tackle unforeseen challenges
+     9. How to work in a team
+    10. How to evaluate their own progress when learning new skills
 date: 2019-04-08 20:36:29 +0530
 published: false
 
