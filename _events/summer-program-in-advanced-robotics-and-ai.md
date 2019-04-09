@@ -24,6 +24,7 @@ page_sections:
     Core learning values such as making an observation, learning by doing, identifying problems, tackling challenges and team work are subtly embedded into the programs curriculum
 - template: images
   images:
+  - image: "/uploads/noun_3d-printer_153851.png"
   - image: "/uploads/noun_Arduino Board_87915.png"
   - image: "/uploads/noun_Robot_2229963.png"
   - image: "/uploads/noun_sensor_1712213.png"
