@@ -67,7 +67,7 @@ page_sections:
   content: |-
     ## Who?
 
-    The program is especially curated for kids of age 12 - 18 years
+    The program is especially curated for kids of age 12 - 18 years. The intake for each batch is limited to 25 participants to maintain a good peer to mentor ratio.
 - template: buckets
   buckets:
   - title: Summer Program in Advanced Robotics and AI
