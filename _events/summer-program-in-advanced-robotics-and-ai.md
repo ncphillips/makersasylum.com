@@ -76,6 +76,7 @@ page_sections:
 - template: buttons
   buttons:
   - text: Reserve my seat
+    link: https://www.instamojo.com/MakersAsylum1000/summer-program-advanced-robotics-ai/
 date: 2019-04-08 15:06:29 +0000
 layout: event
 
