@@ -21,7 +21,7 @@ page_sections:
   content: |-
     The learning modules integrate technology to help build a participants skill set into new domains. Participants will learn how novel technologies work and what all goes into it's making from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment.**
 
-    Core learning values such as making an observation, learning by doing, identifying problems, tackling challenges and team work are subtly embedded in the programs curriculum
+    Core learning values such as making an observation, learning by doing, identifying problems, tackling challenges and team work are subtly embedded into the programs curriculum
 - template: images
   images:
   - image: "/uploads/noun_Arduino Board_87915.png"
