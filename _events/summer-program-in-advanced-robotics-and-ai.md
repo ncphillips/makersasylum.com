@@ -37,10 +37,6 @@ page_sections:
     3. How to code using Google Blockly
     4. Basics of electronics and applications of an Arduino board
     5. How to use sensors in a system
-    6. How to use tools to achieve desired tasks
-    7. How to be efficient hackers of any designed system
-    8. How to tackle unforeseen challenges
-    9. How to work in a team
 - template: body-copy
   content: |-
     ## The program fee covers:
