@@ -23,7 +23,7 @@ page_sections:
   content: |-
     The learning modules integrate technology to help build a participants skill set into new domains. Participants will learn how novel technologies work and what all goes into it, from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment**
 
-    Core learning values such as team work, learning by observation, identifying problems, tackling challenges are subtly embedded in the programs learning modules.
+    Core learning values such as team work, learning by doing and observation, identifying problems, tackling challenges are subtly embedded in the programs learning modules.
 - template: images
   images:
   - image: "/uploads/noun_Robot_2229963.png"
