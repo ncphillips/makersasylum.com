@@ -37,6 +37,8 @@ page_sections:
     3. How to code using Google Blockly
     4. Basics of electronics and applications of an Arduino board
     5. How to use sensors in a system
+- template: title
+  title: Summer Camp Program Fee
 - template: body-copy
   content: |-
     ## The program fee covers:
