@@ -19,10 +19,10 @@ page_sections:
     technologies. The application of these technologies are broad. \n\nThe program
     aims to be a platform where young minds will build their foundation for the upcoming
     challenges in their journey towards being problem solvers!"
+- template: title
+  title: What Junior's will learn?
 - template: body-copy
   content: |-
-    ## What Junior's will learn?
-
     The learning modules are a result of a burning curiosity towards integrating technology in learning new skills. Participants get to learn how these novel technologies work and what all goes into it from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment**, which supports a child’s nature for picking up new skills.
 
     Core learning values such as team work, learning by observation, identifying problems, tackling challenges are subtly embedded in the programs learning modules.
