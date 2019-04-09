@@ -44,12 +44,12 @@ page_sections:
     fees:
     - name: Program Fee
       amount: INR 25,000
-  - title: Summer Program
+  - title: Summer Program in Advanced Robotics and AI
     description: 'Mumbai: May 06 - May 16'
     fees:
     - name: Program fee
       amount: INR 25,000
-  - title: Summer Program
+  - title: Summer Program in Advanced Robotics and AI
     description: 'Mumbai: May 20 - May 30'
     fees:
     - amount: INR 25,000
