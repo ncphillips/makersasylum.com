@@ -57,7 +57,7 @@ page_sections:
   title: Program dates
 - template: body-copy
   content: |-
-    Mumbai | May 06 - May 16
+    Mumbai |           May 06 - May 16
 
     Mumbai/Delhi | May 20 - May 30
 
