@@ -1,8 +1,7 @@
 ---
 menu_items:
 - title: Juniors
-  children:
-  - template: internal-link
+  children: []
 - title: Learn
   children:
   - template: internal-link
