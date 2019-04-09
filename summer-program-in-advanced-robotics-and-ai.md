@@ -38,5 +38,5 @@ page_sections:
   - image: "/uploads/noun_Robotics_2328189.png"
 date: 2019-04-08 20:36:29 +0530
 published: false
-
+layout: event
 ---
