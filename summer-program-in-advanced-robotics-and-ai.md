@@ -71,8 +71,8 @@ page_sections:
     * Facilitation of program
     * Materials (Laser cut components, motors, sensors, electronics, Arduino boards etc)
     * Mentor supervision and guidance
-    * Robotics kit for individual kids as takeaway at the end of the program
     * Access to digital fabrication labs
+    * Robotics kit for individual participants as takeaway at the end of the program
     * Refreshments
 date: 2019-04-08 20:36:29 +0530
 published: false
