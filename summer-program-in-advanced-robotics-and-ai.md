@@ -45,7 +45,7 @@ page_sections:
     - name: Program fee
       amount: INR 25,000
   - title: Summer Program
-    description: Mumbai May 06 - May 16
+    description: 'Mumbai/Delhi: May 20 - May 30'
     fees:
     - amount: INR 25,000
       name: Program fee
