@@ -70,33 +70,6 @@ page_sections:
   content: The Summer Camp is especially curated for kids of age 12 - 16 years. The
     intake for each batch is limited to 25 participants to maintain a good peer to
     mentor ratio.
-- template: buckets
-  buckets:
-  - title: Summer Program in Advanced Robotics and AI
-    description: Delhi June 03 - June 13
-    fees:
-    - name: Program Fee
-      amount: INR 25,000
-  - title: Summer Program in Advanced Robotics and AI
-    description: Delhi May 20 - May 30
-    fees:
-    - name: Program Fee
-      amount: INR 25,000
-  - title: Summer Program in Advanced Robotics and AI
-    description: Mumbai June 03 - June 13
-    fees:
-    - name: Program Fee
-      amount: INR 25,000
-  - title: Summer Program in Advanced Robotics and AI
-    description: 'Mumbai: May 06 - May 16'
-    fees:
-    - name: Program fee
-      amount: INR 25,000
-  - title: Summer Program in Advanced Robotics and AI
-    description: 'Mumbai: May 20 - May 30'
-    fees:
-    - amount: INR 25,000
-      name: Program fee
 - template: buttons
   buttons:
   - text: Delhi
