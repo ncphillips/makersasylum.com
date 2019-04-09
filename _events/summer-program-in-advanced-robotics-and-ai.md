@@ -50,7 +50,6 @@ page_sections:
     * Access to digital fabrication labs
     * Takeaway robotics kit  (MeArm, Line following robot) for individual participants at the end of the program
     * Refreshments
-- template: images
 - template: body-copy
   content: |-
     ## Summer Program dates
@@ -65,10 +64,9 @@ page_sections:
 
     The program is designed to provide an intensive hands on learning experience to participants during weekdays and on weekends, participants can explore their free time in pursuing other activities with their families. We understand that it’s summer and we know that everyone wants their family time! The Summer program is a balance between learning and family time!
 - template: body-copy
-  content: |-
-    ## Who?
-
-    The program is especially curated for kids of age 12 - 18 years. The intake for each batch is limited to 25 participants to maintain a good peer to mentor ratio.
+  content: The program is especially curated for kids of age 12 - 16 years. The intake
+    for each batch is limited to 25 participants to maintain a good peer to mentor
+    ratio.
 - template: buckets
   buckets:
   - title: Summer Program in Advanced Robotics and AI
