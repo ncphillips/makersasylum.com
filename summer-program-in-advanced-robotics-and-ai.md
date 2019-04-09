@@ -1,7 +1,7 @@
 ---
 title: 'Summer Program: Advanced Robotics and AI'
 description: An intensive hands on learning program especially curated for the age
-  group of 12 - 18
+  group of 12 - 18 years
 image: ''
 page_sections:
 - template: body-copy
