@@ -47,11 +47,11 @@ page_sections:
     ### The program fee covers cost for:
 
     * Facilitation of the program
-    * Robotics kit (MeArm, Line following robot)
+    * Robotics kit (Robotic Arm, Line following robot)
     * Materials ( Motors, Sensors, Electronic components, Arduino boards etc)
     * Mentor supervision and guidance
     * Access to digital fabrication labs
-    * Takeaway robotics kit  (MeArm, Line following robot) for individual participants at the end of the program
+    * Takeaway robotics kit  (Robotic arm, Line following robot) for individual participants at the end of the program
     * Refreshments
 - template: title
   title: Program dates
