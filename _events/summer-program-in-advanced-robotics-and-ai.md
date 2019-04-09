@@ -26,6 +26,7 @@ page_sections:
     Core learning values such as team work, learning by doing and observation, identifying problems, tackling challenges are subtly embedded in the programs learning modules.
 - template: images
   images:
+  - image: "/uploads/noun_Arduino Board_87915.png"
   - image: "/uploads/noun_Robot_2229963.png"
   - image: "/uploads/noun_sensor_1712213.png"
   - image: "/uploads/noun_Robotics_2328189.png"
