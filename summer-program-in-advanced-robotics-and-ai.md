@@ -39,6 +39,11 @@ page_sections:
     10. How to evaluate their own progress when learning new skills
 - template: buckets
   buckets:
+  - title: Summer Program in Advanced Robotics and AI
+    description: Mumbai June 03 - June 13
+    fees:
+    - name: Program Fee
+      amount: INR 25,000
   - title: Summer Program
     description: 'Mumbai: May 06 - May 16'
     fees:
