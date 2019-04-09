@@ -21,7 +21,7 @@ page_sections:
   title: What Junior's will learn?
 - template: body-copy
   content: |-
-    The learning modules are a result of a burning curiosity towards integrating technology in learning new skills. Participants get to learn how these novel technologies work and what all goes into it from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment**, which supports a child’s nature for picking up new skills.
+    The learning modules integrate technology to help build a participants skill set into new domains. Participants will learn how novel technologies work and what all goes into it, from scratch in a **hands-on**, **fun**, **playful** and an **open** **environment**
 
     Core learning values such as team work, learning by observation, identifying problems, tackling challenges are subtly embedded in the programs learning modules.
 - template: images
