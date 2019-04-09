@@ -30,7 +30,7 @@ page_sections:
   - image: "/uploads/noun_Robotics_2328189.png"
 - template: body-copy
   content: |-
-    ### On successful completion, the participants will have learnt:
+    ### On successful completion participants will have learnt:
 
     1. The science and technology behind **Robotics** and **AI**
     2. 3D printing technology and its application
