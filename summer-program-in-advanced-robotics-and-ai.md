@@ -75,6 +75,15 @@ page_sections:
     * Access to digital fabrication labs
     * Takeaway robotics kit for individual participants at the end of the program
     * Refreshments
+- template: body-copy
+  content: |-
+    ## Summer Program dates
+
+    Mumbai | May 06 - May 16
+
+    Mumbai/Delhi | May 20 - May 30
+
+    Mumbai/Delhi | June 03 - June 13
 date: 2019-04-08 20:36:29 +0530
 published: false
 
