@@ -37,6 +37,13 @@ page_sections:
      8. How to tackle unforeseen challenges
      9. How to work in a team
     10. How to evaluate their own progress when learning new skills
+- template: buckets
+  buckets:
+  - title: Summer Program
+    description: May 06 - May 16
+    fees:
+    - amount: INR 25,000
+      name: Program fee
 date: 2019-04-08 20:36:29 +0530
 published: false
 
