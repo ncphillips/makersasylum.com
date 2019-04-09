@@ -6,7 +6,7 @@ image: ''
 page_sections:
 - template: body-copy
   content: 'Get ready to make the most of your junior’s summer break this 2019! Maker''s
-    Asylum will be conducting **Summer Program**: a 10-day long intensive hands-on
+    Asylum will be conducting **Summer Program**: a 2 week long intensive hands-on
     learning program especially curated for the age-group of 12-18 years. The programs
     objective is to provide its participants working knowledge of **Robotics** and
     **AI** and orient them towards industries such as automation and deep learning
