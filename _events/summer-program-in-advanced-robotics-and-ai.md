@@ -52,10 +52,9 @@ page_sections:
     * Access to digital fabrication labs
     * Takeaway robotics kit  (MeArm, Line following robot) for individual participants at the end of the program
     * Refreshments
+- template: title
 - template: body-copy
   content: |-
-    ## Summer Program dates
-
     Mumbai | May 06 - May 16
 
     Mumbai/Delhi | May 20 - May 30
