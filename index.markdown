@@ -2,8 +2,11 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
+- title: An intensive hands-on learning program especially curated for the age group of 12 - 18 years
+  link: https://www.makersasylum.com/events/summer-program-in-advanced-robotics-and-ai/
+  image: "/uploads/Summer Camp Robotics and AI.png"
 - title: SDG School
-  link: https://www.makersasylum.com/sdg-school/
+  link: https://www.makersasylum.com/events/sdg-school/
   image: https://www.makersasylum.com/uploads/SDG%20SChool-2.png
 - title: Project-based Learning at S.T.E.A.M School
   link: http://steam.makersasylum.com/
@@ -21,19 +24,19 @@ labs text: 6,000 sq.ft. of space, wifi, work tables, rooftop, a pantry with a fr
   full of drinks and some kickass labs for work and fun.
 featured projects:
 - project: Maker Auto
-  description: 
+  description:
 - project: Leather World Map
-  description: 
+  description:
 - project: Game Arcade
-  description: 
+  description:
 sponsors: []
 partners: []
 highlight:
-  title: 
-  text: 
+  title:
+  text:
   button:
-    link: 
-    text: 
+    link:
+    text:
 layout: index
 page_sections:
 - template: carousel
