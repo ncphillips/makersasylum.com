@@ -6,7 +6,7 @@ image: "/uploads/Summer Camp Robotics and AI.png"
 page_sections:
 - template: images
   images:
-  - image: "/uploads/Summer Camp.png"
+  - image: "/uploads/Summer Camp Robotics and AI.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
   title: Summer Program
