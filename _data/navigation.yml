@@ -1,5 +1,6 @@
 ---
 menu_items:
+- title: Corporates
 - title: Learn
   children:
   - template: internal-link
