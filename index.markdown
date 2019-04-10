@@ -2,7 +2,7 @@
 title: Maker's Asylum - A Community Makerspace
 position: 0
 featured:
-- title: An intensive hands-on learning program especially curated for the age group of 12 - 16 years
+- title: An intensive hands-on learning program for the age group of 12-16 years
   link: https://www.makersasylum.com/events/summer-program-in-advanced-robotics-and-ai/
   image: "/uploads/Summer Camp Robotics and AI.png"
 - title: SDG School
