@@ -23,7 +23,7 @@ menu_items:
   - template: internal-link
     page: _events/summer-program-in-advanced-robotics-and-ai.md
   - template: internal-link
-    page: stitch.markdown
+    page: _events/stitch.md
 - title: Community
   children:
   - template: internal-link
