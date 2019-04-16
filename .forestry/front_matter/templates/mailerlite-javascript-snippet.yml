@@ -1,4 +1,8 @@
 ---
 label: Mailerlite Javascript Snippet
 hide_body: true
-fields: []
+display_field: snippet
+fields:
+- type: textarea
+  label: Snippet
+  name: snippet
