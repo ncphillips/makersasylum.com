@@ -3,6 +3,8 @@ title: Workshop for Executives
 description: A fun way of learning new things with your work colleague
 image: ''
 page_sections:
+- template: banner
+  image: "/uploads/Makers Asylum.jpg"
 - template: title
   title: Workshop for Corporate Organisations
 - template: body-copy
