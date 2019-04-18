@@ -20,3 +20,5 @@ fields:
   - body-copy
   - images
   - buttons
+pages:
+- _events/workshop-for-executives.md
