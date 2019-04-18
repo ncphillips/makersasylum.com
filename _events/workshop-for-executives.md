@@ -8,10 +8,11 @@ page_sections:
 - template: title
   title: Workshop for Corporate Organisations
 - template: body-copy
-  content: |-
-    **Continued learning with creative thinking**
-
-    Workshop for Executives by Maker’s Asylum are programs designed to engage employees of an organisation in a dynamic environment. The objective of these workshops is to promote teamwork and a culture of innovation through activities that are **collaborative**, **challenging**, **out-of-the-box** and of **new-age** in nature.
+  content: Workshop for Executives by Maker’s Asylum are programs designed to engage
+    employees of an organisation in a dynamic environment. The objective of these
+    workshops is to promote teamwork and a culture of innovation through activities
+    that are **collaborative**, **challenging**, **out-of-the-box** and of **new-age**
+    in nature.
 - template: title
   title: Our philosophy
 - template: body-copy
