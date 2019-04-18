@@ -22,6 +22,8 @@ page_sections:
 - template: images
   images:
   - image: "/uploads/MakersAsylum (41 of 55).jpg"
+- template: title
+  title: What to expect?
 date: 2019-04-18 17:02:05 +0530
 published: false
 
