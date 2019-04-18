@@ -26,15 +26,11 @@ page_sections:
   title: What to expect?
 - template: body-copy
   content: |-
-    1\. Flirt with technology workshops such as drone making, robo wars, augmented & virtual reality and more
-
-    2\. The Jugaad School - how to frugally innovate in a corporate environment
-
-    3\. Hack your products with our makers to give them a new twist
-
-    4\. How to not see a museum done as part of an outdoor retreat
-
-    5\. Hackathons and innovative ideathons
+    * The Jugaad School - how to frugally innovate in a corporate environment
+    * Workshops such as drone making, robo wars, augmented & virtual reality and more
+    * Hack your products with our makers to give them a new twist
+    * How to not see a museum done as part of an outdoor retreat
+    * Hackathons and innovative ideathons
 date: 2019-04-18 17:02:05 +0530
 published: false
 
