@@ -35,6 +35,8 @@ page_sections:
   buttons:
   - link: mailto:info@makersasylum.com?subject=Maker In Residence!
     text: Let's Plan!
+- template: title
+  title: Our Partners
 date: 2019-04-18 17:02:05 +0530
 published: false
 
