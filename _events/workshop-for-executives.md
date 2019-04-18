@@ -31,6 +31,10 @@ page_sections:
     * Hack your products with our makers to give them a new twist
     * How to not see a museum done as part of an outdoor retreat
     * Hackathons and innovative ideathons
+- template: buttons
+  buttons:
+  - link: mailto:info@makersasylum.com?subject=Maker In Residence!
+    text: Let's Plan!
 date: 2019-04-18 17:02:05 +0530
 published: false
 
