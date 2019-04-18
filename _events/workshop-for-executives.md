@@ -14,6 +14,8 @@ page_sections:
     and a culture of innovation through activities that are **collaborative**, **challenging**,
     **out-of-the-box** and of **new-age** in nature. \n\nWe **co-create** and **organise**
     workshops to catalyse an organisation’s vision of doing business."
+- template: title
+  title: Our philosophy
 date: 2019-04-18 17:02:05 +0530
 published: false
 
