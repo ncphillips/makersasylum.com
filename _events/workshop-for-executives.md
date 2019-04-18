@@ -16,6 +16,10 @@ page_sections:
     workshops to catalyse an organisation’s vision of doing business."
 - template: title
   title: Our philosophy
+- template: body-copy
+  content: Maker's Asylum believes in the underlying principle of co-creation and
+    collaboration to deliver better results. Customised learning runs at the core
+    of our values and we offer the same to all the partners who work with us.
 date: 2019-04-18 17:02:05 +0530
 published: false
 
