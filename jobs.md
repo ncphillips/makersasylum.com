@@ -13,10 +13,10 @@ page_sections:
     We vibe well with folks who know how to have fun while getting all the tasks at hand checked out from the to-do list.
 
     We are new in the way we function and so are the challenges. So if you are up for a dynamic workplace like our's we have some challenges for you! Are you up for it?
+- template: title
+  title: Maker in Residence
 - template: body-copy
   content: |-
-    # Maker in Residence
-
     We are looking for energetic, passionate and zen like Maker’s to join our small and effective team at the Asylum’s space in **Mumbai**. The role is simple but comes with a truck load of responsibilities and will keep you on the tip of your toes, quite literally, well maybe sometimes you’ll get to breathe, we are not promising. Jokes aside, we are looking for someone who can organise and execute tasks like it’s nobody’s business!
 
     ## A Maker in Residence is someone who:
