@@ -10,7 +10,6 @@ fields:
   label: Page sections
   name: page_sections
   template_types:
-  - mailerlite-javascript-snippet
   - partners
   - file-download
   - people
