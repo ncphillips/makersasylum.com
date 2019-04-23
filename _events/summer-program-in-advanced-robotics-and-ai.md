@@ -72,7 +72,7 @@ page_sections:
   buttons:
   - link: https://www.instamojo.com/MakersAsylum1000/summer-program-advanced-robotics-ai/
     text: May 06 - May 16
-  - text: May 20 - May 30
+  - text: Reserve a seat
     link: https://www.instamojo.com/MakersAsylum1000/summer-program-advanced-robotics-ai/
 date: 2019-04-08 15:06:29 +0000
 layout: event
