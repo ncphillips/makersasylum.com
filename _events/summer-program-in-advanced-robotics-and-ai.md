@@ -56,16 +56,7 @@ page_sections:
 - template: title
   title: Program dates
 - template: body-copy
-  content: |-
-    **Mumbai**:           May 06 - May 16
-
-    **Mumbai/Delhi**:  May 20 - May 30
-
-    **Mumbai/Delhi**:  June 03 - June 13
-
-    **Working days**: Monday - Thursday
-
-    **Timing**: 10am - 2pm
+  content: "**![](/uploads/Dates updated.png)**"
 - template: title
   title: Who all can participate in the Summer Camp?
 - template: body-copy
