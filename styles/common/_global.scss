@@ -7,6 +7,10 @@
   margin-bottom: 30px;
 }
 
+.page-content img {
+  max-width: 100%;
+}
+
 // Typography
 body * {
   font-family: $base-font-stack;
