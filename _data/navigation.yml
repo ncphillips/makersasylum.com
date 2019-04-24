@@ -1,5 +1,9 @@
 ---
 menu_items:
+- title: Corporates
+  children:
+  - template: internal-link
+    page: _events/workshop-for-executives.md
 - title: Learn
   children:
   - template: internal-link
