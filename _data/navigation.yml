@@ -1,9 +1,19 @@
 ---
 menu_items:
-- title: Corporates
+- title: About
   children:
   - template: internal-link
-    page: _events/workshop-for-executives.md
+    page: about-us.md
+  - template: internal-link
+    page: our-story.markdown
+  - template: internal-link
+    page: team.markdown
+  - template: internal-link
+    page: faq.markdown
+  - template: internal-link
+    page: press.markdown
+  - template: internal-link
+    page: contact.markdown
 - title: Learn
   children:
   - template: internal-link
@@ -28,6 +38,10 @@ menu_items:
     page: _events/summer-program-in-advanced-robotics-and-ai.md
   - template: internal-link
     page: _events/stitch.md
+- title: Corporates
+  children:
+  - template: internal-link
+    page: _events/workshop-for-executives.md
 - title: Community
   children:
   - template: internal-link
@@ -43,19 +57,5 @@ menu_items:
   - template: external-link
     title: Delhi
     url: https://www.facebook.com/pg/makersasylumdelhi/events/
-- title: About
-  children:
-  - template: internal-link
-    page: about-us.md
-  - template: internal-link
-    page: our-story.markdown
-  - template: internal-link
-    page: team.markdown
-  - template: internal-link
-    page: faq.markdown
-  - template: internal-link
-    page: press.markdown
-  - template: internal-link
-    page: contact.markdown
 - title: Jobs
   internal_link: jobs.md
