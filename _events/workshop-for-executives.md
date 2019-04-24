@@ -41,6 +41,5 @@ page_sections:
   - link: mailto:info@makersasylum.com?subject=Maker In Residence!
     text: Let's Plan!
 date: 2019-04-18 11:32:05 +0000
-published: false
 
 ---
