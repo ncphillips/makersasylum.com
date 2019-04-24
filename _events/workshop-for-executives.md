@@ -4,7 +4,7 @@ description: A fun way of learning new things with your work colleague
 image: ''
 page_sections:
 - template: banner
-  image: "/uploads/Makers Asylum.jpg"
+  image: "/uploads/banner corp.png"
 - template: title
   title: Workshop for Corporate Organisations
 - template: body-copy
@@ -40,7 +40,7 @@ page_sections:
   buttons:
   - link: mailto:info@makersasylum.com?subject=Maker In Residence!
     text: Let's Plan!
-date: 2019-04-18 17:02:05 +0530
+date: 2019-04-18 11:32:05 +0000
 published: false
 
 ---
