@@ -137,13 +137,16 @@ page_sections:
   buttons:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
+- template: title
+  title: Partners
 - template: partners
   partners:
+  - name: SEEED
+    image: "/uploads/Incubation - Seeed Studio.jpg"
+    link: https://www.linkedin.com/company/seeedstudio/
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: Co-organised with CRI
-- template: title
-  title: Partners
 menu:
   header:
     weight: 1
