@@ -113,12 +113,12 @@ page_sections:
   content: To be updated soon..
 - template: people
   people:
-  - name: Gaell Mainguy
-    link: https://www.linkedin.com/in/gaellmainguy/
-    image: "/uploads/0-5.jpeg"
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
     image: "/uploads/NAVI RAJDOU.jpeg"
+  - name: Gaell Mainguy
+    link: https://www.linkedin.com/in/gaellmainguy/
+    image: "/uploads/0-5.jpeg"
   - name: Francois Taddei
     link: https://www.linkedin.com/in/francois-taddei-3696b919/
     image: "/uploads/0.jpeg"
