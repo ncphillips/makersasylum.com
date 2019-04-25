@@ -131,6 +131,9 @@ page_sections:
   - name: Kevin Lhoste
     link: https://www.linkedin.com/in/lhoste/
     image: "/uploads/0-4.jpeg"
+  - name: Léonor Tourneboeuf
+    link: https://www.linkedin.com/in/léonor-tourneboeuf-4ba76a6a/
+    image: "/uploads/0-6.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
