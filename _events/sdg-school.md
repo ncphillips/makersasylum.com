@@ -113,12 +113,6 @@ page_sections:
   content: To be updated soon..
 - template: people
   people:
-  - name: Vaibhav Chhabra
-    link: https://www.linkedin.com/in/vaibhavchh/
-    image: "/uploads/0-7.jpeg"
-  - link: https://www.linkedin.com/in/shrivastavaricha/
-    name: Richa Shrivastava
-    image: "/uploads/0-8.jpeg"
   - name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
     image: "/uploads/0-5.jpeg"
@@ -140,6 +134,12 @@ page_sections:
   - name: Léonor Tourneboeuf
     link: https://www.linkedin.com/in/léonor-tourneboeuf-4ba76a6a/
     image: "/uploads/0-6.jpeg"
+  - link: https://www.linkedin.com/in/shrivastavaricha/
+    name: Richa Shrivastava
+    image: "/uploads/0-8.jpeg"
+  - name: Vaibhav Chhabra
+    link: https://www.linkedin.com/in/vaibhavchh/
+    image: "/uploads/0-7.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
