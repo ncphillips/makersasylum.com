@@ -19,5 +19,6 @@ fields:
   - body-copy
   - images
   - buttons
+  - youtube-video
 pages:
 - _events/workshop-for-executives.md
