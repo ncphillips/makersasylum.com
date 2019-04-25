@@ -142,6 +142,8 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: Co-organised with CRI
+- template: title
+  title: Partners
 menu:
   header:
     weight: 1
