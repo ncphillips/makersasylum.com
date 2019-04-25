@@ -23,10 +23,10 @@ page_sections:
 - template: images
   images:
   - image: "/uploads/MakersAsylum (41 of 55).jpg"
-- template: youtube-video
-  youtube_link: https://youtu.be/uwjF0ZQb7VQ
 - template: title
   title: What to expect?
+- template: youtube-video
+  youtube_link: https://youtu.be/uwjF0ZQb7VQ
 - template: body-copy
   content: |-
     * The Jugaad School - how to frugally innovate in a corporate environment
