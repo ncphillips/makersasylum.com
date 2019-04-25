@@ -1,4 +1,10 @@
 ---
 label: YouTube Video
 hide_body: true
-fields: []
+fields:
+- name: youtube_link
+  type: text
+  config:
+    required: false
+  label: YouTube Link
+  description: 'example: https://www.youtube.com/watch?v=A9G3WPq2744'
