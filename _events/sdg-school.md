@@ -116,7 +116,9 @@ page_sections:
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
     image: "/uploads/NAVI RAJDOU.jpeg"
-  - {}
+  - name: Francois Taddei
+    link: https://www.linkedin.com/in/francois-taddei-3696b919/
+    image: "/uploads/0.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
