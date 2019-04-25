@@ -32,6 +32,8 @@ page_sections:
     * Hack your products with our makers to give them a new twist
     * How to not see a museum done as part of an outdoor retreat
     * Hackathons and innovative ideathons
+- template: youtube-video
+  youtube_link: https://youtu.be/uwjF0ZQb7VQ
 - template: title
   title: Our Partners
 - template: body-copy
