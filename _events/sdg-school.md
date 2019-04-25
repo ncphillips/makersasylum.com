@@ -125,6 +125,9 @@ page_sections:
   - name: 'Pierre Ricono '
     link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
     image: "/uploads/0-2.jpeg"
+  - name: Kevin Lhoste
+    link: https://www.linkedin.com/in/lhoste/
+    image: "/uploads/0-4.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
