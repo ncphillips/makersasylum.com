@@ -1,7 +1,7 @@
 ---
-date: 2019-03-14 06:05:35 +0530
+date: 2019-03-14 00:35:35 +0000
 redirect_from:
-  - /sdg-school/
+- "/sdg-school/"
 title: SDG School
 image: "/uploads/SDG SChool-2-1.png"
 description: One month long project based program in Paris, France
@@ -137,6 +137,11 @@ page_sections:
   buttons:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
+- template: partners
+  partners:
+  - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
+    link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
+    name: Co-organised with CRI
 menu:
   header:
     weight: 1
