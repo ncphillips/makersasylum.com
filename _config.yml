@@ -61,6 +61,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jekyll-target-blank
+- jekyll-youtube
 sass:
   sass_dir: styles/
   style: compressed

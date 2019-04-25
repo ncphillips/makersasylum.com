@@ -17,9 +17,10 @@ gem "jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem 'jekyll-seo-tag'
-   gem 'jekyll-sitemap'
-   gem 'jekyll-paginate'
-   gem 'jekyll-redirect-from'
-   gem 'jekyll-target-blank'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-paginate'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-target-blank'
+  gem 'jekyll-youtube'
 end
