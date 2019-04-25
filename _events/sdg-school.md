@@ -122,6 +122,9 @@ page_sections:
   - name: Sophie Pène
     link: https://www.linkedin.com/in/sophiep/
     image: "/uploads/Sophie Pène.jpg"
+  - name: 'Pierre Ricono '
+    link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
+    image: "/uploads/0-2.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
