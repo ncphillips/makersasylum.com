@@ -111,6 +111,12 @@ page_sections:
   title: Mentors
 - template: body-copy
   content: To be updated soon..
+- template: people
+  people:
+  - name: Navi Radjou
+    link: https://www.linkedin.com/in/naviradjou/
+    image: "/uploads/NAVI RAJDOU.jpeg"
+  - {}
 - template: title
   title: Key dates
 - template: body-copy
@@ -141,12 +147,13 @@ page_sections:
   title: Partners
 - template: partners
   partners:
-  - name: SEEED
-    image: "/uploads/Incubation - Seeed Studio.jpg"
-    link: https://www.linkedin.com/company/seeedstudio/
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: Co-organised with CRI
+  - name: SEEED
+    image: "/uploads/Incubation - Seeed Studio.jpg"
+    link: https://www.linkedin.com/company/seeedstudio/
+  - {}
 menu:
   header:
     weight: 1
