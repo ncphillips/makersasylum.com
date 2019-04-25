@@ -113,6 +113,10 @@ page_sections:
   content: To be updated soon..
 - template: people
   people:
+  - name: Vaibhav Chhabra
+    link: https://www.linkedin.com/in/vaibhavchh/
+    image: "/uploads/0-7.jpeg"
+  - {}
   - name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
     image: "/uploads/0-5.jpeg"
