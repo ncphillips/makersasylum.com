@@ -119,6 +119,9 @@ page_sections:
   - name: Francois Taddei
     link: https://www.linkedin.com/in/francois-taddei-3696b919/
     image: "/uploads/0.jpeg"
+  - name: Sophie Pène
+    link: https://www.linkedin.com/in/sophiep/
+    image: "/uploads/Sophie Pène.jpg"
 - template: title
   title: Key dates
 - template: body-copy
