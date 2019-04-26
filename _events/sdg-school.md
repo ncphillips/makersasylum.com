@@ -111,6 +111,9 @@ page_sections:
   title: Executive Steering Committee
 - template: people
   people:
+  - name: Navi Radjou
+    link: https://www.linkedin.com/in/naviradjou/
+    image: "/uploads/NAVI RAJDOU.jpeg"
   - name: Sherry Lassiter
     link: https://www.linkedin.com/in/sherry-lassiter-29b34110/
     image: "/uploads/0-12.jpeg"
