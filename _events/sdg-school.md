@@ -124,7 +124,7 @@ page_sections:
     link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
     image: "/uploads/0-2.jpeg"
   - name: Léonor Tourneboeuf
-    link: https://www.linkedin.com/in/léonor-tourneboeuf-4ba76a6a/
+    link: "https://www.linkedin.com/in/l%C3%A9onor-tourneboeuf-4ba76a6a/"
     image: "/uploads/0-6.jpeg"
   - link: https://www.linkedin.com/in/shrivastavaricha/
     name: Richa Shrivastava
