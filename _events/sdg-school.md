@@ -111,6 +111,9 @@ page_sections:
   title: Mentors
 - template: people
   people:
+  - name: Claire Eliot
+    link: https://www.linkedin.com/in/claire-eliot-62777455/
+    image: "/uploads/0-10.jpeg"
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
     image: "/uploads/NAVI RAJDOU.jpeg"
@@ -124,7 +127,7 @@ page_sections:
     link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
     image: "/uploads/0-2.jpeg"
   - name: Léonor Tourneboeuf
-    link: "https://www.linkedin.com/in/l%C3%A9onor-tourneboeuf-4ba76a6a/"
+    link: https://www.linkedin.com/in/l%C3%A9onor-tourneboeuf-4ba76a6a/
     image: "/uploads/0-6.jpeg"
   - link: https://www.linkedin.com/in/shrivastavaricha/
     name: Richa Shrivastava
