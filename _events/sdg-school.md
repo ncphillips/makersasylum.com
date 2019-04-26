@@ -108,6 +108,13 @@ page_sections:
 
     Scholarships available. The grant of scholarship lies solely within the discretion of the Steering Committee.
 - template: title
+  title: Executive Steering Committee
+- template: people
+  people:
+  - name: Eric Falt
+    link: https://www.linkedin.com/in/eric-falt-8185ba18/
+    image: "/uploads/0-11.jpeg"
+- template: title
   title: Mentors
 - template: people
   people:
@@ -175,8 +182,6 @@ page_sections:
     image: "/uploads/Incubation - Seeed Studio.jpg"
     link: https://www.linkedin.com/company/seeedstudio/
   - {}
-- template: title
-  title: Executive Steering Committee
 menu:
   header:
     weight: 1
