@@ -111,6 +111,9 @@ page_sections:
   title: Executive Steering Committee
 - template: people
   people:
+  - name: Mathilde Mallet
+    link: https://www.linkedin.com/in/mathilde-mallet-b957553a/
+    image: "/uploads/mathilde-mallet.jpg"
   - name: Francois Taddei
     link: https://www.linkedin.com/in/francois-taddei-3696b919/
     image: "/uploads/francois-taddei.jpg"
