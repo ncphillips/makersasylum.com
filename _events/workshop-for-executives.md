@@ -40,7 +40,7 @@ page_sections:
   content: UNESCO | Michelin | Deloitte | Visible Alpha | Godrej
 - template: buttons
   buttons:
-  - link: mailto:info@makersasylum.com?subject=Maker In Residence!
+  - link: mailto:info@makersasylum.com?subject=Corporate Workshop
     text: Let's Plan!
 date: 2019-04-18 11:32:05 +0000
 
