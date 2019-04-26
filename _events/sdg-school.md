@@ -139,9 +139,6 @@ page_sections:
   - name: Claire Eliot
     link: https://www.linkedin.com/in/claire-eliot-62777455/
     image: "/uploads/0-10.jpeg"
-  - name: Navi Radjou
-    link: https://www.linkedin.com/in/naviradjou/
-    image: "/uploads/NAVI RAJDOU.jpeg"
   - name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
     image: "/uploads/0-5.jpeg"
