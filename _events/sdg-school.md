@@ -175,6 +175,8 @@ page_sections:
     image: "/uploads/Incubation - Seeed Studio.jpg"
     link: https://www.linkedin.com/company/seeedstudio/
   - {}
+- template: title
+  title: Executive Steering Committee
 menu:
   header:
     weight: 1
