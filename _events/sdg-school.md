@@ -111,6 +111,9 @@ page_sections:
   title: Executive Steering Committee
 - template: people
   people:
+  - name: Sherry Lassiter
+    link: https://www.linkedin.com/in/sherry-lassiter-29b34110/
+    image: "/uploads/0-12.jpeg"
   - name: Eric Falt
     link: https://www.linkedin.com/in/eric-falt-8185ba18/
     image: "/uploads/0-11.jpeg"
