@@ -111,6 +111,9 @@ page_sections:
   title: Executive Steering Committee
 - template: people
   people:
+  - name: Ashley Fernandes
+    link: https://www.linkedin.com/in/ashleyfernandes/
+    image: "/uploads/ashley.jpg"
   - name: Mathilde Mallet
     link: https://www.linkedin.com/in/mathilde-mallet-b957553a/
     image: "/uploads/mathilde-mallet.jpg"
