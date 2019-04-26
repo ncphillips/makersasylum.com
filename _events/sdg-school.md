@@ -111,6 +111,9 @@ page_sections:
   title: Executive Steering Committee
 - template: people
   people:
+  - name: Francois Taddei
+    link: https://www.linkedin.com/in/francois-taddei-3696b919/
+    image: "/uploads/francois-taddei.jpg"
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
     image: "/uploads/NAVI RAJDOU.jpeg"
