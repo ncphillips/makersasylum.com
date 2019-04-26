@@ -111,6 +111,9 @@ page_sections:
   title: Mentors
 - template: people
   people:
+  - name: Tudor Tarlev
+    link: https://www.linkedin.com/in/tudortarlev/
+    image: "/uploads/0-9.jpeg"
   - name: Claire Eliot
     link: https://www.linkedin.com/in/claire-eliot-62777455/
     image: "/uploads/0-10.jpeg"
