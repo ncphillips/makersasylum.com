@@ -109,8 +109,6 @@ page_sections:
     Scholarships available. The grant of scholarship lies solely within the discretion of the Steering Committee.
 - template: title
   title: Mentors
-- template: body-copy
-  content: To be updated soon..
 - template: people
   people:
   - name: Navi Radjou
@@ -119,18 +117,12 @@ page_sections:
   - name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
     image: "/uploads/0-5.jpeg"
-  - name: Francois Taddei
-    link: https://www.linkedin.com/in/francois-taddei-3696b919/
-    image: "/uploads/0.jpeg"
   - name: Sophie Pène
     link: https://www.linkedin.com/in/sophiep/
     image: "/uploads/Sophie Pène.jpg"
   - name: 'Pierre Ricono '
     link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
     image: "/uploads/0-2.jpeg"
-  - name: Kevin Lhoste
-    link: https://www.linkedin.com/in/lhoste/
-    image: "/uploads/0-4.jpeg"
   - name: Léonor Tourneboeuf
     link: https://www.linkedin.com/in/léonor-tourneboeuf-4ba76a6a/
     image: "/uploads/0-6.jpeg"
