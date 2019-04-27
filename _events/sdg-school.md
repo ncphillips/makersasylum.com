@@ -193,7 +193,8 @@ page_sections:
   - name: SEEED
     image: "/uploads/Incubation - Seeed Studio.jpg"
     link: https://www.linkedin.com/company/seeedstudio/
-  - {}
+  - name: UNESCO
+    image: "/uploads/office_new_dehi_cluster_en_support.png"
 menu:
   header:
     weight: 1
