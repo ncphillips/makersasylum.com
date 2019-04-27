@@ -185,6 +185,8 @@ page_sections:
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
 - template: title
   title: Partners
+- template: body-copy
+  content: "## Co-organised with"
 - template: partners
   partners:
   - name: The Resolution Project
