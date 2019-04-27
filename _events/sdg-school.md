@@ -187,6 +187,8 @@ page_sections:
   title: Partners
 - template: partners
   partners:
+  - name: Campus France
+    image: "/uploads/CFLogo.jpg"
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: Co-organised with CRI
