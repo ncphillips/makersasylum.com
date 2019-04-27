@@ -186,7 +186,7 @@ page_sections:
 - template: title
   title: Partners
 - template: body-copy
-  content: "## Co-organised with"
+  content: "## Presented by"
 - template: partners
   partners:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
