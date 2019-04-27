@@ -189,17 +189,9 @@ page_sections:
   content: "## Co-organised with"
 - template: partners
   partners:
-  - name: The Resolution Project
-    image: "/uploads/Resolution Logo (2).png"
-    link: https://www.resolutionproject.org
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
-  - name: Cité des sciences
-    image: "/uploads/logo-csi.png"
-  - name: SEEED
-    image: "/uploads/Incubation - Seeed Studio.jpg"
-    link: https://www.linkedin.com/company/seeedstudio/
 menu:
   header:
     weight: 1
