@@ -189,9 +189,7 @@ page_sections:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
 - template: title
-  title: Partners
-- template: body-copy
-  content: "## Presented by"
+  title: Presented by
 - template: partners
   partners:
   - name: Maker's Asylum
