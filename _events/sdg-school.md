@@ -189,7 +189,7 @@ page_sections:
   partners:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
-    name: Co-organised with CRI
+    name: CRI
   - name: Cité des sciences
     image: "/uploads/logo-csi.png"
   - name: SEEED
