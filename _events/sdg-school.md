@@ -195,8 +195,6 @@ page_sections:
   - name: SEEED
     image: "/uploads/Incubation - Seeed Studio.jpg"
     link: https://www.linkedin.com/company/seeedstudio/
-  - name: Campus France
-    image: "/uploads/CFLogo.jpg"
 menu:
   header:
     weight: 1
