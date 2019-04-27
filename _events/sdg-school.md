@@ -174,7 +174,7 @@ page_sections:
 
     Program at, Paris :                      1st July - 26th July, 2019
 
-    Learning Planet Assembly :          26th - 27th July 2019
+    [One Learning Planet Assembly](https://www.onelearningplanet.org) :          26th - 27th July 2019
 - template: title
   title: Who should apply?
 - template: body-copy
