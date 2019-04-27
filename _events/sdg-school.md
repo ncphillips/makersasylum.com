@@ -59,6 +59,8 @@ page_sections:
     way candidates get an opportunity to learn outside the framework of their ongoing
     projects and also get to contribute and test their skills"
 - template: title
+  title: SDG School Roadmap
+- template: title
   title: Why you should apply?
 - template: body-copy
   content: |-
@@ -194,8 +196,9 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
-- template: title
-  title: SDG School Roadmap
+- template: images
+  images:
+  - image: "/uploads/Program graph.jpg"
 menu:
   header:
     weight: 1
