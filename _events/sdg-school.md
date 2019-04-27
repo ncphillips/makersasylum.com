@@ -194,6 +194,8 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
+- template: title
+  title: SDG School Roadmap
 menu:
   header:
     weight: 1
