@@ -197,6 +197,13 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
+- template: title
+  title: Knowledge Partners
+- template: partners
+  partners:
+  - name: Cité des sciences et de l'industrie
+    image: "/uploads/logo-csi.png"
+    link: http://www.cite-sciences.fr/en/home/
 menu:
   header:
     weight: 1
