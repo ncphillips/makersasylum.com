@@ -206,8 +206,8 @@ page_sections:
   - name: Campus France
     image: "/uploads/CFLogo.jpg"
     link: https://www.campusfrance.org/en
-- template: title
-  title: Post Program Incubation Partners
+- template: body-copy
+  content: "## Post Program Incubation Partners"
 - template: partners
   partners:
   - image: "/uploads/RIIDL.png"
@@ -216,15 +216,13 @@ page_sections:
   - name: Seeed Studio
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
-- template: title
-  title: Outreach Partners
+- template: body-copy
+  content: "## Outreach Partners"
 - template: partners
   partners:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
-- template: body-copy
-  content: "## Post Program Incubation Partners"
 menu:
   header:
     weight: 1
