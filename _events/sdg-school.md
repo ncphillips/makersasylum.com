@@ -217,6 +217,9 @@ page_sections:
   - image: "/uploads/RIIDL.png"
     link: https://riidl.org/
     name: Riidl
+  - name: Seeed Studio
+    image: "/uploads/Seeed Studio.jpg"
+    link: https://www.seeedstudio.com/
 menu:
   header:
     weight: 1
