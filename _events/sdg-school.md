@@ -212,6 +212,11 @@ page_sections:
     link: https://www.campusfrance.org/en
 - template: title
   title: Post Program Incubation Partners
+- template: partners
+  partners:
+  - image: "/uploads/RIIDL.png"
+    link: https://riidl.org/
+    name: Riidl
 menu:
   header:
     weight: 1
