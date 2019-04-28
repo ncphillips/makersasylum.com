@@ -220,6 +220,8 @@ page_sections:
   - name: Seeed Studio
     image: "/uploads/Seeed Studio.jpg"
     link: https://www.seeedstudio.com/
+- template: title
+  title: Outreach Partners
 menu:
   header:
     weight: 1
