@@ -220,6 +220,8 @@ page_sections:
   content: "## Outreach Partners"
 - template: partners
   partners:
+  - name: Homegrown
+    image: "/uploads/homegrown-logo.jpg"
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
