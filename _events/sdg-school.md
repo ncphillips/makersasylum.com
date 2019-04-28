@@ -222,6 +222,7 @@ page_sections:
   partners:
   - name: Homegrown
     image: "/uploads/homegrown-logo.jpg"
+    link: https://homegrown.co.in
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
