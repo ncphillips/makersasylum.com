@@ -222,6 +222,11 @@ page_sections:
     link: https://www.seeedstudio.com/
 - template: title
   title: Outreach Partners
+- template: partners
+  partners:
+  - image: "/uploads/Resolution Logo (2).png"
+    link: https://www.resolutionproject.org/
+    name: The Resolution Project
 menu:
   header:
     weight: 1
