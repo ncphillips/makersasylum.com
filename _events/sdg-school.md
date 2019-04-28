@@ -193,8 +193,8 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
-- template: title
-  title: Knowledge Partners
+- template: body-copy
+  content: "## Knowledge Partners"
 - template: partners
   partners:
   - name: Cité des sciences et de l'industrie
@@ -224,7 +224,7 @@ page_sections:
     link: https://www.resolutionproject.org/
     name: The Resolution Project
 - template: body-copy
-  content: "## Knowledge Partners"
+  content: "## Post Program Incubation Partners"
 menu:
   header:
     weight: 1
