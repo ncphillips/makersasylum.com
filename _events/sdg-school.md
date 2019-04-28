@@ -204,6 +204,9 @@ page_sections:
   - name: Cité des sciences et de l'industrie
     image: "/uploads/logo-csi.png"
     link: http://www.cite-sciences.fr/en/home/
+  - name: UNESCO New Delhi
+    image: "/uploads/office_new_dehi_cluster_en_support.png"
+    link: http://www.unesco.org/new/en/newdelhi/home
 menu:
   header:
     weight: 1
