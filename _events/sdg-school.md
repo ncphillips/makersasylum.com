@@ -207,6 +207,9 @@ page_sections:
   - name: UNESCO New Delhi
     image: "/uploads/office_new_dehi_cluster_en_support.png"
     link: http://www.unesco.org/new/en/newdelhi/home
+  - name: Campus France
+    image: "/uploads/CFLogo.jpg"
+    link: https://www.campusfrance.org/en
 menu:
   header:
     weight: 1
