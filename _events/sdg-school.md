@@ -220,6 +220,8 @@ page_sections:
   content: "## Outreach Partners"
 - template: partners
   partners:
+  - name: HundrED
+    image: "/uploads/HundrED_logo_rgb.png"
   - name: Homegrown
     image: "/uploads/homegrown-logo.jpg"
     link: https://homegrown.co.in
