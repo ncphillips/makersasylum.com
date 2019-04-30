@@ -51,7 +51,6 @@ page_sections:
     * Materials ( Motors, Sensors, Electronic components, Arduino boards etc)
     * Mentor supervision and guidance
     * Access to digital fabrication labs
-    * Takeaway robotics kit  (Robotic arm, Line following robot) for individual participants at the end of the program
     * Refreshments
 - template: title
   title: Program dates
@@ -72,7 +71,7 @@ page_sections:
   buttons:
   - text: Reserve a seat
     link: https://www.instamojo.com/MakersAsylum1000/summer-program-advanced-robotics-ai/
-date: 2019-04-08 15:06:29 +0000
+date: 2019-04-08T15:06:29.000+00:00
 layout: event
 
 ---
