@@ -1,4 +1,29 @@
 ---
 label: Alert
 hide_body: true
-fields: []
+fields:
+- name: message
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Message
+- name: color
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - red
+    - green
+    - yellow
+    - blue
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Color
