@@ -10,7 +10,8 @@ page_sections:
 - template: banner
   image: "/uploads/SDG SChool-2.png"
 - template: alert
-  message: 'Deadline extended, last day of submitting your application: 15th May 2019'
+  message: "**Deadline extended: Last day of submitting your application 15th May
+    2019**"
 - template: buttons
   buttons:
   - text: Apply
