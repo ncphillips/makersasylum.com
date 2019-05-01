@@ -239,7 +239,7 @@ page_sections:
     effort and we would like to have as many partners as possible in this endeavour.
 - template: buckets
   buckets:
-  - title: Materials partner
+  - title: MATERIALS PARTNER
   - title: Post program incubation partner
   - title: Knowledge partner
   - title: Outreach Partner
