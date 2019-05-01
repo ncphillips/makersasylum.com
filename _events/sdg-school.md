@@ -1,5 +1,5 @@
 ---
-date: 2019-03-14 00:35:35 +0000
+date: 2019-03-14T00:35:35.000+00:00
 redirect_from:
 - "/sdg-school/"
 title: SDG School
@@ -228,6 +228,8 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
+- template: alert
+  message: 'Deadline extended, last day of submitting your application: 15th May 2019'
 menu:
   header:
     weight: 1
