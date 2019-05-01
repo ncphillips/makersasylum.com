@@ -242,6 +242,7 @@ page_sections:
   - title: OUTREACH PARTNER
     description: Help generate awareness about the program
   - title: KNOWLEDGE PARTNER
+    description: Conduct Workshops, Mentorship, send your students
   - title: MATERIALS PARTNER
   - title: POST PROGRAM INCUBATION PARTNER
   - title: TRAVEL PARTNER
