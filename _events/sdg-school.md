@@ -239,10 +239,10 @@ page_sections:
     effort and we would like to have as many partners as possible in this endeavour.
 - template: buckets
   buckets:
-  - title: MATERIALS PARTNER
-  - title: Post program incubation partner
+  - title: OUTREACH PARTNER
+  - title: POST PROGRAM INCUBATION PARTNER
   - title: Knowledge partner
-  - title: Outreach Partner
+  - title: MATERIALS PARTNER
 - template: buttons
   buttons:
   - text: Support SDG School
