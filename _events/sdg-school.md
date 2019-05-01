@@ -244,6 +244,7 @@ page_sections:
   - title: KNOWLEDGE PARTNER
     description: Conduct Workshops, Mentorship, send your students
   - title: MATERIALS PARTNER
+    description: Sponsor materials used by participants for prototyping
   - title: POST PROGRAM INCUBATION PARTNER
   - title: TRAVEL PARTNER
 - template: buttons
