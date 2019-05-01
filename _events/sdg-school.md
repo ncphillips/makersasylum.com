@@ -239,6 +239,7 @@ page_sections:
     effort and we would like to have as many partners as possible in this endeavour.
 - template: buckets
   buckets:
+  - title: TRAVEL PARTNER
   - title: OUTREACH PARTNER
   - title: POST PROGRAM INCUBATION PARTNER
   - title: KNOWLEDGE PARTNER
