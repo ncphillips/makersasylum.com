@@ -20,5 +20,6 @@ fields:
   - images
   - buttons
   - youtube-video
+  - alert
 pages:
 - _events/workshop-for-executives.md
