@@ -231,6 +231,8 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
+- template: title
+  title: Support SDG School
 - template: body-copy
   content: If you or your organisation would like to support the SDG School program
     or its participants please write to us. We are looking forward to have as many
@@ -239,8 +241,6 @@ page_sections:
   buttons:
   - text: Support SDG School
     link: mailto:info@makersasylum.com?subject= Support SDG School
-- template: title
-  title: Support SDG School
 menu:
   header:
     weight: 1
