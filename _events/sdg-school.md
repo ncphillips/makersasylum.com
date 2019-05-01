@@ -240,7 +240,7 @@ page_sections:
 - template: buttons
   buttons:
   - text: Support SDG School
-    link: mailto:info@makersasylum.com?subject= Support SDG School
+    link: mailto:richa@makersasylum.com?subject= Support SDG School
 menu:
   header:
     weight: 1
