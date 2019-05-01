@@ -236,9 +236,9 @@ page_sections:
 - template: buckets
   buckets:
   - description: If you or your organisation would like to support the SDG School
-      program or its participants please write to us. We are looking forward to have
-      as many partners as possible in this endeavour of building a sustainable future
-      for all.
+      program or its participants please write to us. Building a sustainable future
+      is a collaborative effort and we would like to have as many partners as possible
+      in this endeavour.
 - template: body-copy
   content: ''
 - template: buttons
