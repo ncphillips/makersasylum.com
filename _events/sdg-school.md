@@ -241,7 +241,7 @@ page_sections:
   buckets:
   - title: OUTREACH PARTNER
   - title: POST PROGRAM INCUBATION PARTNER
-  - title: Knowledge partner
+  - title: KNOWLEDGE PARTNER
   - title: MATERIALS PARTNER
 - template: buttons
   buttons:
