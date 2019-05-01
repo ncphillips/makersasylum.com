@@ -240,6 +240,7 @@ page_sections:
 - template: buckets
   buckets:
   - title: OUTREACH PARTNER
+    description: Help generate awareness about the program
   - title: KNOWLEDGE PARTNER
   - title: MATERIALS PARTNER
   - title: POST PROGRAM INCUBATION PARTNER
