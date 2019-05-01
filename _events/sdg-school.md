@@ -246,6 +246,8 @@ page_sections:
   - title: MATERIALS PARTNER
     description: Sponsor materials used by participants for prototyping
   - title: POST PROGRAM INCUBATION PARTNER
+    description: Provide support to teams post programs in terms of funding, incubation,
+      mentorship post-program
   - title: TRAVEL PARTNER
 - template: buttons
   buttons:
