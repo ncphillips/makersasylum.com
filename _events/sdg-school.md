@@ -250,7 +250,7 @@ page_sections:
     description: Provide support to teams post programs in terms of funding, incubation,
       mentorship post-program
   - title: TRAVEL PARTNER
-    description: Provide subsidised travel packages
+    description: Provide customised travel packages
 - template: buttons
   buttons:
   - text: Support SDG School
