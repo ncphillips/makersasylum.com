@@ -26,6 +26,8 @@ layout: default
       {% include blocks/partners.html %}
     {% when 'youtube-video' %}
       {% include blocks/youtube_video.html %}
+    {% when 'alert' %}
+      {% include blocks/alert.html %}
     {% endcase %}
   {% endfor %}
 </div>

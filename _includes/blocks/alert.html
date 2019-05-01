@@ -1,0 +1,14 @@
+{% case block.color %}
+  {% when 'red' %}
+    {% assign alert_type = 'danger' %}
+  {% when 'green' %}
+    {% assign alert_type = 'success' %}
+  {% when 'blue' %}
+    {% assign alert_type = 'info' %}
+  {% else %}
+    {% assign alert_type = 'warning' %}
+{% endcase %}
+
+<div class="alert alert-{{ alert_type }} last-mb-0" role="alert">
+  {{ block.message | markdownify }}
+</div>
