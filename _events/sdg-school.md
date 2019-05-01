@@ -233,6 +233,12 @@ page_sections:
     name: The Resolution Project
 - template: title
   title: Support SDG School
+- template: buckets
+  buckets:
+  - description: If you or your organisation would like to support the SDG School
+      program or its participants please write to us. We are looking forward to have
+      as many partners as possible in this endeavour of building a sustainable future
+      for all.
 - template: body-copy
   content: If you or your organisation would like to support the SDG School program
     or its participants please write to us. We are looking forward to have as many
