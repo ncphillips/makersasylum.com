@@ -242,7 +242,8 @@ page_sections:
   - title: OUTREACH PARTNER
     description: Help generate awareness about the program
   - title: KNOWLEDGE PARTNER
-    description: Conduct Workshops, Mentorship, send your students
+    description: Conduct Workshops, Mentorship, send your students for the program
+      (participation / volunteer)
   - title: MATERIALS PARTNER
     description: Sponsor materials used by participants for prototyping
   - title: POST PROGRAM INCUBATION PARTNER
