@@ -9,6 +9,8 @@ layout: event
 page_sections:
 - template: banner
   image: "/uploads/SDG SChool-2.png"
+- template: alert
+  message: 'Deadline extended, last day of submitting your application: 15th May 2019'
 - template: buttons
   buttons:
   - text: Apply
@@ -228,8 +230,6 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
-- template: alert
-  message: 'Deadline extended, last day of submitting your application: 15th May 2019'
 menu:
   header:
     weight: 1
