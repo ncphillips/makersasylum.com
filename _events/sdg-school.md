@@ -233,16 +233,14 @@ page_sections:
     name: The Resolution Project
 - template: title
   title: Support SDG School
-- template: buckets
-  buckets:
-  - description: If you or your organisation would like to support the SDG School
-      program or its participants please write to us. Building a sustainable future
-      is a collaborative effort and we would like to have as many partners as possible
-      in this endeavour.
 - template: body-copy
   content: If you or your organisation would like to support the SDG School program
     or its participants please write to us. Building a sustainable future is a collaborative
     effort and we would like to have as many partners as possible in this endeavour.
+- template: buckets
+  buckets:
+  - title: Knowledge partner
+  - title: Outreach Partner
 - template: buttons
   buttons:
   - text: Support SDG School
