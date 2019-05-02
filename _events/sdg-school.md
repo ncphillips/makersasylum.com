@@ -224,6 +224,7 @@ page_sections:
 - template: partners
   partners:
   - name: AIESEC
+    image: "/uploads/aiesec.png"
   - name: HundrED
     image: "/uploads/HundrED_logo_rgb.png"
   - name: Homegrown
