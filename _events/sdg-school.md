@@ -223,6 +223,7 @@ page_sections:
   content: "## Outreach Partners"
 - template: partners
   partners:
+  - name: AIESEC
   - name: HundrED
     image: "/uploads/HundrED_logo_rgb.png"
   - name: Homegrown
