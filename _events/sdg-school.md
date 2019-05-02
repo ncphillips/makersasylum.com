@@ -193,6 +193,7 @@ page_sections:
   partners:
   - name: Maker's Asylum
     image: "/uploads/MA Standard - Color-1.png"
+    link: https://www.makersasylum.com
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: CRI
@@ -225,6 +226,7 @@ page_sections:
   partners:
   - name: HundrED
     image: "/uploads/HundrED_logo_rgb.png"
+    link: https://hundred.org/en
   - name: AIESEC
     image: "/uploads/aiesec.png"
     link: https://aiesec.org
