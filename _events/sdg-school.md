@@ -197,6 +197,8 @@ page_sections:
   buttons:
   - text: Support SDG School
     link: mailto:richa@makersasylum.com?subject= Support SDG School
+- template: title
+  title: Become a host
 - template: body-copy
   content: If you have a couch lying idle or a spare room or a buddy who's travelling
     abroad and don't know what to do with the room then welcome the participants of
@@ -205,8 +207,6 @@ page_sections:
   buttons:
   - link: https://airtable.com/shr1gtVvS3Z5FzFts
     text: I'll host !!
-- template: title
-  title: Become a host
 - template: title
   title: Presented by
 - template: partners
