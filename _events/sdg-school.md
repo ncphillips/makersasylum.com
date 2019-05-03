@@ -263,10 +263,9 @@ page_sections:
 - template: title
   title: Become a host
 - template: body-copy
-  content: |-
-    If you have a couch lying idle or a spare room or a buddy who's travelling abroad and don't know what to do with the room then welcome the participants of SDG School into your homes and enhance their experience of living in Paris.
-
-    Live frugal, live free !
+  content: If you have a couch lying idle or a spare room or a buddy who's travelling
+    abroad and don't know what to do with the room then welcome the participants of
+    SDG School into your homes and enhance their experience of living in Paris.
 - template: buttons
   buttons:
   - link: https://airtable.com/shr1gtVvS3Z5FzFts
