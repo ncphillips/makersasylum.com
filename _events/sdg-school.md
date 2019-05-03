@@ -260,6 +260,8 @@ page_sections:
   buttons:
   - text: Support SDG School
     link: mailto:richa@makersasylum.com?subject= Support SDG School
+- template: title
+  title: Become a host
 menu:
   header:
     weight: 1
