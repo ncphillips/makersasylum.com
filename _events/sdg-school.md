@@ -188,6 +188,26 @@ page_sections:
   - text: Apply
     link: https://www.instamojo.com/MakersAsylum1000/sdg-school-paris-application-fee/
 - template: title
+  title: Support SDG School
+- template: body-copy
+  content: If you or your organisation would like to support the SDG School program
+    or its participants please write to us. Building a sustainable future is a collaborative
+    effort and we would like to have as many partners as possible in this endeavour.
+- template: buttons
+  buttons:
+  - text: Support SDG School
+    link: mailto:richa@makersasylum.com?subject= Support SDG School
+- template: body-copy
+  content: If you have a couch lying idle or a spare room or a buddy who's travelling
+    abroad and don't know what to do with the room then welcome the participants of
+    SDG School into your homes and enhance their experience of living in Paris.
+- template: buttons
+  buttons:
+  - link: https://airtable.com/shr1gtVvS3Z5FzFts
+    text: I'll host !!
+- template: title
+  title: Become a host
+- template: title
   title: Presented by
 - template: partners
   partners:
@@ -236,12 +256,6 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
-- template: title
-  title: Support SDG School
-- template: body-copy
-  content: If you or your organisation would like to support the SDG School program
-    or its participants please write to us. Building a sustainable future is a collaborative
-    effort and we would like to have as many partners as possible in this endeavour.
 - template: buckets
   buckets:
   - title: OUTREACH PARTNER
@@ -256,20 +270,6 @@ page_sections:
       mentorship post-program
   - title: TRAVEL PARTNER
     description: Provide customised travel packages
-- template: buttons
-  buttons:
-  - text: Support SDG School
-    link: mailto:richa@makersasylum.com?subject= Support SDG School
-- template: title
-  title: Become a host
-- template: body-copy
-  content: If you have a couch lying idle or a spare room or a buddy who's travelling
-    abroad and don't know what to do with the room then welcome the participants of
-    SDG School into your homes and enhance their experience of living in Paris.
-- template: buttons
-  buttons:
-  - link: https://airtable.com/shr1gtVvS3Z5FzFts
-    text: I'll host !!
 menu:
   header:
     weight: 1
