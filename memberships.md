@@ -57,6 +57,11 @@ page_sections:
     1. Continue working with the community
     2. Build your own work culture
     3. Hire community services
+- template: buckets
+  buckets:
+  - title: 1 MONTH PASS
+    description: ''
+    fees: []
 - template: title
   title: Barter Monthly Pass
 - template: body-copy
