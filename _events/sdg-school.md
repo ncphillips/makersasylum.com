@@ -193,6 +193,20 @@ page_sections:
   content: If you or your organisation would like to support the SDG School program
     or its participants please write to us. Building a sustainable future is a collaborative
     effort and we would like to have as many partners as possible in this endeavour.
+- template: buckets
+  buckets:
+  - title: OUTREACH PARTNER
+    description: Help generate awareness about the program
+  - title: KNOWLEDGE PARTNER
+    description: Conduct Workshops, Mentorship, send your students for the program
+      (participation / volunteer)
+  - title: MATERIALS PARTNER
+    description: Sponsor materials used by participants for prototyping
+  - title: POST PROGRAM INCUBATION PARTNER
+    description: Provide support to teams post programs in terms of funding, incubation,
+      mentorship post-program
+  - title: TRAVEL PARTNER
+    description: Provide customised travel packages
 - template: buttons
   buttons:
   - text: Support SDG School
@@ -256,20 +270,6 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
-- template: buckets
-  buckets:
-  - title: OUTREACH PARTNER
-    description: Help generate awareness about the program
-  - title: KNOWLEDGE PARTNER
-    description: Conduct Workshops, Mentorship, send your students for the program
-      (participation / volunteer)
-  - title: MATERIALS PARTNER
-    description: Sponsor materials used by participants for prototyping
-  - title: POST PROGRAM INCUBATION PARTNER
-    description: Provide support to teams post programs in terms of funding, incubation,
-      mentorship post-program
-  - title: TRAVEL PARTNER
-    description: Provide customised travel packages
 menu:
   header:
     weight: 1
