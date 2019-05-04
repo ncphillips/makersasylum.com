@@ -4,7 +4,7 @@ description: ''
 image: ''
 page_sections:
 - template: title
-  title: Memberships at Maker's Asylum
+  title: Regular Membership
 published: false
 
 ---
