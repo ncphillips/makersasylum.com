@@ -66,7 +66,9 @@ page_sections:
       amount: '2900'
   - title: QUARTER PASS
     description: ''
-    fees: []
+    fees:
+    - name: 7 days a week from 11am to 9pm
+      amount: '4900'
   - title: 6 MONTH PASS
     description: ''
     fees: []
