@@ -11,7 +11,7 @@ page_sections:
 
     Benefits:
 
-    * Access to community
+    * Access to the community
     * Learn and share information
     * Develop new ideas and partnerships
 
