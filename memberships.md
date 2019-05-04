@@ -62,6 +62,12 @@ page_sections:
   - title: 1 MONTH PASS
     description: ''
     fees: []
+  - title: QUARTER PASS
+    description: ''
+    fees: []
+  - title: 6 MONTH PASS
+    description: ''
+    fees: []
 - template: title
   title: Barter Monthly Pass
 - template: body-copy
