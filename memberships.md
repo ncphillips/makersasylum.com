@@ -48,6 +48,8 @@ page_sections:
     1. Continue working with the community
     2. Build your own work culture
     3. Hire community services
+- template: title
+  title: Barter
 published: false
 
 ---
