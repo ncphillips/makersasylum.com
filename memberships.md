@@ -18,6 +18,23 @@ page_sections:
     Explore our flexible membership plans
 - template: title
   title: Regular Membership
+- template: body-copy
+  content: |-
+    Need some tools to realise your crazy ideas? Here's what you can do. Pick your laptop and move that peach to our space. Sign-up for our reasonable membership plans and get making! Move it already.
+
+    Benefits:
+
+    1. Access to the space (DUH!)
+    2. Access tools*
+    3. Free wi-fi
+
+    **Category A: Desk**
+
+    Works well for freelancers or DIYers
+
+    **Category B: Personal studio space**
+
+    Works well for teams or small startups
 - template: title
   title: Membership for Alumni
 - template: body-copy
