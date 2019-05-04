@@ -50,6 +50,17 @@ page_sections:
     3. Hire community services
 - template: title
   title: Barter
+- template: body-copy
+  content: |-
+    We believe through sharing we can help foster a community which understands the value that a maker space like ours strives to create in the society. If you have the discipline and the right kind of motivation we would be happy to wave-off the membership-plan for you. What's the catch? Nothing, just help us with our OPERATIONAL requirements at our spaces in Mumbai and Delhi, it can include helping us in building projects, running offline campaigns, volunteering in fixing a presentation or helping in research and documentation.
+
+    Benefits:
+
+    1. Access to the space
+    2. Opportunity to learn and grow
+    3. Meet new people
+
+    How many: 5 members/month on a renewal basis. Help us understand you better by filling a form
 published: false
 
 ---
