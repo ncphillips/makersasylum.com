@@ -29,6 +29,13 @@ page_sections:
     Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full
     day workshop with us to be able to use the same. Its for your safety and we take
     it very SERIOUSLY!"
+- template: buckets
+  buckets:
+  - title: MONTH PASS
+    description: Duration 1 month
+    fees:
+    - name: 7 days a week from 11:00am -9:00pm
+      amount: '4900'
 - template: title
   title: Alumni pass
 - template: body-copy
