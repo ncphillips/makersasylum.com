@@ -41,7 +41,7 @@ page_sections:
     fees:
     - name: 7 days a week from 11:00am - 9:00pm
       amount: '9900'
-  - title: 6 months pass
+  - title: 6 MONTHS PASS
     description: Duration 6 months
     fees:
     - amount: '14900'
