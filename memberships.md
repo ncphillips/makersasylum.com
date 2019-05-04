@@ -70,8 +70,10 @@ page_sections:
     - name: 7 days a week from 11am to 9pm
       amount: '4900'
   - title: 6 MONTH PASS
-    description: ''
-    fees: []
+    description: Duration 6 months
+    fees:
+    - name: 7 days a week from 11am to 9pm
+      amount: '6900'
 - template: title
   title: Barter Monthly Pass
 - template: body-copy
