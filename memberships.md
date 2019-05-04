@@ -19,24 +19,16 @@ page_sections:
 - template: title
   title: Regular Membership
 - template: body-copy
-  content: |-
-    Need some tools to realise your crazy ideas? Here's what you can do. Pick your laptop and move that peach to our space. Sign-up for our reasonable membership plans and get making! Move it already..
-
-    Benefits:
-
-    1. Access to the space (DUH!)
-    2. Access to tools*
-    3. Free wi-fi
-
-    **Category A: Desk**
-
-    Works well for freelancers or DIYers, nomads
-
-    **Category B: Personal studio space**
-
-    Works well for teams or small startups
-
-    \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
+  content: "Need some tools to realise your crazy ideas? Here's what you can do. Pick
+    your laptop and move that peach to our space. Sign-up for our reasonable membership
+    plans and get making! Move it already..\n\nBenefits:\n\n1. Access to the space
+    (DUH!)\n2. Access to tools*\n3. Free wi-fi\n\n**Category A: Desk**\n\nWorks well
+    for freelancers or DIYers, nomads\n\n**Category B: Personal studio space**\n\nWorks
+    well for teams or small startups (3-4 members) \n\n\\*As a starter, you get access
+    to the woodworking lab where you can use the hand tools to tinker with. To use
+    Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full
+    day workshop with us to be able to use the same. Its for your safety and we take
+    it very SERIOUSLY!"
 - template: title
   title: Alumni pass
 - template: body-copy
