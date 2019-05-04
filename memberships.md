@@ -60,8 +60,10 @@ page_sections:
 - template: buckets
   buckets:
   - title: 1 MONTH PASS
-    description: ''
-    fees: []
+    description: Duration 1 month
+    fees:
+    - name: 7 days a week from 11am to 9pm
+      amount: '2900'
   - title: QUARTER PASS
     description: ''
     fees: []
