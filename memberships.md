@@ -36,6 +36,14 @@ page_sections:
     fees:
     - name: 7 days a week from 11:00am -9:00pm
       amount: '4900'
+  - title: QUARTER PASS
+    description: Duration 3 months
+    fees:
+    - name: 7 days a week from 11:00am - 9:00pm
+      amount: '9900'
+  - title: ''
+    description: ''
+    fees: []
 - template: title
   title: Alumni pass
 - template: body-copy
