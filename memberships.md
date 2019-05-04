@@ -31,7 +31,7 @@ page_sections:
     it very SERIOUSLY!"
 - template: buckets
   buckets:
-  - title: MONTH PASS
+  - title: 1 MONTH PASS
     description: Duration 1 month
     fees:
     - name: 7 days a week from 11:00am -9:00pm
