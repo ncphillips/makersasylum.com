@@ -18,6 +18,8 @@ page_sections:
     Explore our flexible membership plans
 - template: title
   title: Regular Membership
+- template: title
+  title: Membership for Alumni
 published: false
 
 ---
