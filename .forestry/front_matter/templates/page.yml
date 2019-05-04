@@ -15,3 +15,5 @@ fields:
   - body-copy
   - title
   - carousel
+pages:
+- memberships.md
