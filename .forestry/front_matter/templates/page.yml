@@ -15,5 +15,7 @@ fields:
   - body-copy
   - title
   - carousel
+  - youtube-video
+  - buckets
 pages:
 - memberships.md
