@@ -65,7 +65,7 @@ page_sections:
     - name: 7 days a week from 11am to 9pm
       amount: '2900'
   - title: QUARTER PASS
-    description: ''
+    description: Duration 3 months
     fees:
     - name: 7 days a week from 11am to 9pm
       amount: '4900'
