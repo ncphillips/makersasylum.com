@@ -41,9 +41,11 @@ page_sections:
     fees:
     - name: 7 days a week from 11:00am - 9:00pm
       amount: '9900'
-  - title: ''
-    description: ''
-    fees: []
+  - title: 6 months pass
+    description: Duration 6 months
+    fees:
+    - amount: '14900'
+      name: 7 days a week from 11:00am - 9:00pm
 - template: title
   title: Alumni pass
 - template: body-copy
