@@ -36,7 +36,7 @@ page_sections:
 
     Works well for teams or small startups
 
-    As a starter, you get access to the woodworking lab where you can use the hand tools. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop to be able to use the same. Its for your safety and we take it very SERIOUSLY!
+    \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
 - template: title
   title: Membership for Alumni
 - template: body-copy
