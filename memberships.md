@@ -30,7 +30,7 @@ page_sections:
 
     **Category A: Desk**
 
-    Works well for freelancers or DIYers
+    Works well for freelancers or DIYers, nomads
 
     **Category B: Personal studio space**
 
@@ -38,7 +38,7 @@ page_sections:
 
     \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
 - template: title
-  title: Membership for Alumni
+  title: Alumni pass
 - template: body-copy
   content: |-
     Alumni memberships are meant for members who have been a part of our flagship programs like Rapid Prototyping, S.T.E.A.M School, D.I.V.E or SDG School programs.
