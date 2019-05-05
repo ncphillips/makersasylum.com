@@ -222,7 +222,7 @@ page_sections:
   - link: https://airtable.com/shr1gtVvS3Z5FzFts
     text: I'll host !!
 - template: title
-  title: Presented by
+  title: Partners
 - template: partners
   partners:
   - name: Maker's Asylum
