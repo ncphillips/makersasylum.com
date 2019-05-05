@@ -270,6 +270,8 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: The Resolution Project
+- template: body-copy
+  content: "## Presented by"
 menu:
   header:
     weight: 1
