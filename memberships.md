@@ -20,7 +20,7 @@ page_sections:
   title: Regular Membership
 - template: body-copy
   content: |-
-    Need some tools to realise your crazy ideas? Here's what you can do. Pick your laptop and move that peach to our space. Sign-up for our reasonable membership plans and get making! Move it already..
+    Need some tools to realise your crazy ideas? Here's what you can do. Pick your laptop and move that peach to our space. Sign-up for our reasonable membership plans and get making! Move it already
 
     Benefits:
 
@@ -28,11 +28,11 @@ page_sections:
     2. Access to tools*
     3. Free wi-fi
 
-    **Category A: Desk**
+    **Category A: Desk space**
 
     Works well for freelancers or DIYers, nomads
 
-    **Category B: Personal studio space**
+    **Category B: Studio space**
 
     Works well for teams or small startups (3-4 members), basically settlers!
 
