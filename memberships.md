@@ -42,10 +42,10 @@ page_sections:
     fees:
     - name: 7 days a week from 11:00am - 9:00pm
       amount: '9900'
-  - title: 6 MONTHS PASS
-    description: Duration 6 months
+  - title: 12 DAY PASS
+    description: 'Validity: 3 months'
     fees:
-    - amount: '14900'
+    - amount: '4900'
       name: 7 days a week from 11:00am - 9:00pm
 - template: title
   title: Alumni pass
