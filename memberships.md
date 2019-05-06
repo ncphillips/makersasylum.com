@@ -70,11 +70,11 @@ page_sections:
     fees:
     - name: 7 days a week from 11am to 9pm
       amount: '4900'
-  - title: 6 MONTH PASS
-    description: Duration 6 months
+  - title: 12 DAY PASS
+    description: 'Validity: 3 Months'
     fees:
     - name: 7 days a week from 11am to 9pm
-      amount: '6900'
+      amount: '2450'
 - template: title
   title: Or..
 - template: title
