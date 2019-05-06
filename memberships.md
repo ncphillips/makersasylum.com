@@ -107,6 +107,10 @@ page_sections:
     3. Meet new people
 
     How many: 5 members/month on a renewal basis. Membership subject to review of your application. Help us understand you better by filling this form.
+- template: buttons
+  buttons:
+  - link: https://airtable.com/shrkW3ZVcKMM36LQF
+    text: Barter-up!
 published: false
 
 ---
