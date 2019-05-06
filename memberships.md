@@ -88,6 +88,8 @@ page_sections:
     3. Meet new people
 
     How many: 5 members/month on a renewal basis. Help us understand you better by filling a form
+- template: title
+  title: 12-day pass
 published: false
 
 ---
