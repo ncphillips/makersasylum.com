@@ -17,5 +17,6 @@ fields:
   - carousel
   - youtube-video
   - buckets
+  - buttons
 pages:
 - memberships.md
