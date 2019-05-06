@@ -76,7 +76,9 @@ page_sections:
     - name: 7 days a week from 11am to 9pm
       amount: '6900'
 - template: title
-  title: Barter Monthly Pass
+  title: Or..
+- template: title
+  title: Barter
 - template: body-copy
   content: |-
     We believe through sharing we can help foster a community which understands the value that a maker space like ours strives to create in the society. If you have the discipline and the right kind of motivation we would be happy to wave-off the membership-plan for you. What's the catch? Contribute approximately 10 hours of your time each month to Maker's Asylum in one of the following ways:
@@ -107,8 +109,6 @@ page_sections:
     fees:
     - name: ''
       amount: '4900'
-- template: title
-  title: Or..
 published: false
 
 ---
