@@ -20,16 +20,28 @@ page_sections:
 - template: title
   title: Regular Membership
 - template: body-copy
-  content: "Need some tools to realise your crazy ideas? Here's what you can do. Pick
-    your laptop and move that peach to our space. Sign-up for our reasonable membership
-    plans and get making! Move it already..\n\nBenefits:\n\n1. Access to the space
-    (DUH!)\n2. Access to tools*\n3. Free wi-fi\n\n**Category A: Desk**\n\nWorks well
-    for freelancers or DIYers, nomads\n\n**Category B: Personal studio space**\n\nWorks
-    well for teams or small startups (3-4 members) \n\n\\*As a starter, you get access
-    to the woodworking lab where you can use the hand tools to tinker with. To use
-    Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full
-    day workshop with us to be able to use the same. Its for your safety and we take
-    it very SERIOUSLY!"
+  content: |-
+    Need some tools to realise your crazy ideas? Here's what you can do. Pick your laptop and move that peach to our space. Sign-up for our reasonable membership plans and get making! Move it already..
+
+    Benefits:
+
+    1. Access to the space (DUH!)
+    2. Access to tools*
+    3. Free wi-fi
+
+    **Category A: Desk**
+
+    Works well for freelancers or DIYers, nomads
+
+    **Category B: Personal studio space**
+
+    Works well for teams or small startups (3-4 members), basically settlers!
+
+    **You can also subscribe to a 12-day pass**
+
+    12-day pass is a flexible day-pass subscription plan which you can subscribe to based on your needs. Use it in one go or within 3 months time. It's up to you. Commitment issues, resolved!
+
+    \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
 - template: buckets
   buckets:
   - title: 1 MONTH PASS
@@ -96,19 +108,6 @@ page_sections:
     3. Meet new people
 
     How many: 5 members/month on a renewal basis. Help us understand you better by filling a form
-- template: title
-  title: 12-day pass
-- template: body-copy
-  content: 12-day pass is a flexible day-pass subscription plan which you can subscribe
-    to based on your needs. Use it in one go or within 3 months time. It's up to you.
-    Commitment issues, resolved!
-- template: buckets
-  buckets:
-  - title: 12-day pass
-    description: Valid for 3 months
-    fees:
-    - name: ''
-      amount: '4900'
 published: false
 
 ---
