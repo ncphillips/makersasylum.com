@@ -79,7 +79,13 @@ page_sections:
   title: Barter Monthly Pass
 - template: body-copy
   content: |-
-    We believe through sharing we can help foster a community which understands the value that a maker space like ours strives to create in the society. If you have the discipline and the right kind of motivation we would be happy to wave-off the membership-plan for you. What's the catch? Nothing, just help us with our OPERATIONAL requirements at our spaces in Mumbai and Delhi. It can include helping us in building projects, running offline campaigns, volunteering in fixing a presentation or helping in research and documentation.
+    We believe through sharing we can help foster a community which understands the value that a maker space like ours strives to create in the society. If you have the discipline and the right kind of motivation we would be happy to wave-off the membership-plan for you. What's the catch? Contribute approximately 10 hours of your time each month to Maker's Asylum in one of the following ways:
+
+    1. Share your skills by taking up a workshop
+    2. Work on one of the on-going projects at the Maker's Asylum
+    3. Help build awareness about the Maker Movement within your community
+    4. Host / curate a meet-up around a larger topic
+    5. Moderate our community online on Discuss and Facebook
 
     Benefits:
 
@@ -94,6 +100,13 @@ page_sections:
   content: 12-day pass are flexible day-pass which you can subscribe to based on your
     needs. Use it in one go or within 3 months time. It's up to you. Commitment issues,
     resolved!
+- template: buckets
+  buckets:
+  - title: 12-day pass
+    description: Valid for 3 months
+    fees:
+    - name: ''
+      amount: '4900'
 published: false
 
 ---
