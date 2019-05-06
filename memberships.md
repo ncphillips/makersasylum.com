@@ -90,6 +90,10 @@ page_sections:
     How many: 5 members/month on a renewal basis. Help us understand you better by filling a form
 - template: title
   title: 12-day pass
+- template: body-copy
+  content: 12-day pass are flexible day-pass which you can subscribe to based on your
+    needs. Use it in one go or within 3 months time. It's up to you. Commitment issues,
+    resolved!
 published: false
 
 ---
