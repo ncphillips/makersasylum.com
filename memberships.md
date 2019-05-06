@@ -97,9 +97,9 @@ page_sections:
 - template: title
   title: 12-day pass
 - template: body-copy
-  content: 12-day pass are flexible day-pass which you can subscribe to based on your
-    needs. Use it in one go or within 3 months time. It's up to you. Commitment issues,
-    resolved!
+  content: 12-day pass is a flexible day-pass subscription plan which you can subscribe
+    to based on your needs. Use it in one go or within 3 months time. It's up to you.
+    Commitment issues, resolved!
 - template: buckets
   buckets:
   - title: 12-day pass
@@ -107,6 +107,8 @@ page_sections:
     fees:
     - name: ''
       amount: '4900'
+- template: title
+  title: Or..
 published: false
 
 ---
