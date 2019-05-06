@@ -14,7 +14,6 @@ page_sections:
     * Access to the community
     * Learn and share information
     * Develop new ideas and partnerships
-    * Make cool stuff
 
     Explore our flexible membership plans
 - template: title
