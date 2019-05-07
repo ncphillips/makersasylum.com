@@ -95,7 +95,7 @@ page_sections:
     description: 'Validity: 3 Months'
     fees:
     - name: 7 days a week from 11am to 9pm
-      amount: '2450'
+      amount: '2900'
     button:
       title: 12 Day pass
       link: https://www.instamojo.com/MakersAsylum1000/alumni-membership-e6995/
