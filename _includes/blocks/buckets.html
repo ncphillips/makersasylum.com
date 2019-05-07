@@ -16,6 +16,9 @@
                 {{ fee.amount }}
               </p>
             {% endfor %}
+            {% if bucket.button %}
+              <a href="{{ bucket.button.link }}" class="btn btn-primary">{{ bucket.button.title }}</a>
+            {% endif %}
           </div>
         </div>
       </div>
