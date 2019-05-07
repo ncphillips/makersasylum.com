@@ -84,8 +84,8 @@ page_sections:
     - name: 7 days a week from 11am to 9pm
       amount: '2900'
     button:
-      title: ''
-      link: ''
+      title: 1 Month
+      link: https://www.instamojo.com/MakersAsylum1000/alumni-membership-e6995/
   - title: QUARTER PASS
     description: Duration 3 months
     fees:
