@@ -25,3 +25,19 @@ fields:
       name: amount
       label: Amount
       description: 'example: INR 40,000'
+  - name: button
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+      default: Buy
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    label: Button
