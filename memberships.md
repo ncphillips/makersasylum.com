@@ -26,18 +26,6 @@ page_sections:
     2. Access to tools*
     3. Free wi-fi
 
-    **Category A: Desk space**
-
-    Works well for freelancers or DIYers, nomads
-
-    **Category B: Studio space**
-
-    Works well for teams or small startups (3-4 members), basically settlers!
-
-    **Category C: 12-day pass**
-
-    12-day pass is a flexible day-pass subscription plan which you can subscribe to based on your needs. Use it in one go or within 3 months time. It's up to you. Commitment issues, resolved!
-
     \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
 - template: buckets
   buckets:
@@ -65,11 +53,20 @@ page_sections:
     button:
       title: 12 Day pass
       link: https://www.instamojo.com/MakersAsylum1000/regular-membership/
+- template: body-copy
+  content: If you are a team of 3-4 members who wants a dedicated studio space at
+    the Asylum then write to us. Our studio spaces are areas where you can set-up
+    your operations and start making. Works well for members who are into hardware
+    products. Write to us to get a quote.
+- template: buttons
+  buttons:
+  - link: 'mailto:info@makersasylum.com?subject= We want to rent the studio space '
+    text: Studio space
 - template: title
   title: Alumni pass
 - template: body-copy
   content: |-
-    Alumni memberships are meant for members who have been a part of our flagship programs like Rapid Prototyping, S.T.E.A.M School, D.I.V.E or SDG School programs.
+    Alumni memberships are meant for members who have been a part of our flagship programs like [Rapid Prototyping](https://www.makersasylum.com/rapidprototyping/), [S.T.E.A.M School](https://steam.makersasylum.com/school/), [D.I.V.E](https://www.makersasylum.com/events/dive-2019/) or [SDG School](https://www.makersasylum.com/events/sdg-school/)
 
     Benefits:
 
@@ -98,12 +95,12 @@ page_sections:
     description: 'Validity: 3 Months'
     fees:
     - name: 7 days a week from 11am to 9pm
-      amount: '2450'
+      amount: '2900'
     button:
       title: 12 Day pass
       link: https://www.instamojo.com/MakersAsylum1000/alumni-membership-e6995/
-- template: title
-  title: Or..
+- template: body-copy
+  content: "## Or.."
 - template: title
   title: Barter
 - template: body-copy
