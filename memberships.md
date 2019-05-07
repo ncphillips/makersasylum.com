@@ -46,16 +46,25 @@ page_sections:
     fees:
     - name: 7 days a week from 11:00am -9:00pm
       amount: '4900'
+    button:
+      title: 1 Month
+      link: https://www.instamojo.com/MakersAsylum1000/regular-membership/
   - title: QUARTER PASS
     description: Duration 3 months
     fees:
     - name: 7 days a week from 11:00am - 9:00pm
       amount: '9900'
+    button:
+      title: ''
+      link: ''
   - title: 12 DAY PASS
     description: 'Validity: 3 months'
     fees:
     - amount: '4900'
       name: 7 days a week from 11:00am - 9:00pm
+    button:
+      title: ''
+      link: ''
 - template: title
   title: Alumni pass
 - template: body-copy
@@ -74,16 +83,25 @@ page_sections:
     fees:
     - name: 7 days a week from 11am to 9pm
       amount: '2900'
+    button:
+      title: ''
+      link: ''
   - title: QUARTER PASS
     description: Duration 3 months
     fees:
     - name: 7 days a week from 11am to 9pm
       amount: '4900'
+    button:
+      title: ''
+      link: ''
   - title: 12 DAY PASS
     description: 'Validity: 3 Months'
     fees:
     - name: 7 days a week from 11am to 9pm
       amount: '2450'
+    button:
+      title: ''
+      link: ''
 - template: title
   title: Or..
 - template: title
@@ -110,4 +128,5 @@ page_sections:
   - link: https://airtable.com/shrkW3ZVcKMM36LQF
     text: Barter-up!
 layout: modular_page
+
 ---
