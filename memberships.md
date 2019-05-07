@@ -63,8 +63,8 @@ page_sections:
     - amount: '4900'
       name: 7 days a week from 11:00am - 9:00pm
     button:
-      title: ''
-      link: ''
+      title: 12 Day pass
+      link: https://www.instamojo.com/MakersAsylum1000/regular-membership/
 - template: title
   title: Alumni pass
 - template: body-copy
