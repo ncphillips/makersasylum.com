@@ -60,8 +60,8 @@ page_sections:
     products. Write to us to get a quote.
 - template: buttons
   buttons:
-  - link: Get a quote
-    text: mailto:info@makersasylum.com?subject= Studio space quote
+  - link: 'mailto:info@makersasylum.com?subject= We want to rent the studio space '
+    text: Studio space
 - template: title
   title: Alumni pass
 - template: body-copy
