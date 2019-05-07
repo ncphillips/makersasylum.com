@@ -55,8 +55,8 @@ page_sections:
     - name: 7 days a week from 11:00am - 9:00pm
       amount: '9900'
     button:
-      title: ''
-      link: ''
+      title: 3 Months
+      link: https://www.instamojo.com/MakersAsylum1000/regular-membership/
   - title: 12 DAY PASS
     description: 'Validity: 3 months'
     fees:
