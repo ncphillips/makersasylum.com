@@ -14,6 +14,8 @@ menu_items:
     page: press.markdown
   - template: internal-link
     page: contact.markdown
+  internal_link: ''
+  external_link: ''
 - title: Learn
   children:
   - template: internal-link
@@ -32,16 +34,22 @@ menu_items:
   - template: external-link
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
+  internal_link: ''
+  external_link: ''
 - title: Juniors
   children:
   - template: internal-link
     page: _events/summer-program-in-advanced-robotics-and-ai.md
   - template: internal-link
     page: _events/stitch.md
+  internal_link: ''
+  external_link: ''
 - title: Corporates
   children:
   - template: internal-link
-    page: _events/workshop-for-executives.md
+    page: workshop-for-executives.md
+  internal_link: ''
+  external_link: ''
 - title: Community
   children:
   - template: internal-link
@@ -49,6 +57,8 @@ menu_items:
   - template: external-link
     title: Discuss
     url: https://discuss.makersasylum.com/
+  internal_link: ''
+  external_link: ''
 - title: Events
   children:
   - template: external-link
@@ -57,5 +67,9 @@ menu_items:
   - template: external-link
     title: Delhi
     url: https://www.facebook.com/pg/makersasylumdelhi/events/
+  internal_link: ''
+  external_link: ''
 - title: Jobs
   internal_link: jobs.md
+  external_link: ''
+  children: []
