@@ -20,6 +20,12 @@ layout: default
       {% include blocks/buckets.html %}
     {% when 'buttons' %}
       {% include blocks/buttons.html %}
+    {% when 'banner' %}
+      {% include blocks/banner.html %}
+    {% when 'images' %}
+      {% include blocks/images.html %}
+    {% when 'youtube-video' %}
+      {% include blocks/youtube_video.html %}
     {% endcase %}
   {% endfor %}
 </div>
