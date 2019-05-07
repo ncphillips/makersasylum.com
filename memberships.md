@@ -53,6 +53,11 @@ page_sections:
     button:
       title: 12 Day pass
       link: https://www.instamojo.com/MakersAsylum1000/regular-membership/
+- template: body-copy
+  content: If you are a team of 3-4 members who wants a dedicated studio space at
+    the Asylum then write to us. Our studio spaces are areas where you can set-up
+    your operations and start making. Works well for members who are into hardware
+    products. Write to us to get a quote.
 - template: title
   title: Alumni pass
 - template: body-copy
