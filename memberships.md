@@ -26,18 +26,6 @@ page_sections:
     2. Access to tools*
     3. Free wi-fi
 
-    **Category A: Desk space**
-
-    Works well for freelancers or DIYers, nomads
-
-    **Category B: Studio space**
-
-    Works well for teams or small startups (3-4 members), basically settlers!
-
-    **Category C: 12-day pass**
-
-    12-day pass is a flexible day-pass subscription plan which you can subscribe to based on your needs of your project. Use it in one go or within 3 months time. It's up to you. Commitment issues, resolved!
-
     \*As a starter, you get access to the woodworking lab where you can use the hand tools to tinker with. To use Power tools/3D Printer/Laser machine/Welding machine you have to undergo a full day workshop with us to be able to use the same. Its for your safety and we take it very SERIOUSLY!
 - template: buckets
   buckets:
