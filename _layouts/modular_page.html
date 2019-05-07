@@ -14,6 +14,12 @@ layout: default
       {% include blocks/body_copy.html %}
     {% when 'members' %}
       {% include blocks/members.html %}
+    {% when 'title' %}
+      {% include blocks/title.html %}
+    {% when 'buckets' %}
+      {% include blocks/buckets.html %}
+    {% when 'buttons' %}
+      {% include blocks/buttons.html %}
     {% endcase %}
   {% endfor %}
 </div>

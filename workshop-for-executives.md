@@ -43,5 +43,5 @@ page_sections:
   - link: mailto:info@makersasylum.com?subject=Corporate Workshop
     text: Let's Plan!
 date: 2019-04-18 11:32:05 +0000
-
+layout: modular_page
 ---

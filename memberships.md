@@ -3,8 +3,6 @@ title: Memberships
 description: ''
 image: ''
 page_sections:
-- template: title
-  title: Memberships
 - template: body-copy
   content: |-
     Memberships are a great way to network with like minded tinkerers and grow as a Maker / DIYer.
@@ -111,6 +109,5 @@ page_sections:
   buttons:
   - link: https://airtable.com/shrkW3ZVcKMM36LQF
     text: Barter-up!
-published: false
-
+layout: modular_page
 ---
