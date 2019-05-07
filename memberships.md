@@ -102,8 +102,8 @@ page_sections:
     button:
       title: 12 Day pass
       link: https://www.instamojo.com/MakersAsylum1000/alumni-membership-e6995/
-- template: title
-  title: Or..
+- template: body-copy
+  content: "## Or.."
 - template: title
   title: Barter
 - template: body-copy
