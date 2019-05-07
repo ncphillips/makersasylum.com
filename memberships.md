@@ -69,7 +69,7 @@ page_sections:
   title: Alumni pass
 - template: body-copy
   content: |-
-    Alumni memberships are meant for members who have been a part of our flagship programs like Rapid Prototyping, S.T.E.A.M School, D.I.V.E or SDG School programs.
+    Alumni memberships are meant for members who have been a part of our flagship programs like [Rapid Prototyping](https://www.makersasylum.com/rapidprototyping/), [S.T.E.A.M School](https://steam.makersasylum.com/school/), [D.I.V.E](https://www.makersasylum.com/events/dive-2019/) or [SDG School](https://www.makersasylum.com/events/sdg-school/)
 
     Benefits:
 
