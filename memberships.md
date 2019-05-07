@@ -58,6 +58,10 @@ page_sections:
     the Asylum then write to us. Our studio spaces are areas where you can set-up
     your operations and start making. Works well for members who are into hardware
     products. Write to us to get a quote.
+- template: buttons
+  buttons:
+  - link: Get a quote
+    text: mailto:info@makersasylum.com?subject= Studio space quote
 - template: title
   title: Alumni pass
 - template: body-copy
@@ -120,10 +124,6 @@ page_sections:
   buttons:
   - link: https://airtable.com/shrkW3ZVcKMM36LQF
     text: Barter-up!
-- template: buttons
-  buttons:
-  - link: Get a quote
-    text: mailto:info@makersasylum.com?subject= Studio space quote
 layout: modular_page
 
 ---
