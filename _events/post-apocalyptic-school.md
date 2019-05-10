@@ -64,6 +64,10 @@ page_sections:
     * 4 Day session on key survival skills focused on Communication, Mobility, Defence and Power generation.
     * Materials required for the #endgame
     * Final obstacle course to survive using the skills.
+- template: buttons
+  buttons:
+  - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
+    text: Survive an apocalypse
 published: false
 
 ---
