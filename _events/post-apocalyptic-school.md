@@ -41,7 +41,7 @@ page_sections:
   content: Your target for the Post Apocalyptic School is to reach the extraction
     point from anywhere using tools, weapons and survive the apocalypse
 - template: title
-  title: Schedule
+  title: Details
 - template: body-copy
   content: |-
     **Survivors camp #1**: June 10 - June 14 \[Monday - Friday\]
