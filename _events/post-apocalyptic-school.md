@@ -44,6 +44,13 @@ page_sections:
     button:
       title: ''
       link: ''
+  - title: Self defense
+    description: Fight for survival by building weapons. DIY Defence weapon. (Non
+      Leathal)
+    fees: []
+    button:
+      title: ''
+      link: ''
 - template: body-copy
   content: |-
     Get ready to survive and learn some essential survival skills for the modern world:
