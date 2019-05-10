@@ -5,6 +5,21 @@ image: ''
 page_sections:
 - template: title
   title: Post Apocalyptic School
+- template: body-copy
+  content: "A group of ET’s from a distant galaxy have had an eye on Maker’s Asylum
+    for a while. In their quest to take over this planet and its resources they have
+    spread a **deadly virus** which has turned the members of Maker’s Asylum into
+    **Zombies**. Everyone here is now after your dear **life**. Chaos is everywhere.
+    These zombies only understand one language, the one of terror and nightmares.
+    They feed on anything and everything including humans. Their weakness? They don’t
+    have eyelids and cannot bear the harsh rays of Sun. But, once the darkness seeps
+    in they crawl out in numbers one after the other in hundreds in search of warm
+    blooded humans to feed on. They are the walking-dead, creeping across streets
+    hunting down humans, turning them into zombies and multiplying their count.\n\n
+    \ \nYour mission as a participant of the **Post Apocalyptic School** is to organise
+    all living beings and look after your’s and their survival using the new skills
+    you learn and resources to maneuver through Maker’s Asylum to your extraction
+    point."
 published: false
 
 ---
