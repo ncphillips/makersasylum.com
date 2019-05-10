@@ -26,6 +26,12 @@ page_sections:
   title: Survival plan 101
 - template: buckets
   buckets:
+  - title: Mobility
+    description: 'Repair 101: learn to fix and maintain safe mode of transit'
+    fees: []
+    button:
+      title: ''
+      link: ''
   - title: Communication
     description: Build your own FM radio and transmitters
     fees:
