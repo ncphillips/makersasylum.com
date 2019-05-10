@@ -74,10 +74,10 @@ page_sections:
 - template: buckets
   buckets:
   - title: Survival Camp 1
-    description: ''
+    description: 10th June - 14th June
     fees:
     - amount: '9500'
-      name: ''
+      name: 'Timing: 3:00pm - 7:00pm'
     button:
       title: ''
       link: ''
