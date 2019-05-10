@@ -21,3 +21,5 @@ fields:
   - buttons
   - youtube-video
   - alert
+pages:
+- _events/post-apocalyptic-school.md
