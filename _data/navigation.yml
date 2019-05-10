@@ -42,6 +42,8 @@ menu_items:
     page: _events/summer-program-in-advanced-robotics-and-ai.md
   - template: internal-link
     page: _events/stitch.md
+  - template: internal-link
+    page: _events/post-apocalyptic-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
