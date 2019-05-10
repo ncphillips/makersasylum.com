@@ -1,11 +1,7 @@
-// Glyphicons font path
-$icon-font-path:        "../fonts/";
-
-// Grid settings
-$main-sm-columns:       12;
-$sidebar-sm-columns:    4;
-
 // Colors
+
+$black:    #000;
+
 $theme-colors: (
   "primary": #fcbf15
 );
@@ -17,6 +13,16 @@ $ship-gray:             #414042;
 $silver:                #cccccc;
 $stitch:                #854a88;
 
+$dark:                  $black;
+
 // Typography
 $heading-font-stack: 'Poppins', sans-serif;
 $base-font-stack: 'Raleway', sans-serif;
+
+
+// Glyphicons font path
+$icon-font-path:        "../fonts/";
+
+// Grid settings
+$main-sm-columns:       12;
+$sidebar-sm-columns:    4;

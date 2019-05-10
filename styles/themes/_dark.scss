@@ -1,0 +1,20 @@
+.theme-dark {
+  background-color: $black;
+  color: $white;
+
+  .logo-dark {
+    display: none;
+  }
+
+  .title {
+    border-bottom-color: $white;
+  }
+
+  .navbar {
+    background: $black;
+  }
+
+  .card {
+    border-color: $white;
+  }
+}

@@ -1,7 +1,7 @@
 <div class="row mb-3 justify-content-center">
   {% for bucket in block.buckets %}
     <div class="col-lg-4 mb-3">
-      <div class="card h-100">
+      <div class="card bg-{{ page.theme }} h-100">
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">
             {{ bucket.title }}
@@ -16,7 +16,7 @@
                 {{ fee.amount }}
               </p>
             {% endfor %}
-            {% if bucket.button %}
+            {% if bucket.button.title != '' %}
               <a href="{{ bucket.button.link }}" class="btn btn-primary">{{ bucket.button.title }}</a>
             {% endif %}
           </div>

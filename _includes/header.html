@@ -1,9 +1,10 @@
 {% assign url = page.url | remove:'index.html' %}
 
 <header class="container py-4">
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-lg navbar-{{ page.theme | default: 'light' }}">
     <a href="{{ '/' | absolute_url }}">
-      <img src="{{ site.logo }}" alt="Maker's Asylum Logo" width="180">
+      <img src="{{ site.logo }}" alt="Maker's Asylum Logo" width="180" class="logo-dark">
+      <img src="{{ site.logo_light }}" alt="Maker's Asylum Logo" width="180" class="logo-light">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

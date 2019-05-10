@@ -20,7 +20,7 @@
     </script>
     <!-- End MailerLite Universal -->
   </head>
-  <body class="{{ page.layout }} {{ page.title | slugify }}">
+  <body class="{{ page.layout }} {{ page.title | slugify }} theme-{{ page.theme | default: 'light' }}">
 
     {% include header.html %}
 
