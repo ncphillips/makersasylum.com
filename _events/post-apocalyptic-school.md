@@ -55,7 +55,7 @@ page_sections:
       title: ''
       link: ''
   - title: Survival camp 2
-    description: ''
+    description: To be announced soon
     fees:
     - name: 3:00 pm - 7:00 pm
       amount: '9500'
