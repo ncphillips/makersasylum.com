@@ -48,7 +48,7 @@ layout: default
     </p>
     <div class="row">
       {% for lab in site.labs %}
-      <div class="col-sm-6 col-md-3">
+      <div class="col-6 col-md-3">
         <div class="homepage-lab">
           <div class="media-left">
             <img class="media-object media-object_thumbnail mx-auto" src="{{ lab.image }}" alt="{{ lab.title }}">
@@ -66,7 +66,7 @@ layout: default
     </div>
   </section>
   <section>
-    <h2 class="title">PROJECTS <a href="/projects" class="float-right btn btn-primary">See All Projects</a></h2>
+    <h2 class="title">PROJECTS</h2>
     <div class="row">
       {% for project in page['featured projects'] %}
       <div class="col-sm-4">
@@ -78,6 +78,7 @@ layout: default
       </div>
       {% endfor %}
     </div>
+    <a href="/projects" class="btn btn-primary">See All Projects</a>
   </section>
   <section>
     <h2 class="title">Video</h2>

@@ -22,8 +22,8 @@
             {% assign menu_item_url = menu_item.external_link %}
           {% endif %}
 
-          <li class="nav-item {% if menu_item.children %}dropdown{% endif %}">
-            <a href="{{ menu_item_url }}" class="nav-link {% if menu_item.children %}dropdown-toggle{% endif %}" {% if menu_item.children %}data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{% endif %}>{{ menu_item.title }}</a>
+          <li class="nav-item {% unless menu_item.children == empty %}dropdown{% endunless %}">
+            <a href="{{ menu_item_url }}" class="nav-link {% unless menu_item.children == empty %}dropdown-toggle{% endunless %}" {% unless menu_item.children == empty %}data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{% endunless %}>{{ menu_item.title }}</a>
 
             {% if menu_item.children %}
               <div class="dropdown-menu">
