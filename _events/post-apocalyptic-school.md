@@ -33,8 +33,7 @@ page_sections:
       title: ''
       link: ''
   - title: Mobility
-    description: 'Repair 101: learn to fix and maintain safe mode of transit. DIY
-      mobility'
+    description: Repair 101, learn to fix and maintain safe mode of transit
     fees: []
     button:
       title: ''
