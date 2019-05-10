@@ -35,6 +35,8 @@ page_sections:
       * DIY Defence weapon. (Non Leathal)
     * **Generate energy.**
       * DIY Kinetic torch.
+- template: title
+  title: Your Mission
 published: false
 
 ---
