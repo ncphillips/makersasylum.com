@@ -50,14 +50,14 @@ page_sections:
     description: 10th June - 14th June
     fees:
     - amount: '9500'
-      name: 'Timing: 3:00pm - 7:00pm'
+      name: 3:00pm - 7:00pm
     button:
       title: ''
       link: ''
   - title: Survival camp 2
     description: ''
     fees:
-    - name: 'Timing: 3:00 pm - 7:00 pm'
+    - name: 3:00 pm - 7:00 pm
       amount: '9500'
     button:
       title: ''
