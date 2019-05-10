@@ -45,7 +45,7 @@ page_sections:
       title: ''
       link: ''
   - title: Generate energy
-    description: DIY Kinetic torch
+    description: DIY Kinetic torch to navigate in hostile environment
     fees: []
     button:
       title: ''
