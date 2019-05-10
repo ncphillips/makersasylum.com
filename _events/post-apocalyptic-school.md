@@ -41,8 +41,7 @@ page_sections:
       title: ''
       link: ''
   - title: Self defense
-    description: Fight for survival by building weapons. DIY Defence weapon. (Non
-      Leathal)
+    description: Defense mechanisms and strategy to escape.
     fees: []
     button:
       title: ''
