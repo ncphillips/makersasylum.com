@@ -9,7 +9,7 @@ page_sections:
   - image: "/uploads/Summer Camp Robotics and AI.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
-  title: Summer Program
+  title: Summer School
 - template: body-copy
   content: |-
     Get ready to make the most of your junior’s summer break this 2019! Maker's Asylum will be hosting a **Summer Camp on Robotics & AI** in a 2 week long intensive hands-on learning curriculum especially curated for the age-group of 12-16 years. The programs objective is to provide its participants with practical knowledge of **Robotics** and **AI** and orient them towards industries such as **automation** and **deep learning technology!**
