@@ -40,12 +40,12 @@ page_sections:
 - template: title
   title: Your Mission
 - template: body-copy
-  content: Your target for the Post Apocalyptic School is to reach the extraction
-    point from anywhere using tools, weapons and survive the apocalypse
+  content: |-
+    Your target for the Post Apocalyptic School is to reach the extraction point from anywhere using tools, weapons and survive the apocalypse.
+
+    Age: 13+
 - template: title
   title: Details
-- template: body-copy
-  content: ''
 - template: buckets
   buckets:
   - title: Survival Camp 1
