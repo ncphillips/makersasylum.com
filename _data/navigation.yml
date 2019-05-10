@@ -74,4 +74,4 @@ menu_items:
   external_link: ''
   children:
   - template: internal-link
-    page: ''
+    page: jobs.md
