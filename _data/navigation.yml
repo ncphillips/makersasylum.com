@@ -34,6 +34,10 @@ menu_items:
   - template: external-link
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
+  - template: internal-link
+    page: _events/post-apocalyptic-school.md
+  - template: internal-link
+    page: _events/summer-program-in-advanced-robotics-and-ai.md
   internal_link: ''
   external_link: ''
 - title: Juniors
