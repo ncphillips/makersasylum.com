@@ -42,6 +42,11 @@ page_sections:
     point from anywhere using tools, weapons and survive the apocalypse
 - template: title
   title: Schedule
+- template: body-copy
+  content: |-
+    **Survivors camp #1**: June 10 - June 14 \[Monday - Friday\]
+
+    **Survivors camp #2**: To be announced
 published: false
 
 ---
