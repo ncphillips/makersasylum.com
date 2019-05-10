@@ -36,9 +36,10 @@ page_sections:
       title: ''
       link: ''
   - title: Communication
-    description: Build your own FM radio and transmitters
+    description: Build your own FM radio and transmitters.  Transmit encrypted signals,
+      Build morse code artefacts
     fees:
-    - name: " Transmit encrypted signals, Build morse code artefacts"
+    - name: ''
       amount: ''
     button:
       title: ''
