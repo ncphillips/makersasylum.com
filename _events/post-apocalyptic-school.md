@@ -28,7 +28,9 @@ page_sections:
   buckets:
   - title: Mobility
     description: 'Repair 101: learn to fix and maintain safe mode of transit'
-    fees: []
+    fees:
+    - amount: DIY mobility
+      name: ''
     button:
       title: ''
       link: ''
