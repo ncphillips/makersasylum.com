@@ -54,6 +54,14 @@ page_sections:
     button:
       title: ''
       link: ''
+  - title: Survival camp 2
+    description: ''
+    fees:
+    - name: 'Timing: 3:00 pm - 7:00 pm'
+      amount: '9500'
+    button:
+      title: ''
+      link: ''
 - template: buttons
   buttons:
   - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
