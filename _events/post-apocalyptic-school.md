@@ -22,6 +22,19 @@ page_sections:
     point."
 - template: title
   title: Survival plan 101
+- template: body-copy
+  content: |-
+    Get ready to survive and learn some essential survival skills for the modern world:
+
+    * **Communicate**, transmit encrypted signals, build morse code artifacts
+      * Build your own FM radio and transmitters.
+    * **Mobility**:
+      * Bicycle repair 101 learn to fix and maintain your bicycle.
+      * DIY long board / skateboard
+    * **Defend** and fight for survival by building weapons. Suit-up!
+      * DIY Defence weapon. (Non Leathal)
+    * **Generate energy.**
+      * DIY Kinetic torch.
 published: false
 
 ---
