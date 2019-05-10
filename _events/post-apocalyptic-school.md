@@ -24,6 +24,16 @@ page_sections:
     point."
 - template: title
   title: Survival plan 101
+- template: buckets
+  buckets:
+  - title: Communication
+    description: Build your own FM radio and transmitters
+    fees:
+    - name: " Transmit encrypted signals, Build morse code artefacts"
+      amount: ''
+    button:
+      title: ''
+      link: ''
 - template: body-copy
   content: |-
     Get ready to survive and learn some essential survival skills for the modern world:
@@ -68,6 +78,8 @@ page_sections:
   buttons:
   - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
     text: Survive an apocalypse
+- template: buckets
+  buckets: []
 theme: dark
 
 ---
