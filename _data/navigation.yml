@@ -72,6 +72,4 @@ menu_items:
 - title: Jobs
   internal_link: jobs.md
   external_link: ''
-  children:
-  - template: internal-link
-    page: jobs.md
+  children: []
