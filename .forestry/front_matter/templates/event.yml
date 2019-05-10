@@ -21,5 +21,19 @@ fields:
   - buttons
   - youtube-video
   - alert
+- name: theme
+  type: select
+  default: light
+  config:
+    required: false
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Theme
 pages:
 - _events/post-apocalyptic-school.md
