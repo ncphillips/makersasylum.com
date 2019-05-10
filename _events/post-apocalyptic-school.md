@@ -1,6 +1,6 @@
 ---
 title: Post-Apocalyptic School
-description: ''
+description: 'A 5-day drill to prepare for an apocalypse '
 image: "/uploads/Post Apocalyptic school-1.PNG"
 page_sections:
 - template: banner
