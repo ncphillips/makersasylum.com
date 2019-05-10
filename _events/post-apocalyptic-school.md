@@ -1,8 +1,10 @@
 ---
 title: Post-Apocalyptic School
 description: ''
-image: ''
+image: "/uploads/Post Apocalyptic school-1.PNG"
 page_sections:
+- template: banner
+  image: "/uploads/Post Apocalyptic school-2.PNG"
 - template: title
   title: Post Apocalyptic School
 - template: body-copy
