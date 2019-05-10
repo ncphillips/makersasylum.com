@@ -37,6 +37,9 @@ page_sections:
       * DIY Kinetic torch.
 - template: title
   title: Your Mission
+- template: body-copy
+  content: Your target for the Post Apocalyptic School is to reach the extraction
+    point from anywhere using tools, weapons and survive the apocalypse
 published: false
 
 ---
