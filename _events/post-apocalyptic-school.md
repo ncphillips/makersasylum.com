@@ -20,6 +20,8 @@ page_sections:
     all living beings and look after your’s and their survival using the new skills
     you learn and resources to maneuver through Maker’s Asylum to your extraction
     point."
+- template: title
+  title: Survival plan 101
 published: false
 
 ---
