@@ -38,6 +38,8 @@ menu_items:
     page: _events/post-apocalyptic-school.md
   - template: internal-link
     page: _events/summer-program-in-advanced-robotics-and-ai.md
+  - template: internal-link
+    page: _events/stitch.md
   internal_link: ''
   external_link: ''
 - title: Juniors
