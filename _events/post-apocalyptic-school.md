@@ -44,9 +44,26 @@ page_sections:
   title: Details
 - template: body-copy
   content: |-
+    ## When?
+
     **Survivors camp #1**: June 10 - June 14 \[Monday - Friday\]
 
     **Survivors camp #2**: To be announced
+
+    ## Timing
+
+    3:00 pm - 7:00 pm
+
+    ## How much?
+
+    INR 9500/- All inclusive
+
+    **Program fee includes:**
+
+    * Resource analysis and brainstorming session
+    * 4 Day session on key survival skills focused on Communication, Mobility, Defence and Power generation.
+    * Materials required for the #endgame
+    * Final obstacle course to survive using the skills.
 published: false
 
 ---
