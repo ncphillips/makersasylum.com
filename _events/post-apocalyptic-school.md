@@ -27,8 +27,7 @@ page_sections:
 - template: buckets
   buckets:
   - title: Communication
-    description: Build your own FM radio and transmitters.  Transmit encrypted signals,
-      Build morse code artefacts
+    description: Build your own FM radio and transmitters.
     fees: []
     button:
       title: ''
