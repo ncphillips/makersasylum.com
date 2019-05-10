@@ -71,6 +71,16 @@ page_sections:
     * 4 Day session on key survival skills focused on Communication, Mobility, Defence and Power generation.
     * Materials required for the #endgame
     * Final obstacle course to survive using the skills.
+- template: buckets
+  buckets:
+  - title: Survival Camp 1
+    description: ''
+    fees:
+    - amount: '9500'
+      name: ''
+    button:
+      title: ''
+      link: ''
 published: false
 
 ---
