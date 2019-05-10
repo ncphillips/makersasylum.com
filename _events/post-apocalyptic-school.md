@@ -43,34 +43,7 @@ page_sections:
 - template: title
   title: Details
 - template: body-copy
-  content: |-
-    ## When?
-
-    On weekdays between 3:00 pm - 7:00pm
-
-    **Survivors camp #1**: June 10 - June 14 \[Monday - Friday\]
-
-    **Survivors camp #2**: To be announced
-- template: buttons
-  buttons:
-  - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
-    text: Survive an apocalypse
-- template: body-copy
-  content: |-
-    ## Timing
-
-    3:00 pm - 7:00 pm
-
-    ## How much?
-
-    INR 9500/- All inclusive
-
-    **Program fee includes:**
-
-    * Resource analysis and brainstorming session
-    * 4 Day session on key survival skills focused on Communication, Mobility, Defence and Power generation.
-    * Materials required for the #endgame
-    * Final obstacle course to survive using the skills.
+  content: ''
 - template: buckets
   buckets:
   - title: Survival Camp 1
@@ -81,6 +54,10 @@ page_sections:
     button:
       title: ''
       link: ''
+- template: buttons
+  buttons:
+  - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
+    text: Survive an apocalypse
 published: false
 
 ---
