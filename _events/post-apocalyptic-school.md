@@ -39,7 +39,7 @@ page_sections:
       title: ''
       link: ''
   - title: Self defense
-    description: Defense mechanisms and strategy to escape hostile environment
+    description: Defense mechanisms to eliminate threat
     fees: []
     button:
       title: ''
