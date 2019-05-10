@@ -16,7 +16,7 @@ menu_items:
     page: contact.markdown
   internal_link: ''
   external_link: ''
-- title: Learn
+- title: Make
   children:
   - template: internal-link
     page: _events/post-apocalyptic-school.md
@@ -40,16 +40,6 @@ menu_items:
     page: _events/dive-2019.md
   - template: internal-link
     page: woodworking.markdown
-  internal_link: ''
-  external_link: ''
-- title: Juniors
-  children:
-  - template: internal-link
-    page: _events/summer-program-in-advanced-robotics-and-ai.md
-  - template: internal-link
-    page: _events/stitch.md
-  - template: internal-link
-    page: _events/post-apocalyptic-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
