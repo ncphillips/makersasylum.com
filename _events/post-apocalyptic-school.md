@@ -23,7 +23,7 @@ page_sections:
     you learn and resources to maneuver through Maker’s Asylum to your extraction
     point."
 - template: title
-  title: Survival plan 101
+  title: Survival 101
 - template: buckets
   buckets:
   - title: Communication
