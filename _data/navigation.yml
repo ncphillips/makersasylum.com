@@ -19,15 +19,15 @@ menu_items:
 - title: Learn
   children:
   - template: internal-link
-    page: _events/sdg-school.md
+    page: _events/post-apocalyptic-school.md
   - template: internal-link
-    page: _events/dive-2019.md
+    page: _events/summer-program-in-advanced-robotics-and-ai.md
+  - template: internal-link
+    page: _events/sdg-school.md
   - template: internal-link
     page: rapidprototyping.markdown
   - template: internal-link
     page: maker-in-residence.markdown
-  - template: internal-link
-    page: woodworking.markdown
   - template: external-link
     title: S.T.E.A.M School
     url: https://steam.makersasylum.com/school
@@ -35,11 +35,11 @@ menu_items:
     title: S.T.E.A.M Fabrikarium
     url: https://steam.makersasylum.com/fabrikarium
   - template: internal-link
-    page: _events/post-apocalyptic-school.md
-  - template: internal-link
-    page: _events/summer-program-in-advanced-robotics-and-ai.md
-  - template: internal-link
     page: _events/stitch.md
+  - template: internal-link
+    page: _events/dive-2019.md
+  - template: internal-link
+    page: woodworking.markdown
   internal_link: ''
   external_link: ''
 - title: Juniors
