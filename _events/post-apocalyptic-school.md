@@ -66,6 +66,7 @@ page_sections:
   buttons:
   - link: https://www.instamojo.com/MakersAsylum1000/post-apocalyptic-school/
     text: Survive an apocalypse
+theme: dark
 published: false
 
 ---
