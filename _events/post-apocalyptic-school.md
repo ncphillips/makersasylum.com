@@ -26,21 +26,17 @@ page_sections:
   title: Survival plan 101
 - template: buckets
   buckets:
-  - title: Mobility
-    description: 'Repair 101: learn to fix and maintain safe mode of transit. DIY
-      mobility'
-    fees:
-    - amount: ''
-      name: ''
-    button:
-      title: ''
-      link: ''
   - title: Communication
     description: Build your own FM radio and transmitters.  Transmit encrypted signals,
       Build morse code artefacts
-    fees:
-    - name: ''
-      amount: ''
+    fees: []
+    button:
+      title: ''
+      link: ''
+  - title: Mobility
+    description: 'Repair 101: learn to fix and maintain safe mode of transit. DIY
+      mobility'
+    fees: []
     button:
       title: ''
       link: ''
