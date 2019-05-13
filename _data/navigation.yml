@@ -43,6 +43,11 @@ menu_items:
   - template: submenu
     title: Explore
     menu_items: []
+  - template: submenu
+    title: Learn
+    menu_items:
+    - template: internal-link
+      page: rapidprototyping.markdown
   internal_link: ''
   external_link: ''
 - title: Corporates
