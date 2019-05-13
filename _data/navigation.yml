@@ -40,46 +40,9 @@ menu_items:
     page: _events/dive-2019.md
   - template: internal-link
     page: woodworking.markdown
-  - template: menus
-    menu_items:
-    - title: Explore
-      internal_link: ''
-      external_link: ''
-      children: []
-  - template: menus
-    menu_items:
-    - title: Learn
-      internal_link: ''
-      external_link: ''
-      children:
-      - template: internal-link
-        page: rapidprototyping.markdown
-  - template: menus
-    menu_items:
-    - title: Co-create
-      internal_link: ''
-      external_link: ''
-      children:
-      - template: internal-link
-        page: _events/sdg-school.md
-      - template: internal-link
-        page: _events/dive-2019.md
-      - template: external-link
-        url: https://steam.makersasylum.com/school/
-        title: S.T.E.A.M School
-      - template: external-link
-        url: https://steam.makersasylum.com/fabrikarium/
-        title: S.T.E.A.M Fabrikarium
-      - template: internal-link
-        page: _events/summer-program-in-advanced-robotics-and-ai.md
-  - template: menus
-    menu_items:
-    - internal_link: ''
-      external_link: ''
-      children:
-      - template: internal-link
-        page: _events/post-apocalyptic-school.md
-      title: Unlearn
+  - template: submenu
+    title: Explore
+    menu_items: []
   internal_link: ''
   external_link: ''
 - title: Corporates
