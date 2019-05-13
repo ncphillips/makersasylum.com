@@ -20,7 +20,7 @@ page_sections:
   content: |-
     After a successful S.T.E.A.M School 2018 and the launch of D.I.V.E 2019, we bring to you yet another program to provide a global learning experience, this time in Paris, France. The **SDG School 2019 Edition** is a one month long project based program which Maker’s Asylum will be co-organising with [Centre for Research and Interdisciplinarity, Paris](https://cri-paris.org)
 
-    The program is designed to give you access to a platform where you can voice an opinion, take an action and create an impact alongside **100 young leaders** from across the globe.
+    The program is designed to give you access to a platform where you can voice an opinion, take an action and create an impact alongside **young leaders** from across the globe.
 - template: title
   title: SDG School framework
 - template: body-copy
