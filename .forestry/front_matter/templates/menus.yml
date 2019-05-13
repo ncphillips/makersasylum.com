@@ -24,6 +24,5 @@ fields:
     template_types:
     - internal-link
     - external-link
-    - menus
 pages:
 - _data/navigation.yml
