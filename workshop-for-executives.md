@@ -37,7 +37,8 @@ page_sections:
 - template: title
   title: Our Partners
 - template: body-copy
-  content: UNESCO | Michelin | Deloitte | Visible Alpha | Godrej Appliances
+  content: UNESCO | Michelin | Deloitte | Visible Alpha | Godrej Appliances | Asian
+    Paints
 - template: buttons
   buttons:
   - link: mailto:info@makersasylum.com?subject=Corporate Workshop
