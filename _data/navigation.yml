@@ -63,6 +63,11 @@ menu_items:
       url: https://steam.makersasylum.com/fabrikarium/
     - template: internal-link
       page: _events/summer-program-in-advanced-robotics-and-ai.md
+  - template: submenu
+    title: Unlearn
+    menu_items:
+    - template: internal-link
+      page: _events/post-apocalyptic-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
