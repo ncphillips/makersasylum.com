@@ -67,6 +67,9 @@ menu_items:
       - template: external-link
         url: https://steam.makersasylum.com/school/
         title: S.T.E.A.M School
+      - template: external-link
+        url: https://steam.makersasylum.com/fabrikarium/
+        title: S.T.E.A.M Fabrikarium
   internal_link: ''
   external_link: ''
 - title: Corporates
