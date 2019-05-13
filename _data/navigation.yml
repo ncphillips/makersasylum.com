@@ -1,5 +1,9 @@
 ---
 menu_items:
+- title: ''
+  internal_link: ''
+  external_link: ''
+  children: []
 - title: About
   children:
   - template: internal-link
@@ -16,7 +20,7 @@ menu_items:
     page: contact.markdown
   internal_link: ''
   external_link: ''
-- title: MASH
+- title: Experiential Learning
   children:
   - template: internal-link
     page: _events/post-apocalyptic-school.md
