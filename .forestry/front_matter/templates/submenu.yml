@@ -1,4 +1,18 @@
 ---
 label: Submenu
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: menu_items
+  type: blocks
+  label: Menu Items
+  template_types:
+  - external-link
+  - internal-link
+  config:
+    min: 
+    max: 
