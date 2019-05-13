@@ -51,7 +51,9 @@ menu_items:
     - title: Learn
       internal_link: ''
       external_link: ''
-      children: []
+      children:
+      - template: internal-link
+        page: rapidprototyping.markdown
   internal_link: ''
   external_link: ''
 - title: Corporates
