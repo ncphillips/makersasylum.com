@@ -20,9 +20,6 @@ page_sections:
     collaboration to deliver better results. Customised learning runs at the core
     of our values and we offer the same to all the partners who work with us. We **co-create**
     and **organise** workshops to catalyse an organisation’s vision of doing business.
-- template: images
-  images:
-  - image: "/uploads/MakersAsylum (41 of 55).jpg"
 - template: title
   title: What to expect?
 - template: youtube-video
