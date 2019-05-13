@@ -167,7 +167,7 @@ page_sections:
   content: |-
     Registrations Open :                   18th March 2019
 
-    Application deadline :                30th April, 2019
+    Application deadline :                15th May, 2019
 
     Shortlisting of Candidates:         First week of May, 2019
 
