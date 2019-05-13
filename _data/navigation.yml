@@ -1,9 +1,5 @@
 ---
 menu_items:
-- title: ''
-  internal_link: ''
-  external_link: ''
-  children: []
 - title: About
   children:
   - template: internal-link
