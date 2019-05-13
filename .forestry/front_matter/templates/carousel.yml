@@ -20,7 +20,7 @@ fields:
     - internal-link
     - external-link
     config:
-      min: '1'
+      min: ''
       max: '1'
   config:
     labelField: caption
