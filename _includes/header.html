@@ -45,13 +45,11 @@
                         {% for menu_item in child.menu_items %}
                           {% if menu_item.template == "internal-link" %}
                             {% assign child_menu_item = all_documents | where: "path", menu_item.page | first %}
-
-                            <a class="dropdown-item" href="{{ child_menu_item.url | absolute_url }}">{{ child_menu_item.title }}</a>
-                          {% elsif menu_item.template == "external_link" %}
+                          {% elsif menu_item.template == "external-link" %}
                             {% assign child_menu_item = menu_item %}
-
-                            <a class="dropdown-item" href="{{ child_menu_item.url | absolute_url }}">{{ child_menu_item.title }}</a>
                           {% endif %}
+
+                          <a class="dropdown-item" href="{{ child_menu_item.url | absolute_url }}">{{ child_menu_item.title }}</a>
                         {% endfor %}
                       </div>
                     </div>
