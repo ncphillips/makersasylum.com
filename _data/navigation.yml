@@ -21,7 +21,7 @@ menu_items:
   - template: submenu
     menu_items:
     - template: internal-link
-      page: _labs/woodworking.markdown
+      page: woodworking.markdown
     title: Explore
   - template: submenu
     title: Learn
