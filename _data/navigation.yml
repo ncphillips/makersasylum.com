@@ -64,6 +64,9 @@ menu_items:
         page: _events/sdg-school.md
       - template: internal-link
         page: _events/dive-2019.md
+      - template: external-link
+        url: https://steam.makersasylum.com/school/
+        title: S.T.E.A.M School
   internal_link: ''
   external_link: ''
 - title: Corporates
