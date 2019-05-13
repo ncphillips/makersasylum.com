@@ -36,8 +36,10 @@ page_sections:
     * Hackathons and innovative ideathons
 - template: images
   images:
+  - image: "/v1557739076/untitled%20%282%20of%208%29.jpg"
   - image: "/v1557739030/untitled%20%283%20of%208%29.jpg"
     caption: PVC Pipelamp workshop with Asian Paints
+  - image: "/v1557739112/untitled%20%284%20of%208%29.jpg"
 - template: title
   title: Our Partners
 - template: body-copy
