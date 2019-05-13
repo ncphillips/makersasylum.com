@@ -40,10 +40,6 @@ menu_items:
     url: https://steam.makersasylum.com/fabrikarium
   - template: internal-link
     page: _events/stitch.md
-  - template: internal-link
-    page: _events/dive-2019.md
-  - template: internal-link
-    page: woodworking.markdown
   - template: submenu
     menu_items:
     - template: internal-link
@@ -56,6 +52,8 @@ menu_items:
       page: rapidprototyping.markdown
     - template: internal-link
       page: _events/summer-program-in-advanced-robotics-and-ai.md
+    - template: internal-link
+      page: _events/stitch.md
   - template: submenu
     title: Co-create
     menu_items:
@@ -69,6 +67,11 @@ menu_items:
     - template: external-link
       title: S.T.E.A.M Fabrikarium
       url: https://steam.makersasylum.com/fabrikarium/
+  - template: submenu
+    title: Unlearn
+    menu_items:
+    - template: internal-link
+      page: _events/post-apocalyptic-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
