@@ -64,8 +64,6 @@ menu_items:
         page: _events/sdg-school.md
       - template: internal-link
         page: _events/dive-2019.md
-      - template: internal-link
-        page: ''
   internal_link: ''
   external_link: ''
 - title: Corporates
