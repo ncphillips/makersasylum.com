@@ -40,6 +40,12 @@ menu_items:
     page: _events/dive-2019.md
   - template: internal-link
     page: woodworking.markdown
+  - template: menus
+    menu_items:
+    - title: Explore
+      internal_link: ''
+      external_link: ''
+      children: []
   internal_link: ''
   external_link: ''
 - title: Corporates
