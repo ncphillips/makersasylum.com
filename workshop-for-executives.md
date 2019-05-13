@@ -37,6 +37,7 @@ page_sections:
 - template: images
   images:
   - image: "/v1557739030/untitled%20%283%20of%208%29.jpg"
+    caption: PVC Pipelamp workshop with Asian Paints
 - template: title
   title: Our Partners
 - template: body-copy
