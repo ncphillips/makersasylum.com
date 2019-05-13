@@ -54,6 +54,8 @@ menu_items:
     menu_items:
     - template: internal-link
       page: rapidprototyping.markdown
+    - template: internal-link
+      page: _events/summer-program-in-advanced-robotics-and-ai.md
   - template: submenu
     title: Co-create
     menu_items:
