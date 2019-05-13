@@ -7,7 +7,8 @@
 
 @import "bootstrap/bootstrap";
 
-@import "fancybox";
+@import "vendor/bootstrap-submenu";
+@import "vendor/fancybox";
 
 @import "common/global";
 
@@ -26,4 +27,4 @@
 @import "themes/dark";
 @import "themes/light";
 
-@import "pages/fab-academy"
+@import "pages/fab-academy";

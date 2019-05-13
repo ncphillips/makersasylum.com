@@ -35,11 +35,7 @@
       },
       finalize: function() {
         // JavaScript to be fired on all pages, after page specific JS is fired
-        $('ul.nav li.dropdown').hover(function() {
-          $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
-        }, function() {
-          $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
-        });
+        $('[data-submenu]').submenupicker();
       }
     },
     // Home page

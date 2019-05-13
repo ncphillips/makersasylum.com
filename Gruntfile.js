@@ -12,6 +12,7 @@ module.exports = function(grunt) {
           'scripts/_source/bootstrap.min.js',
           'scripts/_source/jquery.fitvids.js',
           'scripts/_source/jquery.fancybox.min.js',
+          'scripts/_source/bootstrap-submenu.min.js',
           'scripts/_source/main.js'
         ],
         dest: 'scripts/all.js',
