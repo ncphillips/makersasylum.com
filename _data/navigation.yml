@@ -54,6 +54,11 @@ menu_items:
     menu_items:
     - template: internal-link
       page: rapidprototyping.markdown
+  - template: submenu
+    title: Co-create
+    menu_items:
+    - template: internal-link
+      page: _events/sdg-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
