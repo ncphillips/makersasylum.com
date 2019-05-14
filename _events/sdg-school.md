@@ -237,13 +237,13 @@ page_sections:
   content: "## Knowledge Partners"
 - template: partners
   partners:
-  - name: Cité des sciences et de l'industrie
+  - name: ''
     image: "/uploads/logo-csi.png"
     link: http://www.cite-sciences.fr/en/home/
-  - name: UNESCO New Delhi
+  - name: ''
     image: "/uploads/office_new_dehi_cluster_en_support.png"
     link: http://www.unesco.org/new/en/newdelhi/home
-  - name: Campus France
+  - name: ''
     image: "/uploads/CFLogo.jpg"
     link: https://www.campusfrance.org/en
 - template: body-copy
@@ -252,26 +252,26 @@ page_sections:
   partners:
   - image: "/uploads/RIIDL.png"
     link: https://riidl.org/
-    name: Riidl
-  - name: Seeed Studio
+    name: ''
+  - name: ''
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
 - template: body-copy
   content: "## Outreach Partners"
 - template: partners
   partners:
-  - name: HundrED
+  - name: ''
     image: "/uploads/HundrED_logo_rgb.png"
     link: https://hundred.org/en
-  - name: AIESEC
+  - name: ''
     image: "/uploads/aiesec.png"
     link: https://aiesec.org
-  - name: Homegrown
+  - name: ''
     image: "/uploads/homegrown-logo.jpg"
     link: https://homegrown.co.in
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
-    name: The Resolution Project
+    name: ''
 menu:
   header:
     weight: 1
