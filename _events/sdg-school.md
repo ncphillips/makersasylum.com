@@ -227,12 +227,12 @@ page_sections:
   content: "## Presented by"
 - template: partners
   partners:
-  - name: Maker's Asylum
+  - name: ''
     image: "/uploads/MA Standard - Color-1.png"
     link: https://www.makersasylum.com
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
-    name: CRI
+    name: ''
 - template: body-copy
   content: "## Knowledge Partners"
 - template: partners
