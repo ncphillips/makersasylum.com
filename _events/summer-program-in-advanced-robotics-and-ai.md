@@ -6,7 +6,7 @@ image: "/uploads/Summer Camp Robotics and AI.png"
 page_sections:
 - template: images
   images:
-  - image: "/uploads/Summer Camp Robotics and AI.png"
+  - image: "/v1558448898/Summer%20School%20Banner-2.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
   title: Summer School
@@ -71,7 +71,7 @@ page_sections:
   buttons:
   - text: Reserve a seat
     link: https://www.instamojo.com/MakersAsylum1000/summer-program-advanced-robotics-ai/
-date: 2019-04-08T15:06:29.000+00:00
+date: '2019-04-08T15:06:29.000+00:00'
 layout: event
 
 ---
