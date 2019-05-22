@@ -1,5 +1,5 @@
 ---
-date: 2019-03-14T00:35:35.000+00:00
+date: '2019-03-14T00:35:35.000+00:00'
 redirect_from:
 - "/sdg-school/"
 title: SDG School
@@ -37,7 +37,7 @@ page_sections:
   title: Program details
 - template: images
   images:
-  - image: "/uploads/SDG School TIMELINE.001-1.png"
+  - image: "/v1558526814/Program%20graph.jpg"
 - template: body-copy
   content: |-
     The **SDG School** program consists of two modules (STEAM and IMPACT) which will be conducted within a time frame of 4 weeks at [Cité des Sciences](http://www.cite-sciences.fr/fr/accueil/) and [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
@@ -61,11 +61,6 @@ page_sections:
     4 Week module while applying will be reshuffled to these high potential projects.\n\nThis
     way candidates get an opportunity to learn outside the framework of their ongoing
     projects and also get to contribute and test their skills"
-- template: title
-  title: SDG School Roadmap
-- template: images
-  images:
-  - image: "/uploads/Program graph.jpg"
 - template: title
   title: Why you should apply?
 - template: body-copy
