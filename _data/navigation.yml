@@ -24,7 +24,7 @@ menu_items:
       page: woodworking.markdown
     title: Explore
   - template: submenu
-    title: Learn
+    title: Certification courses
     menu_items:
     - template: internal-link
       page: rapidprototyping.markdown
