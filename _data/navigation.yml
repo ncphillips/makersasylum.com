@@ -16,7 +16,7 @@ menu_items:
     page: contact.markdown
   internal_link: ''
   external_link: ''
-- title: Experiential Learning
+- title: Learn
   children:
   - template: submenu
     menu_items:
