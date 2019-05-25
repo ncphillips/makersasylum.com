@@ -42,7 +42,7 @@ page_sections:
   title: Summer Camp Program Fee
 - template: body-copy
   content: |-
-    The program fee for the Summer Camp on Advanced Robotics and AI is INR **19,950/-** all inclusive.
+    The program fee for the Summer Camp on Advanced Robotics and AI is INR **19,950/-** exclusive of GST.
 
     ### The program fee covers cost for:
 
