@@ -232,6 +232,9 @@ page_sections:
   content: "## Knowledge Partners"
 - template: partners
   partners:
+  - name: Institut Mines-Télécom
+    image: "/v1558786876/IMT.jpg"
+    link: https://www.imt.fr/en/
   - name: ''
     image: "/uploads/logo-csi.png"
     link: http://www.cite-sciences.fr/en/home/
