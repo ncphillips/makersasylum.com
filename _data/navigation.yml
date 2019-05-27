@@ -35,7 +35,7 @@ menu_items:
     - template: internal-link
       page: _events/stitch.md
   - template: submenu
-    title: Co-create
+    title: Experiential
     menu_items:
     - template: internal-link
       page: _events/sdg-school.md
@@ -47,11 +47,6 @@ menu_items:
     - template: external-link
       title: S.T.E.A.M Fabrikarium
       url: https://steam.makersasylum.com/fabrikarium/
-  - template: submenu
-    title: Unlearn
-    menu_items:
-    - template: internal-link
-      page: _events/post-apocalyptic-school.md
   internal_link: ''
   external_link: ''
 - title: Corporates
