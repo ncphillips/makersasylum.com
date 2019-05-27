@@ -22,6 +22,8 @@ menu_items:
     menu_items:
     - template: internal-link
       page: woodworking.markdown
+    - template: internal-link
+      page: _events/post-apocalyptic-school.md
     title: Explore
   - template: submenu
     title: Certification courses
