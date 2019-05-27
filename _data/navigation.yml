@@ -33,8 +33,6 @@ menu_items:
     - template: internal-link
       page: rapidprototyping.markdown
     - template: internal-link
-      page: _events/summer-program-in-advanced-robotics-and-ai.md
-    - template: internal-link
       page: _events/stitch.md
   - template: submenu
     title: Experiential
