@@ -31,7 +31,7 @@ menu_items:
     - template: internal-link
       page: _labs/woodworking.markdown
   - template: submenu
-    title: Experiential
+    title: Experiential Programs
     menu_items:
     - template: internal-link
       page: _events/sdg-school.md
