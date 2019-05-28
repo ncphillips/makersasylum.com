@@ -21,11 +21,11 @@ menu_items:
   - template: submenu
     menu_items:
     - template: internal-link
+      page: _events/summer-program-in-advanced-robotics-and-ai.md
+    - template: internal-link
       page: _events/post-apocalyptic-school.md
     - template: internal-link
       page: _events/stitch.md
-    - template: internal-link
-      page: _events/summer-program-in-advanced-robotics-and-ai.md
     title: Explore
   - template: submenu
     title: Certification courses
