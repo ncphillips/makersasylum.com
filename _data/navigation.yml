@@ -27,10 +27,6 @@ menu_items:
     title: Certification courses
     menu_items:
     - template: internal-link
-      page: rapidprototyping.markdown
-    - template: internal-link
-      page: _events/stitch.md
-    - template: internal-link
       page: _labs/woodworking.markdown
   - template: submenu
     title: Experiential
