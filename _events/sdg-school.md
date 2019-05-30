@@ -260,6 +260,7 @@ page_sections:
   partners:
   - name: The Red Pen
     image: "/v1559197397/The%20Red%20Pen%20logo.png"
+    link: https://theredpen.in
   - name: ''
     image: "/uploads/HundrED_logo_rgb.png"
     link: https://hundred.org/en
