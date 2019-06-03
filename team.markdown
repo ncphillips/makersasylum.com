@@ -51,6 +51,9 @@ page_sections:
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559563380/Ipsita%20Datta.jpg
     name: Ipsita Datta
     link: https://www.linkedin.com/in/ipsita-datta-4a281599/
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559563588/Sameer%20Ambre.jpg
+    name: Sameer Ambre
+    link: https://www.linkedin.com/in/sameer-ambre/
   - name: Shruti Shrivastava
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545170/Shruti%20Shrivastava.jpg
