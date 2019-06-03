@@ -61,6 +61,8 @@ page_sections:
   title: Advisory Board
 - template: people
   people:
-  - {}
+  - name: Navi Radjou
+    link: https://www.linkedin.com/in/naviradjou/
+    image: "/v1559545546/Navi%20Radjou.jpg"
 
 ---
