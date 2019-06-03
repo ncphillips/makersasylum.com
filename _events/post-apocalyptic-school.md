@@ -1,12 +1,15 @@
 ---
 title: Post-Apocalyptic School
 description: 'A 5-day drill to prepare for an apocalypse '
-image: "https://res.cloudinary.com/makers-asylum/image/upload/v1557678765/Post%20AS%20Banner.png"
+image: https://res.cloudinary.com/makers-asylum/image/upload/v1557678765/Post%20AS%20Banner.png
 page_sections:
 - template: banner
   image: "/uploads/Post Apocalyptic school-2.PNG"
 - template: title
   title: Post Apocalyptic School
+- template: body-copy
+  content: A 4-day long workshop focused on building essential skills to survive an
+    apocalypse
 - template: title
   title: Survival 101
 - template: body-copy
@@ -59,12 +62,17 @@ page_sections:
     Age: 13+
 - template: title
   title: Details
+  buckets:
+  - button:
+      title: ''
+      link: ''
 - template: buckets
   buckets:
   - title: Survival Camp 1
     description: 10th June - 14th June
     fees:
-    - amount: "9500"
+    - amount:
+        number_string: '9500'
       name: 3:00pm - 7:00pm
     button:
       title: ''
@@ -73,7 +81,8 @@ page_sections:
     description: To be announced soon
     fees:
     - name: 3:00 pm - 7:00 pm
-      amount: "9500"
+      amount:
+        number_string: '9500'
     button:
       title: ''
       link: ''
