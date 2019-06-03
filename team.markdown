@@ -41,6 +41,8 @@ page_sections:
     name: Richa Shrivastava, Managing Partner
   - name: Sudha Shukla
     link: https://www.linkedin.com/in/sudha-shukla/
+  - name: Narender Sharma
+    link: https://www.linkedin.com/in/narender-sharma-157a1097
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
