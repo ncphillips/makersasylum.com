@@ -39,10 +39,12 @@ page_sections:
   - image: "/v1559544567/Richa%20Shrivastava.jpg"
     link: https://www.linkedin.com/in/shrivastavaricha/
     name: Richa Shrivastava, Managing Partner
-  - name: Sudha Shukla
+  - name: Sudha Shukla, Operations
     link: https://www.linkedin.com/in/sudha-shukla/
   - name: Narender Sharma
     link: https://www.linkedin.com/in/narender-sharma-157a1097
+  - name: Nehal Sarangkar, Space Manager
+    link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
