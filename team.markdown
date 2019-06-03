@@ -25,6 +25,9 @@ menu:
     weight: 3
     parent: item_5iEM3AD
 page_sections:
+- template: body-copy
+  content: "> Individuals can and do make a difference, but it takes a team to really
+    mess things up."
 - template: title
   title: Advisory Board
 - template: people
@@ -47,9 +50,8 @@ page_sections:
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545963/Rahul%20Goel.jpg
     name: Rahul Goel
     link: https://www.linkedin.com/in/adrahul/
-- template: body-copy
-  content: "> Individuals can and do make a difference, but it takes a team to really
-    mess things up."
+- template: title
+  title: Team
 - template: people
   people:
   - name: Vaibhav Chhabra
