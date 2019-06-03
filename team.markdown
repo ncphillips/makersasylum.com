@@ -28,8 +28,6 @@ page_sections:
 - template: body-copy
   content: "> Individuals can and do make a difference, but it takes a team to really
     mess things up."
-- template: title
-  title: Team
 - template: people
   people:
   - name: Vaibhav Chhabra
