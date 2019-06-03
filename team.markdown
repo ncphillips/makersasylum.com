@@ -38,21 +38,21 @@ page_sections:
     link: https://www.linkedin.com/in/anool/
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559544567/Richa%20Shrivastava.jpg
     link: https://www.linkedin.com/in/shrivastavaricha/
-    name: Richa Shrivastava, Managing Partner
-  - name: Sudha Shukla, Operations
+    name: Richa Shrivastava
+  - name: Sudha Shukla
     link: https://www.linkedin.com/in/sudha-shukla/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545250/Sudha%20Shukla.jpg
-  - name: Narender Sharma, Space Manager
+  - name: Narender Sharma
     link: https://www.linkedin.com/in/narender-sharma-157a1097
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559546719/Narender.jpg
-  - name: Nehal Sarangkar, Space Manager
+  - name: Nehal Sarangkar
     link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545314/Nehal%20Sarangkar.jpg
-  - name: Shruti Shrivastava, Freelance Graphics Designer
+  - name: Shruti Shrivastava
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545170/Shruti%20Shrivastava.jpg
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545394/Sunny%20pawar.jpg
-    name: Sunny Pawar, Communications
+    name: Sunny Pawar
     link: https://www.linkedin.com/in/dotsunny/
 - template: title
   title: Advisory Board
