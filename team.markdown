@@ -73,5 +73,8 @@ page_sections:
   - image: "/v1559545863/Sandrine.jpg"
     name: Sandrine Maximillien
     link: https://www.linkedin.com/in/sandrine-maximilien-2b141214/
+  - image: "/v1559545963/Rahul%20Goel.jpg"
+    name: Rahul Goel
+    link: https://www.linkedin.com/in/adrahul/
 
 ---
