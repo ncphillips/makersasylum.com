@@ -44,6 +44,7 @@ page_sections:
     image: "/v1559545250/Sudha%20Shukla.jpg"
   - name: Narender Sharma, Space Manager
     link: https://www.linkedin.com/in/narender-sharma-157a1097
+    image: "/v1559546719/Narender.jpg"
   - name: Nehal Sarangkar, Space Manager
     link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
     image: "/v1559545314/Nehal%20Sarangkar.jpg"
