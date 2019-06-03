@@ -30,6 +30,9 @@ page_sections:
     mess things up."
 - template: people
   people:
+  - image: "/v1559543751/Anool%20Mahidharia.jpg"
+    name: ''
+    link: https://www.linkedin.com/in/anool/
   - name: Vaibhav Chhabra, Founder
     link: https://www.linkedin.com/in/vaibhavchh/
     image: "/v1559542981/0.jpg"
