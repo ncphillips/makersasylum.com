@@ -39,6 +39,8 @@ page_sections:
   - image: "/v1559544567/Richa%20Shrivastava.jpg"
     link: https://www.linkedin.com/in/shrivastavaricha/
     name: Richa Shrivastava, Managing Partner
+  - name: Sudha Shukla
+    link: https://www.linkedin.com/in/sudha-shukla/
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
