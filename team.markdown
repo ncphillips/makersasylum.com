@@ -45,6 +45,8 @@ page_sections:
     link: https://www.linkedin.com/in/narender-sharma-157a1097
   - name: Nehal Sarangkar, Space Manager
     link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
+  - name: Shruti Shrivastava
+    link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
