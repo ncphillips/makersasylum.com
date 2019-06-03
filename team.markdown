@@ -50,6 +50,9 @@ page_sections:
   - name: Shruti Shrivastava
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: "/v1559545170/Shruti%20Shrivastava.jpg"
+  - image: "/v1559545394/Sunny%20pawar.jpg"
+    name: Sunny Pawar
+    link: https://www.linkedin.com/in/dotsunny/
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
