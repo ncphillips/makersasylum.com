@@ -48,6 +48,9 @@ page_sections:
   - name: Nehal Sarangkar
     link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545314/Nehal%20Sarangkar.jpg
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559563380/Ipsita%20Datta.jpg
+    name: Ipsita Datta
+    link: https://www.linkedin.com/in/ipsita-datta-4a281599/
   - name: Shruti Shrivastava
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545170/Shruti%20Shrivastava.jpg
