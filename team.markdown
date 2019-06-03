@@ -36,6 +36,9 @@ page_sections:
   - image: "/v1559543751/Anool%20Mahidharia.jpg"
     name: Anool Mahidharia
     link: https://www.linkedin.com/in/anool/
+  - image: "/v1559544567/Richa%20Shrivastava.jpg"
+    link: https://www.linkedin.com/in/shrivastavaricha/
+    name: Richa Shrivastava
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
