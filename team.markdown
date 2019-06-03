@@ -64,5 +64,8 @@ page_sections:
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
     image: "/v1559545546/Navi%20Radjou.jpg"
+  - image: "/v1559545631/Gaell%20Mainguy.jpg"
+    name: Gaell Mainguy
+    link: https://www.linkedin.com/in/gaellmainguy/
 
 ---
