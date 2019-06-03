@@ -34,11 +34,11 @@ page_sections:
     link: https://www.linkedin.com/in/vaibhavchh/
     image: "/v1559542981/0.jpg"
   - image: "/v1559543751/Anool%20Mahidharia.jpg"
-    name: Anool Mahidharia
+    name: Anool Mahidharia, Co-founder
     link: https://www.linkedin.com/in/anool/
   - image: "/v1559544567/Richa%20Shrivastava.jpg"
     link: https://www.linkedin.com/in/shrivastavaricha/
-    name: Richa Shrivastava
+    name: Richa Shrivastava, Managing Partner
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
