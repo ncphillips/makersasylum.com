@@ -54,10 +54,6 @@ page_sections:
   - image: "/v1559545394/Sunny%20pawar.jpg"
     name: Sunny Pawar, Communications
     link: https://www.linkedin.com/in/dotsunny/
-- template: members
-  members:
-  - _members/vaibhav-chhabra.markdown
-  - _members/anool-mahidharia.markdown
 - template: title
   title: Advisory Board
 - template: people
