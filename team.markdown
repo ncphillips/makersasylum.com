@@ -32,6 +32,7 @@ page_sections:
   people:
   - name: Vaibhav Chhabra, Founder
     link: https://www.linkedin.com/in/vaibhavchh/
+    image: "/v1559542981/0.jpg"
 - template: members
   members:
   - _members/vaibhav-chhabra.markdown
