@@ -69,5 +69,6 @@ page_sections:
     link: https://www.linkedin.com/in/gaellmainguy/
   - name: Carla Hjort
     link: " https://www.linkedin.com/in/artrebels/ "
+    image: "/v1559545788/Carla.jpg"
 
 ---
