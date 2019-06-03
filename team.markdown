@@ -70,5 +70,8 @@ page_sections:
   - name: Carla Hjort
     link: " https://www.linkedin.com/in/artrebels/ "
     image: "/v1559545788/Carla.jpg"
+  - image: "/v1559545863/Sandrine.jpg"
+    name: Sandrine Maximillien
+    link: https://www.linkedin.com/in/sandrine-maximilien-2b141214/
 
 ---
