@@ -1,7 +1,7 @@
 ---
 title: Post-Apocalyptic School
 description: 'A 5-day drill to prepare for an apocalypse '
-image: "/v1557678765/Post%20AS%20Banner.png"
+image: "https://res.cloudinary.com/makers-asylum/image/upload/v1557678765/Post%20AS%20Banner.png"
 page_sections:
 - template: banner
   image: "/uploads/Post Apocalyptic school-2.PNG"

@@ -66,3 +66,5 @@ plugins:
 sass:
   sass_dir: styles/
   style: compressed
+cloudinary_url: https://res.cloudinary.com/makers-asylum/image/upload
+cloudinary_fetch_url: https://res.cloudinary.com/makers-asylum/image/fetch/

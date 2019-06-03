@@ -6,7 +6,7 @@ image: "/uploads/Summer Camp Robotics and AI.png"
 page_sections:
 - template: images
   images:
-  - image: "/v1558448898/Summer%20School%20Banner-2.png"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/v1558448898/Summer%20School%20Banner-2.png"
     title: 'Summer Program: Advanced Robotics and AI'
 - template: title
   title: Summer School

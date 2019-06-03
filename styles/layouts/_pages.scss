@@ -163,10 +163,6 @@
   }
 }
 
-.team img {
-  max-width: 300px;
-}
-
 @include media-breakpoint-down(xs) {
   .team-member h3,
   .team-member h4 {
