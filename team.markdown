@@ -30,11 +30,11 @@ page_sections:
     mess things up."
 - template: people
   people:
-  - name: Vaibhav Chhabra, Founder
+  - name: Vaibhav Chhabra
     link: https://www.linkedin.com/in/vaibhavchh/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559542981/0.jpg
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559543751/Anool%20Mahidharia.jpg
-    name: Anool Mahidharia, Co-founder
+    name: Anool Mahidharia
     link: https://www.linkedin.com/in/anool/
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559544567/Richa%20Shrivastava.jpg
     link: https://www.linkedin.com/in/shrivastavaricha/
