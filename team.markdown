@@ -67,5 +67,7 @@ page_sections:
   - image: "/v1559545631/Gaell%20Mainguy.jpg"
     name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
+  - name: Carla Hjort
+    link: " https://www.linkedin.com/in/artrebels/ "
 
 ---
