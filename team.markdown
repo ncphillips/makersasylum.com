@@ -76,5 +76,8 @@ page_sections:
   - image: "/v1559545963/Rahul%20Goel.jpg"
     name: Rahul Goel
     link: https://www.linkedin.com/in/adrahul/
+  - image: "/v1559546032/Nirav%20Khambathi.jpg"
+    name: Nirav Khambhati
+    link: https://www.linkedin.com/in/niravkhambhati/
 
 ---
