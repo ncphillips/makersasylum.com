@@ -47,7 +47,7 @@ page_sections:
   - name: Nehal Sarangkar, Space Manager
     link: https://www.linkedin.com/in/nehal-sarangkar-37230a114/
     image: "/v1559545314/Nehal%20Sarangkar.jpg"
-  - name: Shruti Shrivastava
+  - name: Shruti Shrivastava, Freelance Graphics Designer
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: "/v1559545170/Shruti%20Shrivastava.jpg"
   - image: "/v1559545394/Sunny%20pawar.jpg"
