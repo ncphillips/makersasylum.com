@@ -7,6 +7,8 @@ page_sections:
   image: "/uploads/Post Apocalyptic school-2.PNG"
 - template: title
   title: Post Apocalyptic School
+- template: title
+  title: Survival 101
 - template: body-copy
   content: "A group of ET’s from a distant galaxy have had an eye on Maker’s Asylum
     for a while. In their quest to take over this planet and its resources they have
@@ -22,8 +24,6 @@ page_sections:
     all living beings and look after your’s and their survival using the new skills
     you learn and resources to maneuver through Maker’s Asylum to your extraction
     point."
-- template: title
-  title: Survival 101
 - template: buckets
   buckets:
   - title: Communication
@@ -64,7 +64,7 @@ page_sections:
   - title: Survival Camp 1
     description: 10th June - 14th June
     fees:
-    - amount: '9500'
+    - amount: "9500"
       name: 3:00pm - 7:00pm
     button:
       title: ''
@@ -73,7 +73,7 @@ page_sections:
     description: To be announced soon
     fees:
     - name: 3:00 pm - 7:00 pm
-      amount: '9500'
+      amount: "9500"
     button:
       title: ''
       link: ''
