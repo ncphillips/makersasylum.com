@@ -9,7 +9,7 @@ page_sections:
   title: Post Apocalyptic School
 - template: body-copy
   content: A 4-day long workshop focused on building essential skills to survive an
-    apocalypse
+    apocalypse. You are always never prepared for something.
 - template: title
   title: Survival 101
 - template: body-copy
