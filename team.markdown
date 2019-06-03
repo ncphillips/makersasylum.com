@@ -29,28 +29,6 @@ page_sections:
   content: "> Individuals can and do make a difference, but it takes a team to really
     mess things up."
 - template: title
-  title: Advisory Board
-- template: people
-  people:
-  - name: Navi Radjou
-    link: https://www.linkedin.com/in/naviradjou/
-    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545546/Navi%20Radjou.jpg
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559546032/Nirav%20Khambathi.jpg
-    name: Nirav Khambhati
-    link: https://www.linkedin.com/in/niravkhambhati/
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545631/Gaell%20Mainguy.jpg
-    name: Gaell Mainguy
-    link: https://www.linkedin.com/in/gaellmainguy/
-  - name: Carla Hjort
-    link: https://www.linkedin.com/in/artrebels/
-    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545788/Carla.jpg
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559560966/Sandrine%20M.jpg
-    name: Sandrine Maximillien
-    link: https://www.linkedin.com/in/sandrine-maximilien-2b141214/
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545963/Rahul%20Goel.jpg
-    name: Rahul Goel
-    link: https://www.linkedin.com/in/adrahul/
-- template: title
   title: Team
 - template: people
   people:
@@ -78,5 +56,27 @@ page_sections:
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545394/Sunny%20pawar.jpg
     name: Sunny Pawar
     link: https://www.linkedin.com/in/dotsunny/
+- template: title
+  title: Advisory Board
+- template: people
+  people:
+  - name: Navi Radjou
+    link: https://www.linkedin.com/in/naviradjou/
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545546/Navi%20Radjou.jpg
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559546032/Nirav%20Khambathi.jpg
+    name: Nirav Khambhati
+    link: https://www.linkedin.com/in/niravkhambhati/
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545631/Gaell%20Mainguy.jpg
+    name: Gaell Mainguy
+    link: https://www.linkedin.com/in/gaellmainguy/
+  - name: Carla Hjort
+    link: https://www.linkedin.com/in/artrebels/
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545788/Carla.jpg
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559560966/Sandrine%20M.jpg
+    name: Sandrine Maximillien
+    link: https://www.linkedin.com/in/sandrine-maximilien-2b141214/
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545963/Rahul%20Goel.jpg
+    name: Rahul Goel
+    link: https://www.linkedin.com/in/adrahul/
 
 ---
