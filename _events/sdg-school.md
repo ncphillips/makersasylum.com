@@ -233,6 +233,9 @@ page_sections:
 - template: partners
   partners:
   - name: ''
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559643478/Amb%20Logo%20INDE.png
+    link: https://in.ambafrance.org
+  - name: ''
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559197397/The%20Red%20Pen%20logo.png
     link: https://theredpen.in
   - name: ''
