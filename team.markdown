@@ -30,6 +30,9 @@ page_sections:
     mess things up.
 - template: people
   people:
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559651997/Akshay%20Dolas.jpg
+    name: Akshay Dolas
+    link: https://www.linkedin.com/in/akshaydolas/detail/photo/
   - name: Vaibhav Chhabra
     link: https://www.linkedin.com/in/vaibhavchh/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559542981/0.jpg
