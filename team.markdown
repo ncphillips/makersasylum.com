@@ -30,9 +30,6 @@ page_sections:
     mess things up.
 - template: people
   people:
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559652085/Akshat%20Kedia.jpg
-    name: Akshat Kedia
-    link: https://www.linkedin.com/in/kediaakshat/
   - name: Vaibhav Chhabra
     link: https://www.linkedin.com/in/vaibhavchh/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559542981/0.jpg
@@ -63,6 +60,9 @@ page_sections:
   - name: Shruti Shrivastava
     link: https://www.linkedin.com/in/shruti-shrivastava-7b332b118/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545170/Shruti%20Shrivastava.jpg
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559652085/Akshat%20Kedia.jpg
+    name: Akshat Kedia
+    link: https://www.linkedin.com/in/kediaakshat/
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545394/Sunny%20pawar.jpg
     name: Sunny Pawar
     link: https://www.linkedin.com/in/dotsunny/
