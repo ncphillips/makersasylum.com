@@ -19,6 +19,11 @@ menu_items:
 - title: Learn
   children:
   - template: submenu
+    title: Certification courses
+    menu_items:
+    - template: internal-link
+      page: _labs/woodworking.markdown
+  - template: submenu
     menu_items:
     - template: internal-link
       page: _events/summer-program-in-advanced-robotics-and-ai.md
@@ -27,11 +32,6 @@ menu_items:
     - template: internal-link
       page: _events/stitch.md
     title: Workshops
-  - template: submenu
-    title: Certification courses
-    menu_items:
-    - template: internal-link
-      page: _labs/woodworking.markdown
   - template: submenu
     title: Experiential Programs
     menu_items:
