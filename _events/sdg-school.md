@@ -232,6 +232,8 @@ page_sections:
   content: "## Outreach Partners"
 - template: partners
   partners:
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559643549/Institut%20Fran%C3%A7ais_INDIA2.png
+    link: http://www.ifindia.in
   - name: ''
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559643478/Amb%20Logo%20INDE.png
     link: https://in.ambafrance.org
