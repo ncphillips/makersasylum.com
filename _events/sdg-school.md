@@ -232,10 +232,10 @@ page_sections:
   content: "## Outreach Partners"
 - template: partners
   partners:
-  - name: The Red Pen
+  - name: ''
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559197397/The%20Red%20Pen%20logo.png
     link: https://theredpen.in
-  - name: hundrED
+  - name: ''
     image: "/uploads/HundrED_logo_rgb.png"
     link: https://hundred.org/en
   - name: AIESEC
