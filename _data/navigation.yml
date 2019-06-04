@@ -26,7 +26,7 @@ menu_items:
       page: _events/post-apocalyptic-school.md
     - template: internal-link
       page: _events/stitch.md
-    title: Explore
+    title: Workshops
   - template: submenu
     title: Certification courses
     menu_items:
