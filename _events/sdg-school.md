@@ -218,8 +218,6 @@ page_sections:
     text: I'll host !!
 - template: title
   title: Presented by
-- template: body-copy
-  content: "## Presented by"
 - template: partners
   partners:
   - name: ''
