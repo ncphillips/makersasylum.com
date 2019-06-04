@@ -252,9 +252,6 @@ page_sections:
     name: ''
 - template: partners
   partners:
-  - name: Institut Mines-Télécom
-    image: https://res.cloudinary.com/makers-asylum/image/upload/v1558786876/IMT.jpg
-    link: https://www.imt.fr/en/
   - name: ''
     image: "/uploads/logo-csi.png"
     link: http://www.cite-sciences.fr/en/home/
