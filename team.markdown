@@ -30,9 +30,6 @@ page_sections:
     mess things up.
 - template: people
   people:
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559652205/Nitin%20Porwal.jpg
-    name: Nitin Porwal
-    link: https://www.linkedin.com/in/nitin-porwal-22015a55/
   - name: Vaibhav Chhabra
     link: https://www.linkedin.com/in/vaibhavchh/
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559542981/0.jpg
@@ -66,6 +63,9 @@ page_sections:
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559652085/Akshat%20Kedia.jpg
     name: Akshat Kedia
     link: https://www.linkedin.com/in/kediaakshat/
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559652205/Nitin%20Porwal.jpg
+    name: Nitin Porwal
+    link: https://www.linkedin.com/in/nitin-porwal-22015a55/
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559545394/Sunny%20pawar.jpg
     name: Sunny Pawar
     link: https://www.linkedin.com/in/dotsunny/
