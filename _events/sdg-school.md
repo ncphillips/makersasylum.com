@@ -217,7 +217,7 @@ page_sections:
   - link: https://airtable.com/shr1gtVvS3Z5FzFts
     text: I'll host !!
 - template: title
-  title: Partners
+  title: Presented by
 - template: body-copy
   content: "## Presented by"
 - template: partners
