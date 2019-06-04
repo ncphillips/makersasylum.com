@@ -250,6 +250,7 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: ''
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1558786876/IMT.jpg
 - template: partners
   partners:
   - name: ''
