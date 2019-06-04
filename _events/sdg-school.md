@@ -228,8 +228,8 @@ page_sections:
   - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: ''
-- template: body-copy
-  content: "## Outreach Partners"
+- template: title
+  title: Partners
 - template: partners
   partners:
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559643549/Institut%20Fran%C3%A7ais_INDIA2.png
@@ -252,8 +252,6 @@ page_sections:
   - image: "/uploads/Resolution Logo (2).png"
     link: https://www.resolutionproject.org/
     name: ''
-- template: body-copy
-  content: "## Knowledge Partners"
 - template: partners
   partners:
   - name: Institut Mines-Télécom
@@ -268,8 +266,6 @@ page_sections:
   - name: ''
     image: "/uploads/CFLogo.jpg"
     link: https://www.campusfrance.org/en
-- template: body-copy
-  content: "## Post Program Incubation Partners"
 - template: partners
   partners:
   - image: "/uploads/RIIDL.png"
@@ -278,8 +274,6 @@ page_sections:
   - name: ''
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
-- template: title
-  title: Partners
 menu:
   header:
     weight: 1
