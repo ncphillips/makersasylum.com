@@ -238,7 +238,7 @@ page_sections:
   - name: ''
     image: "/uploads/HundrED_logo_rgb.png"
     link: https://hundred.org/en
-  - name: AIESEC
+  - name: ''
     image: "/uploads/aiesec.png"
     link: https://aiesec.org
   - name: ''
