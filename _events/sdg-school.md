@@ -37,7 +37,7 @@ page_sections:
   title: Program details
 - template: images
   images:
-  - image: "https://res.cloudinary.com/makers-asylum/image/upload/v1558526814/Program%20graph.jpg"
+  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1558526814/Program%20graph.jpg
 - template: body-copy
   content: |-
     The **SDG School** program consists of two modules (STEAM and IMPACT) which will be conducted within a time frame of 4 weeks at [Cité des Sciences](http://www.cite-sciences.fr/fr/accueil/) and [CRI, Paris](https://cri-paris.org). The components of each module are as follows:
@@ -229,11 +229,30 @@ page_sections:
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: ''
 - template: body-copy
+  content: "## Outreach Partners"
+- template: partners
+  partners:
+  - name: The Red Pen
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1559197397/The%20Red%20Pen%20logo.png
+    link: https://theredpen.in
+  - name: hundrED
+    image: "/uploads/HundrED_logo_rgb.png"
+    link: https://hundred.org/en
+  - name: AIESEC
+    image: "/uploads/aiesec.png"
+    link: https://aiesec.org
+  - name: ''
+    image: "/uploads/homegrown-logo.jpg"
+    link: https://homegrown.co.in
+  - image: "/uploads/Resolution Logo (2).png"
+    link: https://www.resolutionproject.org/
+    name: ''
+- template: body-copy
   content: "## Knowledge Partners"
 - template: partners
   partners:
   - name: Institut Mines-Télécom
-    image: "https://res.cloudinary.com/makers-asylum/image/upload/v1558786876/IMT.jpg"
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1558786876/IMT.jpg
     link: https://www.imt.fr/en/
   - name: ''
     image: "/uploads/logo-csi.png"
@@ -254,25 +273,6 @@ page_sections:
   - name: ''
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
-- template: body-copy
-  content: "## Outreach Partners"
-- template: partners
-  partners:
-  - name: The Red Pen
-    image: "https://res.cloudinary.com/makers-asylum/image/upload/v1559197397/The%20Red%20Pen%20logo.png"
-    link: https://theredpen.in
-  - name: ''
-    image: "/uploads/HundrED_logo_rgb.png"
-    link: https://hundred.org/en
-  - name: ''
-    image: "/uploads/aiesec.png"
-    link: https://aiesec.org
-  - name: ''
-    image: "/uploads/homegrown-logo.jpg"
-    link: https://homegrown.co.in
-  - image: "/uploads/Resolution Logo (2).png"
-    link: https://www.resolutionproject.org/
-    name: ''
 menu:
   header:
     weight: 1
