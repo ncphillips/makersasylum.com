@@ -278,6 +278,8 @@ page_sections:
   - name: ''
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
+- template: title
+  title: Partners
 menu:
   header:
     weight: 1
