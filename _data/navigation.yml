@@ -20,9 +20,7 @@ menu_items:
   children:
   - template: submenu
     title: Certification courses
-    menu_items:
-    - template: internal-link
-      page: _labs/woodworking.markdown
+    menu_items: []
   - template: submenu
     menu_items:
     - template: internal-link
