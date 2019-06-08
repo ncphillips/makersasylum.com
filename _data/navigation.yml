@@ -60,16 +60,6 @@ menu_items:
     url: https://discuss.makersasylum.com/
   internal_link: ''
   external_link: ''
-- title: Events
-  children:
-  - template: external-link
-    title: Mumbai
-    url: https://www.facebook.com/pg/makersasylum/events/
-  - template: external-link
-    title: Delhi
-    url: https://www.facebook.com/pg/makersasylumdelhi/events/
-  internal_link: ''
-  external_link: ''
 - title: Jobs
   internal_link: jobs.md
   external_link: ''
