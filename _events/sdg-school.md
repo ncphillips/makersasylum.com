@@ -262,7 +262,6 @@ page_sections:
   - name: ''
     image: "/uploads/CFLogo.jpg"
     link: https://www.campusfrance.org/en
-  - image: https://res.cloudinary.com/makers-asylum/image/upload/v1559645528/RIIDL.png
 - template: partners
   partners:
   - image: "/uploads/RIIDL.png"
