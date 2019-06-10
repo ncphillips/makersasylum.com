@@ -271,6 +271,9 @@ page_sections:
   - name: ''
     image: "/uploads/logo_2018_horizontal.png"
     link: https://www.seeedstudio.com/
+  - name: ''
+    image: "/uploads/Dassault Systemes.png"
+    link: https://www.3ds.com/
 menu:
   header:
     weight: 1
