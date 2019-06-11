@@ -3,12 +3,12 @@ date: '2019-03-14T00:35:35.000+00:00'
 redirect_from:
 - "/sdg-school/"
 title: SDG School
-image: "/uploads/SDG SChool-2-1.png"
+image: "https://res.cloudinary.com/makers-asylum/image/upload/SDG_SChool-2-1_mripfb.png"
 description: One month long project based program in Paris, France
 layout: event
 page_sections:
 - template: banner
-  image: "/uploads/SDG SChool-2.png"
+  image: "https://res.cloudinary.com/makers-asylum/image/upload/SDG_SChool-2_t56mnx.png"
 - template: alert
   message: "**Deadline extended: Last day of submitting your application 15th June
     2019**"
@@ -32,7 +32,7 @@ page_sections:
     energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
-  - image: "/uploads/SDG PNG.001.jpeg"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/SDG_PNG.001_twon6z.jpeg"
 - template: title
   title: Program details
 - template: images
@@ -77,7 +77,7 @@ page_sections:
 - template: file-download
   button_text: STEAM School 2018 Report
   has_form: false
-  file: "/uploads/SS18 Report-1.pdf"
+  file: "https://res.cloudinary.com/makers-asylum/image/upload/SS18_Report-1_ix3lsm.pdf"
 - template: title
   title: Program Fee
 - template: buckets
@@ -112,50 +112,50 @@ page_sections:
   people:
   - name: Ashley Fernandes
     link: https://www.linkedin.com/in/ashleyfernandes/
-    image: "/uploads/ashley.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/ashley_tg2ngv.jpg"
   - name: Mathilde Mallet
     link: https://www.linkedin.com/in/mathilde-mallet-b957553a/
-    image: "/uploads/mathilde-mallet.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/mathilde-mallet_okpaij.jpg"
   - name: Francois Taddei
     link: https://www.linkedin.com/in/francois-taddei-3696b919/
-    image: "/uploads/francois-taddei.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/francois-taddei_oqrywu.jpg"
   - name: Navi Radjou
     link: https://www.linkedin.com/in/naviradjou/
-    image: "/uploads/NAVI RAJDOU.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/NAVI_RAJDOU_wrp3uj.jpeg"
   - name: Sherry Lassiter
     link: https://www.linkedin.com/in/sherry-lassiter-29b34110/
-    image: "/uploads/0-12.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-12_vhg0kx.jpeg"
   - name: Eric Falt
     link: https://www.linkedin.com/in/eric-falt-8185ba18/
-    image: "/uploads/0-11.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-11_efnqcm.jpeg"
 - template: title
   title: Mentors
 - template: people
   people:
   - name: Tudor Tarlev
     link: https://www.linkedin.com/in/tudortarlev/
-    image: "/uploads/0-9.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-9_zsxuis.jpeg"
   - name: Claire Eliot
     link: https://www.linkedin.com/in/claire-eliot-62777455/
-    image: "/uploads/0-10.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-10_ztokud.jpeg"
   - name: Gaell Mainguy
     link: https://www.linkedin.com/in/gaellmainguy/
-    image: "/uploads/0-5.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-5_uglaep.jpeg"
   - name: Sophie Pène
     link: https://www.linkedin.com/in/sophiep/
-    image: "/uploads/Sophie Pène.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/Sophie_Pène_tjf7zb.jpg"
   - name: 'Pierre Ricono '
     link: https://www.linkedin.com/in/pierre-ricono-51b0b38/
-    image: "/uploads/0-2.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-2_iedoef.jpeg"
   - name: Léonor Tourneboeuf
     link: https://www.linkedin.com/in/l%C3%A9onor-tourneboeuf-4ba76a6a/
-    image: "/uploads/0-6.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-6_cnk8pq.jpeg"
   - link: https://www.linkedin.com/in/shrivastavaricha/
     name: Richa Shrivastava
-    image: "/uploads/0-8.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-8_upm2vd.jpeg"
   - name: Vaibhav Chhabra
     link: https://www.linkedin.com/in/vaibhavchh/
-    image: "/uploads/0-7.jpeg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/0-7_pejyak.jpeg"
 - template: title
   title: Key dates
 - template: body-copy
@@ -221,9 +221,9 @@ page_sections:
 - template: partners
   partners:
   - name: ''
-    image: "/uploads/MA Standard - Color-1.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/MA_Standard_-_Color-1_jito87.png"
     link: https://www.makersasylum.com
-  - image: "/uploads/CRI_FRUITFUL_FUTURE-1.png"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/CRI_FRUITFUL_FUTURE-1_bmeryp.png"
     link: https://www.linkedin.com/school/centre-de-recherches-interdisciplinaires/
     name: ''
 - template: title
@@ -239,39 +239,39 @@ page_sections:
     image: https://res.cloudinary.com/makers-asylum/image/upload/v1559197397/The%20Red%20Pen%20logo.png
     link: https://theredpen.in
   - name: ''
-    image: "/uploads/HundrED_logo_rgb.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/HundrED_logo_rgb_lfy7of.png"
     link: https://hundred.org/en
   - name: ''
-    image: "/uploads/aiesec.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/aiesec_rktjlb.png"
     link: https://aiesec.org
   - name: ''
-    image: "/uploads/homegrown-logo.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/homegrown-logo_dvcj4f.jpg"
     link: https://homegrown.co.in
-  - image: "/uploads/Resolution Logo (2).png"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/Resolution_Logo_2_zcyyrw.png"
     link: https://www.resolutionproject.org/
     name: ''
   - image: https://res.cloudinary.com/makers-asylum/image/upload/v1558786876/IMT.jpg
 - template: partners
   partners:
   - name: ''
-    image: "/uploads/logo-csi.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/logo-csi_g8zzbz.png"
     link: http://www.cite-sciences.fr/en/home/
   - name: ''
-    image: "/uploads/office_new_dehi_cluster_en_support.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/office_new_dehi_cluster_en_support_fqvpy7.png"
     link: http://www.unesco.org/new/en/newdelhi/home
   - name: ''
-    image: "/uploads/CFLogo.jpg"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/CFLogo_poy33k.jpg"
     link: https://www.campusfrance.org/en
 - template: partners
   partners:
-  - image: "/uploads/RIIDL.png"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/RIIDL_u3jb2n.png"
     link: https://riidl.org/
     name: ''
   - name: ''
-    image: "/uploads/logo_2018_horizontal.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/logo_2018_horizontal_jy1rvt.png"
     link: https://www.seeedstudio.com/
   - name: ''
-    image: "/uploads/Dassault Systemes.png"
+    image: "https://res.cloudinary.com/makers-asylum/image/upload/Dassault_Systemes_xd8nfq.png"
     link: https://www.3ds.com/
 menu:
   header:

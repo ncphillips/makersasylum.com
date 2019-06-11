@@ -1,10 +1,10 @@
 ---
 title: Workshop for Executives
 description: A fun way of learning new things with your work colleague
-image: "/uploads/banner corp.png"
+image: "/uploads/banner corp.jpg"
 page_sections:
 - template: banner
-  image: "/uploads/banner corp.png"
+  image: "/uploads/banner corp.jpg"
 - template: title
   title: Workshop for Corporate Organisations
 - template: body-copy
