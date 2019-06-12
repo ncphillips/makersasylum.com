@@ -32,7 +32,7 @@ page_sections:
     energy, production, consumption, climate change and strategic partnerships
 - template: images
   images:
-  - image: "https://res.cloudinary.com/makers-asylum/image/upload/SDG_PNG.001_twon6z.jpeg"
+  - image: "https://res.cloudinary.com/makers-asylum/image/upload/v1560332557/UNSDG.jpg"
 - template: title
   title: Program details
 - template: images
@@ -273,6 +273,9 @@ page_sections:
   - name: ''
     image: "https://res.cloudinary.com/makers-asylum/image/upload/Dassault_Systemes_xd8nfq.png"
     link: https://www.3ds.com/
+  - name:
+    image: https://res.cloudinary.com/makers-asylum/image/upload/v1560332427/ShaperBlack.png
+    link: https://www.shapertools.com
 menu:
   header:
     weight: 1
