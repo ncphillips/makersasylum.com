@@ -262,11 +262,11 @@ page_sections:
   - name: ''
     image: "https://res.cloudinary.com/makers-asylum/image/upload/CFLogo_poy33k.jpg"
     link: https://www.campusfrance.org/en
-- template: partners
-  partners:
   - image: "https://res.cloudinary.com/makers-asylum/image/upload/RIIDL_u3jb2n.png"
     link: https://riidl.org/
     name: ''
+- template: partners
+  partners:
   - name: ''
     image: "https://res.cloudinary.com/makers-asylum/image/upload/logo_2018_horizontal_jy1rvt.png"
     link: https://www.seeedstudio.com/
