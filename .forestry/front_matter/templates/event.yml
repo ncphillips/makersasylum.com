@@ -1,6 +1,7 @@
 ---
 label: Event
 hide_body: true
+display_field: title
 fields:
 - type: include
   name: seo
