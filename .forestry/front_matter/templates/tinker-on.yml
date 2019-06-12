@@ -23,9 +23,9 @@ fields:
   hidden: false
   default: ''
 pages:
-- _press/international-women-s-day-stem-education.md
-- _press/the-six-principles-of-frugal-innovation-and-why-india-can-be-a-trendsetting-practitioner-and-thought-leader-in-this-space.md
-- _press/Making-in-India.md
-- _press/club-young-leaders-india-france-2018.md
-- _press/apply-now-sustainability-summer-program-in-paris-invites-young-leaders-from-around-the-world.md
 - about-us.md
+- _press/apply-now-sustainability-summer-program-in-paris-invites-young-leaders-from-around-the-world.md
+- _press/club-young-leaders-india-france-2018.md
+- _press/Making-in-India.md
+- _press/the-six-principles-of-frugal-innovation-and-why-india-can-be-a-trendsetting-practitioner-and-thought-leader-in-this-space.md
+- _press/international-women-s-day-stem-education.md
